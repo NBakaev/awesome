@@ -25,6 +25,7 @@
  - [Как считать LTV (Lifetime Value) - базово](http://blog.cubeline.ru/posts/kak-schitat-ltv-lifetime-value.html)
  - [Life Time Value – что это такое и какой метод подсчета LTV выбрать? , megamozg.ru](http://megamozg.ru/company/appodeal/blog/19752/)
  - [Точки над “е”: как отличить «единорога» от «осла»](http://megamozg.ru/post/22580/)
+ - [EBITDA](https://ru.m.wikipedia.org/wiki/EBITDA)
 
 ### target.my.com
  - [ https://target.my.com]( https://target.my.com)
