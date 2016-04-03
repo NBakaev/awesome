@@ -1,0 +1,49 @@
+# MongoDB - NoSQL база данных
+ - [Setting up sharded mongodb cluster in localhost](http://www.javacodegeeks.com/2015/02/setting-up-sharded-mongodb-cluster-in-localhost.html)
+ - [Using MongoDB with Hadoop & Spark: Part 1 - Introduction & Setup](https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup)
+ - [Using MongoDB with Hadoop & Spark: Part 2 - Hive Example](https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-2-hive-example)
+ - [Creating a Single View Part 3: Data Design and Loading Strategies](https://www.mongodb.com/blog/post/creating-single-view-part-3-data-design-and-loading-strategies)
+ - [Weather of the Century: Part 4 - cool](https://www.mongodb.com/blog/post/weather-century-part-4)
+
+ - [Leaf in the Wild: Square Enix Scales TOMB RAIDER, HITMAN ABSOLUTION, DEUS EX & more on MongoDB](https://www.mongodb.com/blog/post/leaf-in-the-wild-square-enix-scales-tomb-raider-hitman-absolution-deus-ex-and-more-on-mongodb)
+ - [](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb)
+ - [](https://www.mongodb.com/presentations/mongodb-time-series-data-part-2-analyzing-time-series-data-using-aggregation-framework)
+ - [](https://www.mongodb.com/presentations/mongodb-time-series-data-part-3-sharding)
+
+ - [](http://3t.io/blog/mongodb-aggregation-queries-easily-mongochef/)
+ - [MongoDB on AWS Guidelines and Best Practices ](http://d0.awsstatic.com/whitepapers/AWS_NoSQL_MongoDB.pdf)
+ - [On Selecting a Shard Key for MongoDB](https://www.mongodb.com/blog/post/on-selecting-a-shard-key-for-mongodb)
+
+ - [Шпаргалка по mongodb: e-commerce, миграция, часто применяемые операции и немного о транзакциях, habr](http://habrahabr.ru/post/259219/)
+ - [Примеры использования MongoDB в e-commerce (часть 2), habr](http://habrahabr.ru/post/260291/)
+ - [MongoDB: Запросы, habr](http://habrahabr.ru/post/134590/)
+ - [Map-Reduce на примере MongoDB](http://habrahabr.ru/post/184130/)
+
+ - [install-mongodb-on-ubuntu](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/)
+ - [Configuration File Options](http://docs.mongodb.org/manual/reference/configuration-options/#dbpath)
+ - [Mongo Db x509 auth](http://docs.mongodb.org/manual/tutorial/configure-x509-client-authentication/#x509-client-authentication)
+ - [mongoose](https://github.com/Automattic/mongoose)
+ - [Почему не все так просто с MongoDB](http://habrahabr.ru/post/265747/)
+ - [Spring data mongodb reference](http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/)
+ - [MongoDB: Advanced Administration, Monitoring and Backup, airpair](https://www.airpair.com/mongodb/posts/mongodb-advanced-administration-mon-and-backup)
+ - [Scaling MongoDB at Mailbox, dropbox](https://blogs.dropbox.com/tech/2013/09/scaling-mongodb-at-mailbox/)
+ - [Call me maybe: MongoDB stale reads](https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads)
+ - [Переходим от MongoDB Full Text к ElasticSearch](http://habrahabr.ru/company/likeastore/blog/223109/)
+
+ - [Embedded MongoDB, java](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo)
+
+ - [Как работает реляционная БД](http://habrahabr.ru/company/mailru/blog/266811/)
+ - [aerospike - аналог и лучше Redis](https://github.com/aerospike/aerospike-server)
+
+## Code snippets
+
+### Drop all mongodb indexes in shell
+```js
+db.getCollectionNames().forEach(function(collName) {
+  db.runCommand({dropIndexes: collName, index: "*"});
+});
+```
+
+```bash
+    mongod --dbpath "/home/mongodb/data" --storageEngine wiredTiger --config "/home/mongodb/mongodb.conf" --logpath "/home/mongodb/logs/main.log" --fork --bind_ip 0.0.0.0
+```
