@@ -1,20 +1,4 @@
-## Awesome
-  Коллекции современных и полезных утилит/программ/библиотек/фреймворков
-
-- [:star: Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [:star: sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- [Awesome Sysadmin, github](https://github.com/n1trux/awesome-sysadmin)
-- [Awesome browser-side JavaScript libraries, resources and shiny things.](https://github.com/sorrycc/awesome-javascript)
-- [Awesome Java frameworks, libraries and software.](https://github.com/akullpp/awesome-java)
-- [Awesome Docker](http://veggiemonk.github.io/awesome-docker/)
-- [Awesome free-for-dev, github](https://github.com/ripienaar/free-for-dev)
-- [A curated list of awesome Java frameworks, libraries and software.](https://github.com/akullpp/awesome-java)
-- [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
-- [Более 350 бесплатных инструментов для разработчиков](https://habrahabr.ru/company/it-grad/blog/270589/)
-- [:star: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
-- [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
-
-### Категории
+# Категории
  - [QA - тестирование ПО](https://github.com/NBakaev/awesome/blob/master/QA.md)
  - [Аналитика; Веб-аналитика](https://github.com/NBakaev/awesome/blob/master/analytic.md)
  - [Backend - серверная разработка ПО](https://github.com/NBakaev/awesome/blob/master/backend.md)
@@ -34,12 +18,28 @@
  - [Мобильная разработка](https://github.com/NBakaev/awesome/blob/master/mobile_desktop.md)   
  - [Workflow](https://github.com/NBakaev/awesome/blob/master/workflow.md)   
 
+## Awesome
+  Коллекции современных и полезных утилит/программ/библиотек/фреймворков
+
+- [:star: Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [:star: sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Sysadmin, github](https://github.com/n1trux/awesome-sysadmin)
+- [Awesome browser-side JavaScript libraries, resources and shiny things.](https://github.com/sorrycc/awesome-javascript)
+- [Awesome Java frameworks, libraries and software.](https://github.com/akullpp/awesome-java)
+- [Awesome Docker](http://veggiemonk.github.io/awesome-docker/)
+- [Awesome free-for-dev, github](https://github.com/ripienaar/free-for-dev)
+- [A curated list of awesome Java frameworks, libraries and software.](https://github.com/akullpp/awesome-java)
+- [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
+- [Более 350 бесплатных инструментов для разработчиков](https://habrahabr.ru/company/it-grad/blog/270589/)
+- [:star: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
+- [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
+
 ## Общее
  - [205 шпаргалок для разработчика, habr](http://habrahabr.ru/post/254585/)
  - [Обзор и видео докладов по информационной безопасности с конференции SECR-2014б habr](http://habrahabr.ru/post/263591/)  
  - [Confluence в жизни аналитика — Часть 1](http://analyst.by/rmt/confluence-v-zhizni-analitika-chast-1)
 
-### Git / Git flow 
+### Git / Git flow
  - [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
  - http://danielkummer.github.io/git-flow-cheatsheet/
  - https://github.com/nvie/gitflow
