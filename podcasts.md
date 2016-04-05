@@ -3,6 +3,7 @@
 ## GameDev
  - [#RadioFlazm](http://flazm.ru/)
  - [Мобильная разработка с AppTractor](http://apptractor-podcast.podster.fm/)
+ - [«КАК ДЕЛАЮТ ИГРЫ» - galyonkin.com](http://galyonkin.com/podcast/)
 
 ### Development
  - [Adventures in Angular](https://devchat.tv/adventures-in-angular)
