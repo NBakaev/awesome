@@ -9,6 +9,21 @@
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
 - [:star: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
 
+### Категории
+ - [QA - тестирование ПО](https://github.com/NBakaev/awesome/blob/master/QA.md)
+ - [Аналитика; Веб-аналитика](https://github.com/NBakaev/awesome/blob/master/analytic.md)
+ - [Backend - серверная разработка ПО](https://github.com/NBakaev/awesome/blob/master/backend.md)
+ - [CRM / ERP / Task management / Business soft](https://github.com/NBakaev/awesome/blob/master/crm_erp_business_soft.md)
+ - [Business Intelligence; Data Science](https://github.com/NBakaev/awesome/blob/master/data_processing_bi.md)
+ - [DevOPS - Docker, Clustering...](https://github.com/NBakaev/awesome/blob/master/devOPS.md)
+ - [Email маркетинг](https://github.com/NBakaev/awesome/blob/master/email.md)     
+ - [Frondend разработка / UI / UX](https://github.com/NBakaev/awesome/blob/master/frondend.md)     
+ - [Infrastructure](https://github.com/NBakaev/awesome/blob/master/infrastructure.md)     
+ - [MongoDB - NoSQL database](https://github.com/NBakaev/awesome/blob/master/mongoDB.md)     
+ - [Подкасты](https://github.com/NBakaev/awesome/blob/master/podcasts.md)     
+ - [Софт](https://github.com/NBakaev/awesome/blob/master/soft.md)   
+ - [Веб -сервера: Nginx; Load-balancing](https://github.com/NBakaev/awesome/blob/master/web_server.md)   
+
 ## Общее
  - [205 шпаргалок для разработчика, habr](http://habrahabr.ru/post/254585/)
  - [Обзор и видео докладов по информационной безопасности с конференции SECR-2014б habr](http://habrahabr.ru/post/263591/)  
