@@ -8,6 +8,14 @@
  - [Идеальное внедрение ERP или управляемый взрыв](http://habrahabr.ru/post/266513/)
  - [CRM: погружение под вершину айсберга, habr](http://habrahabr.ru/post/267637/)
 
+ - [АСУ: от печали до радости. История российской автоматизации](https://habrahabr.ru/company/iladaruli24/blog/273593/)
+ - [Электронный документооборот в предприятии](https://megamozg.ru/post/23150/)
+ - [Электронный документооборот. Реальный пример](https://megamozg.ru/post/23180/)
+ - [Безопасные двери, или продолжаем проектировать АСУ ТП](https://habrahabr.ru/post/275165/)
+
+ - [Проблемы разграничения доступа на основе списка доступа в ECM системах](https://habrahabr.ru/post/277111/)
+ - [Приложения в СЭД. Часть 3: Контекстно-ролевая модель документа, права и оптимальный интерфейс для работы с документами](https://habrahabr.ru/company/docsvision/blog/275871/)
+
 ## :star: Видео
 - [Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
 - [Основы Google Analytics и Google Tag Manager 2015. Все части - youtube](https://www.youtube.com/playlist?list=PLc3HbRI7hx8YlAtDXDHVILK8ru4Epsm61)
@@ -21,6 +29,7 @@
  - [Облако для компаний разработчиков: 1С в облаке, полное руководство](http://habrahabr.ru/company/microsoft/blog/268533/)
  - [Быстрая разработка отчетов на Java: дауншифтинг с «1С: Предприятие»](http://habrahabr.ru/post/269505/)
  - [1C:CRM.Описание](http://megamozg.ru/post/21294/)
+ - [Автоматизация легкого управления списками баз 1С](https://habrahabr.ru/post/278577/)
 
 ### CRM
  - [Что такое CRM-системы и как их правильно выбирать?, habr](http://habrahabr.ru/post/249633/)
@@ -30,6 +39,7 @@
  - [Описание системы AmoCRM](http://megamozg.ru/post/20190/)
  - [Описание CRM Мегаплан](http://megamozg.ru/post/22286/)
  - [Идеи Битрикс24](http://idea.1c-bitrix.ru/)
+ - [Знакомый незнакомец. What is Битрикс24?](https://habrahabr.ru/company/bitrix/blog/274165/)
 
 ### BPM/BPMN - Business Process Modelling
 - [Видео описание BPMS Bizagi](http://habrahabr.ru/post/260819/)

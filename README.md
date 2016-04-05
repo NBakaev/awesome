@@ -6,8 +6,11 @@
 - [Awesome Java frameworks, libraries and software.](https://github.com/akullpp/awesome-java)
 - [Awesome Docker](http://veggiemonk.github.io/awesome-docker/)
 - [Awesome free-for-dev, github](https://github.com/ripienaar/free-for-dev)
+- [A curated list of awesome Java frameworks, libraries and software.](https://github.com/akullpp/awesome-java)
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
+- [Более 350 бесплатных инструментов для разработчиков](https://habrahabr.ru/company/it-grad/blog/270589/)
 - [:star: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
+- [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
 
 ### Категории
  - [QA - тестирование ПО](https://github.com/NBakaev/awesome/blob/master/QA.md)
@@ -23,6 +26,11 @@
  - [Подкасты](https://github.com/NBakaev/awesome/blob/master/podcasts.md)     
  - [Софт](https://github.com/NBakaev/awesome/blob/master/soft.md)   
  - [Веб -сервера: Nginx; Load-balancing](https://github.com/NBakaev/awesome/blob/master/web_server.md)   
+ - [Marketing](https://github.com/NBakaev/awesome/blob/master/marketing.md)   
+ - [Business](https://github.com/NBakaev/awesome/blob/master/business.md)   
+ - [Сервисы, SaaS](https://github.com/NBakaev/awesome/blob/master/web_services.md)   
+ - [Мобильная разработка](https://github.com/NBakaev/awesome/blob/master/mobile_desktop.md)   
+ - [Workflow](https://github.com/NBakaev/awesome/blob/master/workflow.md)   
 
 ## Общее
  - [205 шпаргалок для разработчика, habr](http://habrahabr.ru/post/254585/)
@@ -35,6 +43,7 @@
  - https://github.com/nvie/gitflow
  - https://github.com/bobthecow/git-flow-completion
  - [19 Tips For Everyday Git Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+ - [19 советов по повседневной работе с Git](https://habrahabr.ru/company/mailru/blog/267595/)
 
 ### Media
 - [Geekbrains | Вебинары 2014-2015 PCRec H.264 Часть 1](https://nnm-club.me/forum/viewtopic.php?t=929895)

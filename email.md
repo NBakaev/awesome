@@ -29,6 +29,10 @@
  - [Вёрстка писем: 60 полезных ресурсов, руководств и исследований](http://habrahabr.ru/company/pechkin/blog/273677/)
  - [Гид по email рассылкам для e-commerce](https://megamozg.ru/company/sendpulse/blog/22570/)
 
+ - [Автоматизация email маркетинга](https://megamozg.ru/company/sendpulse/blog/23972/)
+ - [Как составлять email-автоответы: Анализ 100 заявок в службы поддержки ИТ-компаний](https://habrahabr.ru/company/pechkin/blog/277895/)
+ - [Email-маркетинг — плюсы использования SaaS решений](https://megamozg.ru/post/24868/)
+
 ## Technical / Providers
  - [mailgun.com - How To Start Sending Email](https://documentation.mailgun.com/quickstart-sending.html#send-via-smtp)
  - [Sending an Email Through Amazon SES Using AWS SDK for Java](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-java.html)

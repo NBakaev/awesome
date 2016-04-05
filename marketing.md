@@ -1,0 +1,26 @@
+
+### target.my.com
+ - [ https://target.my.com]( https://target.my.com)
+ - [Настройка ретаргетинга (ремаркетинга) в myTarget, Таргет Mail.Ru. Пошаговое руководство](http://www.shopolog.ru/metodichka/customer-retention/nastroyka-retargetinga-remarketinga-v-mytarget-target-mail-ru-poshagovoe-rukovodstvo/?utm_content=bufferb5f87)
+ - [Настройка ретаргетинга в сервисе myTarget , megamozg](http://megamozg.ru/post/11396/)
+
+### (ре)Таргетинг
+ - [6 сервисов по поиску баз для ретаргетинга, VK.com](https://vk.com/fave?w=page-50894811_48995931)
+ - [Segmento target — инструмент для SMM](segmento-target.ru)
+ - [Церебро Таргет - Сервис для поиска целевой аудитории ВКонтакте](https://vk.com/cerebro_vk)
+
+### UTM метки
+  - [UTM-метки: руководство по использованию в SMM, VK.com](https://vk.com/fave?w=page-80368614_48963026)
+  - [UTM метки — все, что вы хотели знать с примерами, spark.ru](http://spark.ru/startup/topvisor/blog/8715/utm-metki-vse-chto-vi-hoteli-znat-s-primerami)
+  - [Скажи мне свой UTM, и я скажу, кто ты, searchengines.ru ](http://www.searchengines.ru/articles/skazhi_mne_svoy.html)
+  - [The Complete Guide to UTM Codes, bufferapp.com](https://blog.bufferapp.com/utm-guide)
+
+### Контекстная реклама
+ - [Как быстро сделать кампанию Google AdWords из экспортного файла Яндекс.Директа. Пошаговое руководство](http://www.searchengines.ru/articles/kak_bystro_sdelati.html)
+ - [Операторы Яндекс Директ памятка](https://spark.ru/startup/yarate/blog/10553/operatori-yandeks-direkt-pamyatka)
+ - [Новости рынка контекстной рекламы за сентябрь 2015 г](http://www.searchengines.ru/articles/novosti_rynka_sen_2015.html)
+ - [Объявления динамического ремаркетинга AdWords стали более гибкими](http://www.searchengines.ru/news/archives/obyavleniya_din.html?utm_source=feedburner)
+ - [100 полезных скриптов для автоматизации работы в Google AdWords. Часть 1](http://www.searchengines.ru/articles/100_use_scripts_1.html)
+ - [100 полезных скриптов для автоматизации работы в Google AdWords. Часть 2](http://www.searchengines.ru/articles/100_use_scripts_2.html)
+
+ - [Системы автоматизации контекстной рекламы](http://marketing-wiki.ru/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)

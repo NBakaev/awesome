@@ -62,6 +62,8 @@
  - [Using Java 8 CompletableFuture and Rx-Java Observable](http://www.javacodegeeks.com/2015/08/using-java-8-completablefuture-and-rx-java-observable.html)
  - [Введение в RxJava, часть первая – Вступление: Ключевые типы](http://habrahabr.ru/post/270023/)
  - [Введение в RxJava: Жизненный цикл подписки](http://habrahabr.ru/post/270975/)
+ - [Parallel execution of blocking tasks with RxJava and Completable](https://www.javacodegeeks.com/2016/03/parallel-execution-blocking-tasks-rxjava-completable.html)
+ - [rxmarbles - Interactive diagrams of Rx Observables](http://rxmarbles.com/)
 
 ### Backend testing
  - [JUnit Test Suite Example](http://examples.javacodegeeks.com/core-java/junit/junit-test-suite-example)
@@ -74,6 +76,8 @@
  - [JUnit Exception Handling Example](http://examples.javacodegeeks.com/core-java/junit/junit-exception-handling-example)
  - [Testing Concurrent Applications](http://www.javacodegeeks.com/2015/09/testing-concurrent-applications.html)
  - [Writing Data Driven Tests for your Java Application](http://www.javacodegeeks.com/2015/08/writing-data-driven-tests-for-your-java-application.html)
+ - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
+ - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
 
 ## Java
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
@@ -99,6 +103,12 @@
  - [Деплой Java Spring приложения в PaaS-платформу Heroku за 14 минут](http://habrahabr.ru/post/265591/)
  - [RabbitMQ Spring tutorial , habr](http://habrahabr.ru/post/262069/)
  - [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
+
+### Java jaspers
+- [JasperReports® Library Open Source Java Reporting Library](http://community.jaspersoft.com/project/jasperreports-library/resources)
+- [JasperReports & iReport](http://www.quizful.net/post/jasperreports-and-ireports)
+- [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
+- [jaspersoft.com](http://community.jaspersoft.com/)
 
 ### Java - общее
  - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)

@@ -14,34 +14,31 @@
  - [Инструменты для аналитики и повышения конверсии: Рекомендации экспертов рунета](http://megamozg.ru/company/perezvoni/blog/14004/)
  - [Системы управления тегами. Сравнение Google Tag Manager, Adobe DTM и Qubit OpenTag](http://www.searchengines.ru/articles/sistemy_upravle.html)
  - [Какими системами аналитики пользуются топ-100 российских ecommerce-проектов](https://vc.ru/p/ecomm-analysis)
+ - [Когортный отчет в Google Analytics](https://www.ru.advertisercommunity.com/t5/Stati/Kogortnyy-otchet-v-Google-Analytics/ba-p/100113#)
+ - [Многоканальные последовательности (FAQ)](https://www.ru.advertisercommunity.com/t5/Stati/Mnogokanalnye-posledovatelnosti-FAQ/ba-p/105265)
+ - [Post-view отчет в Google Analytics](https://spark.ru/startup/adstein/blog/9381/post-view-otchet-v-google-analytics)
+ - [What Marketers Need to Know About Cohorts](https://blog.kissmetrics.com/what-marketers-need-to-know-about-cohorts/)
+ - [:star: 5 инструментов в помощь аналитику](https://habrahabr.ru/company/navicon/blog/258151/#first_unread)
+ - [Система подсчёта посетителей магазина: как Гугл.Аналитика, только на инфракрасных датчиках — и хитрая статистика, которую вы не видите](https://habrahabr.ru/company/mosigra/blog/270433/)
+ - [Использование Google Analytics в играх](https://habrahabr.ru/company/plarium/blog/273113/)
+ - [Умные цели в Google Analytics](https://www.ru.advertisercommunity.com/t5/Stati/Umnye-tseli-v-Google-Analytics/ba-p/116704#)
+
+ - [Аналитика видео на YouTube: YouTube Analytics, Google Analytics и Google Tag Manager](https://megamozg.ru/company/wargaming/blog/23892/)
+
+ - [Google Analytics для SMM. Что смотреть и как настроить?](https://spark.ru/startup/kuku/blog/13915/google-analytics-dlya-smm-chto-smotret-i-kak-nastroit)
+ - [Automatic + enhanced analytics.js tracking for common user interactions](https://github.com/googleanalytics/autotrack)
+
+ - [Какой сервис статистики стоит использовать для мобильной игры](https://vc.ru/p/problem-10293)
+ - [Какие сервисы аналитики вы используете в компании](https://vc.ru/p/problem-14616)
 
  - [:star: Google Analytics Academy](https://analyticsacademy.withgoogle.com/explorer)
  - [:star: Google Analytics Youtube](https://www.youtube.com/user/googleanalytics/playlists)
-
- - [Теперь я владелец интернет-магазина Часть 1](http://megamozg.ru/company/ringcloud/blog/14286/)
- - [Теперь я владелец интернет-магазина Часть 2](http://megamozg.ru/company/ringcloud/blog/14334/)
 
 #### Базовые вещи
  - [Как считать LTV (Lifetime Value) - базово](http://blog.cubeline.ru/posts/kak-schitat-ltv-lifetime-value.html)
  - [Life Time Value – что это такое и какой метод подсчета LTV выбрать? , megamozg.ru](http://megamozg.ru/company/appodeal/blog/19752/)
  - [Точки над “е”: как отличить «единорога» от «осла»](http://megamozg.ru/post/22580/)
  - [EBITDA](https://ru.m.wikipedia.org/wiki/EBITDA)
-
-### target.my.com
- - [ https://target.my.com]( https://target.my.com)
- - [Настройка ретаргетинга (ремаркетинга) в myTarget, Таргет Mail.Ru. Пошаговое руководство](http://www.shopolog.ru/metodichka/customer-retention/nastroyka-retargetinga-remarketinga-v-mytarget-target-mail-ru-poshagovoe-rukovodstvo/?utm_content=bufferb5f87)
- - [Настройка ретаргетинга в сервисе myTarget , megamozg](http://megamozg.ru/post/11396/)
-
-### (ре)Таргетинг
- - [6 сервисов по поиску баз для ретаргетинга, VK.com](https://vk.com/fave?w=page-50894811_48995931)
- - [Segmento target — инструмент для SMM](segmento-target.ru)
- - [Церебро Таргет - Сервис для поиска целевой аудитории ВКонтакте](https://vk.com/cerebro_vk)
-
-### UTM метки
-  - [UTM-метки: руководство по использованию в SMM, VK.com](https://vk.com/fave?w=page-80368614_48963026)
-  - [UTM метки — все, что вы хотели знать с примерами, spark.ru](http://spark.ru/startup/topvisor/blog/8715/utm-metki-vse-chto-vi-hoteli-znat-s-primerami)
-  - [Скажи мне свой UTM, и я скажу, кто ты, searchengines.ru ](http://www.searchengines.ru/articles/skazhi_mne_svoy.html)
-  - [The Complete Guide to UTM Codes, bufferapp.com](https://blog.bufferapp.com/utm-guide)
 
 ### A/B тест
   - [optimizely.com](https://www.optimizely.com/)

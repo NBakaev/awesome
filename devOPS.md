@@ -83,3 +83,6 @@
  - [Getting stared ansible](http://www.ansible.com/get-started?utm_campaign=ScheduledTweet)
  - [http://docs.ansible.com/ansible/shell_module.html](http://docs.ansible.com/ansible/shell_module.html)
  - [Обзор: Puppet, Chef, Ansible, Salt](http://habrahabr.ru/post/211306/)
+ - [shell - Execute commands in nodes.](http://docs.ansible.com/ansible/shell_module.html)
+ - [script - Runs a local script on a remote node after transferring it](http://docs.ansible.com/ansible/script_module.html)
+ - [Ansible base Images for easy Ansible-Playbook-based Docker builds](https://github.com/ansible/ansible-docker-base)
