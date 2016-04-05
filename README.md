@@ -1,4 +1,6 @@
-## Awesome - коллекции современных и полезных утилит/программ/библиотек/фреймворков
+## Awesome
+  Коллекции современных и полезных утилит/программ/библиотек/фреймворков
+
 - [:star: Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [:star: sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Sysadmin, github](https://github.com/n1trux/awesome-sysadmin)
@@ -37,7 +39,7 @@
  - [Обзор и видео докладов по информационной безопасности с конференции SECR-2014б habr](http://habrahabr.ru/post/263591/)  
  - [Confluence в жизни аналитика — Часть 1](http://analyst.by/rmt/confluence-v-zhizni-analitika-chast-1)
 
-### Git flow / Git
+### Git / Git flow 
  - [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
  - http://danielkummer.github.io/git-flow-cheatsheet/
  - https://github.com/nvie/gitflow
