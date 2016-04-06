@@ -23,6 +23,6 @@
  - [Управление логгированием в systemd, habr](http://habrahabr.ru/company/selectel/blog/264731/)
  - [Centralized Docker Container Logging With Native Graylog Integration](https://www.graylog.org/centralize-your-docker-container-logging-with-graylog-native-integration/)
  - [Automating Docker Logging: ElasticSearch, Logstash, Kibana, and Logspout](http://nathanleclaire.com/blog/2015/04/27/automating-docker-logging-elasticsearch-logstash-kibana-and-logspout/)
- [http://sixrevisions.com/tools/free-server-monitoring-tools/](http://sixrevisions.com/tools/free-server-monitoring-tools/)
+ - [http://sixrevisions.com/tools/free-server-monitoring-tools/](http://sixrevisions.com/tools/free-server-monitoring-tools/)
 
  - [Build reliable and faster Node.js applications, keymetrics.io](https://keymetrics.io/)
