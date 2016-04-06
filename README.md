@@ -17,6 +17,7 @@
  - [Сервисы, SaaS](https://github.com/NBakaev/awesome/blob/master/web_services.md)   
  - [Мобильная разработка](https://github.com/NBakaev/awesome/blob/master/mobile_desktop.md)   
  - [Workflow](https://github.com/NBakaev/awesome/blob/master/workflow.md)   
+ - [Logging](https://github.com/NBakaev/awesome/blob/master/logging/README.md)   
 
 ## Awesome
   Коллекции современных и полезных утилит/программ/библиотек/фреймворков
