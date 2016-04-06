@@ -21,6 +21,7 @@
  - [Потрясающая коллекция бесплатных шрифтов за 2014 год, habr](http://habrahabr.ru/post/247785/)
  - [http://fonts4web.ru/](http://fonts4web.ru/)
  - [РАСПОЗНАВАТЕЛЬ ШРИФТОВ, Chrome: WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)   
+ - [Картинка: Какой шрифт выбрать](https://raw.githubusercontent.com/NBakaev/awesome/master/_images/font_choose.jpg)
 
 ### Иконки
  - [http://awdee.ru/18-free-icons-pack](http://awdee.ru/18-free-icons-pack/)
