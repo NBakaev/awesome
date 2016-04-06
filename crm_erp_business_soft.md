@@ -20,6 +20,11 @@
 - [Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
 - [Основы Google Analytics и Google Tag Manager 2015. Все части - youtube](https://www.youtube.com/playlist?list=PLc3HbRI7hx8YlAtDXDHVILK8ru4Epsm61)
 
+#### CRM
+ - [Zoho CRM](https://www.zoho.com/crm/)
+ - [salesforce](https://www.salesforce.com/)
+ - [bitrix24](https://www.bitrix24.ru/)
+
 ### SAP
 - [SAP ERP / ABAP полезные ресурсы](http://habrahabr.ru/post/270335/)
 - [Взгляд IT-специалиста на SAP ERP](https://web.archive.org/web/20151115185845/http://habrahabr.ru/post/270715/)

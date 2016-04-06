@@ -48,5 +48,12 @@
  - [19 Tips For Everyday Git Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
  - [19 советов по повседневной работе с Git](https://habrahabr.ru/company/mailru/blog/267595/)
 
+## Education courses
+ - [:star: pluralsight](https://www.pluralsight.com/)
+ - [coursera](https://ru.coursera.org/)
+ - [:star: udemy.com](https://www.udemy.com/)
+ - [lektorium.tv](https://www.lektorium.tv/)
+ - [Видеозаписи - Технопарк@Mail.ru](https://park.mail.ru/materials/video/)
+
 ### Media
 - [Geekbrains | Вебинары 2014-2015 PCRec H.264 Часть 1](https://nnm-club.me/forum/viewtopic.php?t=929895)
