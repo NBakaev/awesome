@@ -29,6 +29,9 @@
 - [SourceTree - Git Gui](https://www.sourcetreeapp.com/)
 - [SmartGit - Git Gui](http://www.syntevo.com/smartgit/)
 
+## Tools
+ - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
+
 ### Screenshots and screencast
 - [ShareX - Take a screenshot or a screencast](https://getsharex.com/)
 - [Camtasia Studio 8 - record your computer screen](https://www.techsmith.com/camtasia.html)
