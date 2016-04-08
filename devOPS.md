@@ -1,20 +1,3 @@
-### AWS
- ![](https://media.amazonwebservices.com/blog/2015/on_shore_personal_data_storage_arch_3.jpg)
- - [Впечатления от облака Amazon после года работы с ним](http://eax.me/amazon-one-year/#comment-2268008321)
- - [AWS_Migrate_Resources_To_New_Region.pdf](https://media.amazonwebservices.com/AWS_Migrate_Resources_To_New_Region.pdf)
- - [Инфраструктура Amazon Web Services изнутри. Часть 1](http://habrahabr.ru/company/ua-hosting/blog/268217/)
- - [Инфраструктура Amazon Web Services изнутри. Часть 2](http://habrahabr.ru/company/ua-hosting/blog/269025/)
- - [New – Receive and Process Incoming Email with Amazon SES](https://aws.amazon.com/ru/blogs/aws/new-receive-and-process-incoming-email-with-amazon-ses/)
- - [A Supercharged AWS Command Line Interface (CLI). http://bit.ly/git-saws](https://github.com/donnemartin/saws)
- - [Data backup using AWS S3cmd: a simple and effective solution](http://cloudacademy.com/blog/data-backup-s3cmd/)
- - [ANSIBLE + AWS: RE-INVENTING CLOUD AUTOMATION](http://www.ansible.com/blog/ansible-aws-reinventing-cloud-automation)
- - [EC2 Spot Blocks for Defined-Duration Workloads](https://aws.amazon.com/ru/blogs/aws/new-ec2-spot-blocks-for-defined-duration-workloads/)
- - [Цены на EC2](http://aws.amazon.com/ru/ec2/pricing/)
- - [Introducing CloudWatch Dashboards](https://aws.amazon.com/ru/about-aws/whats-new/2015/10/cloudwatch-dashboards/)
-
- - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
- - [Bash скрипт для создания архива данных, habr](http://habrahabr.ru/post/266597/)
-
 # DevOPS
 ![](http://cloudacademy.com/blog/wp-content/uploads/2015/07/continuous-integration.png)
 
@@ -32,6 +15,23 @@
  - [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
  - http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/ what and why service discovery
  - http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/
+
+## AWS
+  ![](https://media.amazonwebservices.com/blog/2015/on_shore_personal_data_storage_arch_3.jpg)
+  - [Впечатления от облака Amazon после года работы с ним](http://eax.me/amazon-one-year/#comment-2268008321)
+  - [AWS_Migrate_Resources_To_New_Region.pdf](https://media.amazonwebservices.com/AWS_Migrate_Resources_To_New_Region.pdf)
+  - [Инфраструктура Amazon Web Services изнутри. Часть 1](http://habrahabr.ru/company/ua-hosting/blog/268217/)
+  - [Инфраструктура Amazon Web Services изнутри. Часть 2](http://habrahabr.ru/company/ua-hosting/blog/269025/)
+  - [New – Receive and Process Incoming Email with Amazon SES](https://aws.amazon.com/ru/blogs/aws/new-receive-and-process-incoming-email-with-amazon-ses/)
+  - [A Supercharged AWS Command Line Interface (CLI). http://bit.ly/git-saws](https://github.com/donnemartin/saws)
+  - [Data backup using AWS S3cmd: a simple and effective solution](http://cloudacademy.com/blog/data-backup-s3cmd/)
+  - [ANSIBLE + AWS: RE-INVENTING CLOUD AUTOMATION](http://www.ansible.com/blog/ansible-aws-reinventing-cloud-automation)
+  - [EC2 Spot Blocks for Defined-Duration Workloads](https://aws.amazon.com/ru/blogs/aws/new-ec2-spot-blocks-for-defined-duration-workloads/)
+  - [Цены на EC2](http://aws.amazon.com/ru/ec2/pricing/)
+  - [Introducing CloudWatch Dashboards](https://aws.amazon.com/ru/about-aws/whats-new/2015/10/cloudwatch-dashboards/)
+
+  - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
+  - [Bash скрипт для создания архива данных, habr](http://habrahabr.ru/post/266597/)
 
 ## Docker
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
@@ -68,11 +68,11 @@
 - [Official CloudFormation and kube-aws tool for installing Kubernetes on AWS](https://coreos.com/blog/kubernetes-on-aws-cloudformation/)
 
 #### Alternatives to kubernetes - Docker orchestration
-- [](https://github.com/mesosphere/marathon)
+- [marathon](https://github.com/mesosphere/marathon)
 - [CONTINUOUS DEPLOYMENT WITH MESOS, MARATHON AND DOCKER](https://mesosphere.com/blog/2015/04/02/continuous-deployment-with-mesos-marathon-docker/)
 - [Mesos Sandbox Using Docker Compose](https://spof.io/blog/2015/06/23/mesos-sandbox-using-docker-compose/)
-- [](http://mesosphere.github.io/marathon/docs/application-basics.html)
-- [](http://mesos.apache.org/documentation/latest/)
+- [mesosphere](http://mesosphere.github.io/marathon/docs/application-basics.html)
+- [mesos](http://mesos.apache.org/documentation/latest/)
 - [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
 
 ### Ansible (alternative to chef/puppet)

@@ -74,6 +74,7 @@
  - [Improving Angular web app performance example](http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html)
 
 ### Angular
+ - [Angular Docs - Developer Guide](https://docs.angularjs.org/guide/di)
  - [Использование angular-translate для локализации приложений AngularJS](http://habrahabr.ru/company/eastbanctech/blog/242455/)
  - [i18n and l10n](https://docs.angularjs.org/guide/i18n)
  - [Angular Application Development, video](http://rutracker.org/forum/viewtopic.php?t=5063029)
@@ -84,6 +85,10 @@
  - [Tips & Tricks for debugging unfamiliar AngularJS code](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
  - [Multilingual Support for AngularJS](http://www.sitepoint.com/multilingual-support-for-angularjs/)
  - [AngularJS Matrtial Design](https://material.angularjs.org/latest/demo/input)
+
+## CSS
+ - [What’s New in Foundation 6?](http://www.sitepoint.com/whats-new-in-foundation-6/)
+  -[Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
 
 ### JavaScript
  - [http://jhipster.github.io/2015/01/09/jhipster-release-2.0.0.html](http://jhipster.github.io/2015/01/09/jhipster-release-2.0.0.html)
@@ -103,6 +108,13 @@
  - [JavaScript goes to Asynchronous city](https://blogs.msdn.microsoft.com/eternalcoding/2015/09/30/javascript-goes-to-asynchronous-city/)
  - [JS Charting: Google Sheets](https://davidwalsh.name/js-charting-google-sheets)
 
+## Gulp / Build / Dev env
+ - [10 things to know about Gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/)
+ - [ESLint plugin for AngularJS applications](https://github.com/Gillespie59/eslint-plugin-angular)
+ - [ESLint: The Next-Generation JavaScript Linter](https://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/)
+ - [Adding ESLint with gulp.js](https://davidwalsh.name/gulp-eslint)
+ - [WebPack: как внутри устроено Hot Reloading](https://habrahabr.ru/company/Voximplant/blog/270593/)
+
 ## Drag and Drop
  - [Drag and Drop Interaction Ideas](http://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/)
  - [interact.js - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)](https://github.com/taye/interact.js)
@@ -111,13 +123,15 @@
 ### Babel ( ES6 ) is a JavaScript compiler.
   - [babeljs.io](https://babeljs.io/)
   - [Setting up Babel with WebStorm on Windows](https://ericswann.wordpress.com/2015/03/01/setting-up-babel-with-webstorm-on-windows/)
-  - [Setting up an ES6 Project Using Babel and Browserify](http://www.sitepoint.com/setting-up-es6-project-using-babel-browserify/)   
+  - [Setting up an ES6 Project Using Babel and Browserify](http://www.sitepoint.com/setting-up-es6-project-using-babel-browserify/)
 
 ### Gulp - build tool
  - [gulp-and-angularjs-](http://netengine.com.au/blog/gulp-and-angularjs-a-love-story-or-the-old-wheel-was-terrible-check-out-my-new-wheel)
  - [Быстрая разработка на 1С-Битрикс или как я познакомился с gulp, habr](http://habrahabr.ru/post/261467/)
  - [Ещё один пост о сборке front-end проекта ](http://habrahabr.ru/post/251807/)  
  - [Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://blog.rangle.io/angular-gulp-bestpractices/)
+ - [Тестирование JS. Кармический Webpack](https://habrahabr.ru/company/rambler-co/blog/278503/)
+ - [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
 
 ### Notes
   - [Google geocording, javascript](https://developers.google.com/maps/documentation/javascript/geocoding)

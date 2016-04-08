@@ -11,7 +11,7 @@
 - [Исследование результатов ЕГЭ, ГИА и олимпиад для московских школ. Из каких школ в какие ВУЗы поступают](http://habrahabr.ru/post/270675/)
 - [swirl: стремительное погружение в R (learning by doing)](http://habrahabr.ru/post/271265/)
 
-# Business intelligence (BI)
+## Business intelligence (BI)
  - [How to share data with a statistician](https://github.com/jtleek/datasharing)
  - [Data manipulation, munging, and processing in JavaScript](http://learnjsdata.com/index.html)
  - [:star: DataTalks, wargaming youtube](http://www.youtube.com/playlist?list=PL0QujlH3yeFul76dbakGlRC0Wlnd8pXS-)

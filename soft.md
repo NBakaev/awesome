@@ -1,3 +1,4 @@
+# Soft
 
 ### Livestream video (gaming, youtube, professional)
  - [Livestream Studio](http://www.telestream.net/wirecast/resources.htm)
@@ -15,6 +16,8 @@
  - [Unified Remote - remote control you computer/PP presentation... from Android, iPhone, and Windows Phone.](https://www.unifiedremote.com/)
  - [Connectify Hotspot 2016 - create Wi-Fi tethering on computer](http://www.connectify.me/blog/release-notes/hotspot-v-2016/)
  - [calibre 64bit - E-book management](https://calibre-ebook.com/download_windows64)
+ - [Arq Backup - Back up your Mac or PC to your Dropbox, OneDrive, Google Drive, AWS S3, Glacier or Google Cloud Storage account](https://www.arqbackup.com/)
+ - [massvideoblasterpro - Upload your YouTube videos like a real PRO](http://massvideoblasterpro.com/)
 
 ### Development
 - [Atom - text editor](https://atom.io/)
@@ -31,10 +34,10 @@
  - [Sketch - прототипировщик векторный редактор UI](http://bohemiancoding.com/sketch/)
  - [Axure RP - UI prototype](http://www.axure.com/download)
 
-## Tools
- - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
- - [Arq Backup - Back up your Mac or PC to your Dropbox, OneDrive, Google Drive, AWS S3, Glacier or Google Cloud Storage account](https://www.arqbackup.com/)
+## Command line tools
+ - [Ubuntu: How can I install and use powerline plugin?](http://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin)
  - [babun - windows cygwin](http://babun.github.io/)
+ - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
 
 ### Screenshots and screencast
 - [ShareX - Take a screenshot or a screencast](https://getsharex.com/)
@@ -53,5 +56,5 @@
 ### Business Intelligence and Data Analysis and Visualization
  - [TIBCO Spotfire](http://spotfire.tibco.com/)
  - [Qlik Sense Desktop](http://www.qlik.com/products/qlik-sense/desktop)
- - [Tableau 9.1](http://www.tableau.com/)
+ - [Tableau](http://www.tableau.com/)
  - [Power BI Desktop](https://powerbi.microsoft.com/ru-ru/desktop/)

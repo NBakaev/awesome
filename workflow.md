@@ -21,6 +21,7 @@
  - [Оформляем правильно техническое задание](http://megamozg.ru/company/it-lex/blog/16692/)
  - [НЛП базово; Язык, на котором вы говорите, даже не подозревая об этом ](http://megamozg.ru/company/mbaconsult/blog/)
  - [Как понять, сколько платить программисту](https://vc.ru/p/how-to-pay-programmers)
+ - [Hello, SaaS | Персональные данные](https://megamozg.ru/company/dentalcloud/blog/24866/)
 
 ## Yandex - дух компании...
  - [https://company.yandex.com/](https://company.yandex.com/)

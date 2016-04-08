@@ -1,6 +1,6 @@
-# Back-end
+# Backend - серверная разработка, Java
 
-## Архитектура, Общее
+## Архитектура
  - [Multi-Tenant Data Architecture - msdn.microsoft.com](https://msdn.microsoft.com/en-us/library/aa479086.aspx)
  - [HighLoad++ — это блюдо, которое подают высоконагруженным, habr](http://habrahabr.ru/company/oleg-bunin/blog/266393/)
  - [Краткая история масштабирования LinkedIn, habr](http://habrahabr.ru/company/latera/blog/266447/)
@@ -15,53 +15,30 @@
  - [Codesign.io – архитектура которая работает](http://habrahabr.ru/post/271461/)
  - [:star: Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
 
-### Безопасность
- - [Уязвимости веб-приложений: ситуация не улучшается](http://habrahabr.ru/company/pt/blog/268779/)
- - [10 атак на веб-приложения в действии](https://habrahabr.ru/company/ua-hosting/blog/272205/)
- - [Вся правда об XSS или Почему межсайтовое выполнение сценариев не является уязвимостью?](http://habrahabr.ru/post/149152/)
-
-#### 2auth двухфакторная аутентификация
- - https://code.google.com/p/vellum/wiki/GoogleAuthenticator
- - https://code.google.com/p/vellum/source/browse/#svn%2Ftrunk%2Fsrc%2Fvellumdemo%2Ftotp
-
-### DSL
+## DSL
  - [Domain-Specific Languages](http://docs.groovy-lang.org/docs/latest/html/documentation/core-domain-specific-languages.html)
  - [Groovy как скриптовый язык и DSL для Java](http://habrahabr.ru/post/145138/)
  - [Java DSL for Spring Integration 1.1 GA is Available](https://spring.io/blog/2015/09/22/java-dsl-for-spring-integration-1-1-ga-is-available)
 
-### Шаблонизаторы
+## Шаблонизаторы
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
  - [Handlebars. Руководство к действию, habr](http://habrahabr.ru/post/273581/)
  - [mustache.java](https://github.com/spullara/mustache.java)
  - [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
 
-#### Template engine
+## Template engine
  - [:star: thymeleaf](http://www.thymeleaf.org/)
  - velocity
  - freemarker
 
-#### iText
- - [iText HTML to PDF Example](http://examples.javacodegeeks.com/core-java/itext-html-pdf-example)
- - [iText Watermark Example](http://examples.javacodegeeks.com/core-java/itext-watermark-example)
- - [iText Barcode Example](http://examples.javacodegeeks.com/core-java/itext-barcode-example)
-
-### NodeJS
-- [Wkhtmltopdf + Node.JS](http://habrahabr.ru/post/266171/)
-- [Convert PSD to PNG with Node.js](https://davidwalsh.name/convert-psd-png)
-- [Convert Image to ASCII Art with Node.js](https://davidwalsh.name/convert-image-ascii-art)
-- [3 JavaScript ORMs You Might Not Know](http://www.sitepoint.com/3-javascript-orms-you-might-not-know/)
-- [Long-running Node processes](http://techblog.spanning.com/2015/10/12/Long-running-Node-processes)
-- [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
-- [Node.js and ES6 Instead of Java – A War Story](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story)
-
-### websocket
+## websocket
  - http://clintberry.com/2013/angular-js-websocket-service/
  - https://spring.io/blog/2014/11/15/building-a-spring-integration-4-1-websocket-endpoint
  - http://docs.spring.io/spring/docs/current/spring-framework-reference/html/websocket.html
  - http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
  - https://www.pubnub.com/
 
-### :star: RxJava
+## :star: RxJava
  - [Грокаем RxJava, часть первая: основы](http://habrahabr.ru/post/265269/)
  - [Грокаем RxJava, часть вторая: Операторы ](http://habrahabr.ru/post/265583/)
  - [Грокаем RxJava, часть третья: Реактивность с пользой](http://habrahabr.ru/post/265727/)
@@ -75,7 +52,7 @@
  - [Parallel execution of blocking tasks with RxJava and Completable](https://www.javacodegeeks.com/2016/03/parallel-execution-blocking-tasks-rxjava-completable.html)
  - [rxmarbles - Interactive diagrams of Rx Observables](http://rxmarbles.com/)
 
-### Backend testing
+## Testing
  - [JUnit Test Suite Example](http://examples.javacodegeeks.com/core-java/junit/junit-test-suite-example)
  - [junit report example](http://examples.javacodegeeks.com/core-java/junit/junit-report-example)
  - [junit setup teardown example)](http://examples.javacodegeeks.com/core-java/junit/junit-setup-teardown-example)
@@ -99,15 +76,14 @@
  - [google java styleguide](http://google.github.io/styleguide/javaguide.html)
  - [DTO vs POCO vs Value Object](http://habrahabr.ru/post/268371/)
 
-### Java profiling
- - [Monitoring and Management](http://www.javacodegeeks.com/2015/09/monitoring-and-management.html)
- - [yourkit - java profiler](https://www.yourkit.com/java/profiler/features/)
- - [Flight recorder Oracle profiler](http://www.oracle.com/technetwork/java/embedded/resources/tech/java-flight-rec-on-java-se-emb-8-2158734.html)
- - [Java bytecodeviewer](https://bytecodeviewer.com/)
- - [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)   
+### java money
+ - [Type Safety and Money](http://verraes.net/2016/02/type-safety-and-money/)
+ - [Go for the Money! JSR 354 Adds First Class Money and Currency Support to Java](http://www.infoq.com/articles/JSR-354-Java-Money-Currency-API)
 
-### Spring
+## Spring
  - [ :star: SPRING INITIALIZR](http://start.spring.io/)
+ - [ :star: This is a sample application created with JHipster](https://github.com/jhipster/jhipster-sample-app)
+ - [ :star: Small test RESTful app with token based security](https://github.com/virgo47/restful-spring-security)
  - [Spring Boot Memory Performance](http://spring.io/blog/2015/12/10/spring-boot-memory-performance)
  - [Microservices with Spring](http://spring.io/blog/2015/07/14/microservices-with-spring)
  - [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
@@ -118,15 +94,50 @@
  - [RabbitMQ Spring tutorial , habr](http://habrahabr.ru/post/262069/)
  - [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
 
+## Шаблоны документов
+
 ### Java jaspers
 - [jaspersoft.com](http://community.jaspersoft.com/)
 - [JasperReports® Library Open Source Java Reporting Library](http://community.jaspersoft.com/project/jasperreports-library/resources)
 - [JasperReports & iReport](http://www.quizful.net/post/jasperreports-and-ireports)
 - [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
 
-### Java - общее
+### DynamicReports
+ - [DynamicReports - free and open source Java reporting tool](http://www.dynamicreports.org/examples/examples-overview)
+ - [DynamicReports and JasperReports with JSF, Servlet and CDI](https://www.javacodegeeks.com/2016/02/dynamicreports-jasperreports-jsf-servlet-cdi.html)
+
+### iText
+ - [iText HTML to PDF Example](http://examples.javacodegeeks.com/core-java/itext-html-pdf-example)
+ - [iText Watermark Example](http://examples.javacodegeeks.com/core-java/itext-watermark-example)
+ - [iText Barcode Example](http://examples.javacodegeeks.com/core-java/itext-barcode-example)
+
+## Java profiling
+ - [Monitoring and Management](http://www.javacodegeeks.com/2015/09/monitoring-and-management.html)
+ - [yourkit - java profiler](https://www.yourkit.com/java/profiler/features/)
+ - [Flight recorder Oracle profiler](http://www.oracle.com/technetwork/java/embedded/resources/tech/java-flight-rec-on-java-se-emb-8-2158734.html)
+ - [Java bytecodeviewer](https://bytecodeviewer.com/)
+ - [:star: JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)   
+ - [XRebel - Profiler for microservices](http://zeroturnaround.com/software/xrebel/microservices/)
+ - [JRebel - Reload code changes instantly](http://zeroturnaround.com/software/jrebel/)
+
+## Java - общее
  - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)
  - [Что нового и интересного в IntelliJ IDEA 15](http://habrahabr.ru/company/JetBrains/blog/270471/http://habrahabr.ru/company/JetBrains/blog/270471/)
 
-### Maven
+## Maven
  - [Please Containerize Your Excitement: Nexus 3 Milestone 5 Release](http://www.sonatype.org/nexus/2015/09/21/please-containerize-your-excitement-nexus-3-milestone-5-release/)
+
+### Maven central deploy
+ - [Deploy to Maven Central Repository](https://dzone.com/articles/deploy-maven-central)
+ - [How to Release to Maven Central, in One Click](http://www.yegor256.com/2014/08/19/how-to-release-to-maven-central.html)
+ - [OSSRH Guide](http://central.sonatype.org/pages/ossrh-guide.html)
+ - [Deploy to Maven Central Repository](http://www.sonatype.org/nexus/2015/01/08/deploy-to-maven-central-repository/)
+
+## Безопасность
+ - [Уязвимости веб-приложений: ситуация не улучшается](http://habrahabr.ru/company/pt/blog/268779/)
+ - [10 атак на веб-приложения в действии](https://habrahabr.ru/company/ua-hosting/blog/272205/)
+ - [Вся правда об XSS или Почему межсайтовое выполнение сценариев не является уязвимостью?](http://habrahabr.ru/post/149152/)
+
+#### двухфакторная аутентификация
+ - https://code.google.com/p/vellum/wiki/GoogleAuthenticator
+ - https://code.google.com/p/vellum/source/browse/#svn%2Ftrunk%2Fsrc%2Fvellumdemo%2Ftotp

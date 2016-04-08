@@ -6,4 +6,7 @@
 
 - [Защита персональных данных -aaS](https://habrahabr.ru/company/oblakoteka/blog/259891/)
 
-- [Как читать отчетность ИТ-компаний](https://vc.ru/p/financial-statements)
+- [:star: Как читать отчетность ИТ-компаний](https://vc.ru/p/financial-statements)
+
+
+- [Сергей Галёнкин: «Я люблю считать возврат инвестиций перед тем, как ввязываться в любое коммерческое мероприятие»](https://vc.ru/p/galyonkin-interview)

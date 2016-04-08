@@ -6,7 +6,8 @@
  - [Business Intelligence; Data Science](https://github.com/NBakaev/awesome/blob/master/data_processing_bi.md)
  - [DevOPS - Docker, Clustering...](https://github.com/NBakaev/awesome/blob/master/devOPS.md)
  - [Email маркетинг](https://github.com/NBakaev/awesome/blob/master/email.md)     
- - [Frondend разработка / UI / UX](https://github.com/NBakaev/awesome/blob/master/frondend/frondend.md)     
+ - [Frondend разработка / UI / UX](https://github.com/NBakaev/awesome/blob/master/frondend/frondend.md)    
+ - [NodeJS](https://github.com/NBakaev/awesome/blob/master/frondend/nodejs.md)      
  - [Infrastructure](https://github.com/NBakaev/awesome/blob/master/infrastructure.md)     
  - [MongoDB - NoSQL database](https://github.com/NBakaev/awesome/blob/master/mongoDB.md)     
  - [Подкасты](https://github.com/NBakaev/awesome/blob/master/podcasts.md)     
@@ -53,6 +54,7 @@
  - [19 советов по повседневной работе с Git](https://habrahabr.ru/company/mailru/blog/267595/)
 
 ## Education courses
+ - [Course dicsounts](http://udemycoupon.discountsglobal.com/?s=salesforce)
  - [:star: pluralsight](https://www.pluralsight.com/)
  - [coursera](https://ru.coursera.org/)
  - [:star: udemy.com](https://www.udemy.com/)

@@ -14,7 +14,7 @@
  - [2](https://www.mongodb.com/presentations/mongodb-time-series-data-part-2-analyzing-time-series-data-using-aggregation-framework)
  - [3](https://www.mongodb.com/presentations/mongodb-time-series-data-part-3-sharding)
 
- - [mongochef](http://3t.io/blog/mongodb-aggregation-queries-easily-mongochef/)
+ - [mongochef - MongoDB gui](http://3t.io/blog/mongodb-aggregation-queries-easily-mongochef/)
  - [MongoDB on AWS Guidelines and Best Practices ](http://d0.awsstatic.com/whitepapers/AWS_NoSQL_MongoDB.pdf)
  - [On Selecting a Shard Key for MongoDB](https://www.mongodb.com/blog/post/on-selecting-a-shard-key-for-mongodb)
 

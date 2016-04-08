@@ -1,4 +1,4 @@
-### Asana
+## Asana
  - [Asana в деталях, и как ее использовать](http://megamozg.ru/post/1700/)
  - [https://github.com/jlinn/asana-api-java](https://github.com/jlinn/asana-api-java)
  - [OAuth for developers](https://asana.com/developers/documentation/getting-started/auth)
@@ -17,9 +17,10 @@ Connect one system with another, usually without coding and using API
  - [:star: zapier](https://zapier.com/zapbook/)
  - [ifttt - Connect the apps you love](https://ifttt.com/)
 
-### Popular
+## Popular
  - [Google Apps for Work – Gmail, Google Drive, Calendar... with admin control users](https://apps.google.com/)
  - [Яндекс Почта для Доменов](http://pdd.yandex.ru)
+ - [Google Тренды](http://www.google.ru/trends/explore#cmpt=q)
 
 ## Зарубежные сервисы
  - [Sign Documents Online - Build, Deliver & Track Sales Collateral](https://www.pandadoc.com/)
@@ -31,6 +32,7 @@ Connect one system with another, usually without coding and using API
  - [We do Hadoop](http://hortonworks.com/)
  - [airtable - custom object - b2c](https://airtable.com/)
  - [intercom.io/developers](https://www.intercom.io/developers)
+ - [crunchbase](https://www.crunchbase.com/)
 
 ## Business intelligence (BI)
 - [dasheroo.com - dashboard, графики, панели управлени FB, twitter...](http://www.dasheroo.com/blog/new-release-pinterest-analytics-for-your-dasheroo-dashboard/)
@@ -43,7 +45,7 @@ Connect one system with another, usually without coding and using API
 - [ :star: Analytics | KPI Dashboard | Databox](https://databox.com/)
 - [geckoboard.com](http://geckoboard.com)
 
-### Web analytics
+## Web analytics
  - [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/)
  - [metrika.yandex.ru](http://metrika.yandex.ru)
  - [google.com/analytics](https://www.google.com/analytics/)
@@ -51,5 +53,9 @@ Connect one system with another, usually without coding and using API
  - [Domo demo piques marketers’ interest, but questions remain](http://venturebeat.com/2015/06/02/domo-demo-piques-marketers-interest-but-questions-remain/)
  - [Domo Business Intelligence: Dashboards, Reporting and Analytics](https://www.domo.com/)
 
-### Статьи
+## Other
+ - [Free Automated Malware Analysis Service](https://www.hybrid-analysis.com/sample/f02569b2f13ef05dc9926249d965e5fd4ca722cfd1501783d7f96bd5a32342c9?environmentId=2)
+ - [toggl - Toggl - Free Time Tracking Software](https://toggl.com/)
+
+## Статьи
 - [Доступные интернет ресурсы и инструменты для стартапов](https://megamozg.ru/post/18600/)

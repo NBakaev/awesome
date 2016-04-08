@@ -1,3 +1,6 @@
+
+ - [Botkit is a toolkit for making bot applications; Botkit - Building Blocks for Building Bots](https://github.com/howdyai/botkit)
+
 Graphite
 Statd
 
