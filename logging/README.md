@@ -3,6 +3,8 @@
  - [loggy.com - How to Implement Logging in Docker with a Sidecar Approach ](https://www.loggly.com/blog/how-to-implement-logging-in-docker-with-a-sidecar-approach/)
  - [Fluentd.org - is an open source data collector for unified logging layer](http://www.fluentd.org/)
  - [Sumo Logic: Machine Data Management &amp; Analysis](http://www.sumologic.com/)
+ - [splunk.com - Operational Intelligence, Log Management, Application Management, Enterprise Security and Compliance](http://www.splunk.com/)
+ - [Papertrail - cloud-hosted log management, live in seconds](https://papertrailapp.com/)
 
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/logging/newrelic/newrelic.md)   

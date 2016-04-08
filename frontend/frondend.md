@@ -1,12 +1,14 @@
 # Front-end - браузер, JavaScript, CSS...
 
 ### Общее
+ - [:star: Angular 2](https://github.com/NBakaev/awesome/blob/master/frontend/angular2.md)   
  - [29 сервисов для поиска фото, графики, иконок и кое-что на десерт](http://www.cossa.ru/articles/152/69131/)
  - [Изображения в верстке. Хватит это терпеть, habr](http://habrahabr.ru/post/231295/)
  - [Level Up для новичков: gulp и requirejs, habr](http://habrahabr.ru/post/264869/)
  - [Favicons, Touch Icons, Tile Icons и т. д. Что выбрать?](http://habrahabr.ru/post/260777/)
  - [List of books to master JavaScript Development](https://github.com/javascript-society/javascript-path)   
  - [A collection of links for free stock photography, video and Illustration websites.](https://github.com/neutraltone/awesome-stock-resources)
+ - [Yoman - THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS](http://yeoman.io/)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)
@@ -22,6 +24,9 @@
  - [http://fonts4web.ru/](http://fonts4web.ru/)
  - [РАСПОЗНАВАТЕЛЬ ШРИФТОВ, Chrome: WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)   
  - [Картинка: Какой шрифт выбрать](https://raw.githubusercontent.com/NBakaev/awesome/master/_images/font_choose.jpg)
+ - [Флэшмоб «Мой любимый шрифт — 2»](https://vk.com/wall-36209322_33595)
+ - [Uni Sans — новый кириллический шрифт от студии Fontfabrik.](https://vk.com/wall-36045680_4873)
+ - [Hack - A typeface designed for source code](https://github.com/chrissimpkins/Hack)
 
 ### Иконки
  - [http://awdee.ru/18-free-icons-pack](http://awdee.ru/18-free-icons-pack/)
@@ -36,6 +41,7 @@
  - [http://www.colourlovers.com/](http://www.colourlovers.com/)  
  - [Google materials colors](https://www.google.com/design/spec/style/color.html#)
  - [10 Material Design Color Palette Generators](http://codecondo.com/10-material-design-color-palette-generators-2/)
+ - [ColorHexa — сервис с информацией о любом цвете](http://www.colorhexa.com/)
 
 ### Mockups
  - [бесплатные и быстрые мокапы с техникой](http://Dunnnk.com)    
@@ -43,6 +49,7 @@
  - [Эппл Вотч: шаблон для проектирования и 4 мокапа для презентации](https://vk.com/wall-36209322_34943)   
  - [Набор 8 psd файлов для презентации дизайна сайтов.](https://yadi.sk/d/eHvVjQbHa9PiP)      
  - [GetCover — быстрое оборачивание макетов в браузеры и устройства](http://getcover.ru)
+ - [13 бесплатных векторных мокапов техники Apple, Samsung и Nexus (PSD+AI) - p-px.com](https://vk.com/doc207773_437062880?hash=de26f726488d9f8793&dl=f499cb6fdef1aade3a)
 
 ### Guildelins - Гайдлайны и фирменные цвета известных компаний
  - Findguidelin.es — ссылки на официальные руководства по фирменному стилю крупных интернет-компаний. Прямо на сайте можно взять основной hex-цвет компании. 45 компаний.
@@ -52,7 +59,7 @@
 #### styleguide / codestyle
  - [angular-styleguide](https://github.com/johnpapa/angular-styleguide)
  - [airbnb/javascript]( https://github.com/airbnb/javascript/blob/master/README.md)
- - [ node-jscs JavaScript Code Style checker ](https://github.com/jscs-dev/node-jscs/)
+ - [node-jscs JavaScript Code Style checker ](https://github.com/jscs-dev/node-jscs/)
 
 ## Hardcore
  - [Getting Started with Emscripten: Transpiling C/C++ to JavaScript/HTML5](http://www.sitepoint.com/getting-started-emscripten-transpiling-c-c-javascript-html5/)
@@ -100,8 +107,6 @@
  - [Drag and Drop Interaction Ideas](http://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/)
  - [interact.js - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)](https://github.com/taye/interact.js)
  - [handsontable](https://github.com/handsontable/handsontable)
- - []()
- - []()   
 
 ### Babel ( ES6 ) is a JavaScript compiler.
   - [babeljs.io](https://babeljs.io/)

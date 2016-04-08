@@ -1,3 +1,4 @@
+# Online marketing & advert
 
 ### target.my.com
  - [ https://target.my.com]( https://target.my.com)
@@ -22,5 +23,14 @@
  - [Объявления динамического ремаркетинга AdWords стали более гибкими](http://www.searchengines.ru/news/archives/obyavleniya_din.html?utm_source=feedburner)
  - [100 полезных скриптов для автоматизации работы в Google AdWords. Часть 1](http://www.searchengines.ru/articles/100_use_scripts_1.html)
  - [100 полезных скриптов для автоматизации работы в Google AdWords. Часть 2](http://www.searchengines.ru/articles/100_use_scripts_2.html)
-
  - [Системы автоматизации контекстной рекламы](http://marketing-wiki.ru/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)
+
+### Mobile / Game development
+ - [Heyzap - Mobile App Developers - Monetize Your App - реклама в играх](https://www.heyzap.com/)
+
+### SEO / context Tools
+ - Marketsamurai.com - English keycollector
+
+### SEO
+ - [Проверка и анализ позиций сайта в поисковых системах ](http://energoslon.com/)  
+ - [Не только Яндексу. Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам](http://habrahabr.ru/company/yandex/blog/246003/)

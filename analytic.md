@@ -34,6 +34,10 @@
  - [:star: Google Analytics Academy](https://analyticsacademy.withgoogle.com/explorer)
  - [:star: Google Analytics Youtube](https://www.youtube.com/user/googleanalytics/playlists)
 
+### Mobile Analytics Tools
+ - [mix panel](https://mixpanel.com/)
+ - [segment.io](http://segment.io)
+
 #### Базовые вещи
  - [Как считать LTV (Lifetime Value) - базово](http://blog.cubeline.ru/posts/kak-schitat-ltv-lifetime-value.html)
  - [Life Time Value – что это такое и какой метод подсчета LTV выбрать? , megamozg.ru](http://megamozg.ru/company/appodeal/blog/19752/)
@@ -43,6 +47,6 @@
 ### A/B тест
   - [optimizely.com](https://www.optimizely.com/)
   - [10 ошибок сплит-тестирования, которые дорого вам обойдутся, lpgenerator](http://lpgenerator.ru/blog/2015/03/23/10-oshibok-split-testirovaniya-kotorye-dorogo-vam-obojdutsya/?utm_content=buffer246b4)
-  - [ Основные принципы A/B тестирования ,megamozg.ru](http://megamozg.ru/post/8576/)
+  - [Основные принципы A/B тестирования ,megamozg.ru](http://megamozg.ru/post/8576/)
   - [Как запустить сплит-тест: 13 обязательных шагов, spark](http://spark.ru/startup/changeagain-me/blog/11724/kak-zapustit-split-test-13-obyazatelnih-shagov)
   - [Как мы потеряли и снова нашли миллионы, не проведя A/B тестирование](http://habrahabr.ru/post/269905/)

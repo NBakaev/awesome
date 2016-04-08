@@ -22,15 +22,19 @@
 - [WinSCP - ftp/sftp client](https://winscp.net/eng/docs/lang:ru)
 - [Navicat Premium - database client](http://www.navicat.com/products/navicat-premium)
 - [MongoChef - mongodb gui](http://3t.io/mongochef/)
-- [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)   
-- [Axure RP - UI prototype](http://www.axure.com/download)
 - [Araxis Merge - 2 and 3-way file comparison (diff)](http://www.araxis.com/merge/index.en)
 - [TIBCO Jaspersoft Studio The Eclipse-based Report Development Tool for JasperReports and JasperReports Server](http://community.jaspersoft.com/project/jaspersoft-studio/releases)
 - [SourceTree - Git Gui](https://www.sourcetreeapp.com/)
 - [SmartGit - Git Gui](http://www.syntevo.com/smartgit/)
 
+### UI / UX
+ - [Sketch - прототипировщик векторный редактор UI](http://bohemiancoding.com/sketch/)
+ - [Axure RP - UI prototype](http://www.axure.com/download)
+
 ## Tools
  - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
+ - [Arq Backup - Back up your Mac or PC to your Dropbox, OneDrive, Google Drive, AWS S3, Glacier or Google Cloud Storage account](https://www.arqbackup.com/)
+ - [babun - windows cygwin](http://babun.github.io/)
 
 ### Screenshots and screencast
 - [ShareX - Take a screenshot or a screencast](https://getsharex.com/)

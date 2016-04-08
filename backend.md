@@ -13,11 +13,16 @@
  - [Микросервисы без серверов (облачный вариант)](http://habrahabr.ru/company/piter/blog/266703/)
  - [Highload на Java: о чем нужно помнить](http://habrahabr.ru/post/270059/)
  - [Codesign.io – архитектура которая работает](http://habrahabr.ru/post/271461/)
+ - [:star: Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
 
+### Безопасность
  - [Уязвимости веб-приложений: ситуация не улучшается](http://habrahabr.ru/company/pt/blog/268779/)
  - [10 атак на веб-приложения в действии](https://habrahabr.ru/company/ua-hosting/blog/272205/)
  - [Вся правда об XSS или Почему межсайтовое выполнение сценариев не является уязвимостью?](http://habrahabr.ru/post/149152/)
- - [Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
+
+#### 2auth двухфакторная аутентификация
+ - https://code.google.com/p/vellum/wiki/GoogleAuthenticator
+ - https://code.google.com/p/vellum/source/browse/#svn%2Ftrunk%2Fsrc%2Fvellumdemo%2Ftotp
 
 ### DSL
  - [Domain-Specific Languages](http://docs.groovy-lang.org/docs/latest/html/documentation/core-domain-specific-languages.html)
@@ -29,6 +34,11 @@
  - [Handlebars. Руководство к действию, habr](http://habrahabr.ru/post/273581/)
  - [mustache.java](https://github.com/spullara/mustache.java)
  - [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
+
+#### Template engine
+ - [:star: thymeleaf](http://www.thymeleaf.org/)
+ - velocity
+ - freemarker
 
 #### iText
  - [iText HTML to PDF Example](http://examples.javacodegeeks.com/core-java/itext-html-pdf-example)
@@ -67,8 +77,8 @@
 
 ### Backend testing
  - [JUnit Test Suite Example](http://examples.javacodegeeks.com/core-java/junit/junit-test-suite-example)
- - [](http://examples.javacodegeeks.com/core-java/junit/junit-report-example)
- - [](http://examples.javacodegeeks.com/core-java/junit/junit-setup-teardown-example)
+ - [junit report example](http://examples.javacodegeeks.com/core-java/junit/junit-report-example)
+ - [junit setup teardown example)](http://examples.javacodegeeks.com/core-java/junit/junit-setup-teardown-example)
  - [JUnit Categories Example](http://examples.javacodegeeks.com/core-java/junit/junit-categories-example)
  - [JUnit Integration Test Example](http://examples.javacodegeeks.com/core-java/junit/junit-integration-test-example)
  - [JUnit Mockito Example](http://examples.javacodegeeks.com/core-java/mockito/junit-mockito-example)
@@ -84,13 +94,17 @@
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)
  - [javaslang, github](https://github.com/javaslang/javaslang)
  - [Getting started with Spark: it is possible to create lightweight RESTful application also in Java](http://www.javacodegeeks.com/2015/08/getting-started-with-spark-it-is-possible-to-create-lightweight-restful-application-also-in-java.html)
- - [Java bytecodeviewer](https://bytecodeviewer.com/)
  - [Подготовка к экзамену Oracle Java SE 7 Programmer II (1Z0-804) , habr](http://habrahabr.ru/post/190834/)
  - [Обработка строк в Java. Часть II: Pattern, Matcher tu, habr](http://habrahabr.ru/post/260773/)
  - [google java styleguide](http://google.github.io/styleguide/javaguide.html)
  - [DTO vs POCO vs Value Object](http://habrahabr.ru/post/268371/)
+
+### Java profiling
  - [Monitoring and Management](http://www.javacodegeeks.com/2015/09/monitoring-and-management.html)
  - [yourkit - java profiler](https://www.yourkit.com/java/profiler/features/)
+ - [Flight recorder Oracle profiler](http://www.oracle.com/technetwork/java/embedded/resources/tech/java-flight-rec-on-java-se-emb-8-2158734.html)
+ - [Java bytecodeviewer](https://bytecodeviewer.com/)
+ - [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)   
 
 ### Spring
  - [ :star: SPRING INITIALIZR](http://start.spring.io/)
@@ -105,10 +119,10 @@
  - [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
 
 ### Java jaspers
+- [jaspersoft.com](http://community.jaspersoft.com/)
 - [JasperReports® Library Open Source Java Reporting Library](http://community.jaspersoft.com/project/jasperreports-library/resources)
 - [JasperReports & iReport](http://www.quizful.net/post/jasperreports-and-ireports)
 - [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
-- [jaspersoft.com](http://community.jaspersoft.com/)
 
 ### Java - общее
  - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)

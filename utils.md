@@ -1,0 +1,60 @@
+
+### Pandoc
+Convert markdown to doc/pdf... with http://pandoc.org/
+```bash
+pandoc -f markdown -t docx file.md -o file.docx
+```
+
+### Use 3.4 python as system in ubuntu
+```bash
+sudo rm /usr/bin/python
+sudo ln -s /usr/bin/python3.4 /usr/bin/python
+```
+
+#### symbolic links
+
+`ln -s <real folder> <link folder>`
+
+#### Clover - tabs in explorer for windows 10
+
+```html
+I've found a setting in Explorer whitch may be the cause of most of Clover issues. To fix this:
+
+	1. In Explorer window go to View -> Options;
+	2. In opened Folder Options window go to View tab, scroll down to "Launch folder windows in a separate process" and make sure it's UNCHECKED.
+
+This may fix the thing ;)
+```
+
+### Disable Windows 10 spy / tracking / telemetry
+
+ - http://wintoflash.com/forum/viewtopic.php?f=7&t=42296&p=48250
+ - https://nnm-club.me/forum/viewtopic.php?t=926567&start=45
+ - http://habrahabr.ru/company/pt/blog/264763/
+
+### Save positions in video VLC
+ - http://vlcsrposplugin.sourceforge.net/
+
+### SDN / Software firewalls, proxy...
+  - m0n0wall
+  - pfsense
+  - kerio
+
+### CA cert
+http://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/
+
+#### Создание корневого сертификата в Android SSL
+```bash
+openssl x509 -noout -subject_hash_old  -in your-root-cert
+
+> Launch a terminal emulator window on your phone (I used this one) and run the following commands. replace “5ed36f99.0″ with the actual name of your certificate :
+
+cp /mnt/sdcard/5ed36f99.0 /etc/security/cacerts/
+chown root.root /etc/security/cacerts/5ed36f99.0
+chmod 644 /etc/security/cacerts/5ed36f99.0
+```
+
+### Downlaod from coursera
+https://class.coursera.org/econometrics-001/lecture
+
+`coursera-dl -u coursera_username -p coursera_password econometrics-001`

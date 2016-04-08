@@ -6,7 +6,7 @@
  - [Business Intelligence; Data Science](https://github.com/NBakaev/awesome/blob/master/data_processing_bi.md)
  - [DevOPS - Docker, Clustering...](https://github.com/NBakaev/awesome/blob/master/devOPS.md)
  - [Email маркетинг](https://github.com/NBakaev/awesome/blob/master/email.md)     
- - [Frondend разработка / UI / UX](https://github.com/NBakaev/awesome/blob/master/frondend.md)     
+ - [Frondend разработка / UI / UX](https://github.com/NBakaev/awesome/blob/master/frondend/frondend.md)     
  - [Infrastructure](https://github.com/NBakaev/awesome/blob/master/infrastructure.md)     
  - [MongoDB - NoSQL database](https://github.com/NBakaev/awesome/blob/master/mongoDB.md)     
  - [Подкасты](https://github.com/NBakaev/awesome/blob/master/podcasts.md)     
@@ -18,6 +18,9 @@
  - [Мобильная разработка](https://github.com/NBakaev/awesome/blob/master/mobile_desktop.md)   
  - [Workflow](https://github.com/NBakaev/awesome/blob/master/workflow.md)   
  - [Logging](https://github.com/NBakaev/awesome/blob/master/logging/README.md)   
+ - [databases](https://github.com/NBakaev/awesome/blob/master/databases.md)   
+ - [unresolved - no category yet](https://github.com/NBakaev/awesome/blob/master/unresolved.md)   
+ - [utils - some usually cmd programs](https://github.com/NBakaev/awesome/blob/master/utils.md)   
 
 ## Awesome
   Коллекции современных и полезных утилит/программ/библиотек/фреймворков
@@ -39,6 +42,7 @@
  - [205 шпаргалок для разработчика, habr](http://habrahabr.ru/post/254585/)
  - [Обзор и видео докладов по информационной безопасности с конференции SECR-2014б habr](http://habrahabr.ru/post/263591/)  
  - [Confluence в жизни аналитика — Часть 1](http://analyst.by/rmt/confluence-v-zhizni-analitika-chast-1)
+ - [markdown emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/)
 
 ### Git / Git flow
  - [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
@@ -54,6 +58,4 @@
  - [:star: udemy.com](https://www.udemy.com/)
  - [lektorium.tv](https://www.lektorium.tv/)
  - [Видеозаписи - Технопарк@Mail.ru](https://park.mail.ru/materials/video/)
-
-### Media
-- [Geekbrains | Вебинары 2014-2015 PCRec H.264 Часть 1](https://nnm-club.me/forum/viewtopic.php?t=929895)
+ - [Geekbrains | Вебинары 2014-2015 PCRec H.264 Часть 1](https://nnm-club.me/forum/viewtopic.php?t=929895)
