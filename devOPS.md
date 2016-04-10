@@ -53,8 +53,8 @@
  - [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
  - [Docker cloud](https://cloud.docker.com/)
 
-## Kubernetes - docker orchestration
-- [Видео: Круто - Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
+## :star: Kubernetes - docker orchestration
+- [:star: Видео: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
 - [SpringOne2GX 2015 replay: Spring Boot Micro-services, Containers, and Kubernetes - How To](http://spring.io/blog/2015/10/19/springone2gx-2015-replay-spring-boot-micro-services-containers-and-kubernetes-how-to)
 - [kuberdash - Analytics dashboard for Kubernetes](https://github.com/kubernetes/kubedash)
 - [cadvisor](https://github.com/google/cadvisor)

@@ -31,11 +31,6 @@ new TrueCrypt
 ### Mahato - Apache Machine learning
  - https://mahout.apache.org
 
-### ELK stack
- - Elastic search
- - Logstash
- - Kibana
-
 
 Eva - Ecpnomic value addiit
 
@@ -89,10 +84,6 @@ Prediction io
 Grsec
 
 Робери лаб разработка ядра линукс
-
-## Remote RPC / DTO
- - Trift (facebook)
- - brotobuff (google)
 
 -----------------
 Joke

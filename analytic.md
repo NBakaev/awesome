@@ -10,7 +10,6 @@
  - [​Как российские интернет-магазины собирают свои базы для email-рассылок: примеры форм подписки](https://vc.ru/p/outofcontrol-buttons?from=rss)
  - [Measurement Protocol — просто о несложном](http://habrahabr.ru/post/222169/)
  - [Инструкция: Как вручную загружать необходимые данные в Google Analytics](https://vc.ru/p/gh-data-to-ga)
- - [How to track Facebook Share button in Google Analytics (analytics.js)](http://stackoverflow.com/questions/32481289/how-to-track-facebook-share-button-in-google-analytics-analytics-js)
  - [Инструменты для аналитики и повышения конверсии: Рекомендации экспертов рунета](http://megamozg.ru/company/perezvoni/blog/14004/)
  - [Системы управления тегами. Сравнение Google Tag Manager, Adobe DTM и Qubit OpenTag](http://www.searchengines.ru/articles/sistemy_upravle.html)
  - [Какими системами аналитики пользуются топ-100 российских ecommerce-проектов](https://vc.ru/p/ecomm-analysis)
@@ -26,17 +25,22 @@
  - [Аналитика видео на YouTube: YouTube Analytics, Google Analytics и Google Tag Manager](https://megamozg.ru/company/wargaming/blog/23892/)
 
  - [Google Analytics для SMM. Что смотреть и как настроить?](https://spark.ru/startup/kuku/blog/13915/google-analytics-dlya-smm-chto-smotret-i-kak-nastroit)
- - [Automatic + enhanced analytics.js tracking for common user interactions](https://github.com/googleanalytics/autotrack)
 
- - [Какой сервис статистики стоит использовать для мобильной игры](https://vc.ru/p/problem-10293)
- - [Какие сервисы аналитики вы используете в компании](https://vc.ru/p/problem-14616)
-
+#### :star: Youtube video
  - [:star: Google Analytics Academy](https://analyticsacademy.withgoogle.com/explorer)
  - [:star: Google Analytics Youtube](https://www.youtube.com/user/googleanalytics/playlists)
+ - [:star: Основы Google Analytics и Google Tag Manager 2015. Все части](https://www.youtube.com/playlist?list=PLc3HbRI7hx8YlAtDXDHVILK8ru4Epsm61)
+
+### Tracking tools
+ - [Track the sources of your traffic sourcebuster - javascript](https://github.com/alexfedoseev/sourcebuster-js)
+ - [How to track Facebook Share button in Google Analytics (analytics.js)](http://stackoverflow.com/questions/32481289/how-to-track-facebook-share-button-in-google-analytics-analytics-js)
+ - [Automatic + enhanced analytics.js tracking for common user interactions](https://github.com/googleanalytics/autotrack)
 
 ### Mobile Analytics Tools
  - [mix panel](https://mixpanel.com/)
  - [segment.io](http://segment.io)
+ - [Какой сервис статистики стоит использовать для мобильной игры](https://vc.ru/p/problem-10293)
+ - [Какие сервисы аналитики вы используете в компании](https://vc.ru/p/problem-14616)
 
 #### Базовые вещи
  - [Как считать LTV (Lifetime Value) - базово](http://blog.cubeline.ru/posts/kak-schitat-ltv-lifetime-value.html)

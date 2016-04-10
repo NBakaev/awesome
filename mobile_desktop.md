@@ -1,6 +1,9 @@
 # Mobile and Cross-platform Development
+Create mobile applications on Android and iOS
 
 ## Cordova & PhoneGap
+Cross-platform development with JavaScript
+
  - [Сборка нативных приложений в ExtJS 6](http://habrahabr.ru/post/270343/)
  - [Десктопные приложения на JavaScript. Часть 1](http://habrahabr.ru/post/272389/)
  - [WordPress Hybrid Client: WordPress Powered iOS/Android Apps](http://www.sitepoint.com/wordpress-hybrid-client-wordpress-powered-ios-android-apps/)
@@ -19,6 +22,8 @@
         https://github.com/phonegap-build/PushPlugin
 
 ## Electron
+Cross-platform development with JavaScript
+
 - [Electron: Cross-platform Desktop Apps Made Easy](http://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easy)   
 - [Built on Electron](http://electron.atom.io/#built-on-electron)
 

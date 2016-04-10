@@ -25,7 +25,6 @@
  - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696)
  - [Опыт Buzzfeed: 3 правила работы с email-рассылками](https://vc.ru/p/guide-to-sending-emails)
  - [Интерфейсы: Как создавать формы для подписки на email-рассылку и оповещения](http://habrahabr.ru/company/pechkin/blog/274161/)
- - [Вёрстка писем: 60 полезных ресурсов, руководств и исследований](https://spark.ru/startup/pechkin-mail/blog/13313/vyorstka-pisem-60-poleznih-resursov-rukovodstv-i-issledovanij)
  - [Вёрстка писем: 60 полезных ресурсов, руководств и исследований](http://habrahabr.ru/company/pechkin/blog/273677/)
  - [Гид по email рассылкам для e-commerce](https://megamozg.ru/company/sendpulse/blog/22570/)
 

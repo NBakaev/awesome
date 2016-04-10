@@ -15,11 +15,6 @@
  - [Codesign.io – архитектура которая работает](http://habrahabr.ru/post/271461/)
  - [:star: Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
 
-## DSL
- - [Domain-Specific Languages](http://docs.groovy-lang.org/docs/latest/html/documentation/core-domain-specific-languages.html)
- - [Groovy как скриптовый язык и DSL для Java](http://habrahabr.ru/post/145138/)
- - [Java DSL for Spring Integration 1.1 GA is Available](https://spring.io/blog/2015/09/22/java-dsl-for-spring-integration-1-1-ga-is-available)
-
 ## Шаблонизаторы
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
  - [Handlebars. Руководство к действию, habr](http://habrahabr.ru/post/273581/)
@@ -66,6 +61,13 @@
  - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
  - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
 
+## nashorn - new javascript engine in java 8
+ - https://github.com/javadelight/delight-nashorn-sandbox
+ - https://habrahabr.ru/post/195870/
+ - https://habrahabr.ru/post/195870/
+ - http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution
+ - http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/
+
 ## Java
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)
@@ -77,10 +79,14 @@
  - [DTO vs POCO vs Value Object](http://habrahabr.ru/post/268371/)
 
 ### java money
+Do not use float/double to store money in java
+
  - [Type Safety and Money](http://verraes.net/2016/02/type-safety-and-money/)
  - [Go for the Money! JSR 354 Adds First Class Money and Currency Support to Java](http://www.infoq.com/articles/JSR-354-Java-Money-Currency-API)
 
 ## Spring
+Spring framework & spring boot & microservices
+
  - [ :star: SPRING INITIALIZR](http://start.spring.io/)
  - [ :star: This is a sample application created with JHipster](https://github.com/jhipster/jhipster-sample-app)
  - [ :star: Small test RESTful app with token based security](https://github.com/virgo47/restful-spring-security)
@@ -95,6 +101,7 @@
  - [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
 
 ## Шаблоны документов
+Create reports in .pdf .doc .xlsx
 
 ### Java jaspers
 - [jaspersoft.com](http://community.jaspersoft.com/)
@@ -139,6 +146,15 @@
  - [10 атак на веб-приложения в действии](https://habrahabr.ru/company/ua-hosting/blog/272205/)
  - [Вся правда об XSS или Почему межсайтовое выполнение сценариев не является уязвимостью?](http://habrahabr.ru/post/149152/)
 
-#### двухфакторная аутентификация
+#### Java & Spring authentication
+- http://blog.jdriven.com/2014/10/stateless-spring-security-part-2-stateless-authentication/
+- http://spring.io/blog/2015/02/03/sso-with-oauth2-angular-js-and-spring-security-part-v
+
+#### Двухфакторная аутентификация
  - https://code.google.com/p/vellum/wiki/GoogleAuthenticator
  - https://code.google.com/p/vellum/source/browse/#svn%2Ftrunk%2Fsrc%2Fvellumdemo%2Ftotp
+
+## DSL
+ - [Domain-Specific Languages](http://docs.groovy-lang.org/docs/latest/html/documentation/core-domain-specific-languages.html)
+ - [Groovy как скриптовый язык и DSL для Java](http://habrahabr.ru/post/145138/)
+ - [Java DSL for Spring Integration 1.1 GA is Available](https://spring.io/blog/2015/09/22/java-dsl-for-spring-integration-1-1-ga-is-available)

@@ -1,5 +1,7 @@
 # Online marketing & advert
 
+- [:star: Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
+
 ### target.my.com
  - [ https://target.my.com]( https://target.my.com)
  - [Настройка ретаргетинга (ремаркетинга) в myTarget, Таргет Mail.Ru. Пошаговое руководство](http://www.shopolog.ru/metodichka/customer-retention/nastroyka-retargetinga-remarketinga-v-mytarget-target-mail-ru-poshagovoe-rukovodstvo/?utm_content=bufferb5f87)

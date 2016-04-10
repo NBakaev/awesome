@@ -16,10 +16,6 @@
  - [Проблемы разграничения доступа на основе списка доступа в ECM системах](https://habrahabr.ru/post/277111/)
  - [Приложения в СЭД. Часть 3: Контекстно-ролевая модель документа, права и оптимальный интерфейс для работы с документами](https://habrahabr.ru/company/docsvision/blog/275871/)
 
-## :star: Видео
-- [Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
-- [Основы Google Analytics и Google Tag Manager 2015. Все части - youtube](https://www.youtube.com/playlist?list=PLc3HbRI7hx8YlAtDXDHVILK8ru4Epsm61)
-
 #### CRM
  - [Zoho CRM](https://www.zoho.com/crm/)
  - [salesforce](https://www.salesforce.com/)

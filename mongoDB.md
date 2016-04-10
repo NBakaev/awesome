@@ -1,4 +1,6 @@
-# MongoDB - NoSQL база данных
+# MongoDB
+NoSQL база данных
+
  - [Setting up sharded mongodb cluster in localhost](http://www.javacodegeeks.com/2015/02/setting-up-sharded-mongodb-cluster-in-localhost.html)
 
 ### Using MongoDB with Hadoop & Spark
@@ -14,15 +16,18 @@
  - [2](https://www.mongodb.com/presentations/mongodb-time-series-data-part-2-analyzing-time-series-data-using-aggregation-framework)
  - [3](https://www.mongodb.com/presentations/mongodb-time-series-data-part-3-sharding)
 
+###
  - [mongochef - MongoDB gui](http://3t.io/blog/mongodb-aggregation-queries-easily-mongochef/)
  - [MongoDB on AWS Guidelines and Best Practices ](http://d0.awsstatic.com/whitepapers/AWS_NoSQL_MongoDB.pdf)
  - [On Selecting a Shard Key for MongoDB](https://www.mongodb.com/blog/post/on-selecting-a-shard-key-for-mongodb)
 
+###
  - [Шпаргалка по mongodb: e-commerce, миграция, часто применяемые операции и немного о транзакциях, habr](http://habrahabr.ru/post/259219/)
  - [:star: Примеры использования MongoDB в e-commerce (часть 2), habr](http://habrahabr.ru/post/260291/)
  - [MongoDB: Запросы, habr](http://habrahabr.ru/post/134590/)
  - [Map-Reduce на примере MongoDB](http://habrahabr.ru/post/184130/)
 
+###
  - [install-mongodb-on-ubuntu](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/)
  - [Configuration File Options](http://docs.mongodb.org/manual/reference/configuration-options/#dbpath)
  - [Mongo Db x509 auth](http://docs.mongodb.org/manual/tutorial/configure-x509-client-authentication/#x509-client-authentication)

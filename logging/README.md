@@ -10,6 +10,11 @@
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/logging/newrelic/newrelic.md)   
 - [logentries](https://github.com/NBakaev/awesome/blob/master/logging/logentries/README.md)   
 
+### ELK stack
+ - Elastic search
+ - Logstash
+ - Kibana
+
 #####
  - [Using elasticsearch, logstash & kibana to create realtime dashboards](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
  - [Собираем, парсим и отдаём логи с помощью Logstash tutorial, habr](http://habrahabr.ru/post/165059/)
