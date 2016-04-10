@@ -14,6 +14,8 @@
  - [calibre 64bit - E-book management](https://calibre-ebook.com/download_windows64)
  - [Arq Backup - Back up your Mac or PC to your Dropbox, OneDrive, Google Drive, AWS S3, Glacier or Google Cloud Storage account](https://www.arqbackup.com/)
  - [massvideoblasterpro - Upload your YouTube videos like a real PRO](http://massvideoblasterpro.com/)
+ - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)
+ - [Mindjet MindManager 15 - Productivity & Creativity Meet in Mind Maps](https://www.mindjet.com/mindmanager/)
 
 ### Display / remote control
 - [duetdisplay - use you ipad as a second screen for computer](http://www.duetdisplay.com/ru/)
@@ -23,12 +25,18 @@
 - [TeamViewer – решение для удалённого доступа и поддержки через Интернет](https://www.teamviewer.com/ru/)
 
 ## Development
-- [Atom - text editor](https://atom.io/)
 - [Cyberduck - ftp/sftp/s3/webdav ... client](https://cyberduck.io/)
 - [WinSCP - ftp/sftp client](https://winscp.net/eng/docs/lang:ru)
+- [Araxis Merge - 2 and 3-way file comparison (diff)](http://www.araxis.com/merge/index.en)
+
+### Database
 - [Navicat Premium - database client](http://www.navicat.com/products/navicat-premium)
 - [MongoChef - mongodb gui](http://3t.io/mongochef/)
-- [Araxis Merge - 2 and 3-way file comparison (diff)](http://www.araxis.com/merge/index.en)
+
+### IDE / Code editors
+- [Atom - text editor](https://atom.io/)
+- [sublimetext](https://www.sublimetext.com/)
+- [Intellij idea](https://www.jetbrains.com/idea/)
 
 ### Git
 - [SourceTree - Git Gui](https://www.sourcetreeapp.com/)
@@ -57,6 +65,7 @@
 ## Virtualization
  - [VMware Workstation](http://www.vmware.com/ru/products/workstation)
  - [VirtualBox](https://www.virtualbox.org/)
+ - [Vagrant](https://www.vagrantup.com/)
 
 ## Business Intelligence and Data Analysis and Visualization
  - [TIBCO Spotfire](http://spotfire.tibco.com/)

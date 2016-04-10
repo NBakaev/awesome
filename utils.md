@@ -1,4 +1,5 @@
 # CMD utils
+Just some common used snippets and utils
 
 ### Pandoc
 Convert markdown to doc/pdf... with http://pandoc.org/
@@ -30,7 +31,7 @@ This may fix the thing ;)
 ### Disable Windows 10 spy / tracking / telemetry
 
  - http://wintoflash.com/forum/viewtopic.php?f=7&t=42296&p=48250
- - https://nnm-club.me/forum/viewtopic.php?t=926567&start=45
+ - https://nnmclub.to/forum/viewtopic.php?t=926567&start=45
  - http://habrahabr.ru/company/pt/blog/264763/
 
 ### Save positions in video VLC

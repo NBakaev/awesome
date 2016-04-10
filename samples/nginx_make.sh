@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This script create deb package of nginx.
+
 # Установка модуля pagespeed для Nginx на Debian 6
 # http://habrahabr.ru/post/214095/
 #

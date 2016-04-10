@@ -22,6 +22,8 @@
  - [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
 
 ## Template engine
+Server-side HTML page rendering
+
  - [:star: thymeleaf](http://www.thymeleaf.org/)
  - velocity
  - freemarker
@@ -34,6 +36,8 @@
  - https://www.pubnub.com/
 
 ## :star: RxJava
+Reactive programming
+
  - [Грокаем RxJava, часть первая: основы](http://habrahabr.ru/post/265269/)
  - [Грокаем RxJava, часть вторая: Операторы ](http://habrahabr.ru/post/265583/)
  - [Грокаем RxJava, часть третья: Реактивность с пользой](http://habrahabr.ru/post/265727/)
@@ -61,7 +65,9 @@
  - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
  - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
 
-## nashorn - new javascript engine in java 8
+## nashorn
+ New javascript engine in java 8
+
  - https://github.com/javadelight/delight-nashorn-sandbox
  - https://habrahabr.ru/post/195870/
  - https://habrahabr.ru/post/195870/
@@ -111,6 +117,8 @@ Create reports in .pdf .doc .xlsx
 - [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
 
 ### DynamicReports
+Very Complex report engine for java
+
  - [DynamicReports - free and open source Java reporting tool](http://www.dynamicreports.org/examples/examples-overview)
  - [DynamicReports and JasperReports with JSF, Servlet and CDI](https://www.javacodegeeks.com/2016/02/dynamicreports-jasperreports-jsf-servlet-cdi.html)
 
@@ -120,6 +128,8 @@ Create reports in .pdf .doc .xlsx
  - [iText Barcode Example](http://examples.javacodegeeks.com/core-java/itext-barcode-example)
 
 ## Java profiling
+Performance, APM
+
  - [Monitoring and Management](http://www.javacodegeeks.com/2015/09/monitoring-and-management.html)
  - [yourkit - java profiler](https://www.yourkit.com/java/profiler/features/)
  - [Flight recorder Oracle profiler](http://www.oracle.com/technetwork/java/embedded/resources/tech/java-flight-rec-on-java-se-emb-8-2158734.html)

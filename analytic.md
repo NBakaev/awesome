@@ -1,4 +1,6 @@
 ## Веб-аналитика
+Google Analytics, Metrics, KPIs, Conversions etc...
+
  - [Чек-лист по Google Analytics. Основные настройки](https://www.ru.advertisercommunity.com/t5/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82-%D0%BF%D0%BE-Google-Analytics-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8/ba-p/112787#)
  - [Персональная веб-аналитика. Знайте о своих клиентах всё!](http://blog.cubeline.ru/posts/personalnaja-web-analytica.html)
  - [4 способа получить cid (Client ID) пользователя Google Analytics](https://www.ru.adwords-community.com/t5/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/4-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-cid-Client-ID-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-Google-Analytics/ba-p/109199#)
@@ -49,6 +51,8 @@
  - [EBITDA](https://ru.m.wikipedia.org/wiki/EBITDA)
 
 ### A/B тест
+Tools to compare and choose page or fragment with best conversion rate
+
   - [optimizely.com](https://www.optimizely.com/)
   - [10 ошибок сплит-тестирования, которые дорого вам обойдутся, lpgenerator](http://lpgenerator.ru/blog/2015/03/23/10-oshibok-split-testirovaniya-kotorye-dorogo-vam-obojdutsya/?utm_content=buffer246b4)
   - [Основные принципы A/B тестирования ,megamozg.ru](http://megamozg.ru/post/8576/)

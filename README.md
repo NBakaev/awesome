@@ -3,6 +3,8 @@
 ## Категории
 
 ### Development
+Списки технчиеских статей и заметок, связанных с разработкой ПО
+
 - [QA - тестирование ПО](https://github.com/NBakaev/awesome/blob/master/QA.md)
 - [Backend - серверная разработка ПО](https://github.com/NBakaev/awesome/blob/master/backend.md)
 - [DevOPS - Docker, Clustering...](https://github.com/NBakaev/awesome/blob/master/devOPS.md)
@@ -19,8 +21,10 @@
 - [REST / API / Documentation](https://github.com/NBakaev/awesome/blob/master/backend_rest_api_documentation.md)
 
 ### Business
-- [Аналитика; Веб-аналитика](https://github.com/NBakaev/awesome/blob/master/analytic.md)
-- [Business Intelligence; Data Science](https://github.com/NBakaev/awesome/blob/master/data_processing_bi.md)
+Списки статей, связанных с аналитикой, интернет-маркетингом, разработки продуктов, работе в командах и смежными темами
+
+- [Аналитика / Веб-аналитика](https://github.com/NBakaev/awesome/blob/master/analytic.md)
+- [Business Intelligence / Data Science](https://github.com/NBakaev/awesome/blob/master/data_processing_bi.md)
 - [CRM / ERP / Task management / Business soft](https://github.com/NBakaev/awesome/blob/master/crm_erp_business_soft.md)
 - [Email маркетинг](https://github.com/NBakaev/awesome/blob/master/email.md)     
 - [Marketing](https://github.com/NBakaev/awesome/blob/master/marketing.md)   
@@ -28,9 +32,11 @@
 - [Workflow](https://github.com/NBakaev/awesome/blob/master/workflow.md)   
 
 ### Other
-- [Подкасты](https://github.com/NBakaev/awesome/blob/master/podcasts.md)     
+Категория общей направленности для всех
+
+- [:star: Подкасты](https://github.com/NBakaev/awesome/blob/master/podcasts.md)     
 - [Софт](https://github.com/NBakaev/awesome/blob/master/soft.md)   
-- [Сервисы, SaaS](https://github.com/NBakaev/awesome/blob/master/web_services.md)   
+- [:star: Сервисы, SaaS](https://github.com/NBakaev/awesome/blob/master/web_services.md)   
 
 ## Awesome
   Коллекции современных и полезных утилит/программ/библиотек/фреймворков

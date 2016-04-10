@@ -7,7 +7,7 @@
 - [NGINX Open Source 1.9.5 Released with HTTP/2 Support](https://www.nginx.com/blog/nginx-1-9-5/)
 - [Антипаттерны HTTP/2 - Google Slides](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
 - [Полезные сниппеты для Nginx конфигов](http://habrahabr.ru/post/272381/)
-- [deb nginx from sources](https://github.com/NBakaev/awesome/blob/master/web_servers/nginx-server-make/README.md)   
+- [:star: create nginx deb package from sources](https://github.com/NBakaev/awesome/blob/master/samples/nginx_make.sh)   
 
 ### Load-balancing
  - [AWS ELB vs HAProxy: which works best for you](http://cloudacademy.com/blog/aws-elb-vs-haproxy/)
