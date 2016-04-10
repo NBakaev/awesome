@@ -98,6 +98,7 @@
 
 ### Java jaspers
 - [jaspersoft.com](http://community.jaspersoft.com/)
+- [IDE: TIBCO Jaspersoft Studio The Eclipse-based Report Development Tool for JasperReports and JasperReports Server](http://community.jaspersoft.com/project/jaspersoft-studio/releases)
 - [JasperReports® Library Open Source Java Reporting Library](http://community.jaspersoft.com/project/jasperreports-library/resources)
 - [JasperReports & iReport](http://www.quizful.net/post/jasperreports-and-ireports)
 - [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
