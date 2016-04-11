@@ -6,6 +6,10 @@
  - [splunk.com - Operational Intelligence, Log Management, Application Management, Enterprise Security and Compliance](http://www.splunk.com/)
  - [Papertrail - cloud-hosted log management, live in seconds](https://papertrailapp.com/)
 
+## :star: Monitoring
+- [Cloud Monitoring as a Service](https://www.datadoghq.com/)
+- [Application Performance Management & Monitoring](http://newrelic.com/)
+
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/logging/newrelic/newrelic.md)   
 - [logentries](https://github.com/NBakaev/awesome/blob/master/logging/logentries/README.md)   

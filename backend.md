@@ -35,8 +35,9 @@ Server-side HTML page rendering
  - http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
  - https://www.pubnub.com/
 
-## :star: RxJava
-Reactive programming
+## Reactive programming
+
+### :star: RxJava
 
  - [Грокаем RxJava, часть первая: основы](http://habrahabr.ru/post/265269/)
  - [Грокаем RxJava, часть вторая: Операторы ](http://habrahabr.ru/post/265583/)
@@ -50,6 +51,10 @@ Reactive programming
  - [Введение в RxJava: Жизненный цикл подписки](http://habrahabr.ru/post/270975/)
  - [Parallel execution of blocking tasks with RxJava and Completable](https://www.javacodegeeks.com/2016/03/parallel-execution-blocking-tasks-rxjava-completable.html)
  - [rxmarbles - Interactive diagrams of Rx Observables](http://rxmarbles.com/)
+
+###
+ - [Vert.x is a tool-kit for building reactive applications on the JVM.](http://vertx.io/Vert.x is a tool-kit for building reactive applications on the JVM.)
+ - [javaslang, github](https://github.com/javaslang/javaslang)
 
 ## Testing
  - [JUnit Test Suite Example](http://examples.javacodegeeks.com/core-java/junit/junit-test-suite-example)
@@ -77,7 +82,6 @@ Reactive programming
 ## Java
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)
- - [javaslang, github](https://github.com/javaslang/javaslang)
  - [Getting started with Spark: it is possible to create lightweight RESTful application also in Java](http://www.javacodegeeks.com/2015/08/getting-started-with-spark-it-is-possible-to-create-lightweight-restful-application-also-in-java.html)
  - [Подготовка к экзамену Oracle Java SE 7 Programmer II (1Z0-804) , habr](http://habrahabr.ru/post/190834/)
  - [Обработка строк в Java. Часть II: Pattern, Matcher tu, habr](http://habrahabr.ru/post/260773/)
@@ -89,6 +93,7 @@ Do not use float/double to store money in java
 
  - [Type Safety and Money](http://verraes.net/2016/02/type-safety-and-money/)
  - [Go for the Money! JSR 354 Adds First Class Money and Currency Support to Java](http://www.infoq.com/articles/JSR-354-Java-Money-Currency-API)
+ - [Картинка: monetary_amount_java](https://raw.githubusercontent.com/NBakaev/awesome/master/_images/monetary_amount_java.png)
 
 ## Spring
 Spring framework & spring boot & microservices

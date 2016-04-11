@@ -56,6 +56,10 @@ chown root.root /etc/security/cacerts/5ed36f99.0
 chmod 644 /etc/security/cacerts/5ed36f99.0
 ```
 
+#### Chrome allow-running-insecure-content
+
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --allow-running-insecure-content --ignore-certificate-errors
+
 ### Downlaod from coursera
 https://class.coursera.org/econometrics-001/lecture
 

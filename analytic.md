@@ -38,6 +38,12 @@ Google Analytics, Metrics, KPIs, Conversions etc...
  - [How to track Facebook Share button in Google Analytics (analytics.js)](http://stackoverflow.com/questions/32481289/how-to-track-facebook-share-button-in-google-analytics-analytics-js)
  - [Automatic + enhanced analytics.js tracking for common user interactions](https://github.com/googleanalytics/autotrack)
 
+#### fingerprint browser
+ - http://net.ipcalf.com/
+ - https://github.com/Valve/fingerprintjs2
+ - https://www.browserleaks.com/canvas
+ - [snowplow - General parameters for the Javascript tracker](https://github.com/snowplow/snowplow/wiki/1-General-parameters-for-the-Javascript-tracker)
+
 ### Mobile Analytics Tools
  - [mix panel](https://mixpanel.com/)
  - [segment.io](http://segment.io)

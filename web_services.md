@@ -1,4 +1,5 @@
 ## Asana
+Task manager
  - [Asana в деталях, и как ее использовать](http://megamozg.ru/post/1700/)
  - [https://github.com/jlinn/asana-api-java](https://github.com/jlinn/asana-api-java)
  - [OAuth for developers](https://asana.com/developers/documentation/getting-started/auth)
@@ -19,7 +20,8 @@ Connect one system with another, usually without coding and using API
 
 ## Popular
  - [Google Apps for Work – Gmail, Google Drive, Calendar... with admin control users](https://apps.google.com/)
- - [Яндекс Почта для Доменов](http://pdd.yandex.ru)
+ - [Яндекс - Почта для Доменов](http://pdd.yandex.ru)
+ - [mail.ru - Почта для Доменов](https://biz.mail.ru/)
  - [Google Тренды](http://www.google.ru/trends/explore#cmpt=q)
 
 ## Зарубежные сервисы
@@ -33,6 +35,8 @@ Connect one system with another, usually without coding and using API
  - [airtable - custom object - b2c](https://airtable.com/)
  - [intercom.io/developers](https://www.intercom.io/developers)
  - [crunchbase](https://www.crunchbase.com/)
+ - [:star: SimilarWeb - Website Traffic & Mobile App Analytics](https://www.similarweb.com/)
+ - [Slack: Be less busy](http://slack.com)
 
 ## Business intelligence (BI)
 - [dasheroo.com - dashboard, графики, панели управлени FB, twitter...](http://www.dasheroo.com/blog/new-release-pinterest-analytics-for-your-dasheroo-dashboard/)

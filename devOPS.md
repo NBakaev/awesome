@@ -33,6 +33,12 @@
   - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
   - [Bash скрипт для создания архива данных, habr](http://habrahabr.ru/post/266597/)
 
+## Backup
+  - https://thomassileo.name/blog/2013/03/21/backing-up-mongodb-to-amazon-glacier-slash-s3-with-python-using-sh-and-bakthat/
+  - https://gist.github.com/keithics/fd53431b6f57014249ca
+  - https://github.com/vsespb/mt-aws-glacier
+  - [backupify.com - бэкап гугл аккаунтов (почта... файлы)](https://www.backupify.com/)
+
 ## Docker
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [MONGODB & DOCKER – PART 1](http://jam.sg/blog/mongodb-docker-part-1/)
