@@ -9,6 +9,8 @@
 ## :star: Monitoring
 - [Cloud Monitoring as a Service](https://www.datadoghq.com/)
 - [Application Performance Management & Monitoring](http://newrelic.com/)
+- [Getting Started with Web Application Monitoring](http://www.sitepoint.com/guide-monitoring-web-applications/)
+- [Apdex (Application Performance Index)](https://en.wikipedia.org/wiki/Apdex)
 
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/logging/newrelic/newrelic.md)   

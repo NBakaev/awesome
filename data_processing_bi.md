@@ -10,12 +10,30 @@
 - [Профессия Data Scientist: общие сведения и основные сложности, с которыми сталкиваются «ученые по данным»](http://habrahabr.ru/company/1cloud/blog/270347/)
 - [Исследование результатов ЕГЭ, ГИА и олимпиад для московских школ. Из каких школ в какие ВУЗы поступают](http://habrahabr.ru/post/270675/)
 - [swirl: стремительное погружение в R (learning by doing)](http://habrahabr.ru/post/271265/)
+- [Визуализация статических и динамических сетей на R, часть 1](https://habrahabr.ru/company/infopulse/blog/262079/)
+- [Визуализация статических и динамических сетей на R, часть 3](https://habrahabr.ru/company/infopulse/blog/263953/)
+- [Визуализация статических и динамических сетей на R, часть 4](https://habrahabr.ru/company/infopulse/blog/266199/)
+- [Визуализация статических и динамических сетей на R, часть 5](https://habrahabr.ru/company/infopulse/blog/266285/)
+
+## :star: Hadoop & Big Data
+ - [Big Data от А до Я. Часть 1: Принципы работы с большими данными, парадигма MapReduce](https://habrahabr.ru/company/dca/blog/267361/)
+ - [Big Data от А до Я. Часть 2: Hadoop](https://habrahabr.ru/company/dca/blog/268277/)
+ - [Big data от А до Я. Часть 3: Приемы и стратегии разработки MapReduce-приложений](https://habrahabr.ru/company/dca/blog/270453/)
+ - [Big Data от А до Я. Часть 4: Hbase](https://habrahabr.ru/company/dca/blog/280700/)
+ - [Yo, Tableau Web Data Connector!](https://www.eric.pe/terson/engineers/a-tableau-web-data-connector-generator)
+ - [12 Open-Source Tools for Hadoop Technology](http://codecondo.com/12-open-source-tools-hadoop-technology/)
 
 ## Business intelligence (BI)
  - [How to share data with a statistician](https://github.com/jtleek/datasharing)
  - [Data manipulation, munging, and processing in JavaScript](http://learnjsdata.com/index.html)
  - [:star: DataTalks, wargaming youtube](http://www.youtube.com/playlist?list=PL0QujlH3yeFul76dbakGlRC0Wlnd8pXS-)
  - [Утилиты командной строки могут быть в 235-раз быстрее вашего Hadoop кластера](http://habrahabr.ru/post/267697/)
+
+### Data Warehouse
+ - [Amazon Kinesis Firehose – Simple & Highly Scalable Data Ingestion](https://aws.amazon.com/ru/blogs/aws/amazon-kinesis-firehose-simple-highly-scalable-data-ingestion/)
+ - [Amazon launches Kinesis Firehose, a tool for sending streaming data into the cloud](http://venturebeat.com/2015/10/07/aws-launches-kinesis-firehose-a-tool-to-load-streaming-data-into-the-cloud/)
+ - [Expanding the Cloud: Introducing Amazon QuickSight](http://www.allthingsdistributed.com/2015/10/amazon-quicksight.html)
+ - [segment.com - Track your customer data to Amazon Redshift](https://segment.com/redshift)
 
 ### PowerBI - microsoft Business Intelligence
 - [powerbi.microsoft.com/ru-ru/](https://powerbi.microsoft.com/ru-ru/)
@@ -32,3 +50,4 @@
  - [http://d3js.org/](http://d3js.org/)
  - [Data visualization, github](https://github.com/showcases/data-visualization)
  - [ECharts](http://ecomfe.github.io/echarts/doc/example-en.html)
+ - [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)

@@ -24,9 +24,22 @@ Google Analytics, Metrics, KPIs, Conversions etc...
  - [Использование Google Analytics в играх](https://habrahabr.ru/company/plarium/blog/273113/)
  - [Умные цели в Google Analytics](https://www.ru.advertisercommunity.com/t5/Stati/Umnye-tseli-v-Google-Analytics/ba-p/116704#)
 
+ - [Формирование отчета по многоканальным последовательностям в Google Analytics](http://www.searchengines.ru/articles/formirovanie_ot.html)
+ - [segment.com - Google Analytics Integration](https://segment.com/docs/integrations/google-analytics/)
+
+ - [Measurement Protocol — просто о несложном](https://habrahabr.ru/post/222169/)
+ - [:star: Core Reporting API: руководство для разработчиков - Analytics Core Reporting API - Google Developers](https://developers.google.com/analytics/devguides/reporting/core/v3/coreDevguide#working)
+
  - [Аналитика видео на YouTube: YouTube Analytics, Google Analytics и Google Tag Manager](https://megamozg.ru/company/wargaming/blog/23892/)
+ - [Google Analytics для контентных проектов: Как отслеживать глубину просмотра статей и время визита](https://vc.ru/p/content-analytics)
+
+ - [The 10 Best Analytics Tools for Product Managers](http://codecondo.com/best-analytics-tools-for-product-managers/)
+ - [27 Tools for the Modern Marketer](http://webdam.com/blog/27-tools-for-the-modern-marketer)
 
  - [Google Analytics для SMM. Что смотреть и как настроить?](https://spark.ru/startup/kuku/blog/13915/google-analytics-dlya-smm-chto-smotret-i-kak-nastroit)
+ - [Google Analytics - stackoverflow.com - Tagged Questions](http://stackoverflow.com/questions/tagged/google-analytics)
+
+ - [Импорт данных: руководство для разработчиков](https://developers.google.com/analytics/devguides/config/mgmt/v3/mgmtDataImport)
 
 #### :star: Youtube video
  - [:star: Google Analytics Academy](https://analyticsacademy.withgoogle.com/explorer)
@@ -37,18 +50,24 @@ Google Analytics, Metrics, KPIs, Conversions etc...
  - [Track the sources of your traffic sourcebuster - javascript](https://github.com/alexfedoseev/sourcebuster-js)
  - [How to track Facebook Share button in Google Analytics (analytics.js)](http://stackoverflow.com/questions/32481289/how-to-track-facebook-share-button-in-google-analytics-analytics-js)
  - [Automatic + enhanced analytics.js tracking for common user interactions](https://github.com/googleanalytics/autotrack)
+ - [How to track Facebook Share button in Google Analytics (analytics.js)](http://stackoverflow.com/questions/32481289/how-to-track-facebook-share-button-in-google-analytics-analytics-js)
+ - [18 незаменимых плагинов для работы с Google Analytics](http://www.searchengines.ru/articles/18_nezamenimykh_plug_ga.html)
 
 #### fingerprint browser
  - http://net.ipcalf.com/
  - https://github.com/Valve/fingerprintjs2
  - https://www.browserleaks.com/canvas
  - [snowplow - General parameters for the Javascript tracker](https://github.com/snowplow/snowplow/wiki/1-General-parameters-for-the-Javascript-tracker)
+ - [Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kinesis, Redshift and Elasticsearch http://snowplowanalytics.com](https://github.com/snowplow/snowplow)
 
-### Mobile Analytics Tools
+### Analytics Tools
  - [mix panel](https://mixpanel.com/)
  - [segment.io](http://segment.io)
  - [Какой сервис статистики стоит использовать для мобильной игры](https://vc.ru/p/problem-10293)
  - [Какие сервисы аналитики вы используете в компании](https://vc.ru/p/problem-14616)
+ - [Сравнение систем мобильной аналитики: Mixpanel, Amplitude, Flurry, Localytics](https://vc.ru/p/mixpanel-flurry)
+ - [Сравнение систем аналитики для игровых проектов — MixPanel, Localytics, Flurry, devtodev, deltaDNA и GameAnalytics](https://vc.ru/p/game-analytics)
+ - [Иван Никитин: «Сравнение популярных систем аналитики на сайте»](http://www.searchengines.ru/articles/ivan_nikitin_sravn.html)
 
 #### Базовые вещи
  - [Как считать LTV (Lifetime Value) - базово](http://blog.cubeline.ru/posts/kak-schitat-ltv-lifetime-value.html)

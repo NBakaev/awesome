@@ -4,6 +4,7 @@
  - [Автоматизация тестирования Java EE веб-сервисов с помощью SoapUI и Arquillian](http://habrahabr.ru/post/267301/)
  - [Selenium Installation Example](https://examples.javacodegeeks.com/enterprise-java/selenium/selenium-installation-example)
  - [Postman - REST/swagger API client](https://www.getpostman.com/)
+ - [Diffy: Testing services without writing tests](https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests)
 
 ### JMeter
 - [JMeter Throughput Example](http://examples.javacodegeeks.com/enterprise-java/apache-jmeter/jmeter-throughput-example)

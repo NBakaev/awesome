@@ -59,6 +59,11 @@
  - [Обзор и видео докладов по информационной безопасности с конференции SECR-2014б habr](http://habrahabr.ru/post/263591/)  
  - [Confluence в жизни аналитика — Часть 1](http://analyst.by/rmt/confluence-v-zhizni-analitika-chast-1)
  - [markdown emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/)
+ - [Design Documents - The Chromium Projects](http://www.chromium.org/developers/design-documents)
+
+ - [20 BEST CODE REVIEW TOOLS FOR DEVELOPERS](http://www.devstrend.com/20-best-code-review-tools-for-developers/)
+ - [Sandstorm.io - is an open source platform for servers](https://apps.sandstorm.io/)
+ - [12 Best Online Form Builders for your website](http://codecondo.com/12-best-online-form-builders-for-your-website/)
 
 ### Git / Git flow
  - [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
@@ -67,6 +72,10 @@
  - https://github.com/bobthecow/git-flow-completion
  - [19 Tips For Everyday Git Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
  - [19 советов по повседневной работе с Git](https://habrahabr.ru/company/mailru/blog/267595/)
+ - [GitFlow и Semantic Versioning на каждый день](https://habrahabr.ru/post/267889/)
+ - [How to Create an Open Source Directory on GitHub Pages](http://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
+ - [Git Remove Commit Example](https://examples.javacodegeeks.com/software-development/git/git-remove-commit-example)
+ - [Git Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
 
 ## Education courses
  - [Course dicsounts](http://udemycoupon.discountsglobal.com/?s=salesforce)

@@ -16,6 +16,7 @@
  - [massvideoblasterpro - Upload your YouTube videos like a real PRO](http://massvideoblasterpro.com/)
  - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)
  - [Mindjet MindManager 15 - Productivity & Creativity Meet in Mind Maps](https://www.mindjet.com/mindmanager/)
+ - [SolveigMM Video Splitter - нарезалка видео](http://www.solveigmm.com/ru/products/video-splitter/)
 
 ### Display / remote control
 - [duetdisplay - use you ipad as a second screen for computer](http://www.duetdisplay.com/ru/)
@@ -37,6 +38,7 @@
 - [Atom - text editor](https://atom.io/)
 - [sublimetext](https://www.sublimetext.com/)
 - [Intellij idea](https://www.jetbrains.com/idea/)
+- [Sublime (and Atom) Snippets | Web Shows - Google Developers](https://developers.google.com/web/shows/ttt/series-2/sublime-snippet)
 
 ### Git
 - [SourceTree - Git Gui](https://www.sourcetreeapp.com/)
@@ -50,6 +52,7 @@
  - [Ubuntu: How can I install and use powerline plugin?](http://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin)
  - [babun - windows cygwin](http://babun.github.io/)
  - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
+ - [Plumbum: Shell Combinators and More](http://plumbum.readthedocs.org/en/latest/index.html)
 
 ## Screenshots and screencast
 - [ShareX - Take a screenshot or a screencast](https://getsharex.com/)

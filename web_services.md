@@ -1,4 +1,9 @@
-## Asana
+
+## Task manager
+ - [Issue Tracking and Project Management Tool | YouTrack](https://www.jetbrains.com/youtrack/)
+ - [Jira](https://ru.atlassian.com/software/jira)
+
+### Asana
 Task manager
  - [Asana в деталях, и как ее использовать](http://megamozg.ru/post/1700/)
  - [https://github.com/jlinn/asana-api-java](https://github.com/jlinn/asana-api-java)
@@ -11,18 +16,35 @@ Task manager
 - [Мой Офис - Российский Excel, Word...](http://myoffice.ru/)
 - [:star: :star: Owox - BigQuery, Google Analytics, ROI ](https://www.owox.ru/)
 - [novapress.pro - Менеджер автоматической публикации](http://novapress.pro/)
+- [:star: Контур.Бухгалтерия: расчет зарплаты, ведение бухгалтерии, подготовка и отправка отчетности в ФНС, ПФР, ФСС](http://www.b-kontur.ru/)
+
+### Русские IaaS
+ - [InfoboxCloud](https://infoboxcloud.ru/)
+ - [VPS/VDS хостинг, аренда VPS/VDS сервера от FASTVPS](https://fastvps.ru/)
+
+### :star: Vscale (selectel)
+Хороший аналог digitalocean в России. С курсом рубля - более дешевый
+
+ - [vscale - Облачные серверы для разработчиков](https://vscale.io/ru/)
+ - [Управление серверами Vscale через Ansible](https://habrahabr.ru/company/selectel/blog/274207/)
+
+#### InfoboxCloud
+ - [Разворачиваем блог Ghost в InfoboxCloud](https://habrahabr.ru/company/infobox/blog/266567/)
+ - [Используем официальный docker-образ NGINX в InfoboxCloud: часть 1](https://habrahabr.ru/company/infobox/blog/265231/)
 
 ## Integration
 Connect one system with another, usually without coding and using API
  - [zapier - Five Simple Ways to Improve Team Collaboration](https://zapier.com/blog/teamwork/)
  - [:star: zapier](https://zapier.com/zapbook/)
  - [ifttt - Connect the apps you love](https://ifttt.com/)
+ - [A Hundred and One Integrations With Zapier and Wunderlist](https://www.wunderlist.com/blog/a-hundred-and-one-integrations-with-zapier-and-wunderlist/)
 
 ## Popular
  - [Google Apps for Work – Gmail, Google Drive, Calendar... with admin control users](https://apps.google.com/)
  - [Яндекс - Почта для Доменов](http://pdd.yandex.ru)
  - [mail.ru - Почта для Доменов](https://biz.mail.ru/)
  - [Google Тренды](http://www.google.ru/trends/explore#cmpt=q)
+ - [Полезные инструменты для руководителей бизнеса](https://spark.ru/startup/business-marketing/blog/10712/poleznie-instrumenti-dlya-rukovoditelej-biznesa)
 
 ## Зарубежные сервисы
  - [Sign Documents Online - Build, Deliver & Track Sales Collateral](https://www.pandadoc.com/)
@@ -37,6 +59,8 @@ Connect one system with another, usually without coding and using API
  - [crunchbase](https://www.crunchbase.com/)
  - [:star: SimilarWeb - Website Traffic & Mobile App Analytics](https://www.similarweb.com/)
  - [Slack: Be less busy](http://slack.com)
+ - [backupify.com - бэкап гугл аккаунтов (почта... файлы)](https://www.backupify.com/)
+ - [trello.com](http://trello.com)
 
 ## Business intelligence (BI)
 - [dasheroo.com - dashboard, графики, панели управлени FB, twitter...](http://www.dasheroo.com/blog/new-release-pinterest-analytics-for-your-dasheroo-dashboard/)
@@ -48,6 +72,10 @@ Connect one system with another, usually without coding and using API
 - [iccube - making data talk](www.iccube.com)
 - [ :star: Analytics | KPI Dashboard | Databox](https://databox.com/)
 - [geckoboard.com](http://geckoboard.com)
+- [qlik.com](http://www.qlik.com/)
+- [spagobi | 100% open source Business Intelligence](http://www.spagobi.org/#1)
+- [tibco spotfire](http://www.tibco.com/)
+- [Amazon Launches QuickSight Business Intelligence Service For AWS](http://techcrunch.com/2015/10/07/amazon-launches-quicksight-business-intelligence-service-for-aws/)
 
 ## Web analytics
  - [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/)
@@ -60,6 +88,7 @@ Connect one system with another, usually without coding and using API
 ## Other
  - [Free Automated Malware Analysis Service](https://www.hybrid-analysis.com/sample/f02569b2f13ef05dc9926249d965e5fd4ca722cfd1501783d7f96bd5a32342c9?environmentId=2)
  - [toggl - Toggl - Free Time Tracking Software](https://toggl.com/)
+ - [Proto.io, Pixate, Origami: Обзор инструментов для прототипирования приложений с поддержкой Sketch](https://vc.ru/p/sketch-prototype)
 
 ## Статьи
 - [Доступные интернет ресурсы и инструменты для стартапов](https://megamozg.ru/post/18600/)

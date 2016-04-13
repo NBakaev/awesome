@@ -14,6 +14,7 @@
  - [Highload на Java: о чем нужно помнить](http://habrahabr.ru/post/270059/)
  - [Codesign.io – архитектура которая работает](http://habrahabr.ru/post/271461/)
  - [:star: Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
+ - [WireMock A web service test double for all occasions](http://wiremock.org/running-standalone.html)
 
 ## Шаблонизаторы
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
@@ -70,15 +71,6 @@ Server-side HTML page rendering
  - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
  - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
 
-## nashorn
- New javascript engine in java 8
-
- - https://github.com/javadelight/delight-nashorn-sandbox
- - https://habrahabr.ru/post/195870/
- - https://habrahabr.ru/post/195870/
- - http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution
- - http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/
-
 ## Java
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)
@@ -87,6 +79,18 @@ Server-side HTML page rendering
  - [Обработка строк в Java. Часть II: Pattern, Matcher tu, habr](http://habrahabr.ru/post/260773/)
  - [google java styleguide](http://google.github.io/styleguide/javaguide.html)
  - [DTO vs POCO vs Value Object](http://habrahabr.ru/post/268371/)
+ - [How to deal with subprocesses in Java](http://zeroturnaround.com/rebellabs/how-to-deal-with-subprocesses-in-java/)
+ - [JAVA using google speech recognition API](http://stackoverflow.com/questions/16743533/java-using-google-speech-recognition-api)
+ - [How-to guide to writing a javaagent](http://zeroturnaround.com/rebellabs/how-to-inspect-classes-in-your-jvm/)
+
+### Nashorn
+  New javascript engine in java 8
+
+ - https://github.com/javadelight/delight-nashorn-sandbox
+ - https://habrahabr.ru/post/195870/
+ - https://habrahabr.ru/post/195870/
+ - http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution
+ - [Java 8 Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
 
 ### java money
 Do not use float/double to store money in java
@@ -146,6 +150,7 @@ Performance, APM
 ## Java - общее
  - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)
  - [Что нового и интересного в IntelliJ IDEA 15](http://habrahabr.ru/company/JetBrains/blog/270471/http://habrahabr.ru/company/JetBrains/blog/270471/)
+ - [Real-time Applications with AngularJS and Java – Part 2](https://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
 
 ## Maven
  - [Please Containerize Your Excitement: Nexus 3 Milestone 5 Release](http://www.sonatype.org/nexus/2015/09/21/please-containerize-your-excitement-nexus-3-milestone-5-release/)
@@ -160,10 +165,21 @@ Performance, APM
  - [Уязвимости веб-приложений: ситуация не улучшается](http://habrahabr.ru/company/pt/blog/268779/)
  - [10 атак на веб-приложения в действии](https://habrahabr.ru/company/ua-hosting/blog/272205/)
  - [Вся правда об XSS или Почему межсайтовое выполнение сценариев не является уязвимостью?](http://habrahabr.ru/post/149152/)
+ - [ГЕОТАРГЕТИНГ ДЛЯ ПРОГРАММИСТА.xaker](https://xakep.ru/2015/06/25/geotargeting-api-197/)
+ - [Геолокация без GPS (часть 2)](https://habrahabr.ru/post/259605/)
+
+### HTTPS / SSL
+ - [Let's Encrypt выходит в публичную бету: HTTPS всюду, каждому, отныне и навсегда бесплатно](https://habrahabr.ru/post/272253/)
+ - [How To Secure Nginx with Let's Encrypt on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04)
+ - [Что веб-разработчикам следует знать о SSL](https://habrahabr.ru/company/1cloud/blog/275335/)
+ - [Yet another инструкция по получению ssl-сертификата Let's Encrypt](https://habrahabr.ru/post/279695/)
+ - [wosign.com - Free SSL Certificate](https://buy.wosign.com/free/)
 
 #### Java & Spring authentication
 - http://blog.jdriven.com/2014/10/stateless-spring-security-part-2-stateless-authentication/
 - http://spring.io/blog/2015/02/03/sso-with-oauth2-angular-js-and-spring-security-part-v
+- [Spring LDAP Reference](http://docs.spring.io/spring-ldap/docs/2.0.4.RELEASE/reference/)
+- [Аутентификация с использованием Spring Security и JWT-токенов](https://habrahabr.ru/post/278411/)
 
 #### Двухфакторная аутентификация
  - https://code.google.com/p/vellum/wiki/GoogleAuthenticator

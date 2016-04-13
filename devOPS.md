@@ -9,7 +9,7 @@
  - [Consul as a Monitoring Service ](https://speakerdeck.com/sethvargo/consul-as-a-monitoring-service)
  - [gliderlabs.com/registrator/](http://gliderlabs.com/registrator/latest/user/quickstart/)  
  - [spring-boot-actuator](http://txt.fliglio.com/2014/10/spring-boot-actuator/)
- - [YouTube,  Container Camp - ОЧЕНЬ крутая конференция до контейнерам, докеру, кубернетусу...](https://www.youtube.com/channel/UCvksXSnLqIVM_uFB7xyrsSg)
+ - [:star: :star: YouTube,  Container Camp](https://www.youtube.com/channel/UCvksXSnLqIVM_uFB7xyrsSg)
  - [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами, БАЗОВО](http://habrahabr.ru/post/266139/)
  - [Свой облачный хостинг за 5 минут. Часть 2: Service Discovery, habr](http://habrahabr.ru/post/262397/)
  - [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
@@ -29,15 +29,24 @@
   - [EC2 Spot Blocks for Defined-Duration Workloads](https://aws.amazon.com/ru/blogs/aws/new-ec2-spot-blocks-for-defined-duration-workloads/)
   - [Цены на EC2](http://aws.amazon.com/ru/ec2/pricing/)
   - [Introducing CloudWatch Dashboards](https://aws.amazon.com/ru/about-aws/whats-new/2015/10/cloudwatch-dashboards/)
+  - [AWS SDK for Java Developer Guide Release 1.0](http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/aws-sdk-java-dg.pdf)
 
+### S3
   - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
-  - [Bash скрипт для создания архива данных, habr](http://habrahabr.ru/post/266597/)
+  - [AmazonS3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html?adbsc=docs_20150930_53070556&adbid=649034184422395908&adbpl=tw&adbpr=66780587)
+  - [Amazon Simple Storage Service Developer Guide API Version 2006-03-01](http://awsdocs.s3.amazonaws.com/S3/latest/s3-dg.pdf)
+
+### IaaS
+ - [Google Cloud vs AWS: a comparison](http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/#comment-215)
+ - AWS
+ - Google Cloud
+ - Digitalocean
 
 ## Backup
   - https://thomassileo.name/blog/2013/03/21/backing-up-mongodb-to-amazon-glacier-slash-s3-with-python-using-sh-and-bakthat/
   - https://gist.github.com/keithics/fd53431b6f57014249ca
   - https://github.com/vsespb/mt-aws-glacier
-  - [backupify.com - бэкап гугл аккаунтов (почта... файлы)](https://www.backupify.com/)
+  - [Bash скрипт для создания архива данных, habr](http://habrahabr.ru/post/266597/)
 
 ## Docker
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
@@ -58,9 +67,13 @@
  - [Docker with shell script or Makefile](http://ypereirareis.github.io/blog/2015/05/04/docker-with-shell-script-or-makefile/)
  - [Образы и контейнеры Docker в картинках](http://habrahabr.ru/post/272145/)
  - [Docker cloud](https://cloud.docker.com/)
+ - [:star: Docker - How to analyze a container's disk usage?](http://stackoverflow.com/questions/26753087/docker-how-to-analyze-a-containers-disk-usage)
+ - [How to share Docker volumes across hosts](https://jaxenter.com/how-to-share-docker-volumes-across-hosts-119602.html)
 
 ## :star: Kubernetes - docker orchestration
 - [:star: Видео: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
+- [:star: :star: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
+- [Kubernetes Namespaces, Resource Quota, and Limits for QoS in Cluster](https://www.javacodegeeks.com/2016/03/kubernetes-namespaces-resource-quota-limits-qos-cluster.html)
 - [SpringOne2GX 2015 replay: Spring Boot Micro-services, Containers, and Kubernetes - How To](http://spring.io/blog/2015/10/19/springone2gx-2015-replay-spring-boot-micro-services-containers-and-kubernetes-how-to)
 - [kuberdash - Analytics dashboard for Kubernetes](https://github.com/kubernetes/kubedash)
 - [cadvisor](https://github.com/google/cadvisor)
@@ -82,6 +95,8 @@
 - [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
 
 ### Ansible (alternative to chef/puppet)
+ - [Ansible — давайте попробуем](https://habrahabr.ru/company/express42/blog/254959/)
+ - [Автоматизируем и ускоряем процесс настройки облачных серверов с Ansible. Часть 1: Введение](https://habrahabr.ru/company/infobox/blog/249143/)
  - [Автоматизируем и ускоряем процесс настройки облачных серверов с Ansible. Часть 2: вывод, отладка, и повторное использование playbook, habr](http://habrahabr.ru/company/infobox/blog/250115/)
  - [Continuous Delivery: Продолжение ,habr](http://habrahabr.ru/post/249523/)
  - [Ansible — давайте попробуем, habr](http://habrahabr.ru/company/express42/blog/254959/)

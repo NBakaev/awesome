@@ -35,4 +35,12 @@
 ## Technical / Providers
  - [mailgun.com - How To Start Sending Email](https://documentation.mailgun.com/quickstart-sending.html#send-via-smtp)
  - [Sending an Email Through Amazon SES Using AWS SDK for Java](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-java.html)
+ - [send-using-smtp-java.html](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-smtp-java.html)
  - [https://github.com/mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates)
+ - [Marketing & Transactional Email Service | SendGrid](https://sendgrid.com/)
+
+### Mailchimp
+ - [Compliance Insights for MailChimp Pro](http://blog.mailchimp.com/compliance-insights-for-mailchimp-pro/)
+ - [Multivariate Testing for MailChimp Pro](http://blog.mailchimp.com/multivariate-testing-for-mailchimp-pro/)
+ - [Comparative Reports for MailChimp Pro](http://blog.mailchimp.com/comparative-reports-for-mailchimp-pro/)
+ - []()

@@ -1,6 +1,7 @@
 # Online marketing & advert
 
 - [:star: Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
+- [Кейс из России: 9 каналов привлечения первых клиентов для b2b-cервисов](https://vc.ru/p/first-reg-free)
 
 ### target.my.com
  - [ https://target.my.com]( https://target.my.com)

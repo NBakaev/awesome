@@ -17,6 +17,7 @@ Criu
 
 -------------
 
+
 ## Работа с данными в риалтаме (hadoop)
  - Spark
  - Storm (twitter)

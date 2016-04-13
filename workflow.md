@@ -12,6 +12,9 @@
 ## :star: :star:
  - [Автоматизация workflow небольшой команды разработки (Часть 1)](http://habrahabr.ru/post/270299/)
  - [Автоматизация workflow небольшой команды разработки (Часть 2)](http://habrahabr.ru/post/270321/)
+ - [:star: Про организацию рабочего процесса](https://habrahabr.ru/company/1c/blog/273591/)
+ - [Как разрабатывается 1С:ERP (и не только)](https://habrahabr.ru/company/1c/blog/280394/)
+ - [Как выжить после победы в тендере крупной корпорации](https://roem.ru/30-03-2016/221652/survival-of-the-fittest/)
 
 ##
  - [Как зарегистрировать права на ИТ-продукт в России](https://vc.ru/p/problem-14088)
@@ -37,3 +40,8 @@
  - [Сотрудников ищут «Сан ИнБев», Excursiopedia, ФРИИ, «Нетология-групп», Condé Nast](https://vc.ru/p/recruit-163)
  - [Сотрудников ищут «Яндекс.Деньги», ФРИИ, Qiwi, «Достависта», Playrix](https://vc.ru/p/recruit-158)
  - [Сотрудников ищут OneTwoTrip, Touch Instinct, Eastwood, Lazada Group](https://vc.ru/p/recruit-150)
+ - [Сотрудников ищут Superjob, Surfingbird, Lingualeo, «Google Россия»](https://vc.ru/p/recruit-167)
+ - [Сотрудников ищут Plarium, «Игромания», Game Show, Epic Games и Playrix](https://vc.ru/p/games-recruit-10)
+ - [Штаб-квартира: Сыктывкарский офис сети «Додо Пицца»](https://vc.ru/p/dodo-office)
+ - [:star: Руководитель проектов Game Insight о типах игровых разработчиков: «Взрослый», «фестивальщик» и другие](https://vc.ru/p/types-in-gamedev)
+ - [Чем готовы пожертвовать ИТ-специалисты в России ради различных бонусов — исследование Kelly Services](https://vc.ru/p/kelly-workforce-index)

@@ -19,6 +19,7 @@
  - [10 Essential Material Design Resources and Tutorials](http://www.sitepoint.com/10-essential-material-design-resources-and-tutorials/)
  - [Генератор палитр для дизайна в материальной стилистике](www.materialpalette.com)
  - [Конкурс по Material Design: объявляем победителей](http://habrahabr.ru/company/google/blog/272621/)
+ - [The (very) Best of Material Design in 2015](https://stories.uplabs.com/the-material-design-countdown-for-2015-7c9e4d4e88fb#.ix771n5is)
 
 ### Шрифты
  - [Потрясающая коллекция бесплатных шрифтов за 2014 год, habr](http://habrahabr.ru/post/247785/)
@@ -86,12 +87,16 @@
  - [Tips & Tricks for debugging unfamiliar AngularJS code](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
  - [Multilingual Support for AngularJS](http://www.sitepoint.com/multilingual-support-for-angularjs/)
  - [AngularJS Matrtial Design](https://material.angularjs.org/latest/demo/input)
+ - [Очередь событий в карточной игре + основы Angular](https://habrahabr.ru/post/266401/)
+ - [ng-annotate - Add, remove and rebuild AngularJS dependency injection annotations](https://github.com/olov/ng-annotate)
 
 ## CSS
  - [What’s New in Foundation 6?](http://www.sitepoint.com/whats-new-in-foundation-6/)
   -[Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
 
 ### JavaScript
+ - [:star: Как я делал веб-версию KeePass](https://habrahabr.ru/post/269895/)
+ - [hammerjs - A javascript library for multi-touch gestures :// You can touch this http://hammerjs.github.io](https://github.com/hammerjs/hammer.js)
  - [http://jhipster.github.io/2015/01/09/jhipster-release-2.0.0.html](http://jhipster.github.io/2015/01/09/jhipster-release-2.0.0.html)
  - [Размышления о стандартной библиотеке JavaScript. Core.js, habr](http://habrahabr.ru/post/216997/)
  - [Tiny vanilla JS plugin to display large data sets easily, github](https://github.com/NeXTs/Clusterize.js)
@@ -108,6 +113,7 @@
  - [Parallel JavaScript with ParallelJS](http://www.sitepoint.com/parallel-javascript-with-paralleljs/)
  - [JavaScript goes to Asynchronous city](https://blogs.msdn.microsoft.com/eternalcoding/2015/09/30/javascript-goes-to-asynchronous-city/)
  - [JS Charting: Google Sheets](https://davidwalsh.name/js-charting-google-sheets)
+ - [Top JavaScript Frameworks, Libraries and Tools and When to Use Them](http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/)
 
 ## Gulp / Build / Dev env
  - [10 things to know about Gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp/)
@@ -120,6 +126,7 @@
  - [Drag and Drop Interaction Ideas](http://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/)
  - [interact.js - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)](https://github.com/taye/interact.js)
  - [handsontable](https://github.com/handsontable/handsontable)
+ - [Using HTML5’s Native Drag and Drop API](http://www.sitepoint.com/html5-native-drag-and-drop-api/)
 
 ### Babel ( ES6 ) is a JavaScript compiler.
   - [babeljs.io](https://babeljs.io/)
