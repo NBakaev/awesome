@@ -48,6 +48,16 @@
   - https://github.com/vsespb/mt-aws-glacier
   - [Bash скрипт для создания архива данных, habr](http://habrahabr.ru/post/266597/)
 
+## Consul
+- [Consul by HashiCorp](https://www.consul.io/)
+- [Introducing Consul Template](https://www.hashicorp.com/blog/introducing-consul-template.html)
+- [Spring Cloud Consul](https://github.com/spring-cloud/spring-cloud-consul)
+- [Consul.io Часть 1](https://habrahabr.ru/post/278085/)
+- [Consul.io Часть 2](https://habrahabr.ru/post/278101/)
+- [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами](https://habrahabr.ru/post/266139/)
+- [:star: Использование Consul для service discovery и других задач](http://eax.me/consul/)
+- [how to define HTTP health check in a consul container for a service on the same host?](http://stackoverflow.com/questions/27623590/how-to-define-http-health-check-in-a-consul-container-for-a-service-on-the-same)
+
 ## Docker
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [MONGODB & DOCKER – PART 1](http://jam.sg/blog/mongodb-docker-part-1/)
@@ -59,7 +69,7 @@
  - [Distribute your applications with Docker Images](http://www.javacodegeeks.com/2015/05/distribute-your-applications-with-docker-images.html)
  - [docker-maven-plugin](https://github.com/rhuss/docker-maven-plugin/blob/master/doc/manual.md)
  - [docker registry](https://github.com/docker/distribution)
- - [SCALING TO INFINITY WITH DOCKER SWARM, DOCKER COMPOSE AND CONSUL (PART 3/4) – BLUE-GREEN DEPLOYMENT, AUTOMATION AND SELF-HEALING PROCEDURE](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-34-blue-green-deployment-automation-and-self-healing-procedure/)
+ - [:star: SCALING TO INFINITY WITH DOCKER SWARM, DOCKER COMPOSE AND CONSUL (PART 3/4) – BLUE-GREEN DEPLOYMENT, AUTOMATION AND SELF-HEALING PROCEDURE](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-34-blue-green-deployment-automation-and-self-healing-procedure/)
  - [MongoDB Sharded Cluster Docker github](https://github.com/sebastianvoss/docker)
  - [Видео: Александр Тарасов — Docker в банке](http://www.youtube.com/watch?v=Jb62_R8WnII)
  - [Developing Inside Docker Containers with OS X](http://hharnisc.github.io/2015/09/16/developing-inside-docker-containers-with-osx.html)
@@ -69,6 +79,7 @@
  - [Docker cloud](https://cloud.docker.com/)
  - [:star: Docker - How to analyze a container's disk usage?](http://stackoverflow.com/questions/26753087/docker-how-to-analyze-a-containers-disk-usage)
  - [How to share Docker volumes across hosts](https://jaxenter.com/how-to-share-docker-volumes-across-hosts-119602.html)
+ - [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
 
 ## :star: Kubernetes - docker orchestration
 - [:star: Видео: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
@@ -107,3 +118,5 @@
  - [shell - Execute commands in nodes.](http://docs.ansible.com/ansible/shell_module.html)
  - [script - Runs a local script on a remote node after transferring it](http://docs.ansible.com/ansible/script_module.html)
  - [Ansible base Images for easy Ansible-Playbook-based Docker builds](https://github.com/ansible/ansible-docker-base)
+ - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
+ - [Provisioning Docker containers with Ansible](http://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/index.html)

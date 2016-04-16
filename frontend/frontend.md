@@ -89,15 +89,23 @@
  - [AngularJS Matrtial Design](https://material.angularjs.org/latest/demo/input)
  - [Очередь событий в карточной игре + основы Angular](https://habrahabr.ru/post/266401/)
  - [ng-annotate - Add, remove and rebuild AngularJS dependency injection annotations](https://github.com/olov/ng-annotate)
+ - [ng-idle - детектор бездействия](https://github.com/hackedbychinese/ng-idle)
 
 ## CSS
  - [What’s New in Foundation 6?](http://www.sitepoint.com/whats-new-in-foundation-6/)
   -[Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
 
+### Frontend
+ - [Serge — решение для непрерывной локализации от Evernote](https://habrahabr.ru/post/269049/)
+ - [Пишем правильный манифест для сайта](https://habrahabr.ru/post/275849/)
+
 ### JavaScript
  - [:star: Как я делал веб-версию KeePass](https://habrahabr.ru/post/269895/)
+ - [momentjs.com - Moment Timezone Documentation](http://momentjs.com/)
+ - [Immutable Data Structures and JavaScript](http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)
+ - [:star: BPMN 2.0 rendering toolkit and web modeler | bpmn.io](http://bpmn.io/)
  - [hammerjs - A javascript library for multi-touch gestures :// You can touch this http://hammerjs.github.io](https://github.com/hammerjs/hammer.js)
- - [http://jhipster.github.io/2015/01/09/jhipster-release-2.0.0.html](http://jhipster.github.io/2015/01/09/jhipster-release-2.0.0.html)
+ - [jhipster-release-2.0.0.html](http://jhipster.github.io/2015/01/09/jhipster-release-2.0.0.html)
  - [Размышления о стандартной библиотеке JavaScript. Core.js, habr](http://habrahabr.ru/post/216997/)
  - [Tiny vanilla JS plugin to display large data sets easily, github](https://github.com/NeXTs/Clusterize.js)
  - [Vibrant.js Extract prominent colors from an image.](https://jariz.github.io/vibrant.js/)
@@ -140,6 +148,11 @@
  - [Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://blog.rangle.io/angular-gulp-bestpractices/)
  - [Тестирование JS. Кармический Webpack](https://habrahabr.ru/company/rambler-co/blog/278503/)
  - [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
+
+### OFFLINE mode
+ - store data in localstorage
+ - detect that browser offline
+ - cache.manifest
 
 ### Notes
   - [Google geocording, javascript](https://developers.google.com/maps/documentation/javascript/geocoding)

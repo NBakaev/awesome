@@ -28,6 +28,16 @@
  - [100 полезных скриптов для автоматизации работы в Google AdWords. Часть 2](http://www.searchengines.ru/articles/100_use_scripts_2.html)
  - [Системы автоматизации контекстной рекламы](http://marketing-wiki.ru/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)
 
+##
+  - [Особенности национального маркетинга в зимний период](http://tema.livejournal.com/1930033.html)
+  - [15 Amazing Tools for a Better Competitive Analysis](https://medium.com/gmr-web-team/15-amazing-tools-for-a-better-competitive-analysis-11491a4f457a#.qx7q4lif4)
+  - [RTB: шаг навстречу новой технологии](https://megamozg.ru/company/realweb/blog/20008/)
+  - [Торги в реальном времени (RTB): Исчерпывающее руководство для получения прибыли](https://megamozg.ru/post/20254/)
+  - [Добро пожаловать в Lean Marketing](https://megamozg.ru/company/hopox/blog/20822/)
+
+### Content marketing
+ - [Призывы к действию: 170 шаблонов на все случаи жизни](http://texterra.ru/blog/prizyvy-k-deystviyu-170-shablonov-na-vse-sluchai-zhizni.html)
+
 ### Mobile / Game development
  - [Heyzap - Mobile App Developers - Monetize Your App - реклама в играх](https://www.heyzap.com/)
 

@@ -8,3 +8,4 @@ See javaagent `newrelic.jar` and edit config file `newrelic.yml` with license_ke
 ### newrelic - monitoring
  - [https://github.com/MeetMe/newrelic-plugin-agent#installation-instructions](https://github.com/MeetMe/newrelic-plugin-agent#installation-instructions)
  - [https://docs.newrelic.com/docs/agents/java-agent/getting-started/new-relic-java](https://docs.newrelic.com/docs/agents/java-agent/getting-started/new-relic-java)
+ - [5 Ways to Customize Your New Relic Java Agent](https://blog.newrelic.com/2016/01/28/java-agent-customization/)

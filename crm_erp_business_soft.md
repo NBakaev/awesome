@@ -19,6 +19,10 @@
  - [Автоматизация ресторана: 24 интересных инструмента](https://habrahabr.ru/post/258679/)
  - [Электронное правление банка и СЭД: опыт интеграции](https://habrahabr.ru/company/haulmont/blog/273819/)
  - [Учтите это! К вопросу автоматизации склада](https://habrahabr.ru/company/iladaruli24/blog/274945/)
+ - [Русская платина: СЭД работает даже там, где ходят медведи](https://habrahabr.ru/company/haulmont/blog/270659/)
+ - [Автоматизация оформления документации](https://habrahabr.ru/post/280476/)
+
+ - [:star: ИТ-стартап ищет больших клиентов: особенности работы с крупными корпорациями](https://megamozg.ru/post/24240/)
 
 #### CRM
  - [Zoho CRM](https://www.zoho.com/crm/)
@@ -35,6 +39,7 @@
  - [Быстрая разработка отчетов на Java: дауншифтинг с «1С: Предприятие»](http://habrahabr.ru/post/269505/)
  - [1C:CRM.Описание](http://megamozg.ru/post/21294/)
  - [Автоматизация легкого управления списками баз 1С](https://habrahabr.ru/post/278577/)
+ - [:star: Инфостарт — все для 1С](http://infostart.ru/)
 
 ### CRM
  - [Что такое CRM-системы и как их правильно выбирать?, habr](http://habrahabr.ru/post/249633/)
@@ -47,12 +52,17 @@
  - [Знакомый незнакомец. What is Битрикс24?](https://habrahabr.ru/company/bitrix/blog/274165/)
 
 ### BPM/BPMN - Business Process Modelling
+- [Что такое BPMS](https://habrahabr.ru/post/273025/)
+- [:star: Bizagi — система моделирования, разработки и исполнения бизнес-процесса. Описание с примером](https://habrahabr.ru/post/273017/)
+- [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+- [Анализ системы Business Studio](https://habrahabr.ru/post/276785/)
 - [Видео описание BPMS Bizagi](http://habrahabr.ru/post/260819/)
 - [Modern BPM Data Integration with JBoss BPM Travel Agency Demo](http://www.javacodegeeks.com/2015/06/modern-bpm-data-integration-with-jboss-bpm-travel-agency-demo.html)
 - [Чем грозит движок бизнес-процессов программисту на примере Apache Activiti, habr](http://habrahabr.ru/post/235997/)
 - [Bonita BPM: The most powerful BPM-based application platform](http://www.bonitasoft.com/)
 - [Pluggable persistence in Activiti 6](http://www.javacodegeeks.com/2015/09/pluggable-persistence-in-activiti-6.html)
 - [«Hello World» BPMN2.0 или введение в Activiti, habr](http://habrahabr.ru/post/113658/)
+- [Организация работы склада. Описание. BPMN схемы прилагаются](https://megamozg.ru/post/22122/)
 
 ### Остальное
 - [Корпоративная социальная сеть — это «что» или «где»?](http://megamozg.ru/company/supereon/blog/20802/)

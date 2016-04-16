@@ -15,6 +15,7 @@
  - [Codesign.io – архитектура которая работает](http://habrahabr.ru/post/271461/)
  - [:star: Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
  - [WireMock A web service test double for all occasions](http://wiremock.org/running-standalone.html)
+ - [How Enterprises Benefit From Microservices Architectures](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/)
 
 ## Шаблонизаторы
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
@@ -35,6 +36,22 @@ Server-side HTML page rendering
  - http://docs.spring.io/spring/docs/current/spring-framework-reference/html/websocket.html
  - http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
  - https://www.pubnub.com/
+ - [WebSocket Applications with Spring Framework 4.0](http://rstoyanchev.github.io/springx2013-websocket/#1)
+ - [rstoyanchev/spring-websocket-portfolio](https://github.com/rstoyanchev/spring-websocket-portfolio)
+ - [Using WebSockets with Spring, AngularJS and SockJS](http://g00glen00b.be/spring-angular-sockjs/)
+ - [STOMP Over WebSocket](http://jmesnil.net/stomp-websocket/doc/)
+ - [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/)
+ - [STOMP for AngularJS](https://github.com/beevelop/ng-stomp)
+ - [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
+
+### HTTP/2
+ - [Tools for debugging, testing and using HTTP/2](https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/)
+ - [HTTP/2 For Web Developers](https://blog.cloudflare.com/http-2-for-web-developers/)
+ - [How HTTP/2 Is Changing Web Performance Best Practices](https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/)
+ - [:star: Google - HTTP/2 is here, lets optimize! - Velocity SC 2015](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
+ - [Семь советов по внедрению HTTP/2](https://habrahabr.ru/post/269853/)
+ - [HTTP/2: готовимся к переходу](https://habrahabr.ru/company/selectel/blog/278167/)
+ - [The complete guide to HTTP/2 with HAProxy and Nginx](http://m12.io/blog/http-2-with-haproxy-and-nginx-guide)
 
 ## Reactive programming
 
@@ -70,6 +87,7 @@ Server-side HTML page rendering
  - [Writing Data Driven Tests for your Java Application](http://www.javacodegeeks.com/2015/08/writing-data-driven-tests-for-your-java-application.html)
  - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
  - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
+ - [JUnit integration testing with Docker and Testcontainers](https://rnorth.org/24/junit-integration-testing-with-docker-and-testcontainers)
 
 ## Java
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
@@ -92,12 +110,20 @@ Server-side HTML page rendering
  - http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution
  - [Java 8 Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
 
-### java money
+### Localisation & Internationalization
+
+ - [Как писать софт для всего мира](https://habrahabr.ru/company/alconost/blog/264841/)
+
+#### java money
 Do not use float/double to store money in java
 
  - [Type Safety and Money](http://verraes.net/2016/02/type-safety-and-money/)
  - [Go for the Money! JSR 354 Adds First Class Money and Currency Support to Java](http://www.infoq.com/articles/JSR-354-Java-Money-Currency-API)
  - [Картинка: monetary_amount_java](https://raw.githubusercontent.com/NBakaev/awesome/master/_images/monetary_amount_java.png)
+
+#### Java time
+ - [Java и время: часть первая](https://habrahabr.ru/post/274811/)
+ - [Java и время: часть вторая](https://habrahabr.ru/post/274905/)
 
 ## Spring
 Spring framework & spring boot & microservices
@@ -114,6 +140,11 @@ Spring framework & spring boot & microservices
  - [Деплой Java Spring приложения в PaaS-платформу Heroku за 14 минут](http://habrahabr.ru/post/265591/)
  - [RabbitMQ Spring tutorial , habr](http://habrahabr.ru/post/262069/)
  - [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
+ - [Spring REST Docs](http://projects.spring.io/spring-restdocs/)
+ - [Spring Cloud](http://projects.spring.io/spring-cloud/spring-cloud.html#_features)
+ - [HOW-TO: Java 8 Date & Time with Thymeleaf and Spring Boot](https://www.javacodegeeks.com/2015/11/how-to-java-8-date-time-with-thymeleaf-and-spring-boot.html)
+ - [Как в Spring logger получить](https://habrahabr.ru/post/276729/)
+ - [How SpringBoot AutoConfiguration magic works?](http://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)
 
 ## Шаблоны документов
 Create reports in .pdf .doc .xlsx
@@ -154,6 +185,8 @@ Performance, APM
 
 ## Maven
  - [Please Containerize Your Excitement: Nexus 3 Milestone 5 Release](http://www.sonatype.org/nexus/2015/09/21/please-containerize-your-excitement-nexus-3-milestone-5-release/)
+ - [How do I tell Maven to use the latest version of a dependency?](http://stackoverflow.com/questions/30571/how-do-i-tell-maven-to-use-the-latest-version-of-a-dependency)
+ - [Why I Never Use the Maven Release Plugin](https://dzone.com/articles/why-i-never-use-maven-release)
 
 ### Maven central deploy
  - [Deploy to Maven Central Repository](https://dzone.com/articles/deploy-maven-central)

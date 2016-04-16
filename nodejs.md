@@ -7,6 +7,9 @@
 - [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 - [Node.js and ES6 Instead of Java – A War Story](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story)
 - [Get Open Graph Data with Node.js](https://davidwalsh.name/open-graph-data-nodejs)
+- [Running a MEAN web application in Docker containers on AWS](http://blog.codeship.com/running-mean-web-application-docker-containers-aws/)
+- [Making a Game API Server Using Node.js: Revisited](http://blog.couchbase.com/making-a-game-api-server-using-nodejs-revisited)
+- [Introduction to the MEAN Stack](http://www.sitepoint.com/introduction-to-mean-stack/)
 
 ## Parse
 (PaaS)

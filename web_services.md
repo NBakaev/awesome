@@ -1,13 +1,18 @@
+# SaaS
 
 ## Task manager
  - [Issue Tracking and Project Management Tool | YouTrack](https://www.jetbrains.com/youtrack/)
  - [Jira](https://ru.atlassian.com/software/jira)
+ - [11 Project Management Software Options to Help Your Design Business](http://codecondo.com/11-project-management-software-options-to-help-your-design-business/)
+
+###
+ - [Поиск идеального тайм-трекера или как я боролась с прокрастинацией](https://megamozg.ru/post/23344/)
+ - [Почему менеджеры задач не делают нас продуктивными](https://megamozg.ru/post/23336/)
 
 ### Asana
 Task manager
  - [Asana в деталях, и как ее использовать](http://megamozg.ru/post/1700/)
- - [https://github.com/jlinn/asana-api-java](https://github.com/jlinn/asana-api-java)
- - [OAuth for developers](https://asana.com/developers/documentation/getting-started/auth)
+ - [Email Tasks](https://asana.com/guide/help/email/email-to-asana)
 
 ## :star: Российские сервисы
 - [calltouch.ru - Определяем рекламные источники звонков и заявок](http://www.calltouch.ru/)
@@ -31,6 +36,19 @@ Task manager
 #### InfoboxCloud
  - [Разворачиваем блог Ghost в InfoboxCloud](https://habrahabr.ru/company/infobox/blog/266567/)
  - [Используем официальный docker-образ NGINX в InfoboxCloud: часть 1](https://habrahabr.ru/company/infobox/blog/265231/)
+
+## API
+ - [Instagram Developer Documentation](https://www.instagram.com/developer/endpoints/media/)
+ - [slack.com](https://api.slack.com)
+ - [Google запустил API для поиска по Сети знаний](http://www.searchengines.ru/news/archives/google_api_search.html)
+
+### Asana
+ - [asana-api-java](https://github.com/jlinn/asana-api-java)
+ - [OAuth for developers](https://asana.com/developers/documentation/getting-started/auth)
+
+## Яндекс.Директ
+ - https://tech.yandex.ru/direct/doc/dg-v4/live/UpdatePrices-docpage/
+ - https://github.com/purecode/yandex-direct-client/tree/master/src/main/java/ru/cultserv/adv/yandex/direct/models
 
 ## Integration
 Connect one system with another, usually without coding and using API
@@ -76,6 +94,7 @@ Connect one system with another, usually without coding and using API
 - [spagobi | 100% open source Business Intelligence](http://www.spagobi.org/#1)
 - [tibco spotfire](http://www.tibco.com/)
 - [Amazon Launches QuickSight Business Intelligence Service For AWS](http://techcrunch.com/2015/10/07/amazon-launches-quicksight-business-intelligence-service-for-aws/)
+- [GoodData - BI Solutions for Every Industry](http://www.gooddata.com/bi-solutions)
 
 ## Web analytics
  - [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/)
@@ -89,6 +108,7 @@ Connect one system with another, usually without coding and using API
  - [Free Automated Malware Analysis Service](https://www.hybrid-analysis.com/sample/f02569b2f13ef05dc9926249d965e5fd4ca722cfd1501783d7f96bd5a32342c9?environmentId=2)
  - [toggl - Toggl - Free Time Tracking Software](https://toggl.com/)
  - [Proto.io, Pixate, Origami: Обзор инструментов для прототипирования приложений с поддержкой Sketch](https://vc.ru/p/sketch-prototype)
+ - [Online Diagram Software to draw Flowcharts, UML &amp; more | Creately](http://creately.com/)
 
 ## Статьи
 - [Доступные интернет ресурсы и инструменты для стартапов](https://megamozg.ru/post/18600/)

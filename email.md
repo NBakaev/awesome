@@ -31,6 +31,7 @@
  - [Автоматизация email маркетинга](https://megamozg.ru/company/sendpulse/blog/23972/)
  - [Как составлять email-автоответы: Анализ 100 заявок в службы поддержки ИТ-компаний](https://habrahabr.ru/company/pechkin/blog/277895/)
  - [Email-маркетинг — плюсы использования SaaS решений](https://megamozg.ru/post/24868/)
+ - [То, что вы не считаете - вы не контролируете](https://sendsay.ru/archive/1g-Q3RcryHTEKG0FfQt1ASnhn5RDklwbIwBCkSilr5sWrEMnwvy3ph-DIJSmq_Zr2OtUd_qPJ)
 
 ## Technical / Providers
  - [mailgun.com - How To Start Sending Email](https://documentation.mailgun.com/quickstart-sending.html#send-via-smtp)
@@ -43,4 +44,4 @@
  - [Compliance Insights for MailChimp Pro](http://blog.mailchimp.com/compliance-insights-for-mailchimp-pro/)
  - [Multivariate Testing for MailChimp Pro](http://blog.mailchimp.com/multivariate-testing-for-mailchimp-pro/)
  - [Comparative Reports for MailChimp Pro](http://blog.mailchimp.com/comparative-reports-for-mailchimp-pro/)
- - []()
+ - [Настройка автоматических серий писем в MailChimp на примере интернет-магазина](https://megamozg.ru/company/digistr/blog/16844/)

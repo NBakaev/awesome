@@ -30,6 +30,10 @@ Cross-platform development with JavaScript
 ##
 - [Developing Universal Windows Apps with HTML and JavaScript Jump Start](https://www.microsoftvirtualacademy.com/en-US/training-courses/developing-universal-windows-apps-with-html-and-javascript-jump-start-8344)     
 - [HockeyApp - The Platform for Your Apps](http://hockeyapp.net/features/)
+- [Build truly native cross-platform iOS and Android apps with JavaScript http://www.nativescript.org](https://github.com/NativeScript/NativeScript)
 
 ##
 - [Android lint](http://developer.android.com/intl/ru/tools/help/lint.html)
+
+##
+ - [Сервисы дистрибуции мобильных приложений для iOS. Часть 4 (заключительная): Fabric (Crashlytics)](https://habrahabr.ru/company/arcadia/blog/260019/)

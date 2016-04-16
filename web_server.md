@@ -8,6 +8,8 @@
 - [Антипаттерны HTTP/2 - Google Slides](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
 - [Полезные сниппеты для Nginx конфигов](http://habrahabr.ru/post/272381/)
 - [:star: create nginx deb package from sources](https://github.com/NBakaev/awesome/blob/master/samples/nginx_make.sh)   
+- [Nginx + Lua + Redis. Эффективно обрабатываем сессию и отдаем данные](https://habrahabr.ru/post/270463/)
+- [Nginx: a caching, thumbnailing, reverse proxying image server?](http://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
 
 ### Load-balancing
  - [AWS ELB vs HAProxy: which works best for you](http://cloudacademy.com/blog/aws-elb-vs-haproxy/)

@@ -11,6 +11,7 @@
 - [Application Performance Management & Monitoring](http://newrelic.com/)
 - [Getting Started with Web Application Monitoring](http://www.sitepoint.com/guide-monitoring-web-applications/)
 - [Apdex (Application Performance Index)](https://en.wikipedia.org/wiki/Apdex)
+- [Build reliable and faster Node.js applications, keymetrics.io](https://keymetrics.io/)
 
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/logging/newrelic/newrelic.md)   
@@ -37,5 +38,4 @@
  - [Centralized Docker Container Logging With Native Graylog Integration](https://www.graylog.org/centralize-your-docker-container-logging-with-graylog-native-integration/)
  - [Automating Docker Logging: ElasticSearch, Logstash, Kibana, and Logspout](http://nathanleclaire.com/blog/2015/04/27/automating-docker-logging-elasticsearch-logstash-kibana-and-logspout/)
  - [http://sixrevisions.com/tools/free-server-monitoring-tools/](http://sixrevisions.com/tools/free-server-monitoring-tools/)
-
- - [Build reliable and faster Node.js applications, keymetrics.io](https://keymetrics.io/)
+ - [Logging with Docker — Part 1.1](https://medium.com/@yoanis_gil/logging-with-docker-part-1-1-965cb5e17165#.rs6ivrqlk)

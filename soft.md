@@ -39,6 +39,7 @@
 - [sublimetext](https://www.sublimetext.com/)
 - [Intellij idea](https://www.jetbrains.com/idea/)
 - [Sublime (and Atom) Snippets | Web Shows - Google Developers](https://developers.google.com/web/shows/ttt/series-2/sublime-snippet)
+- [Первая версия Visual Studio Code 1.0 — путь от простого редактора до мощного инструмента](https://habrahabr.ru/company/microsoft/blog/281667/)
 
 ### Git
 - [SourceTree - Git Gui](https://www.sourcetreeapp.com/)

@@ -42,6 +42,8 @@
  - [Сотрудников ищут OneTwoTrip, Touch Instinct, Eastwood, Lazada Group](https://vc.ru/p/recruit-150)
  - [Сотрудников ищут Superjob, Surfingbird, Lingualeo, «Google Россия»](https://vc.ru/p/recruit-167)
  - [Сотрудников ищут Plarium, «Игромания», Game Show, Epic Games и Playrix](https://vc.ru/p/games-recruit-10)
+ - [Сотрудников ищут ВГТРК, «Связной», Wheely, Amediateka, Selectel](https://vc.ru/p/recruit-178)
  - [Штаб-квартира: Сыктывкарский офис сети «Додо Пицца»](https://vc.ru/p/dodo-office)
  - [:star: Руководитель проектов Game Insight о типах игровых разработчиков: «Взрослый», «фестивальщик» и другие](https://vc.ru/p/types-in-gamedev)
  - [Чем готовы пожертвовать ИТ-специалисты в России ради различных бонусов — исследование Kelly Services](https://vc.ru/p/kelly-workforce-index)
+ - [Публичные собеседования на позицию веб-разработчика в прямом эфире](https://habrahabr.ru/company/hexlet/blog/280406/)

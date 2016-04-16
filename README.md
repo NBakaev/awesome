@@ -19,6 +19,7 @@
 - [- Без категории -](https://github.com/NBakaev/awesome/blob/master/unresolved.md)   
 - [Утилиты и сниппеты командной строки](https://github.com/NBakaev/awesome/blob/master/utils.md)   
 - [REST / API / Documentation](https://github.com/NBakaev/awesome/blob/master/backend_rest_api_documentation.md)
+- [Разработка игр - GameDev](https://github.com/NBakaev/awesome/blob/master/gamedev.md)   
 
 ### Business
 Списки статей, связанных с аналитикой, интернет-маркетингом, разработки продуктов, работе в командах и смежными темами
@@ -64,6 +65,7 @@
  - [20 BEST CODE REVIEW TOOLS FOR DEVELOPERS](http://www.devstrend.com/20-best-code-review-tools-for-developers/)
  - [Sandstorm.io - is an open source platform for servers](https://apps.sandstorm.io/)
  - [12 Best Online Form Builders for your website](http://codecondo.com/12-best-online-form-builders-for-your-website/)
+ - [Чем плохо быть full stack enterprise-администратором](https://habrahabr.ru/post/278485/)
 
 ### Git / Git flow
  - [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)

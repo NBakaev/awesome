@@ -47,7 +47,7 @@
  - [visjs.org](http://visjs.org/)
  - [Datavisualization with Angular and d3 on the Twitter Stream API](http://dev.topheman.com/datavisualization-with-angular-and-d3-on-the-twitter-stream-api/)
  - [metricsgraphicsjs](http://metricsgraphicsjs.org/)
- - [http://d3js.org/](http://d3js.org/)
+ - [d3js.org/](http://d3js.org/)
  - [Data visualization, github](https://github.com/showcases/data-visualization)
  - [ECharts](http://ecomfe.github.io/echarts/doc/example-en.html)
  - [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
