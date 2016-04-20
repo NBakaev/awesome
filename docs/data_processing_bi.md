@@ -28,6 +28,7 @@
  - [Data manipulation, munging, and processing in JavaScript](http://learnjsdata.com/index.html)
  - [:star: DataTalks, wargaming youtube](http://www.youtube.com/playlist?list=PL0QujlH3yeFul76dbakGlRC0Wlnd8pXS-)
  - [Утилиты командной строки могут быть в 235-раз быстрее вашего Hadoop кластера](http://habrahabr.ru/post/267697/)
+ - [:star: Видео; Sergey Tsvetkov - smalldata - Business intelligence - Бизнес Молодость](https://www.youtube.com/channel/UCIa-3J8w-jGePAtNiRjAN-Q?app=desktop)
 
 ### Data Warehouse
  - [Amazon Kinesis Firehose – Simple & Highly Scalable Data Ingestion](https://aws.amazon.com/ru/blogs/aws/amazon-kinesis-firehose-simple-highly-scalable-data-ingestion/)

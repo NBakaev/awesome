@@ -1,6 +1,7 @@
 # MongoDB
 NoSQL база данных
 
+ - [:star: Jongo {mongo-java-driver: 'with ease'}](http://jongo.org/)
  - [Setting up sharded mongodb cluster in localhost](http://www.javacodegeeks.com/2015/02/setting-up-sharded-mongodb-cluster-in-localhost.html)
 
 ### Using MongoDB with Hadoop & Spark

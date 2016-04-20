@@ -1,4 +1,6 @@
 # DevOPS
+Развертывание, деплой и управление распределёнными системами
+
 ![](http://cloudacademy.com/blog/wp-content/uploads/2015/07/continuous-integration.png)
 
  - [Consul, Spring Boot, Actuator, and Codahale Metrics](http://txt.fliglio.com/2014/10/spring-boot-actuator)
@@ -15,6 +17,7 @@
  - [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
  - http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/ what and why service discovery
  - http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/
+ - [Qcow2 — это формат дискового образа программы QEMU. Copy-On-Write](https://www.google.ru/search?q=Qcow2+disk)
 
 ## AWS
   ![](https://media.amazonwebservices.com/blog/2015/on_shore_personal_data_storage_arch_3.jpg)

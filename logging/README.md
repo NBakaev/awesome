@@ -12,6 +12,7 @@
 - [Getting Started with Web Application Monitoring](http://www.sitepoint.com/guide-monitoring-web-applications/)
 - [Apdex (Application Performance Index)](https://en.wikipedia.org/wiki/Apdex)
 - [Build reliable and faster Node.js applications, keymetrics.io](https://keymetrics.io/)
+- [Application Performance Monitoring & Management | AppDynamics](https://www.appdynamics.com/)
 
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/logging/newrelic/newrelic.md)   

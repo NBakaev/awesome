@@ -27,7 +27,6 @@
 Server-side HTML page rendering
 
  - [:star: thymeleaf](http://www.thymeleaf.org/)
- - velocity
  - freemarker
 
 ## websocket
@@ -101,8 +100,11 @@ Server-side HTML page rendering
  - [JAVA using google speech recognition API](http://stackoverflow.com/questions/16743533/java-using-google-speech-recognition-api)
  - [How-to guide to writing a javaagent](http://zeroturnaround.com/rebellabs/how-to-inspect-classes-in-your-jvm/)
 
+###
+ - [Curator - ZooKeeper - распределённые локи](http://curator.apache.org/)
+
 ### Nashorn
-  New javascript engine in java 8
+New javascript engine in java 8
 
  - https://github.com/javadelight/delight-nashorn-sandbox
  - https://habrahabr.ru/post/195870/

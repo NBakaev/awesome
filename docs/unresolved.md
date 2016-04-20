@@ -16,18 +16,11 @@ Rdma
 Criu
 
 -------------
-
-
 ## Работа с данными в риалтаме (hadoop)
  - Spark
  - Storm (twitter)
  - Olap
 -------------------
-### VeraCrypt
-new TrueCrypt
-
- - [Android](https://play.google.com/store/apps/details?id=com.sovworks.eds.android)
- - [iOS](https://itunes.apple.com/us/app/disk-decipher/id516538625?mt=8)----------------
 
 ### Mahato - Apache Machine learning
  - https://mahout.apache.org

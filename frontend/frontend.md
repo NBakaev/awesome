@@ -10,6 +10,7 @@
  - [A collection of links for free stock photography, video and Illustration websites.](https://github.com/neutraltone/awesome-stock-resources)
  - [Yoman - THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS](http://yeoman.io/)
  - [jsfiddle](https://jsfiddle.net/)
+ - [:star: CodeMirror is a versatile text editor implemented in JavaScript for the browser.](http://codemirror.net)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)
