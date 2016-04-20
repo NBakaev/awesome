@@ -16,10 +16,10 @@
 - [Мобильная разработка](https://github.com/NBakaev/awesome/blob/master/docs/mobile_desktop.md)   
 - [Logging / APM](https://github.com/NBakaev/awesome/blob/master/logging/README.md)   
 - [Базы данных](https://github.com/NBakaev/awesome/blob/master/docs/databases.md)   
-- [- Без категории -](https://github.com/NBakaev/awesome/blob/master/docs/unresolved.md)   
 - [Утилиты и сниппеты командной строки](https://github.com/NBakaev/awesome/blob/master/docs/utils.md)   
 - [REST / API / Documentation](https://github.com/NBakaev/awesome/blob/master/docs/backend_rest_api_documentation.md)
 - [Разработка игр - GameDev](https://github.com/NBakaev/awesome/blob/master/docs/gamedev.md)   
+- [- Без категории -](https://github.com/NBakaev/awesome/blob/master/docs/unresolved.md)   
 
 ### Business
 Списки статей, связанных с аналитикой, интернет-маркетингом, разработки продуктов, работе в командах и смежными темами
