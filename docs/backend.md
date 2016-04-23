@@ -118,7 +118,7 @@ New javascript engine in java 8
 
 #### java money
 Do not use float/double to store money in java
-
+ - [github.com/NBakaev/playground/blob/master/notes/src/main/java/ru/nbakaev/TestMoney.java)](https://github.com/NBakaev/playground/blob/master/notes/src/main/java/ru/nbakaev/TestMoney.java)
  - [Type Safety and Money](http://verraes.net/2016/02/type-safety-and-money/)
  - [Go for the Money! JSR 354 Adds First Class Money and Currency Support to Java](http://www.infoq.com/articles/JSR-354-Java-Money-Currency-API)
  - [Картинка: monetary_amount_java](https://raw.githubusercontent.com/NBakaev/awesome/master/_images/monetary_amount_java.png)
