@@ -75,3 +75,18 @@ Successfully added user: { "user" : "admin_books", "roles" : [ "dbOwner" ] }
 ```bash
     mongod --dbpath "/home/mongodb/data" --storageEngine wiredTiger --config "/home/mongodb/mongodb.conf" --logpath "/home/mongodb/logs/main.log" --fork --bind_ip 0.0.0.0
 ```
+
+### First run
+When you have fresh database and want auth - firstly you should connect to mongo from localhost(`mongo` in cmd).
+Then `use admin` . Then create user with `root` or `userAdminAnyDatabase` role.
+https://docs.mongodb.org/v2.6/tutorial/add-admin-user/
+
+```js
+db.createUser(
+  {
+    user: "SECRET_LOGIN",
+    pwd: "SECRET_PASSWORD",
+    roles: [ { role: "root", db: "admin" } ]
+  }
+)
+```
