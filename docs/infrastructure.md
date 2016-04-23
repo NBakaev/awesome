@@ -1,7 +1,6 @@
 ## Инструменты
  - [sonarqube - авто поиск bug в коде](http://www.sonarqube.org/)
  - [team city groovy - пример team city](http://ci.groovy-lang.org/?guest=1)
- - [bintray, artifactory - хранения бинарников, maven...](https://bintray.com/account/pricing?tab=account&type=pricing)
  - [Развертывание JetBrains Hub + Youtrack + Upsource + Nginx на своем сервере Debian 8](http://habrahabr.ru/post/266871/)
  - [Представляем Hub 1.0 — коннектор для командных продуктов JetBrains](http://habrahabr.ru/company/JetBrains/blog/264943/)
  -  https://hub.docker.com/r/cptactionhank/atlassian-confluence/
