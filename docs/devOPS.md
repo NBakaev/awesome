@@ -58,6 +58,7 @@ Linux / Unix / Ubuntu administration
 
 ## Consul
 - [Consul by HashiCorp](https://www.consul.io/)
+- [consul agent docs](https://www.consul.io/docs/agent/http/agent.html#agent_services)
 - [Introducing Consul Template](https://www.hashicorp.com/blog/introducing-consul-template.html)
 - [Spring Cloud Consul](https://github.com/spring-cloud/spring-cloud-consul)
 - [Consul.io Часть 1](https://habrahabr.ru/post/278085/)
