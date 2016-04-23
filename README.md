@@ -20,6 +20,7 @@
 - [REST / API / Documentation](https://github.com/NBakaev/awesome/blob/master/docs/backend_rest_api_documentation.md)
 - [Разработка игр - GameDev](https://github.com/NBakaev/awesome/blob/master/docs/gamedev.md)   
 - [- Без категории -](https://github.com/NBakaev/awesome/blob/master/docs/unresolved.md)   
+- [Security](https://github.com/NBakaev/awesome/blob/master/docs/security.md)   
 
 ### Business
 Списки статей, связанных с аналитикой, интернет-маркетингом, разработки продуктов, работе в командах и смежными темами
