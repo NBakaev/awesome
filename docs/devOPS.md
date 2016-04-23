@@ -51,6 +51,11 @@
   - https://github.com/vsespb/mt-aws-glacier
   - [Bash скрипт для создания архива данных, habr](http://habrahabr.ru/post/266597/)
 
+## Linux
+Linux / Unix / Ubuntu administration
+
+- [How To Upgrade to Ubuntu 16.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-upgrade-to-ubuntu-16-04-lts)
+
 ## Consul
 - [Consul by HashiCorp](https://www.consul.io/)
 - [Introducing Consul Template](https://www.hashicorp.com/blog/introducing-consul-template.html)
