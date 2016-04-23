@@ -42,6 +42,11 @@ NoSQL база данных
 
  - [Embedded MongoDB, java](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo)
 
+### Transactions
+ - [rystsov/mongodb-transaction-example](https://github.com/rystsov/mongodb-transaction-example)
+ - [How to Implement Robust and Scalable Transactions Across Documents with MongoDB](https://dzone.com/articles/how-implement-robust-and)
+ - [Транзакции в MongoDB](https://habrahabr.ru/post/153321/)
+
 ## Code snippets
 
 ### Drop all mongodb indexes in shell
