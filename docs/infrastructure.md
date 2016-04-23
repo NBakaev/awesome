@@ -22,6 +22,27 @@ CI server
  - [Improved continuous deployment using Ansible, Docker, SQS and TeamCity](https://www.whaletech.co/2015/03/29/deploying-to-aws-using-ansible-docker-and-teamcity.html)
  - [tcSlackBuildNotifier  - slack - Лучший плагн](https://github.com/PeteGoo/tcSlackBuildNotifier)
  - [TCSlackNotifierPlugin - slack - еще плагин](https://github.com/Tapadoo/TCSlackNotifierPlugin)
+
+### Travis CI
+OSS SaaS
+ - [How to publish artifacts in Travis CI?](http://stackoverflow.com/questions/12343452/how-to-publish-artifacts-in-travis-ci)
+ -  https://docs.travis-ci.com/user/deployment/bintray
+ -  https://docs.travis-ci.com/user/encryption-keys/
+ - `travis encrypt key=value --add env.global`
+
+### Binary repo
+Store packages, builds results
+
+ - http://www.sonatype.org/nexus/
+
+#### Artifactory
+Human-friendly alternative to nexus
+
+- [bintray, artifactory - хранения бинарников, maven...](https://bintray.com/account/pricing?tab=account&type=pricing)
+- [Publishing Your Maven Project to Bintray](https://blog.bintray.com/2015/09/17/publishing-your-maven-project-to-bintray/)
+
+`docker run -d --name artifactory -p 8081:8081 -v /home/artifactory/data:/var/opt/jfrog/artifactory/data -v /home/artifactory/logs:/var/opt/jfrog/artifactory/logs -v /home/artifactory/backup:/var/opt/jfrog/artifactory/backup jfrog-docker-reg2.bintray.io/jfrog/artifactory-oss:4.4.3`
+
 ### Atlasian youtube tutorials and demo (jira, confluence...)
 http://www.youtube.com/watch?v=Lxd6JMMxuwo
 http://www.youtube.com/watch?v=NrHpXvDXVrw
