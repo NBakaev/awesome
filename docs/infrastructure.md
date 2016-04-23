@@ -14,6 +14,14 @@
 - [Gitlab 8.0 - git server with UI...](https://about.gitlab.com/2015/09/22/gitlab-8-0-released/)
 - [GitHub vs GitLabs vs BitBucket Server (Formerly Stash)](http://technologyconversations.com/2015/10/16/github-vs-gitlabs-vs-bitbucket-server-formerly-stash/)
 
+### :star: TeamCity
+CI server
+ - [see teamCity docker](https://github.com/NBakaev/awesome/blob/master/common/TeamCity)
+ - [TeamCity Artifactory Plug-in](https://www.jfrog.com/confluence/display/RTF/TeamCity+Artifactory+Plug-in)
+ - [running-teamcity-on-kubernetes](http://tech.small-improvements.com/2015/04/09/running-teamcity-on-kubernetes/)
+ - [Improved continuous deployment using Ansible, Docker, SQS and TeamCity](https://www.whaletech.co/2015/03/29/deploying-to-aws-using-ansible-docker-and-teamcity.html)
+ - [tcSlackBuildNotifier  - slack - Лучший плагн](https://github.com/PeteGoo/tcSlackBuildNotifier)
+ - [TCSlackNotifierPlugin - slack - еще плагин](https://github.com/Tapadoo/TCSlackNotifierPlugin)
 ### Atlasian youtube tutorials and demo (jira, confluence...)
 http://www.youtube.com/watch?v=Lxd6JMMxuwo
 http://www.youtube.com/watch?v=NrHpXvDXVrw
