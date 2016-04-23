@@ -64,3 +64,8 @@ chmod 644 /etc/security/cacerts/5ed36f99.0
 https://class.coursera.org/econometrics-001/lecture
 
 `coursera-dl -u coursera_username -p coursera_password econometrics-001`
+
+### Clear storage
+
+find files larger 10mb `find / -size +10M -ls`
+Folders to delete `/root/.local/share/Trash/` & `/var/cache/`
