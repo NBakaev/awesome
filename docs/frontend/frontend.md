@@ -176,9 +176,12 @@ Build tool
  - detect that browser offline
  - cache.manifest
 
+### SPA & SEO
+- [AngularJS SEO - PhantomJS - render angular on server](http://lawsonry.com/2014/05/diy-angularjs-seo-with-phantomjs-the-easy-way/)
+- [AngularJS SEO - PhantomJS - stakoverflow](http://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications)
+- [AngularJS SEO - PhantomJS - prerender github repo](https://github.com/prerender/prerender)
+- [Understanding - PhantomJS](http://www.sitepoint.com/understanding-phantomjs/)
+- [Web Crawling with Node, PhantomJS and Horseman](http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/)
+
 ### Notes
   - [Google geocording, javascript](https://developers.google.com/maps/documentation/javascript/geocoding)
-  - [AngularJS SEO - PhantomJS - render angular on server](http://lawsonry.com/2014/05/diy-angularjs-seo-with-phantomjs-the-easy-way/)
-  - [AngularJS SEO - PhantomJS - stakoverflow](http://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications)
-  - [AngularJS SEO - PhantomJS - prerender github repo](https://github.com/prerender/prerender)
-  - [Understanding - PhantomJS](http://www.sitepoint.com/understanding-phantomjs/)
