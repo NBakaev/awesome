@@ -203,13 +203,6 @@ Performance, APM
  - [ГЕОТАРГЕТИНГ ДЛЯ ПРОГРАММИСТА.xaker](https://xakep.ru/2015/06/25/geotargeting-api-197/)
  - [Геолокация без GPS (часть 2)](https://habrahabr.ru/post/259605/)
 
-### HTTPS / SSL
- - [Let's Encrypt выходит в публичную бету: HTTPS всюду, каждому, отныне и навсегда бесплатно](https://habrahabr.ru/post/272253/)
- - [How To Secure Nginx with Let's Encrypt on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04)
- - [Что веб-разработчикам следует знать о SSL](https://habrahabr.ru/company/1cloud/blog/275335/)
- - [Yet another инструкция по получению ssl-сертификата Let's Encrypt](https://habrahabr.ru/post/279695/)
- - [wosign.com - Free SSL Certificate](https://buy.wosign.com/free/)
-
 #### Java & Spring authentication
 - http://blog.jdriven.com/2014/10/stateless-spring-security-part-2-stateless-authentication/
 - http://spring.io/blog/2015/02/03/sso-with-oauth2-angular-js-and-spring-security-part-v

@@ -129,3 +129,11 @@ Linux / Unix / Ubuntu administration
  - [Ansible base Images for easy Ansible-Playbook-based Docker builds](https://github.com/ansible/ansible-docker-base)
  - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
  - [Provisioning Docker containers with Ansible](http://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/index.html)
+
+### HTTPS / SSL
+  - [Let's Encrypt выходит в публичную бету: HTTPS всюду, каждому, отныне и навсегда бесплатно](https://habrahabr.ru/post/272253/)
+  - [How To Secure Nginx with Let's Encrypt on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04)
+  - [Что веб-разработчикам следует знать о SSL](https://habrahabr.ru/company/1cloud/blog/275335/)
+  - [Yet another инструкция по получению ssl-сертификата Let's Encrypt](https://habrahabr.ru/post/279695/)
+  - [wosign.com - Free SSL Certificate](https://buy.wosign.com/free/)
+
