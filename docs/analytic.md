@@ -104,3 +104,4 @@ Tools to compare and choose page or fragment with best conversion rate
   - [Основные принципы A/B тестирования ,megamozg.ru](http://megamozg.ru/post/8576/)
   - [Как запустить сплит-тест: 13 обязательных шагов, spark](http://spark.ru/startup/changeagain-me/blog/11724/kak-zapustit-split-test-13-obyazatelnih-shagov)
   - [Как мы потеряли и снова нашли миллионы, не проведя A/B тестирование](http://habrahabr.ru/post/269905/)
+  - [Почему результаты большинства A/B тестов — полная чепуха](http://apptractor.ru/test/split-testing/pochemu-rezultatyi-bolshinstva-a-b-testov-polnaya-chepuha.html)

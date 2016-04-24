@@ -19,6 +19,11 @@
   - [Скажи мне свой UTM, и я скажу, кто ты, searchengines.ru ](http://www.searchengines.ru/articles/skazhi_mne_svoy.html)
   - [The Complete Guide to UTM Codes, bufferapp.com](https://blog.bufferapp.com/utm-guide)
 
+### Landing page
+ - [Landing page. Что такое. Из чего состоит. Виды. Процесс работы](https://habrahabr.ru/post/273917/)
+ - [Обзор сервисов для создания посадочных страниц](https://vc.ru/p/landing-constructor)
+ - [Кейс: Создание посадочной страницы для Qiwi](https://vc.ru/p/qiwi-redkeds)
+
 ### Контекстная реклама
  - [Как быстро сделать кампанию Google AdWords из экспортного файла Яндекс.Директа. Пошаговое руководство](http://www.searchengines.ru/articles/kak_bystro_sdelati.html)
  - [Операторы Яндекс Директ памятка](https://spark.ru/startup/yarate/blog/10553/operatori-yandeks-direkt-pamyatka)
@@ -35,6 +40,7 @@
   - [RTB: шаг навстречу новой технологии](https://megamozg.ru/company/realweb/blog/20008/)
   - [Торги в реальном времени (RTB): Исчерпывающее руководство для получения прибыли](https://megamozg.ru/post/20254/)
   - [Добро пожаловать в Lean Marketing](https://megamozg.ru/company/hopox/blog/20822/)
+  - [Погружение в контекст](https://megamozg.ru/company/ruward/blog/16484/)
 
 ### Content marketing
  - [Призывы к действию: 170 шаблонов на все случаи жизни](http://texterra.ru/blog/prizyvy-k-deystviyu-170-shablonov-na-vse-sluchai-zhizni.html)

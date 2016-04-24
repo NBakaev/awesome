@@ -46,6 +46,7 @@ NoSQL база данных
  - [rystsov/mongodb-transaction-example](https://github.com/rystsov/mongodb-transaction-example)
  - [How to Implement Robust and Scalable Transactions Across Documents with MongoDB](https://dzone.com/articles/how-implement-robust-and)
  - [Транзакции в MongoDB](https://habrahabr.ru/post/153321/)
+ - [Perform Two Phase Commits](https://docs.mongodb.org/manual/tutorial/perform-two-phase-commits/)
 
 ## Code snippets
 

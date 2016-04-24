@@ -31,7 +31,8 @@
 
 ### SAP
 - [SAP ERP / ABAP полезные ресурсы](http://habrahabr.ru/post/270335/)
-- [Взгляд IT-специалиста на SAP ERP](https://web.archive.org/web/20151115185845/http://habrahabr.ru/post/270715/)
+- [:star: Взгляд IT-специалиста на SAP ERP](https://web.archive.org/web/20151115185845/http://habrahabr.ru/post/270715/)
+- [Все что вы хотели знать про защиту от XSS в SAP](https://habrahabr.ru/company/dsec/blog/275719/)
 
 ### 1С
  - [И снова про 1С, habr](http://habrahabr.ru/company/1c/blog/267321/)

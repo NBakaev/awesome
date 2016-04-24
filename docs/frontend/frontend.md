@@ -129,6 +129,7 @@
  - [JavaScript goes to Asynchronous city](https://blogs.msdn.microsoft.com/eternalcoding/2015/09/30/javascript-goes-to-asynchronous-city/)
  - [JS Charting: Google Sheets](https://davidwalsh.name/js-charting-google-sheets)
  - [Top JavaScript Frameworks, Libraries and Tools and When to Use Them](http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/)
+ - [A touch slideout navigation menu for your mobile web apps](https://github.com/Mango/slideout)
 
 #### Audio player
 Воспроизведение аудио в браузере
