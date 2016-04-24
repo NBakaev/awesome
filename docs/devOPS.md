@@ -17,6 +17,8 @@
  - [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
  - http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/ what and why service discovery
  - http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/
+ - [what and why service discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
+ - [running-own-docker-swarm-cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
  - [Qcow2 — это формат дискового образа программы QEMU. Copy-On-Write](https://www.google.ru/search?q=Qcow2+disk)
 
 ## AWS
