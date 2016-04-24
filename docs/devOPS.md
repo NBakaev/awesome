@@ -15,8 +15,6 @@
  - [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами, БАЗОВО](http://habrahabr.ru/post/266139/)
  - [Свой облачный хостинг за 5 минут. Часть 2: Service Discovery, habr](http://habrahabr.ru/post/262397/)
  - [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
- - http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/ what and why service discovery
- - http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/
  - [what and why service discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
  - [running-own-docker-swarm-cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
  - [Qcow2 — это формат дискового образа программы QEMU. Copy-On-Write](https://www.google.ru/search?q=Qcow2+disk)
@@ -42,6 +40,7 @@
   - [Amazon Simple Storage Service Developer Guide API Version 2006-03-01](http://awsdocs.s3.amazonaws.com/S3/latest/s3-dg.pdf)
 
 ### IaaS
+ - [IaaS-дайджест: 30 материалов по теме виртуализации](https://habrahabr.ru/company/it-grad/blog/280868/)
  - [Google Cloud vs AWS: a comparison](http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/#comment-215)
  - AWS
  - Google Cloud
@@ -57,8 +56,11 @@
 Linux / Unix / Ubuntu administration
 
 - [How To Upgrade to Ubuntu 16.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-upgrade-to-ubuntu-16-04-lts)
+- [Вышел релиз Ubuntu 16.04 LTS — Snap, OpenStack и другие нововведения. Возможны проблемы с видеокартами AMD](https://habrahabr.ru/post/282197/)
+- [Топ 20 бесплатных инструментов мониторинга дисков](https://habrahabr.ru/company/ua-hosting/blog/281961/)
+- [Более чем 80 средств мониторинга системы Linux](https://habrahabr.ru/company/ua-hosting/blog/281519/)
 
-## Consul
+## :star: Consul
 - [Consul by HashiCorp](https://www.consul.io/)
 - [consul agent docs](https://www.consul.io/docs/agent/http/agent.html#agent_services)
 - [Introducing Consul Template](https://www.hashicorp.com/blog/introducing-consul-template.html)
@@ -69,7 +71,7 @@ Linux / Unix / Ubuntu administration
 - [:star: Использование Consul для service discovery и других задач](http://eax.me/consul/)
 - [how to define HTTP health check in a consul container for a service on the same host?](http://stackoverflow.com/questions/27623590/how-to-define-http-health-check-in-a-consul-container-for-a-service-on-the-same)
 
-## Docker
+## :star: Docker
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [MONGODB & DOCKER – PART 1](http://jam.sg/blog/mongodb-docker-part-1/)
  - [How to create a pub/sub application with MongoDB ? Introduction](http://tugdualgrall.blogspot.fr/2015/01/how-to-create-pubsub-application-with.html?m=1)
@@ -92,7 +94,9 @@ Linux / Unix / Ubuntu administration
  - [How to share Docker volumes across hosts](https://jaxenter.com/how-to-share-docker-volumes-across-hosts-119602.html)
  - [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
 
-## :star: Kubernetes - docker orchestration
+## :star: Kubernetes
+docker orchestration
+
 - [:star: Видео: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
 - [:star: :star: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
 - [Kubernetes Namespaces, Resource Quota, and Limits for QoS in Cluster](https://www.javacodegeeks.com/2016/03/kubernetes-namespaces-resource-quota-limits-qos-cluster.html)
@@ -105,18 +109,12 @@ Linux / Unix / Ubuntu administration
 - [Manage Kubernetes cluster from UI, stackoverflow](http://stackoverflow.com/questions/31767161/manage-kubernetes-cluster-from-ui)
 - [Getting Started with a Multi-node Kubernetes Cluster on Ubuntu](https://devops.profitbricks.com/tutorials/getting-started-with-a-multi-node-kubernetes-cluster-on-ubuntu/)
 - [kubernetes-101-networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
-- [https://github.com/arun-gupta/kubernetes-java-sample](https://github.com/arun-gupta/kubernetes-java-sample)
+- [kubernetes-java-sample](https://github.com/arun-gupta/kubernetes-java-sample)
 - [Official CloudFormation and kube-aws tool for installing Kubernetes on AWS](https://coreos.com/blog/kubernetes-on-aws-cloudformation/)
 
-#### Alternatives to kubernetes - Docker orchestration
-- [marathon](https://github.com/mesosphere/marathon)
-- [CONTINUOUS DEPLOYMENT WITH MESOS, MARATHON AND DOCKER](https://mesosphere.com/blog/2015/04/02/continuous-deployment-with-mesos-marathon-docker/)
-- [Mesos Sandbox Using Docker Compose](https://spof.io/blog/2015/06/23/mesos-sandbox-using-docker-compose/)
-- [mesosphere](http://mesosphere.github.io/marathon/docs/application-basics.html)
-- [mesos](http://mesos.apache.org/documentation/latest/)
-- [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
+### Ansible
+alternative to chef/puppet
 
-### Ansible (alternative to chef/puppet)
  - [Ansible — давайте попробуем](https://habrahabr.ru/company/express42/blog/254959/)
  - [Автоматизируем и ускоряем процесс настройки облачных серверов с Ansible. Часть 1: Введение](https://habrahabr.ru/company/infobox/blog/249143/)
  - [Автоматизируем и ускоряем процесс настройки облачных серверов с Ansible. Часть 2: вывод, отладка, и повторное использование playbook, habr](http://habrahabr.ru/company/infobox/blog/250115/)
@@ -139,3 +137,10 @@ Linux / Unix / Ubuntu administration
   - [Yet another инструкция по получению ssl-сертификата Let's Encrypt](https://habrahabr.ru/post/279695/)
   - [wosign.com - Free SSL Certificate](https://buy.wosign.com/free/)
 
+#### Alternatives to kubernetes - Docker orchestration
+ - [marathon](https://github.com/mesosphere/marathon)
+ - [CONTINUOUS DEPLOYMENT WITH MESOS, MARATHON AND DOCKER](https://mesosphere.com/blog/2015/04/02/continuous-deployment-with-mesos-marathon-docker/)
+ - [Mesos Sandbox Using Docker Compose](https://spof.io/blog/2015/06/23/mesos-sandbox-using-docker-compose/)
+ - [mesosphere](http://mesosphere.github.io/marathon/docs/application-basics.html)
+ - [mesos](http://mesos.apache.org/documentation/latest/)
+ - [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
