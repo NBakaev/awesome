@@ -1,0 +1,2 @@
+echo "%1"
+ffmpeg.exe -loop 1 -r 2 -i "D:\development\ffmpeg\mp3.jpg" -i %1 -vf scale=-1:380 -c:v libx264 -qp 0 -s 1920x1080 -preset slow -tune stillimage -crf 18 -c:a copy -shortest -pix_fmt vdpau_h264 -threads 0 %1.mkv
