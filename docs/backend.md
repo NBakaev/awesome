@@ -148,6 +148,19 @@ Spring framework & spring boot & microservices
  - [Как в Spring logger получить](https://habrahabr.ru/post/276729/)
  - [How SpringBoot AutoConfiguration magic works?](http://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)
 
+### Spring Data
+ - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)
+ - [spring-data-examples](https://github.com/ttrelle/spring-data-examples)
+
+### Spring Data Processing
+ - [Spring XD](http://projects.spring.io/spring-xd/)
+ - [Spring XD Guide](http://docs.spring.io/spring-xd/docs/current-SNAPSHOT/reference/html/)
+ - [Message Processing with Spring Integration](https://www.javacodegeeks.com/2014/12/message-processing-with-spring-integration.html?utm_source=feedburner)
+ - [Sample starter applications and code for use with the Spring XD project](https://github.com/spring-projects/spring-xd-samples)
+
+#### Spring Cloud Data Flow
+- [Spring Cloud Data Flow](http://cloud.spring.io/spring-cloud-dataflow/)
+
 ## Шаблоны документов
 Create reports in .pdf .doc .xlsx
 
