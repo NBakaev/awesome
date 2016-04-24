@@ -21,6 +21,7 @@
 - [Разработка игр - GameDev](https://github.com/NBakaev/awesome/blob/master/docs/gamedev.md)   
 - [- Без категории -](https://github.com/NBakaev/awesome/blob/master/docs/unresolved.md)   
 - [Security](https://github.com/NBakaev/awesome/blob/master/docs/security.md)   
+- [Мессенджеры, звонки, связь](https://github.com/NBakaev/awesome/blob/master/docs/messengers_call.md)   
 
 ### Business
 Списки статей, связанных с аналитикой, интернет-маркетингом, разработки продуктов, работе в командах и смежными темами
