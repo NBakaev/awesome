@@ -33,6 +33,7 @@
  - [100 полезных скриптов для автоматизации работы в Google AdWords. Часть 2](http://www.searchengines.ru/articles/100_use_scripts_2.html)
  - [Системы автоматизации контекстной рекламы](http://marketing-wiki.ru/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)
  - [Контекстная реклама Avito](http://context.avito.ru/)
+ - [Новости рынка контекстной рекламы за август 2015 г](http://www.searchengines.ru/articles/novosti_rynka_avg_2015.html)
 
 ##
   - [Особенности национального маркетинга в зимний период](http://tema.livejournal.com/1930033.html)

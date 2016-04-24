@@ -11,6 +11,7 @@ NoSQL база данных
  - [Weather of the Century: Part 4 - cool](https://www.mongodb.com/blog/post/weather-century-part-4)
 
  - [Leaf in the Wild: Square Enix Scales TOMB RAIDER, HITMAN ABSOLUTION, DEUS EX & more on MongoDB](https://www.mongodb.com/blog/post/leaf-in-the-wild-square-enix-scales-tomb-raider-hitman-absolution-deus-ex-and-more-on-mongodb)
+ - [Retail Reference Architecture Part 3: Query Optimization and Scaling](https://www.mongodb.com/blog/post/retail-reference-architecture-part-3-query-optimization-and-scaling)
 
 ### mongodb time series data
  - [1](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb)

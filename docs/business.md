@@ -24,6 +24,9 @@
   - [Сравнение сервисов приема интернет-платежей для ИП](http://habrahabr.ru/post/257395/)
   - [Yandex money - приём платежей](https://money.yandex.ru/embed/quickpay/shop.xml)
 
+## Surverys
+- [The Evolution of the Modern Software Supply Chain](https://www.docker.com/survey-2016)
+
 ##
 - [Что делать, если была разглашена информация, попадающая под NDA](https://vc.ru/p/problem-14448)
 
