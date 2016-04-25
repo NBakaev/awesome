@@ -5,6 +5,11 @@
  - [How We Partitioned Airbnb’s Main Database in Two Weeks](http://nerds.airbnb.com/how-we-partitioned-airbnbs-main-db/)
  - [:star: percona.com](https://www.percona.com/)
 
+### NoSQL
+ - Aerospike
+ - Redis
+ - MongoDB
+
 Run popular RDB from docker
 ```bash
 docker run --name mysql-server -e MYSQL_ROOT_PASSWORD=INSERT_HERE_MEGA_PASSWORD_FOR_ROOT -p 3306:3306 -d mysql/mysql-server:5.7
