@@ -2,6 +2,7 @@
 Google Analytics, Metrics, KPIs, Conversions etc...
 
 ### Google Analytics
+GA is more than compare browsers and sessions and `ga('send', 'event', 'button', 'click', 'nav buttons', 4);`
 
 ### User id
 Crossdevice tracking - omnichannel
