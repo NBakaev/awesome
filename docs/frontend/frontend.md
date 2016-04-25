@@ -97,6 +97,7 @@
  - [Очередь событий в карточной игре + основы Angular](https://habrahabr.ru/post/266401/)
  - [ng-annotate - Add, remove and rebuild AngularJS dependency injection annotations](https://github.com/olov/ng-annotate)
  - [ng-idle - детектор бездействия](https://github.com/hackedbychinese/ng-idle)
+ - [Фильтруй правильно, или вредные советы по фильтрации в Angular.Js](https://habrahabr.ru/company/infopulse/blog/281617/)
 
 ## CSS
  - [What’s New in Foundation 6?](http://www.sitepoint.com/whats-new-in-foundation-6/)
@@ -170,6 +171,7 @@ Build tool
  - [Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://blog.rangle.io/angular-gulp-bestpractices/)
  - [Тестирование JS. Кармический Webpack](https://habrahabr.ru/company/rambler-co/blog/278503/)
  - [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
+ - [Ещё один пост о сборке front-end проекта](https://habrahabr.ru/post/251807/)
 
 ### OFFLINE mode
  - store data in localstorage

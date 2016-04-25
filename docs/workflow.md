@@ -8,6 +8,7 @@
  - [23 вопроса, которые вам зададут на собеседовании в Apple](http://megamozg.ru/company/icanchoose/blog/21040/)
  - [Процесс разработки и выкатка релизов в Badoo. Автоматическое тестирование. Девелоперское окружение](http://habrahabr.ru/company/badoo/blog/190572/)
  - [Как работают над Chromium, habr - все херак-херак и в master...](http://habrahabr.ru/post/267559/)
+ - [Как я сходила на 80 собеседований и провалилась](http://www.the-village.ru/village/business/opyt/234807-fail)
 
 ## :star: :star:
  - [Автоматизация workflow небольшой команды разработки (Часть 1)](http://habrahabr.ru/post/270299/)
@@ -47,6 +48,7 @@
  - [:star: Руководитель проектов Game Insight о типах игровых разработчиков: «Взрослый», «фестивальщик» и другие](https://vc.ru/p/types-in-gamedev)
  - [Чем готовы пожертвовать ИТ-специалисты в России ради различных бонусов — исследование Kelly Services](https://vc.ru/p/kelly-workforce-index)
  - [Публичные собеседования на позицию веб-разработчика в прямом эфире](https://habrahabr.ru/company/hexlet/blog/280406/)
+ - [Письмо в редакцию: Чем профессиональные программисты отличаются от любителей](https://vc.ru/p/professional)
 
 ####
  - [Mail.Ru Group Limited Итоговая аудированная отчетность в соответствии с МСФО за 2015 год и предварительные данные по выручке за первый квартал 2016 года](https://corp.mail.ru/ru/press/releases/9592/)

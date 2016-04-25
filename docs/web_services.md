@@ -24,6 +24,9 @@ Task manager
 - [:star: Контур.Бухгалтерия: расчет зарплаты, ведение бухгалтерии, подготовка и отправка отчетности в ФНС, ПФР, ФСС](http://www.b-kontur.ru/)
 - [ БМ Сервисы ](http://bmbox.ru/services/analitika/#)
 
+## Опросы
+- [«Анкетолог» — сервис для проведения онлайн-опросов](https://vc.ru/p/anketolog)
+
 ### Русские IaaS
 Облачные сервера с root пользователем
 
@@ -58,6 +61,7 @@ Connect one system with another, usually without coding and using API
  - [zapier - Five Simple Ways to Improve Team Collaboration](https://zapier.com/blog/teamwork/)
  - [:star: zapier](https://zapier.com/zapbook/)
  - [ifttt - Connect the apps you love](https://ifttt.com/)
+ - [6 Digital Marketing Tools that Save Me 2+ Hours Every Day!](http://webcache.googleusercontent.com/search?q=cache%3Awww.samsmarketingblog.com%2Ftime-saving-digital-marketing-tools%2F&oq=cache%3Awww.samsmarketingblog.com%2Ftime-saving-digital-marketing-tools%2F&aqs=chrome..69i57j69i58.2526j0j4&sourceid=chrome&ie=UTF-8)
  - [A Hundred and One Integrations With Zapier and Wunderlist](https://www.wunderlist.com/blog/a-hundred-and-one-integrations-with-zapier-and-wunderlist/)
 
 ## Popular

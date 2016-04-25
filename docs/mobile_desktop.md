@@ -12,6 +12,7 @@ Cross-platform development with JavaScript
  - [--](http://habrahabr.ru/company/arcadia/blog/257749/)
  - [Введение в Cordova: Создание первого приложения](http://habrahabr.ru/post/274763/)
  - [Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
+ - [Quick Tip – Installing and Getting Started with Cordova](http://www.sitepoint.com/quick-tip-installing-and-getting-started-with-cordova/)
 
  - [PhoneGap vs. Cordova](http://habrahabr.ru/post/272873/)
 
@@ -37,3 +38,4 @@ Cross-platform development with JavaScript
 
 ##
  - [Сервисы дистрибуции мобильных приложений для iOS. Часть 4 (заключительная): Fabric (Crashlytics)](https://habrahabr.ru/company/arcadia/blog/260019/)
+ - [Автоматизация публикации приложения в Google Play](https://habrahabr.ru/post/281557/)

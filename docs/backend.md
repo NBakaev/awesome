@@ -16,6 +16,7 @@
  - [:star: Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
  - [WireMock A web service test double for all occasions](http://wiremock.org/running-standalone.html)
  - [How Enterprises Benefit From Microservices Architectures](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/)
+ - [:sta: System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 ## Шаблонизаторы
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
@@ -89,6 +90,7 @@ Server-side HTML page rendering
  - [JUnit integration testing with Docker and Testcontainers](https://rnorth.org/24/junit-integration-testing-with-docker-and-testcontainers)
 
 ## Java
+ - [Большой JVM-опрос: версии Java, альтернативные JVM-языки, версии Java EE](https://habrahabr.ru/post/281473/)
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)
  - [Getting started with Spark: it is possible to create lightweight RESTful application also in Java](http://www.javacodegeeks.com/2015/08/getting-started-with-spark-it-is-possible-to-create-lightweight-restful-application-also-in-java.html)

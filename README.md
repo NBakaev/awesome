@@ -58,15 +58,18 @@
 - [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
 
 ## Общее
+ - [IT eBooks - Free Download IT eBooks](http://it-ebooks.info/)
  - [205 шпаргалок для разработчика, habr](http://habrahabr.ru/post/254585/)
  - [Обзор и видео докладов по информационной безопасности с конференции SECR-2014б habr](http://habrahabr.ru/post/263591/)  
  - [Confluence в жизни аналитика — Часть 1](http://analyst.by/rmt/confluence-v-zhizni-analitika-chast-1)
  - [markdown emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/)
  - [Design Documents - The Chromium Projects](http://www.chromium.org/developers/design-documents)
+ - [CoolGithubProjects](https://www.coolgithubprojects.com/)
 
  - [Sandstorm.io - is an open source platform for servers](https://apps.sandstorm.io/)
  - [12 Best Online Form Builders for your website](http://codecondo.com/12-best-online-form-builders-for-your-website/)
  - [Чем плохо быть full stack enterprise-администратором](https://habrahabr.ru/post/278485/)
+ - [Enjoying Java and Being More Productive With IntelliJ IDEA](https://dzone.com/articles/enjoying-java-and-being-more-productive-with-intel-1)
 
 ### Git / Git flow
  - [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
@@ -79,6 +82,9 @@
  - [How to Create an Open Source Directory on GitHub Pages](http://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225)
  - [Git Remove Commit Example](https://examples.javacodegeeks.com/software-development/git/git-remove-commit-example)
  - [Git Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
+ - [Монолитные репозитории в Git](https://habrahabr.ru/post/280358/)
+ - [GitHub Flow: рабочий процесс Гитхаба](https://habrahabr.ru/post/189046/)
+
 ### Code review
  - [20 BEST CODE REVIEW TOOLS FOR DEVELOPERS](http://www.devstrend.com/20-best-code-review-tools-for-developers/)
  - [Code Reviews: why and how?](https://www.kenneth-truyers.net/2016/04/08/code-reviews-why-and-how/)

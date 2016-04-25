@@ -18,6 +18,7 @@
  - [what and why service discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
  - [running-own-docker-swarm-cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
  - [Qcow2 — это формат дискового образа программы QEMU. Copy-On-Write](https://www.google.ru/search?q=Qcow2+disk)
+ - [50 инструментов для автоматизации облачной инфраструктуры](https://habrahabr.ru/company/it-grad/blog/281801/)
 
 ## AWS
   ![](https://media.amazonwebservices.com/blog/2015/on_shore_personal_data_storage_arch_3.jpg)
@@ -33,6 +34,7 @@
   - [Цены на EC2](http://aws.amazon.com/ru/ec2/pricing/)
   - [Introducing CloudWatch Dashboards](https://aws.amazon.com/ru/about-aws/whats-new/2015/10/cloudwatch-dashboards/)
   - [AWS SDK for Java Developer Guide Release 1.0](http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/aws-sdk-java-dg.pdf)
+  - [AWS Storage Update – Amazon S3 Transfer Acceleration + Larger Snowballs in More Regions](https://aws.amazon.com/ru/blogs/aws/aws-storage-update-amazon-s3-transfer-acceleration-larger-snowballs-in-more-regions/)
 
 ### S3
   - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
@@ -136,6 +138,8 @@ alternative to chef/puppet
   - [Что веб-разработчикам следует знать о SSL](https://habrahabr.ru/company/1cloud/blog/275335/)
   - [Yet another инструкция по получению ssl-сертификата Let's Encrypt](https://habrahabr.ru/post/279695/)
   - [wosign.com - Free SSL Certificate](https://buy.wosign.com/free/)
+  - [Using Free SSL/TLS Certificates from Let’s Encrypt with NGINX](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
+  - [Howto: Make Your Own Cert With OpenSSL](https://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/)
 
 #### Alternatives to kubernetes - Docker orchestration
  - [marathon](https://github.com/mesosphere/marathon)

@@ -13,6 +13,7 @@
 - [Apdex (Application Performance Index)](https://en.wikipedia.org/wiki/Apdex)
 - [Build reliable and faster Node.js applications, keymetrics.io](https://keymetrics.io/)
 - [Application Performance Monitoring & Management | AppDynamics](https://www.appdynamics.com/)
+- [Monitoring Microservices in Docker Containers with NGINX Amplify](https://www.nginx.com/blog/monitoring-microservices-docker-containers-nginx-amplify/)
 
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/docs/logging/newrelic/newrelic.md)   

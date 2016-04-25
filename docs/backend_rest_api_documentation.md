@@ -1,6 +1,7 @@
 # API / REST / Documentation
 
  - [Investigating Api Developer Tooling](http://www.mayerdan.com/programming/2014/01/29/investigating-api-tooling/)
+ - [Hypermedia — то без чего ваше API не совсем REST](https://habrahabr.ru/company/aligntechnology/blog/281206/)
 
 ## Swagger - auto generate REST documentation API
  - [https://github.com/swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)

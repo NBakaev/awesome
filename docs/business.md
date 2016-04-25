@@ -23,11 +23,20 @@
   - [Обзор платежных агрегаторов для приема платежей](https://habrahabr.ru/company/web_payment_ru/blog/265349/)
   - [Сравнение сервисов приема интернет-платежей для ИП](http://habrahabr.ru/post/257395/)
   - [Yandex money - приём платежей](https://money.yandex.ru/embed/quickpay/shop.xml)
+  - [Планшет как полноценная замена ККА](https://roem.ru/07-04-2016/222047/tablet-register/)
 
 ## Surverys
-- [The Evolution of the Modern Software Supply Chain](https://www.docker.com/survey-2016)
+Тесты.Интересные фичи
+
+ - [The Evolution of the Modern Software Supply Chain](https://www.docker.com/survey-2016)
+ - [Готов ли ты к кризису? - Тест tjournal](https://tjournal.ru/special/instaforex)
+ - [MongoDB Days Silicon Valley](https://www.mongodb.com/events/mongodb-days-siliconvalley?jmp=twt)
+ - [insight.venturebeat.com/surveys](http://insight.venturebeat.com/surveys)
 
 ##
+ - [:star: Когда одно приложение заправляет остальными](https://vc.ru/p/wechat-rule-all)
+
+ - [:star: Карточные игры](https://habrahabr.ru/post/216637/)
 - [Что делать, если была разглашена информация, попадающая под NDA](https://vc.ru/p/problem-14448)
 
  - [152-ФЗ. ЦОДы, базы данных и уведомления о них](https://habrahabr.ru/post/273657/)
@@ -38,7 +47,8 @@
 
 - [Создаём KPI и Систему Сбалансированных Показателей своими руками. Часть первая — теоретическая](https://megamozg.ru/company/kickidler/blog/23270/)
 
-- [Шутка: Эмоциональный landing page? Воу воу, полегче](https://habrahabr.ru/post/278421/)
+
+ - [Преимущества товара вместо его характеристик: Примеры слоганов iPod, Evernote, Twitter, Nest](https://vc.ru/p/what-do-people-buy)
 
  - [Как зарегистрировать права на ИТ-продукт в России](https://vc.ru/p/problem-14088)
  - [Инструкция по оформлению ООО с одним учредителем](https://megamozg.ru/post/17516/)
@@ -51,6 +61,7 @@
  - [Как составить свой скрипт продаж. Как обойти секретаря](https://megamozg.ru/post/22230/)
  - [Чек-лист из 36 ошибок менеджеров по продажам (с решениями)](https://megamozg.ru/post/22236/)
 
+ - [:star: Егор Волков, Greensight: как с помощью цифр сделать компанию управляемой](https://megamozg.ru/company/simtechdev/blog/17022/)
 
  - [Невыносимая тяжесть серверов: к вопросу перехода на модель IaaS](https://habrahabr.ru/company/safedata/blog/268093/)
 
