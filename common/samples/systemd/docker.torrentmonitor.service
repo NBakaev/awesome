@@ -1,0 +1,13 @@
+[Unit]
+Description=torrentmonitor container
+Requires=docker.service
+Requires=docker.mariadb.service
+After=docker.service
+
+[Service]
+Restart=always
+ExecStart=/usr/bin/docker start -a torrentmonitor
+ExecStop=/usr/bin/docker stop -t 2 torrentmonitor
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,13 @@
+[Unit]
+Description=RSS container
+Requires=docker.service
+Requires=docker.mariadb.service
+After=docker.service
+
+[Service]
+Restart=always
+ExecStart=/usr/bin/docker start -a rsstinty
+ExecStop=/usr/bin/docker stop -t 2 rsstinty
+
+[Install]
+WantedBy=multi-user.target
