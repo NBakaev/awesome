@@ -69,3 +69,9 @@ https://class.coursera.org/econometrics-001/lecture
 
 find files larger 10mb `find / -size +10M -ls`
 Folders to delete `/root/.local/share/Trash/` & `/var/cache/`
+
+### View files in .deb
+`dpkg-deb -c file.deb`
+
+### Docker - Error opening terminal: unknown
+`export TERM=xterm`
