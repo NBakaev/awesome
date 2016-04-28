@@ -27,6 +27,13 @@
  - [Более 350 бесплатных инструментов для разработчиков](https://habrahabr.ru/company/it-grad/blog/270589/)
  - [:star: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
 
+### To read accounts/blogs
+Stay in touch with the world
+
+- [:star: Shared Twitter account for Russian-speaking frontend developers with a new author every week. jsunderhood](https://twitter.com/jsunderhood)
+- [:star: Переходящий твиттер backend разработчиков.](https://twitter.com/backendsecret)
+- [Коллективные твиттер-аккаунты](http://bizikov.tumblr.com/post/131029442334/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-cssunderhood)
+
 ### Git / Git flow
  - [Достаточно Git-а, чтобы быть (менее) опасным](http://habrahabr.ru/post/268951/)
  - http://danielkummer.github.io/git-flow-cheatsheet/
