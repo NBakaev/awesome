@@ -15,9 +15,10 @@
  - [massvideoblasterpro - Upload your YouTube videos like a real PRO](http://massvideoblasterpro.com/)
  - [SolveigMM Video Splitter - нарезалка видео](http://www.solveigmm.com/ru/products/video-splitter/)
  - [Foxit Reader 7 — программа для чтения PDF](https://www.foxitsoftware.com/ru/products/pdf-reader/)
- - evertone
- - pocket read it later
- - plex
+ - [Универсальное рабочее пространство для заметок | Evernote](https://evernote.com/intl/ru/)
+ - [pocket read it later](https://getpocket.com/)
+ - [Plex: Your media on all your devices](https://plex.tv/)
+ - [KeePass Password Safe](http://keepass.info/)
 
 ### Mind maps
 - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)
