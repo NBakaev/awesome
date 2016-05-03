@@ -7,6 +7,8 @@
  - [https://github.com/swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
  - [http://springfox.github.io/springfox/docs/current/#springfox-samples](http://springfox.github.io/springfox/docs/current/#springfox-samples)
  - [https://github.com/Swagger2Markup/swagger2markup](https://github.com/Swagger2Markup/swagger2markup)
+ - [Speed up your RESTful API development in Node.js with Swagger](https://scotch.io/tutorials/speed-up-your-restful-api-development-in-node-js-with-swagger)
+ - [Swagger UI responsive theme](https://github.com/jensoleg/swagger-ui)
 
 #### REST Documentation
 
