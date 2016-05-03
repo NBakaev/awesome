@@ -74,6 +74,7 @@ Linux / Unix / Ubuntu administration
 - [how to define HTTP health check in a consul container for a service on the same host?](http://stackoverflow.com/questions/27623590/how-to-define-http-health-check-in-a-consul-container-for-a-service-on-the-same)
 
 ## :star: Docker
+ - [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [MONGODB & DOCKER – PART 1](http://jam.sg/blog/mongodb-docker-part-1/)
  - [How to create a pub/sub application with MongoDB ? Introduction](http://tugdualgrall.blogspot.fr/2015/01/how-to-create-pubsub-application-with.html?m=1)
@@ -113,6 +114,22 @@ docker orchestration
 - [kubernetes-101-networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
 - [kubernetes-java-sample](https://github.com/arun-gupta/kubernetes-java-sample)
 - [Official CloudFormation and kube-aws tool for installing Kubernetes on AWS](https://coreos.com/blog/kubernetes-on-aws-cloudformation/)
+- [Kubernetes network performance tests](https://smana.kubespray.io/index.php/posts/kubernetes-net-bench)
+- [Using Flannel and etcd for LXC container networking](https://insights.ubuntu.com/2014/12/17/using-flannel-and-etcd-for-lxc-container-networking/)
+- [Howto Configure flannel Overlay Network with VXLAN for Docker on Power Servers](http://cloudgeekz.com/1016/configure-flannel-docker-power.html)
+- [stackoverflow: kubernetes Tagged Questions](http://stackoverflow.com/questions/tagged/kubernetes)
+
+####
+ - [Docker Networking – CoreOS Flannel](https://sreeninet.wordpress.com/2015/01/18/docker-networking-coreos-flannel/)
+ - [etcd: Allow removal of directory keys](https://github.com/coreos/etcd/issues/185)
+ - [Configuring flannel for container networking](https://coreos.com/flannel/docs/latest/flannel-config.html)
+ - [Getting started with etcd](https://coreos.com/etcd/docs/latest/getting-started-with-etcd.html)
+ - [flannel: Unable to access container by ip from another host #72](https://github.com/coreos/flannel/issues/72)   
+
+### fabric8
+ - [fabric8 - an open source developer platform](http://fabric8.io/)
+ - [Kubernetes Client API](https://github.com/fabric8io/fabric8/tree/master/components/kubernetes-api)
+ - [Java client for Kubernetes & OpenShift 3 http://fabric8.io](https://github.com/fabric8io/kubernetes-client)
 
 ### Ansible
 alternative to chef/puppet
@@ -140,6 +157,24 @@ alternative to chef/puppet
   - [wosign.com - Free SSL Certificate](https://buy.wosign.com/free/)
   - [Using Free SSL/TLS Certificates from Let’s Encrypt with NGINX](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
   - [Howto: Make Your Own Cert With OpenSSL](https://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/)
+  - [Nginx и https. Получаем класс А+](https://habrahabr.ru/post/252821/)
+
+#### Examples
+
+ - [:star: nginx TLS / SSL configuration options : A+](https://gist.github.com/konklone/6532544)
+ - [SSL Server Test](https://www.ssllabs.com/ssltest/)
+ - [Strong SSL Security on nginx](https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html)
+
+```bash
+// chmod for ssl keys
+// chmod 600	только владелец файла может читать/записывать
+sudo chown -R root:root /etc/ssl/nginx
+sudo chmod -R 600 /etc/ssl/nginx  
+
+// diffie hellman
+openssl rsa -in nbakaev.ru.key -outform der -pubout | openssl dgst -sha256 -binary | openssl enc -base64
+openssl dhparam -out dhparam.pem -rand /dev/urandom 4096
+```
 
 #### Alternatives to kubernetes - Docker orchestration
  - [marathon](https://github.com/mesosphere/marathon)

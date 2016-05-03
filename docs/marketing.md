@@ -31,6 +31,9 @@
  - [Полный путеводитель по созданию лендингов, которые продают](https://habrahabr.ru/company/iloveip/blog/263605/)
  - [Шутка: Эмоциональный landing page? Воу воу, полегче](https://habrahabr.ru/post/278421/)
 
+### Examples
+ - https://nnovgorod.rt.ru/hometv/action/got
+
 ### Контекстная реклама
  - [Как быстро сделать кампанию Google AdWords из экспортного файла Яндекс.Директа. Пошаговое руководство](http://www.searchengines.ru/articles/kak_bystro_sdelati.html)
  - [Операторы Яндекс Директ памятка](https://spark.ru/startup/yarate/blog/10553/operatori-yandeks-direkt-pamyatka)

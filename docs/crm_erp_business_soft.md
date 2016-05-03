@@ -1,5 +1,6 @@
 # CRM / ERP / Task management / Business soft
-## Общее :star:
+
+## :star: Общее 
  - [Как нам обустроить альтернативу 1С](http://habrahabr.ru/post/270087/)
 
  - [Внедрение программного продукта. Особенности работы бизнес-консультанта. Часть I, habr](http://megamozg.ru/post/6076/)
@@ -24,10 +25,21 @@
 
  - [:star: ИТ-стартап ищет больших клиентов: особенности работы с крупными корпорациями](https://megamozg.ru/post/24240/)
 
-#### CRM
+## CRM
+  - [Что такое CRM-системы и как их правильно выбирать?, habr](http://habrahabr.ru/post/249633/)
+  - [Zoho CRM. Обзор , habr](http://habrahabr.ru/post/248281/)   
+  - [Летний переполох: ищем облачную CRM](http://habrahabr.ru/post/192248/)
+  - [Как импортозаместить CRM и систему управления проектами для малого бизнеса, geektimes](http://geektimes.ru/company/sobakapavlova/blog/243235/)
+  - [Описание системы AmoCRM](http://megamozg.ru/post/20190/)
+  - [Описание CRM Мегаплан](http://megamozg.ru/post/22286/)
+  - [Идеи Битрикс24](http://idea.1c-bitrix.ru/)
+  - [Знакомый незнакомец. What is Битрикс24?](https://habrahabr.ru/company/bitrix/blog/274165/)
+
+### CRM системы
  - [Zoho CRM](https://www.zoho.com/crm/)
  - [salesforce](https://www.salesforce.com/)
  - [bitrix24](https://www.bitrix24.ru/)
+ - [bpm’online](https://www.terrasoft.ru/)
 
 ### SAP
 - [SAP ERP / ABAP полезные ресурсы](http://habrahabr.ru/post/270335/)
@@ -42,15 +54,9 @@
  - [Автоматизация легкого управления списками баз 1С](https://habrahabr.ru/post/278577/)
  - [:star: Инфостарт — все для 1С](http://infostart.ru/)
 
-### CRM
- - [Что такое CRM-системы и как их правильно выбирать?, habr](http://habrahabr.ru/post/249633/)
- - [Zoho CRM. Обзор , habr](http://habrahabr.ru/post/248281/)   
- - [Летний переполох: ищем облачную CRM](http://habrahabr.ru/post/192248/)
- - [Как импортозаместить CRM и систему управления проектами для малого бизнеса, geektimes](http://geektimes.ru/company/sobakapavlova/blog/243235/)
- - [Описание системы AmoCRM](http://megamozg.ru/post/20190/)
- - [Описание CRM Мегаплан](http://megamozg.ru/post/22286/)
- - [Идеи Битрикс24](http://idea.1c-bitrix.ru/)
- - [Знакомый незнакомец. What is Битрикс24?](https://habrahabr.ru/company/bitrix/blog/274165/)
+### bpm’online
+ - [bpm’online](https://www.terrasoft.ru/)
+ - [Презентация новой bpm’online 7.8. Онлайн-трансляция.](https://www.youtube.com/watch?v=fAQnIYtnUSg)
 
 ### BPM/BPMN - Business Process Modelling
 - [Что такое BPMS](https://habrahabr.ru/post/273025/)
