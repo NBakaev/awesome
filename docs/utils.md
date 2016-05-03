@@ -75,3 +75,6 @@ Folders to delete `/root/.local/share/Trash/` & `/var/cache/`
 
 ### Docker - Error opening terminal: unknown
 `export TERM=xterm`
+### VMware VMs
+VMware can not create normal working vmware tools on linux(ubuntu) and community have patches to work shared folders etc...
+https://github.com/rasa/vmware-tools-patches
