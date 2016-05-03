@@ -42,10 +42,13 @@ Tools for developers
 - [WinSCP - ftp/sftp client](https://winscp.net/eng/docs/lang:ru)
 - [Araxis Merge - 2 and 3-way file comparison (diff)](http://www.araxis.com/merge/index.en)
 - [Chrome Canary (latest Night builds for developers) ](https://www.google.ru/chrome/browser/canary.html)
+- [Genymotion – Fast And Easy Android Emulation](https://www.genymotion.com/)
 
 ### Database
 - [Navicat Premium - RDBMS database gui](http://www.navicat.com/products/navicat-premium)
 - [MongoChef - mongodb gui](http://3t.io/mongochef/)
+- [Robomongo — native MongoDB management tool (Admin UI)](https://robomongo.org/)
+- [JetBrains DataGrip: Your Swiss Army Knife for Databases and SQL](https://www.jetbrains.com/datagrip/)
 
 ### IDE / Code editors
 - [Atom](https://atom.io/)
@@ -53,11 +56,15 @@ Tools for developers
 - [Intellij idea](https://www.jetbrains.com/idea/)
 - [Sublime (and Atom) Snippets | Web Shows - Google Developers](https://developers.google.com/web/shows/ttt/series-2/sublime-snippet)
 - [Первая версия Visual Studio Code 1.0 — путь от простого редактора до мощного инструмента](https://habrahabr.ru/company/microsoft/blog/281667/)
+- [Visual Studio — Microsoft Developer Tools](https://www.visualstudio.com/)
 
 ### Git
 Git Gui
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [SmartGit](http://www.syntevo.com/smartgit/)
+
+### Development misc
+ - [Free Hex Editor Binary File Editing Software for Windows](http://www.hhdsoftware.com/free-hex-editor)
 
 ## UI / UX
  - [Sketch - прототипировщик векторный редактор UI](http://bohemiancoding.com/sketch/)
@@ -68,6 +75,8 @@ Git Gui
  - [babun - windows cygwin](http://babun.github.io/)
  - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
  - [Plumbum: Shell Combinators and More](http://plumbum.readthedocs.org/en/latest/index.html)
+ - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+ - https://gist.github.com/tsabat/1498393
 
 ## Screenshots and screencast
 - [ShareX - Take a screenshot or a screencast](https://getsharex.com/)
