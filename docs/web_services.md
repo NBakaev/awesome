@@ -33,7 +33,7 @@ Task manager
  - [InfoboxCloud](https://infoboxcloud.ru/)
  - [VPS/VDS хостинг, аренда VPS/VDS сервера от FASTVPS](https://fastvps.ru/)
 
-### :star: Vscale
+#### :star: Vscale
 Хороший аналог digitalocean в России от Selectel. С курсом рубля - более дешевый
 
  - [vscale - Облачные серверы для разработчиков](https://vscale.io/ru/)
