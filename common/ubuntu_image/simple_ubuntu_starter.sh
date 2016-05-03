@@ -6,7 +6,7 @@ echo deb https://apt.dockerproject.org/repo ubuntu-xenial main >> /etc/apt/sourc
 apt-get update
 
 # install docker & dnsmasq
-apt-get install docker-engine bridge-utils dnsmasq -y
+apt-get install docker-engine bridge-utils dnsmasq curl -y
 
 # enable swap with 4gb
 sudo fallocate -l 4G /swapfile
