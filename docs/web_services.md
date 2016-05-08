@@ -53,6 +53,7 @@ Task manager
  - [OAuth for developers](https://asana.com/developers/documentation/getting-started/auth)
 
 ### Яндекс.Директ
+ - [Direct API 5 — About this reference guide — Yandex Technologie](https://tech.yandex.com/direct/doc/ref-v5/concepts/about-docpage/)
  - https://tech.yandex.ru/direct/doc/dg-v4/live/UpdatePrices-docpage/
  - https://github.com/purecode/yandex-direct-client/tree/master/src/main/java/ru/cultserv/adv/yandex/direct/models
 

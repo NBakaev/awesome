@@ -20,3 +20,4 @@ Startup scripts
  - 3) `systemctl enable rss`
  - 4) `systemctl enable docker.torrentmonitor`
  - manually start service `systemctl start mariab`
+ - manually see status service `systemctl status mariab`

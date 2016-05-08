@@ -43,7 +43,7 @@
 - [:star: Сервисы, SaaS](https://github.com/NBakaev/awesome/blob/master/docs/web_services.md)   
 
 ## Awesome
-- [:star: Body of knowledge](https://en.wikipedia.org/wiki/Body_of_knowledge)
+- [:star: Body of knowledge: BABOK, PMBOK, SWEBOK...](https://en.wikipedia.org/wiki/Body_of_knowledge)
 - [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
 

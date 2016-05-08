@@ -149,6 +149,7 @@ Spring framework & spring boot & microservices
  - [HOW-TO: Java 8 Date & Time with Thymeleaf and Spring Boot](https://www.javacodegeeks.com/2015/11/how-to-java-8-date-time-with-thymeleaf-and-spring-boot.html)
  - [Как в Spring logger получить](https://habrahabr.ru/post/276729/)
  - [How SpringBoot AutoConfiguration magic works?](http://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)
+ - [Spring Boot start as Unix/Linux services](http://docs.spring.io/spring-boot/docs/1.3.0.BUILD-SNAPSHOT/reference/htmlsingle/#deployment-service)
 
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)

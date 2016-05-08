@@ -15,6 +15,10 @@
 - [Application Performance Monitoring & Management | AppDynamics](https://www.appdynamics.com/)
 - [Monitoring Microservices in Docker Containers with NGINX Amplify](https://www.nginx.com/blog/monitoring-microservices-docker-containers-nginx-amplify/)
 
+### Zabbix
+- [Обнаружение + Zabbix API под Java](https://habrahabr.ru/company/at_consulting/blog/277027/)
+- [Вышел Zabbix 3.0](https://habrahabr.ru/company/zabbix/blog/277265/)
+
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/docs/logging/newrelic/newrelic.md)   
 - [logentries](https://github.com/NBakaev/awesome/blob/master/docs/logging/logentries/README.md)   

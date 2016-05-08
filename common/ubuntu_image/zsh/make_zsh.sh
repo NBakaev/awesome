@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# install auto agnoster theme
-# on ubuntu. works perfect with ubuntu 16.04 (server/desktop)
-# after install restart ssh session
-
 set -e
 
 ## Install oh my zsh

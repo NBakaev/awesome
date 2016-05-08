@@ -79,6 +79,24 @@ Folders to delete `/root/.local/share/Trash/` & `/var/cache/`
 ### SSH key
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
+### ssh-agent
+ - [Multiple SSH Keys settings for different github account](https://gist.github.com/jexchan/2351996)
+
+```bash
+eval "$(ssh-agent)"
+ssh-add admin-key.pem
+```
+
 ### VMware VMs
 VMware can not create normal working vmware tools on linux(ubuntu) and community have patches to work shared folders etc...
 https://github.com/rasa/vmware-tools-patches
+
+Simple and quick script to install vmware-tools
+```bash
+apt-get install git curl unzip
+git clone https://github.com/rasa/vmware-tools-patches.git
+cd vmware-tools-patches
+./download-tools.sh latest
+./untar-and-patch.sh
+./compile.sh
+```

@@ -4,6 +4,7 @@
  - [Развертывание JetBrains Hub + Youtrack + Upsource + Nginx на своем сервере Debian 8](http://habrahabr.ru/post/266871/)
  - [Представляем Hub 1.0 — коннектор для командных продуктов JetBrains](http://habrahabr.ru/company/JetBrains/blog/264943/)
  -  https://hub.docker.com/r/cptactionhank/atlassian-confluence/
+ - [Как проинтегрировать TeamCity и Bitbucket Server](https://habrahabr.ru/post/282457)
 
 ```bash
  docker run --detach --publish 8090:8090 cptactionhank/atlassian-confluence:latest

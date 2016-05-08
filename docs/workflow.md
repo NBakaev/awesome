@@ -44,6 +44,7 @@
  - [Сотрудников ищут Superjob, Surfingbird, Lingualeo, «Google Россия»](https://vc.ru/p/recruit-167)
  - [Сотрудников ищут Plarium, «Игромания», Game Show, Epic Games и Playrix](https://vc.ru/p/games-recruit-10)
  - [Сотрудников ищут ВГТРК, «Связной», Wheely, Amediateka, Selectel](https://vc.ru/p/recruit-178)
+ - [Сотрудников ищут «Сан ИнБев», «Манн, Иванов и Фербер», «Связной», Skyeng](https://vc.ru/p/recruit-182)
  - [Штаб-квартира: Сыктывкарский офис сети «Додо Пицца»](https://vc.ru/p/dodo-office)
  - [:star: Руководитель проектов Game Insight о типах игровых разработчиков: «Взрослый», «фестивальщик» и другие](https://vc.ru/p/types-in-gamedev)
  - [Чем готовы пожертвовать ИТ-специалисты в России ради различных бонусов — исследование Kelly Services](https://vc.ru/p/kelly-workforce-index)
@@ -52,3 +53,8 @@
 
 ####
  - [Mail.Ru Group Limited Итоговая аудированная отчетность в соответствии с МСФО за 2015 год и предварительные данные по выручке за первый квартал 2016 года](https://corp.mail.ru/ru/press/releases/9592/)
+
+#### PMBOK
+ - [Где можно скачать последнюю русскую версию PMBOK?](https://toster.ru/q/24805)
+ - [PMDoc Управленческое Документирование](http://www.pmdoc.ru/tag/pmbok/)
+ - [Свод знаний по управлению проектами (PMBoK)](http://mahamba.com/ru/svod-znaniy-po-upravleniyu-proektami-pmbok)

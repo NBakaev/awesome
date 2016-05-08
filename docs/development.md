@@ -12,6 +12,7 @@
  - [12 Best Online Form Builders for your website](http://codecondo.com/12-best-online-form-builders-for-your-website/)
  - [Чем плохо быть full stack enterprise-администратором](https://habrahabr.ru/post/278485/)
  - [Enjoying Java and Being More Productive With IntelliJ IDEA](https://dzone.com/articles/enjoying-java-and-being-more-productive-with-intel-1)
+ - [Shields.io: Quality metadata badges for open source projects ](http://shields.io/)
 
 ## Awesome
    Коллекции современных и полезных утилит/программ/библиотек/фреймворков
@@ -47,6 +48,8 @@ Stay in touch with the world
  - [Git Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
  - [Монолитные репозитории в Git](https://habrahabr.ru/post/280358/)
  - [GitHub Flow: рабочий процесс Гитхаба](https://habrahabr.ru/post/189046/)
+ - [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
+ - [Git Cheat Sheet - git-flow](https://github.com/arslanbilal/git-cheat-sheet)
 
 ### Code review
  - [20 BEST CODE REVIEW TOOLS FOR DEVELOPERS](http://www.devstrend.com/20-best-code-review-tools-for-developers/)

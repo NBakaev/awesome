@@ -62,6 +62,15 @@ Linux / Unix / Ubuntu administration
 - [Топ 20 бесплатных инструментов мониторинга дисков](https://habrahabr.ru/company/ua-hosting/blog/281961/)
 - [Более чем 80 средств мониторинга системы Linux](https://habrahabr.ru/company/ua-hosting/blog/281519/)
 
+### Systemd
+systemd is an init system by default in ubuntu 16.04 lts
+
+- [Things I learned about systemd](https://nelsonslog.wordpress.com/2016/04/30/things-i-learned-about-systemd/)
+- [SystemdForUpstartUsers](https://wiki.ubuntu.com/SystemdForUpstartUsers)
+- [Systemd Essentials: Working with Services, Units, and the Journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
+- [Supervisord и forever больше не нужны. Systemd](https://habrahabr.ru/post/268583/)
+- [:star: examples](https://github.com/NBakaev/awesome/tree/master/common/samples/systemd)
+
 ## :star: Consul
 - [Consul by HashiCorp](https://www.consul.io/)
 - [consul agent docs](https://www.consul.io/docs/agent/http/agent.html#agent_services)
@@ -96,35 +105,56 @@ Linux / Unix / Ubuntu administration
  - [:star: Docker - How to analyze a container's disk usage?](http://stackoverflow.com/questions/26753087/docker-how-to-analyze-a-containers-disk-usage)
  - [How to share Docker volumes across hosts](https://jaxenter.com/how-to-share-docker-volumes-across-hosts-119602.html)
  - [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
+ - [Refactoring a Dockerfile for image size](https://blog.replicated.com/2016/02/05/refactoring-a-dockerfile-for-image-size/)
+ - [Docker networking overview](https://filipv.net/2016/02/17/docker-networking-overview/)
+ - [Docker Networking and DNS: The Good, The Bad, And The Ugly](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
 
 ## :star: Kubernetes
 docker orchestration
 
+- [kubernetes.io](http://kubernetes.io/docs/)
 - [:star: Видео: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
 - [:star: :star: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
 - [Kubernetes Namespaces, Resource Quota, and Limits for QoS in Cluster](https://www.javacodegeeks.com/2016/03/kubernetes-namespaces-resource-quota-limits-qos-cluster.html)
 - [SpringOne2GX 2015 replay: Spring Boot Micro-services, Containers, and Kubernetes - How To](http://spring.io/blog/2015/10/19/springone2gx-2015-replay-spring-boot-micro-services-containers-and-kubernetes-how-to)
 - [kuberdash - Analytics dashboard for Kubernetes](https://github.com/kubernetes/kubedash)
 - [cadvisor](https://github.com/google/cadvisor)
-- [Configuring flanneld on Ubuntu for use with Kubernetes](http://blog.petrovic.org/post/k8sflannel/)
 - [CONTAINER ENGINE](https://cloud.google.com/container-engine/)
 - [Fabric8 Maven Plugin](http://fabric8.io/guide/mavenPlugin.html)
 - [Manage Kubernetes cluster from UI, stackoverflow](http://stackoverflow.com/questions/31767161/manage-kubernetes-cluster-from-ui)
 - [Getting Started with a Multi-node Kubernetes Cluster on Ubuntu](https://devops.profitbricks.com/tutorials/getting-started-with-a-multi-node-kubernetes-cluster-on-ubuntu/)
-- [kubernetes-101-networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
 - [kubernetes-java-sample](https://github.com/arun-gupta/kubernetes-java-sample)
 - [Official CloudFormation and kube-aws tool for installing Kubernetes on AWS](https://coreos.com/blog/kubernetes-on-aws-cloudformation/)
+- [stackoverflow: kubernetes Tagged Questions](http://stackoverflow.com/questions/tagged/kubernetes)
+- [Five Days of Kubernetes 1.2](http://blog.kubernetes.io/2016/03/five-days-of-kubernetes-12.html?m=1)
+- [Kubernetes 1.2 and simplifying advanced networking with Ingress](http://blog.kubernetes.io/2016/03/Kubernetes-1.2-and-simplifying-advanced-networking-with-Ingress.html)
+- [How to deploy secure, auditable, and reproducible Kubernetes clusters on AWS](http://blog.kubernetes.io/2016/04/kubernetes-on-aws_15.html)
+- [docker-kubernetes-nginx-proxy](https://github.com/robertdolca/docker-kubernetes-nginx-proxy)
+- [mongo-k8s-sidecar](https://github.com/leportlabs/mongo-k8s-sidecar/tree/master/example)
+
+### Kubernetes networking
+- [:star: Comparison of Networking Solutions for Kubernetes](https://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 - [Kubernetes network performance tests](https://smana.kubespray.io/index.php/posts/kubernetes-net-bench)
+- [kubernetes-101-networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
+
+#### Weave
+- [Simple, resilient multi-host Docker networking and more - github](https://github.com/weaveworks/weave)
+- [Docker container networking monitoring - Weaveworks](https://www.weave.works/)
+- [Docker networking 1.9 and Weave technical deep-dive](https://www.weave.works/docker-networking-1-9-technical-deep-dive/)
+- [Docker 1.9 + Weave 1.2.1 bridge mode](https://habrahabr.ru/post/270521/)
+- [weaveworks/kubernetes-anywhere - Weave lets you run Kubernetes clusters anywhere without configuration changes](https://github.com/weaveworks/kubernetes-anywhere)
+
+#### :star: Flannel
 - [Using Flannel and etcd for LXC container networking](https://insights.ubuntu.com/2014/12/17/using-flannel-and-etcd-for-lxc-container-networking/)
 - [Howto Configure flannel Overlay Network with VXLAN for Docker on Power Servers](http://cloudgeekz.com/1016/configure-flannel-docker-power.html)
-- [stackoverflow: kubernetes Tagged Questions](http://stackoverflow.com/questions/tagged/kubernetes)
+- [Configuring flanneld on Ubuntu for use with Kubernetes](http://blog.petrovic.org/post/k8sflannel/)
+- [Docker Networking – CoreOS Flannel](https://sreeninet.wordpress.com/2015/01/18/docker-networking-coreos-flannel/)
+- [Configuring flannel for container networking](https://coreos.com/flannel/docs/latest/flannel-config.html)
+- [flannel: Unable to access container by ip from another host #72](https://github.com/coreos/flannel/issues/72)   
 
 ####
- - [Docker Networking – CoreOS Flannel](https://sreeninet.wordpress.com/2015/01/18/docker-networking-coreos-flannel/)
  - [etcd: Allow removal of directory keys](https://github.com/coreos/etcd/issues/185)
- - [Configuring flannel for container networking](https://coreos.com/flannel/docs/latest/flannel-config.html)
  - [Getting started with etcd](https://coreos.com/etcd/docs/latest/getting-started-with-etcd.html)
- - [flannel: Unable to access container by ip from another host #72](https://github.com/coreos/flannel/issues/72)   
 
 ### fabric8
  - [fabric8 - an open source developer platform](http://fabric8.io/)
@@ -183,3 +213,8 @@ openssl dhparam -out dhparam.pem -rand /dev/urandom 4096
  - [mesosphere](http://mesosphere.github.io/marathon/docs/application-basics.html)
  - [mesos](http://mesos.apache.org/documentation/latest/)
  - [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
+
+##### rancher
+ - [Announcing Rancher 1.0 GA](http://rancher.com/announcing-rancher-1-0-ga/)
+ - [rancher](http://docs.rancher.com/rancher/latest/en/quick-start-guide/)
+ - [Rancher Labs | Launch Your Private Container Service](http://rancher.com/)

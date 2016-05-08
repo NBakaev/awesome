@@ -48,6 +48,7 @@
 - [Создаём KPI и Систему Сбалансированных Показателей своими руками. Часть первая — теоретическая](https://megamozg.ru/company/kickidler/blog/23270/)
 
 
+ - [Организовать бизнес-процессы в компании с помощью Asana — опыт Mobio](https://vc.ru/p/mobio-asana)
  - [Преимущества товара вместо его характеристик: Примеры слоганов iPod, Evernote, Twitter, Nest](https://vc.ru/p/what-do-people-buy)
 
  - [Как зарегистрировать права на ИТ-продукт в России](https://vc.ru/p/problem-14088)

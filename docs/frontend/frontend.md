@@ -3,7 +3,8 @@
 ### Общее
  - [:star: Angular 2](https://github.com/NBakaev/awesome/blob/master/docs/frontend/angular2.md)   
  - [29 сервисов для поиска фото, графики, иконок и кое-что на десерт](http://www.cossa.ru/articles/152/69131/)
- - [Изображения в верстке. Хватит это терпеть, habr](http://habrahabr.ru/post/231295/)
+ - [:star: Изображения в верстке. Хватит это терпеть, habr](http://habrahabr.ru/post/231295/)
+ - [QUICK TIPS Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
  - [Level Up для новичков: gulp и requirejs, habr](http://habrahabr.ru/post/264869/)
  - [Favicons, Touch Icons, Tile Icons и т. д. Что выбрать?](http://habrahabr.ru/post/260777/)
  - [List of books to master JavaScript Development](https://github.com/javascript-society/javascript-path)   
@@ -18,10 +19,15 @@
  - [13 Material Design Frameworks for Modern UI Development](http://codecondo.com/material-design-frameworks/)
  - [14 Websites and apps using Google’s Material Design](http://codecondo.com/14-websites-and-apps-using-googles-material-design/)
  - [10 Essential Material Design Resources and Tutorials](http://www.sitepoint.com/10-essential-material-design-resources-and-tutorials/)
- - [Генератор палитр для дизайна в материальной стилистике](www.materialpalette.com)
  - [Конкурс по Material Design: объявляем победителей](http://habrahabr.ru/company/google/blog/272621/)
  - [The (very) Best of Material Design in 2015](https://stories.uplabs.com/the-material-design-countdown-for-2015-7c9e4d4e88fb#.ix771n5is)
  - [Google MD icons](https://design.google.com/icons/)
+
+#### Colors
+ - [Material Design Colors | Material UI](http://www.materialui.co/colors)
+ - [Google materials colors](https://www.google.com/design/spec/style/color.html#)
+ - [10 Material Design Color Palette Generators](http://codecondo.com/10-material-design-color-palette-generators-2/)
+ - [Генератор палитр для дизайна в материальной стилистике](www.materialpalette.com)
 
 ### Шрифты
  - [Потрясающая коллекция бесплатных шрифтов за 2014 год, habr](http://habrahabr.ru/post/247785/)
@@ -40,11 +46,9 @@
  - [Потрясающая коллекция бесплатных шрифтов за 2014 год, habr](http://habrahabr.ru/post/247785/)
 
 ### Подбор цвета
- - [paletton.com/#uid=73a1t0kiME28vUAe6MQmMvVrYtj](http://paletton.com/#uid=73a1t0kiME28vUAe6MQmMvVrYtj)
+ - [paletton.com](http://paletton.com/#uid=73a1t0kiME28vUAe6MQmMvVrYtj)
  - [coolors.co/app/fa568f-ce6185-a26b7f-3a3642-101b2c](http://coolors.co/app/fa568f-ce6185-a26b7f-3a3642-101b2c)
  - [colourlovers.com/](http://www.colourlovers.com/)  
- - [Google materials colors](https://www.google.com/design/spec/style/color.html#)
- - [10 Material Design Color Palette Generators](http://codecondo.com/10-material-design-color-palette-generators-2/)
  - [ColorHexa — сервис с информацией о любом цвете](http://www.colorhexa.com/)
 
 ### Mockups
@@ -131,6 +135,7 @@
  - [JS Charting: Google Sheets](https://davidwalsh.name/js-charting-google-sheets)
  - [Top JavaScript Frameworks, Libraries and Tools and When to Use Them](http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/)
  - [A touch slideout navigation menu for your mobile web apps](https://github.com/Mango/slideout)
+ - [An Overview of JavaScript Templating Engines](http://www.sitepoint.com/overview-javascript-templating-engines/)
 
 #### Audio player
 Воспроизведение аудио в браузере

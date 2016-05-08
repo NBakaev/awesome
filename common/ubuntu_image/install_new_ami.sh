@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# fail execution on error
+set -e
+
 # NOTE: CHANGE IN `consul-docker.conf` IP of consul server
 # consul.server.local - this is DNS resolving IP of main consul server
 
@@ -16,7 +19,7 @@ echo deb https://apt.dockerproject.org/repo ubuntu-trusty main >> /etc/apt/sourc
 apt-get update
 
 # install docker & dnsmasq
-apt-get install docker-engine bridge-utils dnsmasq -y
+apt-get install docker-engine bridge-utils dnsmasq unzip openssh-server -y
 
 # run DNS server (consul - service discovery)
 docker run -p 8400:8400 -p 8500:8500 -p 8600:53/udp -d --net=host gliderlabs/consul agent -data-dir /tmp/consul -join consul.server.local
