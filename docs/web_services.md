@@ -13,6 +13,8 @@
 Task manager
  - [Asana в деталях, и как ее использовать](http://megamozg.ru/post/1700/)
  - [Email Tasks](https://asana.com/guide/help/email/email-to-asana)
+ - [How to Manage Projects with Asana](http://www.sitepoint.com/managing-projects-with-asana/)
+ - [Организовать бизнес-процессы в компании с помощью Asana — опыт Mobio](https://vc.ru/p/mobio-asana)
 
 ## :star: Российские сервисы
 - [calltouch.ru - Определяем рекламные источники звонков и заявок](http://www.calltouch.ru/)

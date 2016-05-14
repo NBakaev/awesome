@@ -5,6 +5,7 @@
  - [Selenium Installation Example](https://examples.javacodegeeks.com/enterprise-java/selenium/selenium-installation-example)
  - [Postman - REST/swagger API client](https://www.getpostman.com/)
  - [Diffy: Testing services without writing tests](https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests)
+ - [The 7 Cross-Browser Testing Tools You Need in 2016](http://www.sitepoint.com/the-7-cross-browser-testing-tools-you-need-in-2016/)
 
 ## Network & Traffic capture and analyze
 

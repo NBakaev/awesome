@@ -48,6 +48,10 @@ Crossdevice tracking - omnichannel
 
  - [Импорт данных: руководство для разработчиков](https://developers.google.com/analytics/devguides/config/mgmt/v3/mgmtDataImport)
 
+#### Google 360
+
+ - [Google BiqQuery для веб-аналитики](http://seonews.ru/analytics/google-biqquery-dlya-veb-analitiki/)
+
 ### Google Analytics API / SDK for developers
  - [mgmtAuthorization](https://developers.google.com/analytics/devguides/config/mgmt/v3/mgmtAuthorization)
  - [reporting](https://developers.google.com/analytics/devguides/reporting/)
