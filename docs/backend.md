@@ -108,6 +108,7 @@ Server-side HTML page rendering
 ### Nashorn
 New javascript engine in java 8
 
+ - [:video_camera: Дмитрий Александров — Java(Script) on JVM](https://www.youtube.com/watch?v=YbXrPMSS8es)
  - https://github.com/javadelight/delight-nashorn-sandbox
  - https://habrahabr.ru/post/195870/
  - https://habrahabr.ru/post/195870/

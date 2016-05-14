@@ -1,7 +1,7 @@
 # Online marketing & advert
 
 ## :star: the best
-- [:star: Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
+- [:star: :video_camera: Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
 - [Кейс из России: 9 каналов привлечения первых клиентов для b2b-cервисов](https://vc.ru/p/first-reg-free)
 - [«МАРКЕТИНГ ИГР» — КНИГА СЕРГЕЯ ГАЛЁНКИНА](http://galyonkin.com/book/)
 

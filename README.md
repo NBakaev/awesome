@@ -38,7 +38,7 @@
 ### Other
 Категория общей направленности для всех
 
-- [:star: Подкасты](https://github.com/NBakaev/awesome/blob/master/docs/podcasts.md)     
+- [:star: :headphones: Подкасты](https://github.com/NBakaev/awesome/blob/master/docs/podcasts.md)     
 - [Софт](https://github.com/NBakaev/awesome/blob/master/docs/soft.md)   
 - [:star: Сервисы, SaaS](https://github.com/NBakaev/awesome/blob/master/docs/web_services.md)   
 
@@ -47,7 +47,7 @@
 - [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
 
-## Education courses
+## :video_camera: Education courses
  - [Course dicsounts](http://udemycoupon.discountsglobal.com/?s=salesforce)
  - [:star: pluralsight](https://www.pluralsight.com/)
  - [coursera](https://ru.coursera.org/)

@@ -96,7 +96,7 @@ systemd is an init system by default in ubuntu 16.04 lts
  - [docker registry](https://github.com/docker/distribution)
  - [:star: SCALING TO INFINITY WITH DOCKER SWARM, DOCKER COMPOSE AND CONSUL (PART 3/4) – BLUE-GREEN DEPLOYMENT, AUTOMATION AND SELF-HEALING PROCEDURE](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-34-blue-green-deployment-automation-and-self-healing-procedure/)
  - [MongoDB Sharded Cluster Docker github](https://github.com/sebastianvoss/docker)
- - [Видео: Александр Тарасов — Docker в банке](http://www.youtube.com/watch?v=Jb62_R8WnII)
+ - [:video_camera: Александр Тарасов — Docker в банке](http://www.youtube.com/watch?v=Jb62_R8WnII)
  - [Developing Inside Docker Containers with OS X](http://hharnisc.github.io/2015/09/16/developing-inside-docker-containers-with-osx.html)
  - [Continuous Integration with Docker deployments – Part 2](http://cloudacademy.com/blog/continuous-integration-docker/)
  - [Docker with shell script or Makefile](http://ypereirareis.github.io/blog/2015/05/04/docker-with-shell-script-or-makefile/)
@@ -113,8 +113,8 @@ systemd is an init system by default in ubuntu 16.04 lts
 docker orchestration
 
 - [kubernetes.io](http://kubernetes.io/docs/)
-- [:star: Видео: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
-- [:star: :star: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
+- [:star: :video_camera: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
+- [:star: :video_camera: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
 - [Kubernetes Namespaces, Resource Quota, and Limits for QoS in Cluster](https://www.javacodegeeks.com/2016/03/kubernetes-namespaces-resource-quota-limits-qos-cluster.html)
 - [SpringOne2GX 2015 replay: Spring Boot Micro-services, Containers, and Kubernetes - How To](http://spring.io/blog/2015/10/19/springone2gx-2015-replay-spring-boot-micro-services-containers-and-kubernetes-how-to)
 - [kuberdash - Analytics dashboard for Kubernetes](https://github.com/kubernetes/kubedash)
