@@ -100,3 +100,6 @@ cd vmware-tools-patches
 ./untar-and-patch.sh
 ./compile.sh
 ```
+
+### Docker with socket
+`curl --no-buffer -XGET --unix-socket /var/run/docker.sock http:/events`

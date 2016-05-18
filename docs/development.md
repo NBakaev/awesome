@@ -51,6 +51,15 @@ Stay in touch with the world
  - [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
  - [Git Cheat Sheet - git-flow](https://github.com/arslanbilal/git-cheat-sheet)
 
+####
+ - [commit and push large file to repo and want to delete from history][https://rtyley.github.io/bfg-repo-cleaner/]
+
+### Git delete untracked files
+ `git clean  -d  -fx ""`
+
+### git add chmod mode
+ `git update-index --chmod=+x`
+
 ### Code review
  - [20 BEST CODE REVIEW TOOLS FOR DEVELOPERS](http://www.devstrend.com/20-best-code-review-tools-for-developers/)
  - [Code Reviews: why and how?](https://www.kenneth-truyers.net/2016/04/08/code-reviews-why-and-how/)
