@@ -12,5 +12,5 @@
 
 ### examples
 
-![](https://raw.githubusercontent.com/NBakaev/awesome/master/common/windows/comemu_1.jpg
+![](https://raw.githubusercontent.com/NBakaev/awesome/master/common/windows/comemu_1.jpg)
 ![](https://raw.githubusercontent.com/NBakaev/awesome/master/common/windows/comemu_2.jpg)
