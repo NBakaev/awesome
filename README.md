@@ -5,7 +5,7 @@
 ### Development
 Списки технчиеских статей и заметок, связанных с разработкой ПО
 
-- [:star: Основное: git, code review etc...](https://github.com/NBakaev/awesome/blob/master/docs/development.md)   
+- [:star: Development basics & advance: git, code review etc...](https://github.com/NBakaev/awesome/blob/master/docs/development.md)   
 - [QA - тестирование ПО](https://github.com/NBakaev/awesome/blob/master/docs/QA.md)
 - [Backend - серверная разработка ПО](https://github.com/NBakaev/awesome/blob/master/docs/backend.md)
 - [DevOPS - Docker, Clustering...](https://github.com/NBakaev/awesome/blob/master/docs/devOPS.md)
@@ -20,7 +20,7 @@
 - [Утилиты и сниппеты командной строки](https://github.com/NBakaev/awesome/blob/master/docs/utils.md)   
 - [REST / API / Documentation](https://github.com/NBakaev/awesome/blob/master/docs/backend_rest_api_documentation.md)
 - [Разработка игр - GameDev](https://github.com/NBakaev/awesome/blob/master/docs/gamedev.md)   
-- [- Без категории -](https://github.com/NBakaev/awesome/blob/master/docs/unresolved.md)   
+- [Draft](https://github.com/NBakaev/awesome/blob/master/docs/unresolved.md)   
 - [Security](https://github.com/NBakaev/awesome/blob/master/docs/security.md)   
 - [Мессенджеры, звонки, связь](https://github.com/NBakaev/awesome/blob/master/docs/messengers_call.md)   
 

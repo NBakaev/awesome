@@ -1,6 +1,6 @@
 # CRM / ERP / Task management / Business soft
 
-## :star: Общее 
+## :star: Общее
  - [Как нам обустроить альтернативу 1С](http://habrahabr.ru/post/270087/)
 
  - [Внедрение программного продукта. Особенности работы бизнес-консультанта. Часть I, habr](http://megamozg.ru/post/6076/)
@@ -57,6 +57,7 @@
 ### bpm’online
  - [bpm’online](https://www.terrasoft.ru/)
  - [Презентация новой bpm’online 7.8. Онлайн-трансляция.](https://www.youtube.com/watch?v=fAQnIYtnUSg)
+ - [Релиз новой версии CRM-линейки bpm’online 7.8](https://www.terrasoft.ru/bpmonline-7-8?activity=facebook)
 
 ### BPM/BPMN - Business Process Modelling
 - [Что такое BPMS](https://habrahabr.ru/post/273025/)

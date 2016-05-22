@@ -153,6 +153,11 @@ Build you JavaScript/CSS/other code
  - [Adding ESLint with gulp.js](https://davidwalsh.name/gulp-eslint)
  - [WebPack: как внутри устроено Hot Reloading](https://habrahabr.ru/company/Voximplant/blog/270593/)
 
+### Gulp 4
+- [Migrating to gulp 4 by example](https://blog.wearewizards.io/migrating-to-gulp-4-by-example)
+- [How to install Gulp 4 before it's officially released](https://demisx.github.io/gulp4/2015/01/15/install-gulp4.html)
+- [Gulp 4 gulpfile.js](https://gist.github.com/demisx/beef93591edc1521330a)
+
 ## Drag and Drop
 HTML 5 functionality
 

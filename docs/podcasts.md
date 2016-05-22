@@ -1,6 +1,8 @@
 # Подкасты
 Audio and discussions to listen
 
+ - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
+
 ## GameDev
  - [:star: :ru: #RadioFlazm](http://flazm.ru/)
  - [:ru: Мобильная разработка с AppTractor](http://apptractor-podcast.podster.fm/)

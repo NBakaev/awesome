@@ -53,6 +53,14 @@ Server-side HTML page rendering
  - [HTTP/2: готовимся к переходу](https://habrahabr.ru/company/selectel/blog/278167/)
  - [The complete guide to HTTP/2 with HAProxy and Nginx](http://m12.io/blog/http-2-with-haproxy-and-nginx-guide)
 
+## Converters
+- [Wkhtmltopdf + Node.JS](http://habrahabr.ru/post/266171/)
+- [Convert PSD to PNG with Node.js](https://davidwalsh.name/convert-psd-png)
+- [Convert Image to ASCII Art with Node.js](https://davidwalsh.name/convert-image-ascii-art)
+- Convert html to docx `pandoc -o output.docx input.html` with [pandoc](http://pandoc.org/)
+- [The Highcharts image convert script](https://github.com/highcharts/highcharts-export-server/tree/master/phantomjs)
+- [How do I export my HTML page as PDF using JavaScript?](https://www.quora.com/How-do-I-export-my-HTML-page-as-PDF-using-JavaScript)
+
 ## Reactive programming
 
 ### :star: RxJava
@@ -102,6 +110,14 @@ Server-side HTML page rendering
  - [JAVA using google speech recognition API](http://stackoverflow.com/questions/16743533/java-using-google-speech-recognition-api)
  - [How-to guide to writing a javaagent](http://zeroturnaround.com/rebellabs/how-to-inspect-classes-in-your-jvm/)
 
+### Lombok
+ Project Lombok - auto generate getters/setters, hashcode, equals...
+
+ - [Project Lombok](https://projectlombok.org/)
+ - [Reducing Boilerplate Code with Project Lombok](http://jnb.ociweb.com/jnb/jnbJan2010.html)
+ - [maven](http://projectlombok.org/mavenrepo/)
+ - [Lombok Plugin for IntelliJ IDEA](https://github.com/mplushnikov/lombok-intellij-plugin)
+
 ###
  - [Curator - ZooKeeper - распределённые локи](http://curator.apache.org/)
 
@@ -109,10 +125,9 @@ Server-side HTML page rendering
 New javascript engine in java 8
 
  - [:video_camera: Дмитрий Александров — Java(Script) on JVM](https://www.youtube.com/watch?v=YbXrPMSS8es)
- - https://github.com/javadelight/delight-nashorn-sandbox
- - https://habrahabr.ru/post/195870/
- - https://habrahabr.ru/post/195870/
- - http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution
+ - [A sandbox for executing JavaScript with Nashorn in Java](https://github.com/javadelight/delight-nashorn-sandbox)
+ - [Введение в Nashorn](https://habrahabr.ru/post/195870/)
+ - [Secure Nashorn JS Execution](http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution)
  - [Java 8 Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
 
 ### Localisation & Internationalization
@@ -150,6 +165,7 @@ Spring framework & spring boot & microservices
  - [HOW-TO: Java 8 Date & Time with Thymeleaf and Spring Boot](https://www.javacodegeeks.com/2015/11/how-to-java-8-date-time-with-thymeleaf-and-spring-boot.html)
  - [Как в Spring logger получить](https://habrahabr.ru/post/276729/)
  - [How SpringBoot AutoConfiguration magic works?](http://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)
+ - [Пишем свой spring-boot-starter](https://habrahabr.ru/post/275337/)
  - [Spring Boot start as Unix/Linux services](http://docs.spring.io/spring-boot/docs/1.3.0.BUILD-SNAPSHOT/reference/htmlsingle/#deployment-service)
 
 ### Spring Data
@@ -212,13 +228,6 @@ Performance, APM
  - [How to Release to Maven Central, in One Click](http://www.yegor256.com/2014/08/19/how-to-release-to-maven-central.html)
  - [OSSRH Guide](http://central.sonatype.org/pages/ossrh-guide.html)
  - [Deploy to Maven Central Repository](http://www.sonatype.org/nexus/2015/01/08/deploy-to-maven-central-repository/)
-
-## Безопасность
- - [Уязвимости веб-приложений: ситуация не улучшается](http://habrahabr.ru/company/pt/blog/268779/)
- - [10 атак на веб-приложения в действии](https://habrahabr.ru/company/ua-hosting/blog/272205/)
- - [Вся правда об XSS или Почему межсайтовое выполнение сценариев не является уязвимостью?](http://habrahabr.ru/post/149152/)
- - [ГЕОТАРГЕТИНГ ДЛЯ ПРОГРАММИСТА.xaker](https://xakep.ru/2015/06/25/geotargeting-api-197/)
- - [Геолокация без GPS (часть 2)](https://habrahabr.ru/post/259605/)
 
 #### Java & Spring authentication
 - http://blog.jdriven.com/2014/10/stateless-spring-security-part-2-stateless-authentication/

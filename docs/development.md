@@ -7,6 +7,7 @@
  - [markdown emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/)
  - [Design Documents - The Chromium Projects](http://www.chromium.org/developers/design-documents)
  - [CoolGithubProjects](https://www.coolgithubprojects.com/)
+ - [The Twelve-Factor App](http://12factor.net/)
 
  - [Sandstorm.io - is an open source platform for servers](https://apps.sandstorm.io/)
  - [12 Best Online Form Builders for your website](http://codecondo.com/12-best-online-form-builders-for-your-website/)

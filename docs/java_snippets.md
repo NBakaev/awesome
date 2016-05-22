@@ -11,3 +11,5 @@ BigDecimal result = bdList.stream()
 # Check updates for maven dependency
 mvn versions:display-dependency-updates
 ```
+
+`-ea -Xmx3048m -XX:-UseGCOverheadLimit -XX:+UseConcMarkSweepGC`

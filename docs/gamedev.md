@@ -8,6 +8,7 @@
  - [15 Metrics All Game Developers Should Know By Heart](http://gamasutra.com/blogs/TrevorMcCalmont/20150709/248118/15_Metrics_All_Game_Developers_Should_Know_By_Heart.php)
  - [Численные характеристики онлайн-игр](https://habrahabr.ru/company/mailru/blog/258463/)
  - [Дайджест новостей из мира разработки на Unity](https://habrahabr.ru/company/plarium/blog/276783/)
+ - [DevGAMM Moscow 2016](https://channel9.msdn.com/Events/DevGAMM/DevGAMM-Moscow-2016)
 
 ### Graphic
 

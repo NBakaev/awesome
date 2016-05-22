@@ -1,7 +1,4 @@
 # NodeJS
-- [Wkhtmltopdf + Node.JS](http://habrahabr.ru/post/266171/)
-- [Convert PSD to PNG with Node.js](https://davidwalsh.name/convert-psd-png)
-- [Convert Image to ASCII Art with Node.js](https://davidwalsh.name/convert-image-ascii-art)
 - [3 JavaScript ORMs You Might Not Know](http://www.sitepoint.com/3-javascript-orms-you-might-not-know/)
 - [Long-running Node processes](http://techblog.spanning.com/2015/10/12/Long-running-Node-processes)
 - [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)

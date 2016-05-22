@@ -5,6 +5,8 @@
  - [Wirecast](https://livestream.com/studio)
  - [XSplit Broadcaster](https://www.xsplit.com/broadcaster)
  - [OBS Studio](https://obsproject.com)
+ - [Онлайн-трансляция ACM ICPC: Как это устроено](https://habrahabr.ru/company/spbifmo/blog/301098/)
+ - [Wirecast: Example Setups PDF](https://www.telestream.net/pdfs/technical/Wirecast-5-Example-Setups.pdf)
 
 ## non-categorized soft
  - [Chrome - web browser](https://www.google.com/chrome/)
@@ -77,6 +79,8 @@ Git Gui
  - [Plumbum: Shell Combinators and More](http://plumbum.readthedocs.org/en/latest/index.html)
  - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
  - https://gist.github.com/tsabat/1498393
+ - [CONEMU - WINDOWS CONSOLE EMULATOR WITH TABS](http://blog.codeleak.pl/2014/10/conemu-windows-console-emulator-with.html)
+ - [babun + zsh + comemu](https://github.com/NBakaev/awesome/tree/master/common/windows)
 
 ## Screenshots and screencast
 - [ShareX - Take a screenshot or a screencast](https://getsharex.com/)
