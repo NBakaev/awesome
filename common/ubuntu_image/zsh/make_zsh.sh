@@ -29,4 +29,4 @@ sudo mv PowerlineSymbols.otf /usr/share/fonts/
 sudo mv 10-powerline-symbols.conf /etc/fonts/conf.d/
 
 # set agnoster theme
-cp -rf .zshrc ~/.zshrc
+sudo wget -O ~/.zshrc wget https://raw.githubusercontent.com/NBakaev/awesome/master/common/ubuntu_image/zsh/.zshrc
