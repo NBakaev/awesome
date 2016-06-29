@@ -29,8 +29,14 @@ Task manager
 ## Опросы
 - [«Анкетолог» — сервис для проведения онлайн-опросов](https://vc.ru/p/anketolog)
 
-### Русские IaaS
+## IaaS
 Облачные сервера с root пользователем
+
+ - [servers.com](https://www.servers.com/)
+ - [AWS](https://aws.amazon.com/ru/)
+ - [digitalocean](https://www.digitalocean.com/)
+
+### Российские
 
  - [InfoboxCloud](https://infoboxcloud.ru/)
  - [VPS/VDS хостинг, аренда VPS/VDS сервера от FASTVPS](https://fastvps.ru/)

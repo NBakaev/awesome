@@ -116,7 +116,7 @@ docker orchestration
 - [:star: :video_camera: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
 - [:star: :video_camera: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
 - [Kubernetes Namespaces, Resource Quota, and Limits for QoS in Cluster](https://www.javacodegeeks.com/2016/03/kubernetes-namespaces-resource-quota-limits-qos-cluster.html)
-- [SpringOne2GX 2015 replay: Spring Boot Micro-services, Containers, and Kubernetes - How To](http://spring.io/blog/2015/10/19/springone2gx-2015-replay-spring-boot-micro-services-containers-and-kubernetes-how-to)
+- [:star: :video_camera: SpringOne2GX 2015 replay: Spring Boot Micro-services, Containers, and Kubernetes - How To](http://spring.io/blog/2015/10/19/springone2gx-2015-replay-spring-boot-micro-services-containers-and-kubernetes-how-to)
 - [kuberdash - Analytics dashboard for Kubernetes](https://github.com/kubernetes/kubedash)
 - [cadvisor](https://github.com/google/cadvisor)
 - [CONTAINER ENGINE](https://cloud.google.com/container-engine/)
@@ -131,6 +131,8 @@ docker orchestration
 - [How to deploy secure, auditable, and reproducible Kubernetes clusters on AWS](http://blog.kubernetes.io/2016/04/kubernetes-on-aws_15.html)
 - [docker-kubernetes-nginx-proxy](https://github.com/robertdolca/docker-kubernetes-nginx-proxy)
 - [mongo-k8s-sidecar](https://github.com/leportlabs/mongo-k8s-sidecar/tree/master/example)
+- [Kubernetes Overview, Part One](https://deis.com/blog/2016/kubernetes-overview-pt-1/)
+- [Kubernetes Overview, Part Two](https://deis.com/blog/2016/kubernetes-overview-pt-2/)
 
 ### Kubernetes networking
 - [:star: Comparison of Networking Solutions for Kubernetes](https://machinezone.github.io/research/networking-solutions-for-kubernetes/)
@@ -218,3 +220,6 @@ openssl dhparam -out dhparam.pem -rand /dev/urandom 4096
  - [Announcing Rancher 1.0 GA](http://rancher.com/announcing-rancher-1-0-ga/)
  - [rancher](http://docs.rancher.com/rancher/latest/en/quick-start-guide/)
  - [Rancher Labs | Launch Your Private Container Service](http://rancher.com/)
+
+#### Other / not related
+ - [Мал золотник, да дорог: в двух словах о VMware Host Client](https://habrahabr.ru/company/cloud4y/blog/301878/)

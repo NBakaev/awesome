@@ -42,9 +42,14 @@ Tools for developers
 
 - [Cyberduck - ftp/sftp/s3/webdav ... client](https://cyberduck.io/)
 - [WinSCP - ftp/sftp client](https://winscp.net/eng/docs/lang:ru)
-- [Araxis Merge - 2 and 3-way file comparison (diff)](http://www.araxis.com/merge/index.en)
 - [Chrome Canary (latest Night builds for developers) ](https://www.google.ru/chrome/browser/canary.html)
 - [Genymotion – Fast And Easy Android Emulation](https://www.genymotion.com/)
+
+### Diff
+Find diff in text files, for example for git merge
+
+ - [Kaleidoscope - File comparison for Mac](http://www.kaleidoscopeapp.com/)
+ - [Araxis Merge - 2 and 3-way file comparison (diff)](http://www.araxis.com/merge/index.en)
 
 ### Database
 - [Navicat Premium - RDBMS database gui](http://www.navicat.com/products/navicat-premium)
@@ -110,7 +115,6 @@ Web clients are better because SMTP is ugly, but...
  - [Qlik Sense Desktop](http://www.qlik.com/products/qlik-sense/desktop)
  - [Tableau](http://www.tableau.com/)
  - [Power BI Desktop](https://powerbi.microsoft.com/ru-ru/desktop/)
-
 
 ## Security & Data protection
 

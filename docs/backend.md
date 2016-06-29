@@ -60,6 +60,7 @@ Server-side HTML page rendering
 - Convert html to docx `pandoc -o output.docx input.html` with [pandoc](http://pandoc.org/)
 - [The Highcharts image convert script](https://github.com/highcharts/highcharts-export-server/tree/master/phantomjs)
 - [How do I export my HTML page as PDF using JavaScript?](https://www.quora.com/How-do-I-export-my-HTML-page-as-PDF-using-JavaScript)
+- [Используем highcharts.js для создания графиков на стороне сервера](https://habrahabr.ru/post/279515/)
 
 ## Reactive programming
 
@@ -82,20 +83,27 @@ Server-side HTML page rendering
  - [Vert.x is a tool-kit for building reactive applications on the JVM.](http://vertx.io/Vert.x is a tool-kit for building reactive applications on the JVM.)
  - [javaslang, github](https://github.com/javaslang/javaslang)
 
-## Testing
+## Tests
+
+### JUnit
  - [JUnit Test Suite Example](http://examples.javacodegeeks.com/core-java/junit/junit-test-suite-example)
- - [junit report example](http://examples.javacodegeeks.com/core-java/junit/junit-report-example)
- - [junit setup teardown example)](http://examples.javacodegeeks.com/core-java/junit/junit-setup-teardown-example)
+ - [JUnit report example](http://examples.javacodegeeks.com/core-java/junit/junit-report-example)
+ - [JUnit setup teardown example)](http://examples.javacodegeeks.com/core-java/junit/junit-setup-teardown-example)
  - [JUnit Categories Example](http://examples.javacodegeeks.com/core-java/junit/junit-categories-example)
  - [JUnit Integration Test Example](http://examples.javacodegeeks.com/core-java/junit/junit-integration-test-example)
  - [JUnit Mockito Example](http://examples.javacodegeeks.com/core-java/mockito/junit-mockito-example)
  - [Parameterized integration tests with Spring JUnit Rules](http://www.javacodegeeks.com/2015/08/parameterized-integration-tests-with-spring-junit-rules.html)
  - [JUnit Exception Handling Example](http://examples.javacodegeeks.com/core-java/junit/junit-exception-handling-example)
- - [Testing Concurrent Applications](http://www.javacodegeeks.com/2015/09/testing-concurrent-applications.html)
  - [Writing Data Driven Tests for your Java Application](http://www.javacodegeeks.com/2015/08/writing-data-driven-tests-for-your-java-application.html)
- - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
- - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
  - [JUnit integration testing with Docker and Testcontainers](https://rnorth.org/24/junit-integration-testing-with-docker-and-testcontainers)
+
+###
+- [Testing Concurrent Applications](http://www.javacodegeeks.com/2015/09/testing-concurrent-applications.html)
+- [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
+- [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
+
+###
+- [Embedded MongoDB](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo)
 
 ## Java
  - [Большой JVM-опрос: версии Java, альтернативные JVM-языки, версии Java EE](https://habrahabr.ru/post/281473/)
@@ -109,6 +117,7 @@ Server-side HTML page rendering
  - [How to deal with subprocesses in Java](http://zeroturnaround.com/rebellabs/how-to-deal-with-subprocesses-in-java/)
  - [JAVA using google speech recognition API](http://stackoverflow.com/questions/16743533/java-using-google-speech-recognition-api)
  - [How-to guide to writing a javaagent](http://zeroturnaround.com/rebellabs/how-to-inspect-classes-in-your-jvm/)
+ - [Well-Written Java 8, 8 Ways](https://dzone.com/articles/zlwell-written-java)
 
 ### Lombok
  Project Lombok - auto generate getters/setters, hashcode, equals...
@@ -144,6 +153,8 @@ Do not use float/double to store money in java
 #### Java time
  - [Java и время: часть первая](https://habrahabr.ru/post/274811/)
  - [Java и время: часть вторая](https://habrahabr.ru/post/274905/)
+ - [joda-time](http://www.joda.org/joda-time/)
+ - [Правильная работа с датой и временем](https://habrahabr.ru/post/278527/)
 
 ## Spring
 Spring framework & spring boot & microservices
@@ -167,6 +178,9 @@ Spring framework & spring boot & microservices
  - [How SpringBoot AutoConfiguration magic works?](http://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)
  - [Пишем свой spring-boot-starter](https://habrahabr.ru/post/275337/)
  - [Spring Boot start as Unix/Linux services](http://docs.spring.io/spring-boot/docs/1.3.0.BUILD-SNAPSHOT/reference/htmlsingle/#deployment-service)
+ - [:video_camera: Евгений Борисов — Spring-потрошитель, часть 1](https://www.youtube.com/watch?v=BmBr5diz8WA)
+ - [:video_camera: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
+ - [:star: Spring Boot Internationalization](http://codedevstuff.blogspot.ru/2015/05/spring-boot-internationalization-with.html)
 
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)

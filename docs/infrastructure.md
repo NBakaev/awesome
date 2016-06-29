@@ -15,6 +15,7 @@ Git server. similar to github but self-hosted
 
 - [Gitlab 8.0 - git server with UI...](https://about.gitlab.com/2015/09/22/gitlab-8-0-released/)
 - [GitHub vs GitLabs vs BitBucket Server (Formerly Stash)](http://technologyconversations.com/2015/10/16/github-vs-gitlabs-vs-bitbucket-server-formerly-stash/)
+- [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry/)
 
 ### :star: TeamCity
 CI server

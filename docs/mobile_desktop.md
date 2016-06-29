@@ -27,6 +27,8 @@ Cross-platform development with JavaScript
 
 - [Electron: Cross-platform Desktop Apps Made Easy](http://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easy)   
 - [Built on Electron](http://electron.atom.io/#built-on-electron)
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron)
+- [Build a Music Player with React & Electron III: Bringing It All Together](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
 
 ##
 - [Developing Universal Windows Apps with HTML and JavaScript Jump Start](https://www.microsoftvirtualacademy.com/en-US/training-courses/developing-universal-windows-apps-with-html-and-javascript-jump-start-8344)     

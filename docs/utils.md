@@ -17,7 +17,8 @@ sudo ln -s /usr/bin/python3.4 /usr/bin/python
 
 `ln -s <real folder> <link folder>`
 
-#### Clover - tabs in explorer for windows 10
+#### Clover
+tabs in explorer for windows 10
 
 ```html
 I've found a setting in Explorer whitch may be the cause of most of Clover issues. To fix this:
@@ -28,7 +29,8 @@ I've found a setting in Explorer whitch may be the cause of most of Clover issue
 This may fix the thing ;)
 ```
 
-### Disable Windows 10 spy / tracking / telemetry
+### Disable Windows 10 telemetry
+( spy / tracking)
 
  - http://wintoflash.com/forum/viewtopic.php?f=7&t=42296&p=48250
  - https://nnmclub.to/forum/viewtopic.php?t=926567&start=45
@@ -43,7 +45,8 @@ This may fix the thing ;)
   - kerio
 
 ### CA cert
-http://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/
+
+ - [Howto: Make Your Own Cert With OpenSSL](http://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/)
 
 #### Создание корневого сертификата в Android SSL
 ```bash
@@ -73,13 +76,15 @@ Folders to delete `/root/.local/share/Trash/` & `/var/cache/`
 ### View files in .deb
 `dpkg-deb -c file.deb`
 
-### Docker - Error opening terminal: unknown
-`export TERM=xterm`
+### SSH
 
-### SSH key
+#### Copy file from host to remote
+`scp /path/to/file username@a:/path/to/destination`
+
+#### Generate SSH key
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
-### ssh-agent
+#### ssh-agent
  - [Multiple SSH Keys settings for different github account](https://gist.github.com/jexchan/2351996)
 
 ```bash
@@ -101,5 +106,11 @@ cd vmware-tools-patches
 ./compile.sh
 ```
 
-### Docker with socket
+### Docker
+Docker, Docker, Docker
+
+#### Docker - Error opening terminal: unknown
+`export TERM=xterm`
+
+#### Docker API through socket
 `curl --no-buffer -XGET --unix-socket /var/run/docker.sock http:/events`

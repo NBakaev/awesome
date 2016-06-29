@@ -12,6 +12,7 @@
  - [Yoman - THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS](http://yeoman.io/)
  - [jsfiddle](https://jsfiddle.net/)
  - [:star: CodeMirror is a versatile text editor implemented in JavaScript for the browser.](http://codemirror.net)
+ - [CasperJS Navigation scripting & testing for PhantomJS and SlimerJS](http://casperjs.org/)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)
@@ -23,11 +24,14 @@
  - [The (very) Best of Material Design in 2015](https://stories.uplabs.com/the-material-design-countdown-for-2015-7c9e4d4e88fb#.ix771n5is)
  - [Google MD icons](https://design.google.com/icons/)
 
-#### Colors
+#### Color
+Find a suitable color
+
  - [Material Design Colors | Material UI](http://www.materialui.co/colors)
  - [Google materials colors](https://www.google.com/design/spec/style/color.html#)
  - [10 Material Design Color Palette Generators](http://codecondo.com/10-material-design-color-palette-generators-2/)
  - [Генератор палитр для дизайна в материальной стилистике](www.materialpalette.com)
+ - [Gradients — Curated gradients for designers and developers](http://gradients.io/)
 
 ### Шрифты
  - [Потрясающая коллекция бесплатных шрифтов за 2014 год, habr](http://habrahabr.ru/post/247785/)
