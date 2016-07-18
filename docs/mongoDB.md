@@ -1,8 +1,10 @@
 # MongoDB
 NoSQL база данных
 
- - [:star: Jongo {mongo-java-driver: 'with ease'}](http://jongo.org/)
  - [Setting up sharded mongodb cluster in localhost](http://www.javacodegeeks.com/2015/02/setting-up-sharded-mongodb-cluster-in-localhost.html)
+ - [:Star: MongoDB Administration | Pluralsight](https://www.pluralsight.com/courses/mongodb-administration)
+ - [7 Simple Speed Solutions for MongoDB](https://www.sitepoint.com/7-simple-speed-solutions-mongodb/)
+ - [slideshare: MongoDB Schema Design and Performance Implications](https://www.slideshare.net/slideshow/embed_code/63344065)
 
 ### Using MongoDB with Hadoop & Spark
  - [Using MongoDB with Hadoop & Spark: Part 1 - Introduction & Setup](https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup)
@@ -29,13 +31,20 @@ NoSQL база данных
  - [MongoDB: Запросы, habr](http://habrahabr.ru/post/134590/)
  - [Map-Reduce на примере MongoDB](http://habrahabr.ru/post/184130/)
 
+### MongoDB & Java
+ - [Spring data mongodb reference](http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/)
+ - [MongoDB REACTIVE STREAMS JAVA DRIVER](http://mongodb.github.io/mongo-java-driver-reactivestreams/1.2/getting-started/quick-tour-primer/)
+ - [:star: jongo - Query in Java as in Mongo shell](http://jongo.org/)
+
+ - [Spring Data MongoDB remove _class column](http://www.mkyong.com/mongodb/spring-data-mongodb-remove-_class-column/)
+ - [Morphia Documentation](http://mongodb.github.io/morphia/1.2/)
+
 ###
  - [install-mongodb-on-ubuntu](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/)
  - [Configuration File Options](http://docs.mongodb.org/manual/reference/configuration-options/#dbpath)
  - [Mongo Db x509 auth](http://docs.mongodb.org/manual/tutorial/configure-x509-client-authentication/#x509-client-authentication)
  - [mongoose](https://github.com/Automattic/mongoose)
  - [Почему не все так просто с MongoDB](http://habrahabr.ru/post/265747/)
- - [Spring data mongodb reference](http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/)
  - [MongoDB: Advanced Administration, Monitoring and Backup, airpair](https://www.airpair.com/mongodb/posts/mongodb-advanced-administration-mon-and-backup)
  - [Scaling MongoDB at Mailbox, dropbox](https://blogs.dropbox.com/tech/2013/09/scaling-mongodb-at-mailbox/)
  - [Call me maybe: MongoDB stale reads](https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads)

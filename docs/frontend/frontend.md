@@ -25,7 +25,7 @@
  - [Google MD icons](https://design.google.com/icons/)
 
 #### Color
-Find a suitable color
+MD suitable color
 
  - [Material Design Colors | Material UI](http://www.materialui.co/colors)
  - [Google materials colors](https://www.google.com/design/spec/style/color.html#)
@@ -49,7 +49,7 @@ Find a suitable color
  - [Font-Awesome](http://fortawesome.github.io/Font-Awesome/icons/)
  - [Потрясающая коллекция бесплатных шрифтов за 2014 год, habr](http://habrahabr.ru/post/247785/)
 
-### Подбор цвета
+### Color
  - [paletton.com](http://paletton.com/#uid=73a1t0kiME28vUAe6MQmMvVrYtj)
  - [coolors.co/app/fa568f-ce6185-a26b7f-3a3642-101b2c](http://coolors.co/app/fa568f-ce6185-a26b7f-3a3642-101b2c)
  - [colourlovers.com/](http://www.colourlovers.com/)  
@@ -131,7 +131,6 @@ Find a suitable color
  - [Тонкости ES6: Коллекции (часть 2) ](http://habrahabr.ru/post/261417/)
  - [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html?m=1)
  - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
- - [Не-безопасный frontend](http://habrahabr.ru/company/dsec/blog/259389/)
  - [Remotely Debug and Test JavaScript with New Vorlon.js Plug-ins](http://www.sitepoint.com/remotely-debug-and-test-javascript-with-new-vorlon-js-plug-ins/)
  - [Как написать JS-библиотеку на ScalaJS](http://habrahabr.ru/company/qiwi/blog/272625/)
  - [Parallel JavaScript with ParallelJS](http://www.sitepoint.com/parallel-javascript-with-paralleljs/)

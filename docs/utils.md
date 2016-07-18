@@ -114,3 +114,6 @@ Docker, Docker, Docker
 
 #### Docker API through socket
 `curl --no-buffer -XGET --unix-socket /var/run/docker.sock http:/events`
+
+### Delete unused images
+`docker images -a|grep '^<none>'|tr -s ' '|cut -d' ' -f 3|xargs docker rmi`

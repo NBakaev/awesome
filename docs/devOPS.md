@@ -35,6 +35,7 @@
   - [Introducing CloudWatch Dashboards](https://aws.amazon.com/ru/about-aws/whats-new/2015/10/cloudwatch-dashboards/)
   - [AWS SDK for Java Developer Guide Release 1.0](http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/aws-sdk-java-dg.pdf)
   - [AWS Storage Update – Amazon S3 Transfer Acceleration + Larger Snowballs in More Regions](https://aws.amazon.com/ru/blogs/aws/aws-storage-update-amazon-s3-transfer-acceleration-larger-snowballs-in-more-regions/)
+  - [:star: Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals)
 
 ### S3
   - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
@@ -113,6 +114,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 docker orchestration
 
 - [kubernetes.io](http://kubernetes.io/docs/)
+- [One year using Kubernetes in production: Lessons learned](http://techbeacon.com/one-year-using-kubernetes-production-lessons-learned)
 - [:star: :video_camera: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
 - [:star: :video_camera: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
 - [Kubernetes Namespaces, Resource Quota, and Limits for QoS in Cluster](https://www.javacodegeeks.com/2016/03/kubernetes-namespaces-resource-quota-limits-qos-cluster.html)

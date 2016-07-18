@@ -139,9 +139,12 @@ New javascript engine in java 8
  - [Secure Nashorn JS Execution](http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution)
  - [Java 8 Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
 
-### Localisation & Internationalization
+### i18n
+Localisation & Internationalization
 
  - [Как писать софт для всего мира](https://habrahabr.ru/company/alconost/blog/264841/)
+ - [:star: Spring Boot Internationalization](http://codedevstuff.blogspot.ru/2015/05/spring-boot-internationalization-with.html)
+ - [Custom Spring Boot starter: how do you contribute i18n messages to the MessageSource?](http://stackoverflow.com/questions/28750292/custom-spring-boot-starter-how-do-you-contribute-i18n-messages-to-the-messageso)
 
 #### java money
 Do not use float/double to store money in java
@@ -180,7 +183,8 @@ Spring framework & spring boot & microservices
  - [Spring Boot start as Unix/Linux services](http://docs.spring.io/spring-boot/docs/1.3.0.BUILD-SNAPSHOT/reference/htmlsingle/#deployment-service)
  - [:video_camera: Евгений Борисов — Spring-потрошитель, часть 1](https://www.youtube.com/watch?v=BmBr5diz8WA)
  - [:video_camera: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
- - [:star: Spring Boot Internationalization](http://codedevstuff.blogspot.ru/2015/05/spring-boot-internationalization-with.html)
+ - [Download file with RestTemplate](http://www.leveluplunch.com/java/tutorials/038-retrieve-file-spring-resttemplate/)
+ - [JSON Web Tokens With Spring Cloud Microservices](https://www.javacodegeeks.com/2016/06/json-web-tokens-spring-cloud-microservices-2.html)
 
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)

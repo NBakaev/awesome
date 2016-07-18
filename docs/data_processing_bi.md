@@ -14,6 +14,7 @@
 - [Визуализация статических и динамических сетей на R, часть 3](https://habrahabr.ru/company/infopulse/blog/263953/)
 - [Визуализация статических и динамических сетей на R, часть 4](https://habrahabr.ru/company/infopulse/blog/266199/)
 - [Визуализация статических и динамических сетей на R, часть 5](https://habrahabr.ru/company/infopulse/blog/266285/)
+- [jupyter - Open source, interactive data science and scientific computing across over 40 programming languages.](http://jupyter.org/)
 
 ## :star: Hadoop & Big Data
  - [Big Data от А до Я. Часть 1: Принципы работы с большими данными, парадигма MapReduce](https://habrahabr.ru/company/dca/blog/267361/)
@@ -52,3 +53,4 @@
  - [Data visualization, github](https://github.com/showcases/data-visualization)
  - [ECharts](http://ecomfe.github.io/echarts/doc/example-en.html)
  - [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
+ - [Chart.js - Simple yet flexible JavaScript charting for designers and developers](http://www.chartjs.org/)

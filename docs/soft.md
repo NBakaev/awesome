@@ -44,6 +44,7 @@ Tools for developers
 - [WinSCP - ftp/sftp client](https://winscp.net/eng/docs/lang:ru)
 - [Chrome Canary (latest Night builds for developers) ](https://www.google.ru/chrome/browser/canary.html)
 - [Genymotion – Fast And Easy Android Emulation](https://www.genymotion.com/)
+- [Sysinternals Miscellaneous Utilities](https://technet.microsoft.com/en-us/sysinternals/bb842059)
 
 ### Diff
 Find diff in text files, for example for git merge

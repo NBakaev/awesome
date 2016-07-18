@@ -14,6 +14,7 @@
  - [Чем плохо быть full stack enterprise-администратором](https://habrahabr.ru/post/278485/)
  - [Enjoying Java and Being More Productive With IntelliJ IDEA](https://dzone.com/articles/enjoying-java-and-being-more-productive-with-intel-1)
  - [Shields.io: Quality metadata badges for open source projects ](http://shields.io/)
+ - [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com)
 
 ## Awesome
    Коллекции современных и полезных утилит/программ/библиотек/фреймворков
@@ -51,6 +52,8 @@ Stay in touch with the world
  - [GitHub Flow: рабочий процесс Гитхаба](https://habrahabr.ru/post/189046/)
  - [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
  - [Git Cheat Sheet - git-flow](https://github.com/arslanbilal/git-cheat-sheet)
+ - [How do I remove local (untracked) files from my current Git branch?](http://stackoverflow.com/questions/61212/how-do-i-remove-local-untracked-files-from-my-current-git-branch)
+ - `git config --global core.autocrlf false`
 
 ####
  - [commit and push large file to repo and want to delete from history][https://rtyley.github.io/bfg-repo-cleaner/]
