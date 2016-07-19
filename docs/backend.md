@@ -98,6 +98,7 @@ Server-side HTML page rendering
  - [JUnit integration testing with Docker and Testcontainers](https://rnorth.org/24/junit-integration-testing-with-docker-and-testcontainers)
 
 ###
+- [Anatomy of a Good Java Test](https://dzone.com/articles/anatomy-of-a-good-java-test)
 - [Testing Concurrent Applications](http://www.javacodegeeks.com/2015/09/testing-concurrent-applications.html)
 - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
 - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
@@ -106,6 +107,7 @@ Server-side HTML page rendering
 - [Embedded MongoDB](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo)
 
 ## Java
+ - [:video_camera: JUG .ru](https://www.youtube.com/user/JUGRuVideo)
  - [Большой JVM-опрос: версии Java, альтернативные JVM-языки, версии Java EE](https://habrahabr.ru/post/281473/)
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)

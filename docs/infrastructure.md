@@ -46,6 +46,10 @@ Human-friendly alternative to nexus
 
 `docker run -d --name artifactory -p 8081:8081 -v /home/artifactory/data:/var/opt/jfrog/artifactory/data -v /home/artifactory/logs:/var/opt/jfrog/artifactory/logs -v /home/artifactory/backup:/var/opt/jfrog/artifactory/backup jfrog-docker-reg2.bintray.io/jfrog/artifactory-oss:4.4.3`
 
+### Wiki
+ - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+ - wordpress
+
 ### Atlasian youtube tutorials and demo (jira, confluence...)
 http://www.youtube.com/watch?v=Lxd6JMMxuwo
 http://www.youtube.com/watch?v=NrHpXvDXVrw

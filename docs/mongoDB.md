@@ -101,3 +101,29 @@ db.createUser(
   }
 )
 ```
+
+```js
+// Switch to admin database and get list of databases.
+db = db.getSiblingDB("admin");
+dbs = db.runCommand({ "listDatabases": 1 }).databases;
+
+// Iterate through each database and get its collections.
+dbs.forEach(function(database) {
+    db = db.getSiblingDB(database.name);
+    cols = db.getCollectionNames();
+
+// iterate over each collection
+    cols.forEach(function(collName) {
+
+// get all indexes in collection   
+    var indexes = db[collName].getIndexes();
+
+// iterate over each index    	
+        indexes.forEach(function(indexName) {
+          if (indexName.name.endsWith(".alias") || indexName.name === 'alias' ){
+            db.runCommand({dropIndexes: collName, index: indexName.name});
+          }
+        });
+	});
+});
+```

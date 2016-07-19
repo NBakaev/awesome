@@ -59,6 +59,9 @@
  - [Презентация новой bpm’online 7.8. Онлайн-трансляция.](https://www.youtube.com/watch?v=fAQnIYtnUSg)
  - [Релиз новой версии CRM-линейки bpm’online 7.8](https://www.terrasoft.ru/bpmonline-7-8?activity=facebook)
 
+### Oracle
+- [HTML и CSS в Oracle Application Express. Часть 1](https://habrahabr.ru/post/278671/)
+
 ### BPM/BPMN - Business Process Modelling
 - [Что такое BPMS](https://habrahabr.ru/post/273025/)
 - [:star: Bizagi — система моделирования, разработки и исполнения бизнес-процесса. Описание с примером](https://habrahabr.ru/post/273017/)
