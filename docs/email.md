@@ -21,6 +21,8 @@
  - [How-to: Типографика в дизайне email-писем, spark](http://spark.ru/startup/pechkin-mail/blog/9401/how-to-tipografika-v-dizajne-email-pisem)
  - [Прокачай E-mail маркетинг: Сезонные рассылки](http://spark.ru/startup/changeagain-me/blog/11660/prokachaj-e-mail-marketing-sezonnie-rassilki)
  - [Верстка писем: Что такое «кинетический email»](http://habrahabr.ru/company/pechkin/blog/266611/)
+ - [5 практических рекомендаций для улучшения эффективности email-рассылки](https://www.searchengines.ru/5_prakticheskikh.html)
+ - [Приёмы вёрстки от email-монахов: как победить в 2016 году](http://outofcloud.ru/blog/2016/06/08/verstaj-kak-monah-trendy-2016-goda/)
 
  - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696)
  - [Опыт Buzzfeed: 3 правила работы с email-рассылками](https://vc.ru/p/guide-to-sending-emails)

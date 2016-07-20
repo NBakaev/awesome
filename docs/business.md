@@ -77,3 +77,6 @@
   - [How To Run Your Company Based On Metrics](http://techcrunch.com/2015/12/15/how-to-run-your-company-based-on-metrics/)
 
    - [Лицензирование программного обеспечения](https://habrahabr.ru/post/275995/)
+
+   - [Яндекс объявляет финансовые результаты за I квартал 2016 года](https://yandex.ru/company/press_releases/2016/0428)
+   - [Яндекс объявил финансовые результаты за I квартал 2016 года](https://www.searchengines.ru/yandeks_obyavil.html)

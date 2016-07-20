@@ -15,6 +15,7 @@
  - [Enjoying Java and Being More Productive With IntelliJ IDEA](https://dzone.com/articles/enjoying-java-and-being-more-productive-with-intel-1)
  - [Shields.io: Quality metadata badges for open source projects ](http://shields.io/)
  - [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com)
+ - [Рабочее место .NET разработчика или трудности выбора идеальной конфигурации](https://habrahabr.ru/company/retailrocket/blog/301750/)
 
 ## Awesome
    Коллекции современных и полезных утилит/программ/библиотек/фреймворков

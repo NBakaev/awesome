@@ -43,6 +43,7 @@ Server-side HTML page rendering
  - [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/)
  - [STOMP for AngularJS](https://github.com/beevelop/ng-stomp)
  - [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
+ - [spring-websocket-portfolio](https://github.com/rstoyanchev/spring-websocket-portfolio/issues/14)
 
 ### HTTP/2
  - [Tools for debugging, testing and using HTTP/2](https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/)
@@ -61,6 +62,9 @@ Server-side HTML page rendering
 - [The Highcharts image convert script](https://github.com/highcharts/highcharts-export-server/tree/master/phantomjs)
 - [How do I export my HTML page as PDF using JavaScript?](https://www.quora.com/How-do-I-export-my-HTML-page-as-PDF-using-JavaScript)
 - [Используем highcharts.js для создания графиков на стороне сервера](https://habrahabr.ru/post/279515/)
+
+## Analytic & AI & Machine Learning
+ - [DMP часть 1. Микросегментирование аудитории с помощью ключевых слов](https://habrahabr.ru/company/targetix/blog/264821/)
 
 ## Reactive programming
 
@@ -102,6 +106,7 @@ Server-side HTML page rendering
 - [Testing Concurrent Applications](http://www.javacodegeeks.com/2015/09/testing-concurrent-applications.html)
 - [Spring docs integration testing](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/integration-testing.html)
 - [Unit Testing of Spring MVC Controllers: REST API](http://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
+- [Writing Data Driven Tests for your Java Application](https://www.javacodegeeks.com/2015/08/writing-data-driven-tests-for-your-java-application.html)
 
 ###
 - [Embedded MongoDB](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo)
@@ -187,6 +192,9 @@ Spring framework & spring boot & microservices
  - [:video_camera: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
  - [Download file with RestTemplate](http://www.leveluplunch.com/java/tutorials/038-retrieve-file-spring-resttemplate/)
  - [JSON Web Tokens With Spring Cloud Microservices](https://www.javacodegeeks.com/2016/06/json-web-tokens-spring-cloud-microservices-2.html)
+ - [Spring Jira](https://jira.spring.io/secure/Dashboard.jspa)
+ - [Spring Security Reference](http://docs.spring.io/autorepo/docs/spring-security/4.1.x/reference/htmlsingle/)
+ - [Understanding Transactional annotation in Spring](https://www.javacodegeeks.com/2016/05/understanding-transactional-annotation-spring.html)
 
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)
@@ -200,6 +208,7 @@ Spring framework & spring boot & microservices
 
 #### Spring Cloud Data Flow
 - [Spring Cloud Data Flow](http://cloud.spring.io/spring-cloud-dataflow/)
+- [Spring Cloud Data Flow Implementation for Kubernetes](https://github.com/spring-cloud/spring-cloud-dataflow-server-kubernetes)
 
 ## Шаблоны документов
 Create reports in .pdf .doc .xlsx

@@ -38,9 +38,13 @@
   - [:star: Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals)
 
 ### S3
-  - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
-  - [AmazonS3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html?adbsc=docs_20150930_53070556&adbid=649034184422395908&adbpl=tw&adbpr=66780587)
-  - [Amazon Simple Storage Service Developer Guide API Version 2006-03-01](http://awsdocs.s3.amazonaws.com/S3/latest/s3-dg.pdf)
+- [AmazonS3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html?adbsc=docs_20150930_53070556&adbid=649034184422395908&adbpl=tw&adbpr=66780587)
+- [Amazon Simple Storage Service Developer Guide API Version 2006-03-01](http://awsdocs.s3.amazonaws.com/S3/latest/s3-dg.pdf)
+
+#### S3 compatible APIs
+ - [Scality S3 Server](https://s3.scality.com/)
+ - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
+ - [Mini](https://github.com/minio/minio)
 
 ### IaaS
  - [IaaS-дайджест: 30 материалов по теме виртуализации](https://habrahabr.ru/company/it-grad/blog/280868/)
@@ -217,6 +221,7 @@ openssl dhparam -out dhparam.pem -rand /dev/urandom 4096
  - [mesosphere](http://mesosphere.github.io/marathon/docs/application-basics.html)
  - [mesos](http://mesos.apache.org/documentation/latest/)
  - [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
+ - [Mesosphere open sources its data center OS](https://techcrunch.com/2016/04/19/mesosphere-open-sources-its-data-center-os)
 
 ##### rancher
  - [Announcing Rancher 1.0 GA](http://rancher.com/announcing-rancher-1-0-ga/)

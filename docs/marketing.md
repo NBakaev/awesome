@@ -45,6 +45,9 @@
  - [Контекстная реклама Avito](http://context.avito.ru/)
  - [Новости рынка контекстной рекламы за август 2015 г](http://www.searchengines.ru/articles/novosti_rynka_avg_2015.html)
  - [Тестирование функции динамических объявлений в Яндекс.Директе](http://www.searchengines.ru/articles/testirovanie_funk.html)
+ - [Показы по условиям подбора аудитории](https://yandex.ru/support/direct/features/retargeting.xml)
+ - [Рекламодатели могут создавать списки ремаркетинга для поисковых объявлений с данными Google Analytics](https://www.searchengines.ru/reklamodateli_poluchili_o.html)
+ - [Яндекс.Аудитории — таргетирование рекламы на вашу целевую аудиторию](https://audience.yandex.ru)
 
 ##
   - [Особенности национального маркетинга в зимний период](http://tema.livejournal.com/1930033.html)

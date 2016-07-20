@@ -15,12 +15,11 @@ Cross-platform development with JavaScript
  - [Quick Tip – Installing and Getting Started with Cordova](http://www.sitepoint.com/quick-tip-installing-and-getting-started-with-cordova/)
 
  - [PhoneGap vs. Cordova](http://habrahabr.ru/post/272873/)
-
-        https://github.com/btford/angular-phonegap-ready
-        https://github.com/btford/angular-phonegap-accelerometer
-        https://github.com/btford/angular-phonegap-notification
-        https://github.com/btford/angular-phonegap-geolocation
-        https://github.com/phonegap-build/PushPlugin
+ - https://github.com/btford/angular-phonegap-ready
+ - https://github.com/btford/angular-phonegap-accelerometer
+ - https://github.com/btford/angular-phonegap-notification
+ - https://github.com/btford/angular-phonegap-geolocation
+ - https://github.com/phonegap-build/PushPlugin
 
 ## Electron
 Cross-platform development with JavaScript
@@ -29,6 +28,7 @@ Cross-platform development with JavaScript
 - [Built on Electron](http://electron.atom.io/#built-on-electron)
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron)
 - [Build a Music Player with React & Electron III: Bringing It All Together](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
+- [Electron 1.0](http://electron.atom.io/blog/2016/05/11/electron-1-0)
 
 ##
 - [Developing Universal Windows Apps with HTML and JavaScript Jump Start](https://www.microsoftvirtualacademy.com/en-US/training-courses/developing-universal-windows-apps-with-html-and-javascript-jump-start-8344)     

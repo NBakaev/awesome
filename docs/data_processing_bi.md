@@ -15,6 +15,9 @@
 - [Визуализация статических и динамических сетей на R, часть 4](https://habrahabr.ru/company/infopulse/blog/266199/)
 - [Визуализация статических и динамических сетей на R, часть 5](https://habrahabr.ru/company/infopulse/blog/266285/)
 - [jupyter - Open source, interactive data science and scientific computing across over 40 programming languages.](http://jupyter.org/)
+- [Кластеризация графов и поиск сообществ. Часть 1: введение, обзор инструментов и Волосяные Шары](https://habrahabr.ru/company/dca/blog/265077/)
+- [BigML: Machine Learning made easy](http://cloudacademy.com/blog/bigml-machine-learning/)
+- [Ко-кластеризация: cегментирование данных вдоль и поперёк](https://habrahabr.ru/post/265489/)
 
 ## :star: Hadoop & Big Data
  - [Big Data от А до Я. Часть 1: Принципы работы с большими данными, парадигма MapReduce](https://habrahabr.ru/company/dca/blog/267361/)

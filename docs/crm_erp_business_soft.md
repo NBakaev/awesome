@@ -24,6 +24,7 @@
  - [Автоматизация оформления документации](https://habrahabr.ru/post/280476/)
 
  - [:star: ИТ-стартап ищет больших клиентов: особенности работы с крупными корпорациями](https://megamozg.ru/post/24240/)
+ - [Как Микрософт внедрял у себя Yammer (часть I)](https://habrahabr.ru/company/supereon/blog/301632/)
 
 ## CRM
   - [Что такое CRM-системы и как их правильно выбирать?, habr](http://habrahabr.ru/post/249633/)
@@ -34,6 +35,8 @@
   - [Описание CRM Мегаплан](http://megamozg.ru/post/22286/)
   - [Идеи Битрикс24](http://idea.1c-bitrix.ru/)
   - [Знакомый незнакомец. What is Битрикс24?](https://habrahabr.ru/company/bitrix/blog/274165/)
+  - [Рейтинг CRM-систем (управление отношениями с клиентами) 2016](http://tagline.ru/crm-systems-rating/)
+  - [Внедрение CRM: как не быть близким к провалу](https://habrahabr.ru/company/regionsoft/blog/303334/)
 
 ### CRM системы
  - [Zoho CRM](https://www.zoho.com/crm/)
@@ -53,6 +56,7 @@
  - [1C:CRM.Описание](http://megamozg.ru/post/21294/)
  - [Автоматизация легкого управления списками баз 1С](https://habrahabr.ru/post/278577/)
  - [:star: Инфостарт — все для 1С](http://infostart.ru/)
+ - [Интеграция с 1C — готовьте напильник](http://blog.sibirix.ru/2016/05/05/make1Cnotwar/)
 
 ### bpm’online
  - [bpm’online](https://www.terrasoft.ru/)
@@ -61,6 +65,9 @@
 
 ### Oracle
 - [HTML и CSS в Oracle Application Express. Часть 1](https://habrahabr.ru/post/278671/)
+
+### CRM technical
+ - [Deploy Siebel CRM Applications on Amazon RDS for Oracle](https://aws.amazon.com/ru/about-aws/whats-new/2016/05/deploy-siebel-crm-applications-on-amazon-rds-for-oracle/)
 
 ### BPM/BPMN - Business Process Modelling
 - [Что такое BPMS](https://habrahabr.ru/post/273025/)
@@ -74,6 +81,7 @@
 - [Pluggable persistence in Activiti 6](http://www.javacodegeeks.com/2015/09/pluggable-persistence-in-activiti-6.html)
 - [«Hello World» BPMN2.0 или введение в Activiti, habr](http://habrahabr.ru/post/113658/)
 - [Организация работы склада. Описание. BPMN схемы прилагаются](https://megamozg.ru/post/22122/)
+- [Как автоматизировать бизнес-процессы от заявки до продажи с помощью открытого софта](https://habrahabr.ru/company/latera/blog/301548/)
 
 ### Остальное
 - [Корпоративная социальная сеть — это «что» или «где»?](http://megamozg.ru/company/supereon/blog/20802/)
