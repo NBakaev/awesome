@@ -3,8 +3,7 @@
 List<BigDecimal> bdList = new ArrayList<>();
 //populate list
 
-BigDecimal result = bdList.stream()
-        .reduce(BigDecimal.ZERO, BigDecimal::add);
+BigDecimal result = bdList.stream().reduce(BigDecimal.ZERO, BigDecimal::add);
 ```
 
 ```bash

@@ -117,3 +117,6 @@ Docker, Docker, Docker
 
 ### Delete unused images
 `docker images -a|grep '^<none>'|tr -s ' '|cut -d' ' -f 3|xargs docker rmi`
+
+### Access local mounted drive in RDP in remote Cygwin
+`cd //tsclient/D` where D is name of mounted drive

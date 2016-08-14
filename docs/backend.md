@@ -4,19 +4,24 @@
  - [Multi-Tenant Data Architecture - msdn.microsoft.com](https://msdn.microsoft.com/en-us/library/aa479086.aspx)
  - [HighLoad++ — это блюдо, которое подают высоконагруженным, habr](http://habrahabr.ru/company/oleg-bunin/blog/266393/)
  - [Краткая история масштабирования LinkedIn, habr](http://habrahabr.ru/company/latera/blog/266447/)
- - [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
  - [Developing with Docker at IFTTT](https://medium.com/engineering-at-ifttt/developing-with-docker-at-ifttt-5bd03b4e597c#.kq26904m0)
- - [An Introduction to Microservices, Part 2: The API Gateway](https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/)
  - [Architecting Data Intensive Applications – Part 1](http://www.javacodegeeks.com/2015/08/architecting-data-intensive-applications-part-1.html)
- - [Почему команда SoundCloud перешла на микросервисы](http://habrahabr.ru/company/1cloud/blog/266699/)
  - [Технокнига, часть 3: литература по проектированию высоконагруженных систем, по безопасности веб-приложений, по обеспечению качества разработки и по мобильной разработке](http://habrahabr.ru/company/mailru/blog/267579/)
- - [Микросервисы без серверов (облачный вариант)](http://habrahabr.ru/company/piter/blog/266703/)
  - [Highload на Java: о чем нужно помнить](http://habrahabr.ru/post/270059/)
  - [Codesign.io – архитектура которая работает](http://habrahabr.ru/post/271461/)
  - [:star: Чему мы научились, разрабатывая backend](http://habrahabr.ru/company/parallels/blog/269927/)
  - [WireMock A web service test double for all occasions](http://wiremock.org/running-standalone.html)
  - [How Enterprises Benefit From Microservices Architectures](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/)
  - [:sta: System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+
+### microservice architecture
+- [A comparison of Microservices Frameworks](https://cdelmas.github.io/2015/11/01/A-comparison-of-Microservices-Frameworks.html)
+- [Микросервисная архитектура, Spring Cloud и Docker](https://habrahabr.ru/post/280786/)
+- [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
+- [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
+- [Почему команда SoundCloud перешла на микросервисы](http://habrahabr.ru/company/1cloud/blog/266699/)
+- [Микросервисы без серверов (облачный вариант)](http://habrahabr.ru/company/piter/blog/266703/)
+- [An Introduction to Microservices, Part 2: The API Gateway](https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/)
 
 ## Шаблонизаторы
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
@@ -39,11 +44,14 @@ Server-side HTML page rendering
  - [WebSocket Applications with Spring Framework 4.0](http://rstoyanchev.github.io/springx2013-websocket/#1)
  - [rstoyanchev/spring-websocket-portfolio](https://github.com/rstoyanchev/spring-websocket-portfolio)
  - [Using WebSockets with Spring, AngularJS and SockJS](http://g00glen00b.be/spring-angular-sockjs/)
- - [STOMP Over WebSocket](http://jmesnil.net/stomp-websocket/doc/)
  - [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/)
- - [STOMP for AngularJS](https://github.com/beevelop/ng-stomp)
  - [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
  - [spring-websocket-portfolio](https://github.com/rstoyanchev/spring-websocket-portfolio/issues/14)
+
+### stopm
+personally, not PR
+- [STOMP Over WebSocket](http://jmesnil.net/stomp-websocket/doc/)
+- [STOMP for AngularJS](https://github.com/beevelop/ng-stomp)
 
 ### HTTP/2
  - [Tools for debugging, testing and using HTTP/2](https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/)
@@ -113,6 +121,7 @@ Server-side HTML page rendering
 
 ## Java
  - [:video_camera: JUG .ru](https://www.youtube.com/user/JUGRuVideo)
+ - [:video_camera: JBreak 2016](https://www.youtube.com/playlist?list=PLVe-2wcL84b_iJvIflZu74vcyjezF6Fx9&app=desktop)
  - [Большой JVM-опрос: версии Java, альтернативные JVM-языки, версии Java EE](https://habrahabr.ru/post/281473/)
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)
@@ -126,6 +135,17 @@ Server-side HTML page rendering
  - [How-to guide to writing a javaagent](http://zeroturnaround.com/rebellabs/how-to-inspect-classes-in-your-jvm/)
  - [Well-Written Java 8, 8 Ways](https://dzone.com/articles/zlwell-written-java)
 
+### bytecode manipulation
+Dynamic classes, proxy
+
+ - [bytebuddy](http://bytebuddy.net/#/tutorial)
+ - [Javassist](http://jboss-javassist.github.io/javassist)
+ - Java proxy
+ - [ASM is an all purpose Java bytecode manipulation and analysis framework](http://asm.ow2.org/)
+#### cglib
+ - [cglib](https://github.com/cglib/cglib)
+ - [cglib: The missing manual](http://mydailyjava.blogspot.ru/2013/11/cglib-missing-manual.html)
+
 ### Lombok
  Project Lombok - auto generate getters/setters, hashcode, equals...
 
@@ -135,7 +155,7 @@ Server-side HTML page rendering
  - [Lombok Plugin for IntelliJ IDEA](https://github.com/mplushnikov/lombok-intellij-plugin)
 
 ###
- - [Curator - ZooKeeper - распределённые локи](http://curator.apache.org/)
+ - [Curator - ZooKeeper - distributed locks](http://curator.apache.org/)
 
 ### Nashorn
 New javascript engine in java 8
@@ -188,8 +208,8 @@ Spring framework & spring boot & microservices
  - [How SpringBoot AutoConfiguration magic works?](http://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)
  - [Пишем свой spring-boot-starter](https://habrahabr.ru/post/275337/)
  - [Spring Boot start as Unix/Linux services](http://docs.spring.io/spring-boot/docs/1.3.0.BUILD-SNAPSHOT/reference/htmlsingle/#deployment-service)
- - [:video_camera: Евгений Борисов — Spring-потрошитель, часть 1](https://www.youtube.com/watch?v=BmBr5diz8WA)
- - [:video_camera: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
+ - [:video_camera: :star: Евгений Борисов — Spring-потрошитель, часть 1](https://www.youtube.com/watch?v=BmBr5diz8WA)
+ - [:video_camera: :star: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
  - [Download file with RestTemplate](http://www.leveluplunch.com/java/tutorials/038-retrieve-file-spring-resttemplate/)
  - [JSON Web Tokens With Spring Cloud Microservices](https://www.javacodegeeks.com/2016/06/json-web-tokens-spring-cloud-microservices-2.html)
  - [Spring Jira](https://jira.spring.io/secure/Dashboard.jspa)
@@ -257,6 +277,7 @@ Performance, APM
  - [How to Release to Maven Central, in One Click](http://www.yegor256.com/2014/08/19/how-to-release-to-maven-central.html)
  - [OSSRH Guide](http://central.sonatype.org/pages/ossrh-guide.html)
  - [Deploy to Maven Central Repository](http://www.sonatype.org/nexus/2015/01/08/deploy-to-maven-central-repository/)
+ - deploy with settings.xml profile ossrh `mvn deploy -DaltDeploymentRepository="ossrh::default::https://oss.sonatype.org/service/local/staging/deploy/maven2" -DskipTests`
 
 #### Java & Spring authentication
 - http://blog.jdriven.com/2014/10/stateless-spring-security-part-2-stateless-authentication/

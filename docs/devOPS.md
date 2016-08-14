@@ -19,6 +19,7 @@
  - [running-own-docker-swarm-cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
  - [Qcow2 — это формат дискового образа программы QEMU. Copy-On-Write](https://www.google.ru/search?q=Qcow2+disk)
  - [50 инструментов для автоматизации облачной инфраструктуры](https://habrahabr.ru/company/it-grad/blog/281801/)
+ - [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами](https://habrahabr.ru/post/266139/)
 
 ## AWS
   ![](https://media.amazonwebservices.com/blog/2015/on_shore_personal_data_storage_arch_3.jpg)
@@ -35,7 +36,7 @@
   - [Introducing CloudWatch Dashboards](https://aws.amazon.com/ru/about-aws/whats-new/2015/10/cloudwatch-dashboards/)
   - [AWS SDK for Java Developer Guide Release 1.0](http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/aws-sdk-java-dg.pdf)
   - [AWS Storage Update – Amazon S3 Transfer Acceleration + Larger Snowballs in More Regions](https://aws.amazon.com/ru/blogs/aws/aws-storage-update-amazon-s3-transfer-acceleration-larger-snowballs-in-more-regions/)
-  - [:star: Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals)
+  - [:video_camera: :star: Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals)
 
 ### S3
 - [AmazonS3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html?adbsc=docs_20150930_53070556&adbid=649034184422395908&adbpl=tw&adbpr=66780587)
@@ -44,7 +45,7 @@
 #### S3 compatible APIs
  - [Scality S3 Server](https://s3.scality.com/)
  - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
- - [Mini](https://github.com/minio/minio)
+ - [minio](https://github.com/minio/minio)
 
 ### IaaS
  - [IaaS-дайджест: 30 материалов по теме виртуализации](https://habrahabr.ru/company/it-grad/blog/280868/)
@@ -114,6 +115,14 @@ systemd is an init system by default in ubuntu 16.04 lts
  - [Docker networking overview](https://filipv.net/2016/02/17/docker-networking-overview/)
  - [Docker Networking and DNS: The Good, The Bad, And The Ugly](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
 
+### Docker & systemd
+file `/lib/systemd/system/docker.service`
+
+StartExec: `/usr/bin/docker daemon -H fd:// -D --tls=true --tlscacert=/mnt/hgfs/test/shared/ca.pem --tlscert=/mnt/hgfs/test/shared/server-cert.pem --tlsverify --tlskey=/mnt/hgfs/test/shared/server-key.pem -H tcp://192.168.127.131:2376 -H unix:///var/run/docker.sock`
+
+ - https://docs.docker.com/v1.10/engine/security/https/
+ - https://docs.docker.com/engine/admin/systemd/
+
 ## :star: Kubernetes
 docker orchestration
 
@@ -139,6 +148,14 @@ docker orchestration
 - [mongo-k8s-sidecar](https://github.com/leportlabs/mongo-k8s-sidecar/tree/master/example)
 - [Kubernetes Overview, Part One](https://deis.com/blog/2016/kubernetes-overview-pt-1/)
 - [Kubernetes Overview, Part Two](https://deis.com/blog/2016/kubernetes-overview-pt-2/)
+
+### Minikube
+Kubernetes locally for developers on localhost
+
+ - [Minikube: easily run Kubernetes locally](http://blog.kubernetes.io/2016/07/minikube-easily-run-kubernetes-locally.html)
+ - [github.com/kubernetes/minikube](https://github.com/kubernetes/minikube/releases)
+ - `kubectl get service $SERVICE --output='jsonpath="{.spec.ports[0].NodePort}"'`
+ - `curl -Lo kubectl http://storage.googleapis.com/kubernetes-release/release/v1.3.0/bin/linux/amd64/kubectl && chmod +x kubectl && sudo mv kubectl /usr/local/bin/`
 
 ### Kubernetes networking
 - [:star: Comparison of Networking Solutions for Kubernetes](https://machinezone.github.io/research/networking-solutions-for-kubernetes/)
