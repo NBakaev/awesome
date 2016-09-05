@@ -39,7 +39,7 @@
   - [:video_camera: :star: Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals)
 
 ### S3
-- [AmazonS3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html?adbsc=docs_20150930_53070556&adbid=649034184422395908&adbpl=tw&adbpr=66780587)
+- [Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html)
 - [Amazon Simple Storage Service Developer Guide API Version 2006-03-01](http://awsdocs.s3.amazonaws.com/S3/latest/s3-dg.pdf)
 
 #### S3 compatible APIs
@@ -87,6 +87,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами](https://habrahabr.ru/post/266139/)
 - [:star: Использование Consul для service discovery и других задач](http://eax.me/consul/)
 - [how to define HTTP health check in a consul container for a service on the same host?](http://stackoverflow.com/questions/27623590/how-to-define-http-health-check-in-a-consul-container-for-a-service-on-the-same)
+- [consul-backup - K/V backup/restore](https://github.com/kailunshi/consul-backup)
 
 ## :star: Docker
  - [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)

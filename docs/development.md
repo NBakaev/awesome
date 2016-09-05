@@ -16,6 +16,8 @@
  - [Shields.io: Quality metadata badges for open source projects ](http://shields.io/)
  - [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com)
  - [Рабочее место .NET разработчика или трудности выбора идеальной конфигурации](https://habrahabr.ru/company/retailrocket/blog/301750/)
+ - [:video_camera: star: Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+ - [youtube - Data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 ## Awesome
    Коллекции современных и полезных утилит/программ/библиотек/фреймворков

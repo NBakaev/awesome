@@ -8,6 +8,7 @@
 ### REST API examples
  - [Dropbox API Explorer](https://dropbox.github.io/dropbox-api-v2-explorer/)
  - [ecwid.com](https://developers.ecwid.com/api-documentation#get-access-token)
+ - [github]( https://developer.github.com/v3/)
 
 ## GraphQL
 Just a bad hipster technology
