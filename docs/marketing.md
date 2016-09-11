@@ -4,6 +4,7 @@
 - [:star: :video_camera: Видео с летней школы по маркетингу софтверных продуктов в JetBrains](http://megamozg.ru/company/JetBrains/blog/19882/)
 - [Кейс из России: 9 каналов привлечения первых клиентов для b2b-cервисов](https://vc.ru/p/first-reg-free)
 - [«МАРКЕТИНГ ИГР» — КНИГА СЕРГЕЯ ГАЛЁНКИНА](http://galyonkin.com/book/)
+- [:star: Pokemon Go: давайте без истерик разберем вирусную PR-кампанию продвижения этого приложения. ver 2.0](https://habrahabr.ru/post/306522/)
 
 ### target.my.com
  - [target.my.com](https://target.my.com)

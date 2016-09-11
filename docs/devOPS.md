@@ -128,6 +128,7 @@ StartExec: `/usr/bin/docker daemon -H fd:// -D --tls=true --tlscacert=/mnt/hgfs/
 docker orchestration
 
 - [kubernetes.io](http://kubernetes.io/docs/)
+- [Creating a Custom Cluster from Scratch](http://kubernetes.io/docs/getting-started-guides/scratch/)
 - [One year using Kubernetes in production: Lessons learned](http://techbeacon.com/one-year-using-kubernetes-production-lessons-learned)
 - [:star: :video_camera: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
 - [:star: :video_camera: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)

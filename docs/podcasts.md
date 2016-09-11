@@ -2,6 +2,7 @@
 Audio and discussions to listen
 
  - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
+ - [Что послушать программисту? Подборка подкастов на русском и английском языках](https://habrahabr.ru/post/308532/)
 
 ## GameDev
  - [:star: :ru: #RadioFlazm](http://flazm.ru/)

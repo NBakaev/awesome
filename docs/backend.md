@@ -137,6 +137,7 @@ personally, not PR
  - [JAVA using google speech recognition API](http://stackoverflow.com/questions/16743533/java-using-google-speech-recognition-api)
  - [How-to guide to writing a javaagent](http://zeroturnaround.com/rebellabs/how-to-inspect-classes-in-your-jvm/)
  - [Well-Written Java 8, 8 Ways](https://dzone.com/articles/zlwell-written-java)
+ - [Excelsior JET - Java Virtual Machine (JVM) and Native Code Compiler](https://www.excelsiorjet.com/)
 
 ### bytecode manipulation
 Dynamic classes, proxy

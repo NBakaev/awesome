@@ -10,6 +10,12 @@
  - [ecwid.com](https://developers.ecwid.com/api-documentation#get-access-token)
  - [github]( https://developer.github.com/v3/)
 
+## REST API GUI
+
+### Postman
+ - [How to write powerful automated API tests with Postman, Newman and Jenkins](http://blog.getpostman.com/2015/09/03/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/)
+ - [newman - Command-line companion utility for Postman](https://www.npmjs.com/package/newman)
+
 ## GraphQL
 Just a bad hipster technology
 
