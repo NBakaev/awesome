@@ -99,11 +99,8 @@ https://github.com/rasa/vmware-tools-patches
 Simple and quick script to install vmware-tools
 ```bash
 apt-get install git curl unzip
-git clone https://github.com/rasa/vmware-tools-patches.git
-cd vmware-tools-patches
-./download-tools.sh latest
-./untar-and-patch.sh
-./compile.sh
+git clone https://github.com/rasa/vmware-tools-patches.git & cd vmware-tools-patches
+./download-tools.sh latest & ./untar-and-patch.sh & ./compile.sh
 ```
 
 ### Docker
@@ -120,3 +117,10 @@ Docker, Docker, Docker
 
 ### Access local mounted drive in RDP in remote Cygwin
 `cd //tsclient/D` where D is name of mounted drive
+
+### Mount Samba
+```bash
+sudo apt-get install cifs-utils
+mount -t cifs -o username=SECRET_USERNAME,password=SECRET_PASSWORD //192.168.1.82/backups/ /mnt/backups
+umount /mnt/192.168.1.82
+```

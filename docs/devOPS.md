@@ -116,7 +116,10 @@ systemd is an init system by default in ubuntu 16.04 lts
  - [Docker networking overview](https://filipv.net/2016/02/17/docker-networking-overview/)
  - [Docker Networking and DNS: The Good, The Bad, And The Ugly](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
 
-### Docker & systemd
+### Systemd
+- [systemd](https://wiki.archlinux.org/index.php/systemd)
+
+#### Docker & systemd
 file `/lib/systemd/system/docker.service`
 
 StartExec: `/usr/bin/docker daemon -H fd:// -D --tls=true --tlscacert=/mnt/hgfs/test/shared/ca.pem --tlscert=/mnt/hgfs/test/shared/server-cert.pem --tlsverify --tlskey=/mnt/hgfs/test/shared/server-key.pem -H tcp://192.168.127.131:2376 -H unix:///var/run/docker.sock`
@@ -150,6 +153,7 @@ docker orchestration
 - [mongo-k8s-sidecar](https://github.com/leportlabs/mongo-k8s-sidecar/tree/master/example)
 - [Kubernetes Overview, Part One](https://deis.com/blog/2016/kubernetes-overview-pt-1/)
 - [Kubernetes Overview, Part Two](https://deis.com/blog/2016/kubernetes-overview-pt-2/)
+- [Five Months of Kubernetes](http://danielmartins.ninja/posts/five-months-of-kubernetes.html)
 
 ### Minikube
 Kubernetes locally for developers on localhost
@@ -158,11 +162,14 @@ Kubernetes locally for developers on localhost
  - [github.com/kubernetes/minikube](https://github.com/kubernetes/minikube/releases)
  - `kubectl get service $SERVICE --output='jsonpath="{.spec.ports[0].NodePort}"'`
  - `curl -Lo kubectl http://storage.googleapis.com/kubernetes-release/release/v1.3.0/bin/linux/amd64/kubectl && chmod +x kubectl && sudo mv kubectl /usr/local/bin/`
+ - [RED HAT ENTERPRISE LINUX ATOMIC HOST 7 GETTING STARTED WITH CONTAINERS](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-atomic-host/7/single/getting-started-with-containers)
 
 ### Kubernetes networking
 - [:star: Comparison of Networking Solutions for Kubernetes](https://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 - [Kubernetes network performance tests](https://smana.kubespray.io/index.php/posts/kubernetes-net-bench)
 - [kubernetes-101-networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
+- [Networking in Kubernetes](http://kubernetes.io/docs/admin/networking/)
+- [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 
 #### Weave
 - [Simple, resilient multi-host Docker networking and more - github](https://github.com/weaveworks/weave)

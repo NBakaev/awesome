@@ -12,12 +12,15 @@
 
 ## REST API GUI
 
-### Postman
+### :star: Postman
  - [How to write powerful automated API tests with Postman, Newman and Jenkins](http://blog.getpostman.com/2015/09/03/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/)
  - [newman - Command-line companion utility for Postman](https://www.npmjs.com/package/newman)
 
+###
+ - [insomnia.rest - A simple, beautiful, and free REST API client Mac, Windows, and Linux](https://insomnia.rest/)
+
 ## GraphQL
-Just a bad hipster technology
+bad hipster technology
 
  - [Using GraphQL with MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
  - [GraphQL and GraphiQL Spring Framework Boot Starters](https://github.com/oembedler/graphql-spring-boot)
@@ -26,14 +29,20 @@ Just a bad hipster technology
  - [Introducing the Apollo GraphQL data stack](https://medium.com/apollo-stack/introducing-the-apollo-graphql-data-stack-5d005312cbd0#.fge26theb)
  - [How to build GraphQL servers](https://medium.com/apollo-stack/how-to-build-graphql-servers-87587591ded5#.oueqzsxou)
 
-## Swagger - auto generate REST documentation API
+## RPC / DTO
+ - [Trift (facebook)](https://thrift.apache.org/)
+ - [brotobuff (google)](https://developers.google.com/protocol-buffers/)
+ - [grpc (google)](http://www.grpc.io/)
+
+## Swagger
+Spec for auto generate REST documentation API
  - [github.com/swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
  - [springfox.github.io/springfox/docs/current/#springfox-samples](http://springfox.github.io/springfox/docs/current/#springfox-samples)
  - [github.com/Swagger2Markup/swagger2markup](https://github.com/Swagger2Markup/swagger2markup)
  - [Speed up your RESTful API development in Node.js with Swagger](https://scotch.io/tutorials/speed-up-your-restful-api-development-in-node-js-with-swagger)
  - [Swagger UI responsive theme](https://github.com/jensoleg/swagger-ui)
 
-#### REST Documentation
+#### generate clients
 
 Without header authentication
 ```bash
@@ -44,11 +53,6 @@ With header authentication
 ```bash
 java -jar modules/swagger-codegen-cli/target/swagger-codegen-cli.jar generate -i http://localhost:8080/v2/api-docs -l php -o samples -v -a "Authorization: Basic _SOME_BASH64_"
 ```
-
-## Remote RPC / DTO
- - Trift (facebook)
- - brotobuff (google)
-
 
 ## Documentation
  - [Building Product Documentation with MkDocs](http://www.sitepoint.com/building-product-documentation-mkdocs/)

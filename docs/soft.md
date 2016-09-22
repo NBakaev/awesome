@@ -21,6 +21,7 @@
  - [pocket read it later](https://getpocket.com/)
  - [Plex: Your media on all your devices](https://plex.tv/)
  - [KeePass Password Safe](http://keepass.info/)
+ - [An 'alt+space' launcher for Windows, built with Electron](https://github.com/appetizermonster/hain)
 
 ### Mind maps
 - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)
@@ -45,6 +46,10 @@ Tools for developers
 - [Chrome Canary (latest Night builds for developers) ](https://www.google.ru/chrome/browser/canary.html)
 - [Genymotion – Fast And Easy Android Emulation](https://www.genymotion.com/)
 - [Sysinternals Miscellaneous Utilities](https://technet.microsoft.com/en-us/sysinternals/bb842059)
+
+###
+- [BlueStacks App Player - run Android apps on Windows](https://nnmclub.to/forum/viewtopic.php?t=1051072)
+- [Turbo Studio - containerized windows apps](https://nnmclub.to/forum/viewtopic.php?t=1050828)
 
 ### Diff
 Find diff in text files, for example for git merge

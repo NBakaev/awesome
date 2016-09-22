@@ -15,3 +15,7 @@
  - [List of Parse alternative backend service providers](https://github.com/relatedcode/ParseAlternatives)
  - [Альтернативы сервису parse.com](https://habrahabr.ru/post/277979/)
  - [Что нам стоит «Parse» построить или как без особого напряжения поднять его opensourse-аналог на собственном сервере](https://habrahabr.ru/post/260345/)
+
+## 
+ - [:star: CasperJS - SCRAPING, scripting, testing](http://casperjs.org/)
+ - [BigInteger.js](https://github.com/peterolson/BigInteger.js)

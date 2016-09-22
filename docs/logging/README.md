@@ -7,8 +7,8 @@
  - [Papertrail - cloud-hosted log management, live in seconds](https://papertrailapp.com/)
 
 ## :star: Monitoring
-- [Cloud Monitoring as a Service](https://www.datadoghq.com/)
-- [Application Performance Management & Monitoring](http://newrelic.com/)
+- [datadog - Cloud Monitoring as a Service](https://www.datadoghq.com/)
+- [newrelic - Application Performance Management & Monitoring](http://newrelic.com/)
 - [Getting Started with Web Application Monitoring](http://www.sitepoint.com/guide-monitoring-web-applications/)
 - [Apdex (Application Performance Index)](https://en.wikipedia.org/wiki/Apdex)
 - [Build reliable and faster Node.js applications, keymetrics.io](https://keymetrics.io/)

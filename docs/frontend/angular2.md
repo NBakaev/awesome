@@ -15,6 +15,9 @@
  - twitter.com/AngularConnect — там выкладывают ссылки на презентации, выступления и т.п.
  - gitter.im/angular/angular
 
+ - [Angular 2 - The Complete Guide (Updated to RC5!)](https://rutracker.org/forum/viewtopic.php?t=5276166)
+ - [:star: Angular 2 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
+
 
 Особенности:
 Двухстороннее связывание `[()]``

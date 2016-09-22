@@ -9,6 +9,7 @@
  - [Процесс разработки и выкатка релизов в Badoo. Автоматическое тестирование. Девелоперское окружение](http://habrahabr.ru/company/badoo/blog/190572/)
  - [Как работают над Chromium, habr - все херак-херак и в master...](http://habrahabr.ru/post/267559/)
  - [Как я сходила на 80 собеседований и провалилась](http://www.the-village.ru/village/business/opyt/234807-fail)
+ - [My Interviews with Amazon](https://thesocietea.org/2016/07/my-interviews-with-amazon/)
 
 ## :star: :star:
  - [Автоматизация workflow небольшой команды разработки (Часть 1)](http://habrahabr.ru/post/270299/)
