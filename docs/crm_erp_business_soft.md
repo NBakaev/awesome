@@ -62,6 +62,13 @@
  - [bpm’online](https://www.terrasoft.ru/)
  - [Презентация новой bpm’online 7.8. Онлайн-трансляция.](https://www.youtube.com/watch?v=fAQnIYtnUSg)
  - [Релиз новой версии CRM-линейки bpm’online 7.8](https://www.terrasoft.ru/bpmonline-7-8?activity=facebook)
+ - [Обзор системы bpm’online](https://habrahabr.ru/company/trinion/blog/281192/)
+
+### Битрикс
+bitrix / bitrix24
+
+ - [:star: Исповедь Битрикс хейтера](https://habrahabr.ru/post/282333/)
+ - [Битрикс24: незаметная CRM, которая работает за вас](https://habrahabr.ru/company/bitrix/blog/306102/)
 
 ### Oracle
 - [HTML и CSS в Oracle Application Express. Часть 1](https://habrahabr.ru/post/278671/)

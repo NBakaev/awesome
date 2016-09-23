@@ -185,6 +185,8 @@ Kubernetes locally for developers on localhost
 - [Docker Networking – CoreOS Flannel](https://sreeninet.wordpress.com/2015/01/18/docker-networking-coreos-flannel/)
 - [Configuring flannel for container networking](https://coreos.com/flannel/docs/latest/flannel-config.html)
 - [flannel: Unable to access container by ip from another host #72](https://github.com/coreos/flannel/issues/72)   
+- [Routes outside Flannel Networks and NAT'ing](https://github.com/coreos/flannel/issues/77)
+- [why does the flannel based docker container can't access the outside world](https://github.com/coreos/flannel/issues/115)
 
 ####
  - [etcd: Allow removal of directory keys](https://github.com/coreos/etcd/issues/185)

@@ -138,6 +138,7 @@ personally, not PR
  - [How-to guide to writing a javaagent](http://zeroturnaround.com/rebellabs/how-to-inspect-classes-in-your-jvm/)
  - [Well-Written Java 8, 8 Ways](https://dzone.com/articles/zlwell-written-java)
  - [Excelsior JET - Java Virtual Machine (JVM) and Native Code Compiler](https://www.excelsiorjet.com/)
+ - [cxxr/better-java](https://github.com/cxxr/better-java)
 
 ### bytecode manipulation
 Dynamic classes, proxy
@@ -189,6 +190,31 @@ Do not use float/double to store money in java
  - [Java и время: часть вторая](https://habrahabr.ru/post/274905/)
  - [joda-time](http://www.joda.org/joda-time/)
  - [Правильная работа с датой и временем](https://habrahabr.ru/post/278527/)
+
+### SQL and db data access
+   - [jooq 3.8 pdf](http://www.jooq.org/doc/3.8/manual-pdf/jOOQ-manual-3.8.pdf)
+   - [Comparing Querydsl, jOOQ, JEQUEL, activejdbc, iciql and other query DSLs](http://stackoverflow.com/questions/7242388/comparing-querydsl-jooq-jequel-activejdbc-iciql-and-other-query-dsls)
+   - [Any alternatives to JOOQ?](https://www.reddit.com/r/java/comments/25yd03/any_alternatives_to_jooq/)
+
+   - [jdbi is a SQL convenience library for Java](http://jdbi.org/)
+   - [jdbi - Like spring data respository](http://jdbi.org/sql_object_api_queries/)
+   - spring data
+   - spring jdbcTemplate
+
+## Microservices
+
+ - [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](http://www.dropwizard.io/)
+ - spring boot
+
+### Hazelcast
+
+  - [documentation](https://hazelcast.org/documentation/)
+  - [Beginner’s Guide to Hazelcast Part 7](https://www.javacodegeeks.com/2015/04/beginners-guide-to-hazelcast-part-7.html)
+
+###
+
+ - [Apache Spark™ is a fast and general engine for large-scale data processing](https://spark.apache.org/)
+ - [Lord of the Spark or an easy way for Java Developers to tame Big Data (Evgeny Borisov, Israel)](https://www.youtube.com/watch?v=doUNm3Myqyw)
 
 ## Spring
 Spring framework & spring boot & microservices
