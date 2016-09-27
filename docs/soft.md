@@ -22,6 +22,7 @@
  - [Plex: Your media on all your devices](https://plex.tv/)
  - [KeePass Password Safe](http://keepass.info/)
  - [An 'alt+space' launcher for Windows, built with Electron](https://github.com/appetizermonster/hain)
+ - [nylas OSS - The best email app for sales professionals](https://www.nylas.com/)
 
 ### Mind maps
 - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)

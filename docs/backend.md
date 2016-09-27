@@ -171,6 +171,14 @@ New javascript engine in java 8
  - [Secure Nashorn JS Execution](http://stackoverflow.com/questions/20793089/secure-nashorn-js-execution)
  - [Java 8 Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
 
+### kotlin
+  - [Putting Kotlin, MongoDB, Spring Boot and Heroku Together](https://medium.com/@andrey_cheptsov/putting-kotlin-mongodb-spring-boot-and-heroku-together-664d2e1242f#.e9ps5m6nk)
+  - [Пишем простой RESTful сервис на kotlin и spring boot](https://habrahabr.ru/post/274997/)
+  - [Готовим rutracker на spring и kotlin](https://habrahabr.ru/post/274713/)
+  - [spring-kotlin](https://github.com/sdeleuze/spring-kotlin)
+  - [Creating a RESTful Web Service with Spring Boot](https://kotlinlang.org/docs/tutorials/spring-boot-restful.html)
+  - [Developing Spring Boot applications with Kotlin](http://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin)
+
 ### i18n
 Localisation & Internationalization
 

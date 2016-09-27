@@ -35,9 +35,15 @@ Cross-platform development with JavaScript
 - [HockeyApp - The Platform for Your Apps](http://hockeyapp.net/features/)
 - [Build truly native cross-platform iOS and Android apps with JavaScript http://www.nativescript.org](https://github.com/NativeScript/NativeScript)
 
-##
+## Android
+
+###
 - [Android lint](http://developer.android.com/intl/ru/tools/help/lint.html)
 
+### Genymotion
+- [Guide Genymotion](http://forum.xda-developers.com/showthread.php?t=2333452)
+- [GUIDE Genymotion | Installing ARM Translation and GApps](http://forum.xda-developers.com/showthread.php?t=2528952)
+- [GApps 6](http://opengapps.org/?api=6.0&variant=nano)
 ##
  - [Сервисы дистрибуции мобильных приложений для iOS. Часть 4 (заключительная): Fabric (Crashlytics)](https://habrahabr.ru/company/arcadia/blog/260019/)
  - [Автоматизация публикации приложения в Google Play](https://habrahabr.ru/post/281557/)
