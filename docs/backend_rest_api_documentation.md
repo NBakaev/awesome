@@ -15,9 +15,24 @@
 ### :star: Postman
  - [How to write powerful automated API tests with Postman, Newman and Jenkins](http://blog.getpostman.com/2015/09/03/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/)
  - [newman - Command-line companion utility for Postman](https://www.npmjs.com/package/newman)
+ - [Testing examples](https://www.getpostman.com/docs/testing_examples)
 
 ###
  - [insomnia.rest - A simple, beautiful, and free REST API client Mac, Windows, and Linux](https://insomnia.rest/)
+
+## Perfomance test
+
+ - https://github.com/yandex/yandex-tank
+
+### locust
+
+http://docs.locust.io/en/latest/running-locust-distributed.html
+
+```bash
+pip install locustio
+locust -f locu.py --host=http://192.168.1.98:10001 --master
+locust -f locu.py --slave --master-host=127.0.0.1
+```
 
 ## GraphQL
 bad hipster technology

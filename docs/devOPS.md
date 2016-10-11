@@ -41,6 +41,7 @@
 ### S3
 - [Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html)
 - [Amazon Simple Storage Service Developer Guide API Version 2006-03-01](http://awsdocs.s3.amazonaws.com/S3/latest/s3-dg.pdf)
+- [How to Restrict Amazon S3 Bucket Access to a Specific IAM Role](http://blogs.aws.amazon.com/security/post/TxK5WUJK3DG9G8/How-to-Restrict-Amazon-S3-Bucket-Access-to-a-Specific-IAM-Role?adbsc=social_20160711_63702766)
 
 #### S3 compatible APIs
  - [Scality S3 Server](https://s3.scality.com/)
