@@ -76,6 +76,7 @@ Find diff in text files, for example for git merge
 Git Gui
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [SmartGit](http://www.syntevo.com/smartgit/)
+- [gitkraken](https://www.gitkraken.com/features)
 
 ### Development misc
  - [Free Hex Editor Binary File Editing Software for Windows](http://www.hhdsoftware.com/free-hex-editor)
