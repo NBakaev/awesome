@@ -36,6 +36,7 @@
  - [Яндекс объявляет финансовые результаты за III квартал 2015 года](https://yandex.ru/company/press_releases/2015/1027)
 
 ### Вакансии / сотрудники
+ - [ИТ-специалисты больше не стремятся попасть в Кремниевую долину и не хотят работать в стартапах](https://vc.ru/p/sv-luster)
  - [upwork.com - Browse freelancers by category](https://www.upwork.com/i/freelancer-categories/)
  - [Сотрудников ищут «Островок», Amedia TV, «Иннополис», Kodix, Кokoc Group](https://vc.ru/p/recruit-165)
  - [Насколько виртуальный офис дешевле обычного](https://vc.ru/p/virtual-office)

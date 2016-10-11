@@ -13,6 +13,7 @@
  - [WireMock A web service test double for all occasions](http://wiremock.org/running-standalone.html)
  - [How Enterprises Benefit From Microservices Architectures](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/)
  - [:sta: System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+ - [Zuul 2 : The Netflix Journey to Asynchronous, Non-Blocking Systems](http://techblog.netflix.com/2016/09/zuul-2-netflix-journey-to-asynchronous.html)
 
 ##
  - [Valgrind](http://valgrind.org/docs/manual/hg-manual.html)
@@ -139,6 +140,7 @@ personally, not PR
  - [Well-Written Java 8, 8 Ways](https://dzone.com/articles/zlwell-written-java)
  - [Excelsior JET - Java Virtual Machine (JVM) and Native Code Compiler](https://www.excelsiorjet.com/)
  - [cxxr/better-java](https://github.com/cxxr/better-java)
+ - [OpenJDK / jdk8 / jdk8 / hotspot - vmSymbols.hpp](http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/87ee5ee27509/src/share/vm/classfile/vmSymbols.hpp)
 
 ### bytecode manipulation
 Dynamic classes, proxy
