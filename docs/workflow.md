@@ -52,6 +52,9 @@
  - [Чем готовы пожертвовать ИТ-специалисты в России ради различных бонусов — исследование Kelly Services](https://vc.ru/p/kelly-workforce-index)
  - [Публичные собеседования на позицию веб-разработчика в прямом эфире](https://habrahabr.ru/company/hexlet/blog/280406/)
  - [Письмо в редакцию: Чем профессиональные программисты отличаются от любителей](https://vc.ru/p/professional)
+ - [:star: Анонимный опрос программистов (Ответы)](https://docs.google.com/spreadsheets/d/1hz-iNIoiUPPKbELxQTMonEwXisRjENzHsShkC557g1Q/htmlview?pli=1)
+ - [Четверть разработчиков Сан-Франциско ищет работу за пределами Кремниевой долины — исследование Indeed](https://vc.ru/p/techies-out-sf)
+ - [Собеседование в Booking.com (часть 2, заморская)](https://habrahabr.ru/post/298390/)
 
 ####
  - [Mail.Ru Group Limited Итоговая аудированная отчетность в соответствии с МСФО за 2015 год и предварительные данные по выручке за первый квартал 2016 года](https://corp.mail.ru/ru/press/releases/9592/)

@@ -13,6 +13,8 @@
  - [jsfiddle](https://jsfiddle.net/)
  - [:star: CodeMirror is a versatile text editor implemented in JavaScript for the browser.](http://codemirror.net)
  - [CasperJS Navigation scripting & testing for PhantomJS and SlimerJS](http://casperjs.org/)
+ - [JS web frameworks benchmark – Round 3](http://www.stefankrause.net/wp/?p=301)
+ - [:star: Каково оно учить JavaScript в 2016](https://habrahabr.ru/post/312022/)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)
@@ -23,6 +25,7 @@
  - [Конкурс по Material Design: объявляем победителей](http://habrahabr.ru/company/google/blog/272621/)
  - [The (very) Best of Material Design in 2015](https://stories.uplabs.com/the-material-design-countdown-for-2015-7c9e4d4e88fb#.ix771n5is)
  - [Google MD icons](https://design.google.com/icons/)
+ - [Material Design Primer](https://github.com/codepath/android_guides/wiki/Material-Design-Primer)
 
 #### Color
 MD suitable color

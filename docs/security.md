@@ -5,6 +5,7 @@
  - [Разработка → (Не)безопасный frontend](https://habrahabr.ru/company/dsec/blog/259389/)
 
  - [What every Browser knows about you](http://webkay.robinlinus.com/)
+ - [:star: security-checklist.md](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 
  - [Уязвимости веб-приложений: ситуация не улучшается](http://habrahabr.ru/company/pt/blog/268779/)
  - [10 атак на веб-приложения в действии](https://habrahabr.ru/company/ua-hosting/blog/272205/)

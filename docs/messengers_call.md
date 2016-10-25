@@ -6,6 +6,7 @@ Bots for messengers
  - [Разработка чат-бота для Битрикс24](https://habrahabr.ru/post/282077/)
  - [Hello, Bot! Чат-боты – следующее поколение приложений?](https://habrahabr.ru/company/microsoft/blog/281459/)
  - [Как создать своего бота для Skype. Что не написано в документации](https://habrahabr.ru/post/281296/)
+ - [Botkit is a toolkit for making bot applications; Botkit - Building Blocks for Building Bots](https://github.com/howdyai/botkit)
 
 ## SIP / Аудиосвязь
 

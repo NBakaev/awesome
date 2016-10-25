@@ -39,6 +39,8 @@ Cross-platform development with JavaScript
 
 ###
 - [Android lint](http://developer.android.com/intl/ru/tools/help/lint.html)
+- `mount -o rw,remount rootfs /storage/sdcard/0`
+- [Dagger 2 и структура приложения для Android](https://habrahabr.ru/company/ncloudtech/blog/274025/)
 
 ### Genymotion
 - [Guide Genymotion](http://forum.xda-developers.com/showthread.php?t=2333452)

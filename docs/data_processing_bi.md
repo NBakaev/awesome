@@ -26,6 +26,7 @@
  - [Big Data от А до Я. Часть 4: Hbase](https://habrahabr.ru/company/dca/blog/280700/)
  - [Yo, Tableau Web Data Connector!](https://www.eric.pe/terson/engineers/a-tableau-web-data-connector-generator)
  - [12 Open-Source Tools for Hadoop Technology](http://codecondo.com/12-open-source-tools-hadoop-technology/)
+ - [Mahato - Apache Machine learning](https://mahout.apache.org)
 
 ## Business intelligence (BI)
  - [How to share data with a statistician](https://github.com/jtleek/datasharing)

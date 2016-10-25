@@ -1,6 +1,6 @@
 # Backend - серверная разработка, Java
 
-## Архитектура
+## Architecture
  - [Multi-Tenant Data Architecture - msdn.microsoft.com](https://msdn.microsoft.com/en-us/library/aa479086.aspx)
  - [HighLoad++ — это блюдо, которое подают высоконагруженным, habr](http://habrahabr.ru/company/oleg-bunin/blog/266393/)
  - [Краткая история масштабирования LinkedIn, habr](http://habrahabr.ru/company/latera/blog/266447/)
@@ -18,7 +18,7 @@
 ##
  - [Valgrind](http://valgrind.org/docs/manual/hg-manual.html)
 
-### microservice architecture
+### microservice
 - [A comparison of Microservices Frameworks](https://cdelmas.github.io/2015/11/01/A-comparison-of-Microservices-Frameworks.html)
 - [Микросервисная архитектура, Spring Cloud и Docker](https://habrahabr.ru/post/280786/)
 - [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
@@ -26,15 +26,14 @@
 - [Почему команда SoundCloud перешла на микросервисы](http://habrahabr.ru/company/1cloud/blog/266699/)
 - [Микросервисы без серверов (облачный вариант)](http://habrahabr.ru/company/piter/blog/266703/)
 - [An Introduction to Microservices, Part 2: The API Gateway](https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/)
+- [Microservice Architectures With Spring Cloud and Docker](https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do)
 
-## Шаблонизаторы
+## Template engine
+Server-side HTML and view page rendering
+
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
  - [Handlebars. Руководство к действию, habr](http://habrahabr.ru/post/273581/)
  - [mustache.java](https://github.com/spullara/mustache.java)
- - [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
-
-## Template engine
-Server-side HTML page rendering
 
  - [:star: thymeleaf](http://www.thymeleaf.org/)
  - freemarker
@@ -51,11 +50,6 @@ Server-side HTML page rendering
  - [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/)
  - [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
  - [spring-websocket-portfolio](https://github.com/rstoyanchev/spring-websocket-portfolio/issues/14)
-
-### stopm
-personally, not PR
-- [STOMP Over WebSocket](http://jmesnil.net/stomp-websocket/doc/)
-- [STOMP for AngularJS](https://github.com/beevelop/ng-stomp)
 
 ### HTTP/2
  - [Tools for debugging, testing and using HTTP/2](https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/)
@@ -101,6 +95,11 @@ personally, not PR
 
 ## Tests
 
+###
+
+- Spoke        
+- Mockito
+
 ### JUnit
  - [JUnit Test Suite Example](http://examples.javacodegeeks.com/core-java/junit/junit-test-suite-example)
  - [JUnit report example](http://examples.javacodegeeks.com/core-java/junit/junit-report-example)
@@ -141,6 +140,17 @@ personally, not PR
  - [Excelsior JET - Java Virtual Machine (JVM) and Native Code Compiler](https://www.excelsiorjet.com/)
  - [cxxr/better-java](https://github.com/cxxr/better-java)
  - [OpenJDK / jdk8 / jdk8 / hotspot - vmSymbols.hpp](http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/87ee5ee27509/src/share/vm/classfile/vmSymbols.hpp)
+ - [Retrofit - A type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)
+ - [FastClasspathScanner](https://github.com/lukehutch/fast-classpath-scanner)
+
+## DI
+  - Juice   
+  - Spring
+  - Dagger (Android)
+
+### Flame Graphs
+ - [Java Flame Graphs](http://www.brendangregg.com/blog/2014-06-12/java-flame-graphs.html)
+ - [FlameGraph](https://github.com/brendangregg/FlameGraph)
 
 ### bytecode manipulation
 Dynamic classes, proxy
@@ -190,7 +200,7 @@ Localisation & Internationalization
 
 #### java money
 Do not use float/double to store money in java
- - [github.com/NBakaev/playground/blob/master/notes/src/main/java/ru/nbakaev/TestMoney.java)](https://github.com/NBakaev/playground/blob/master/notes/src/main/java/ru/nbakaev/TestMoney.java)
+ - [example - TestMoney.java)](https://github.com/NBakaev/playground/blob/master/notes/src/main/java/ru/nbakaev/TestMoney.java)
  - [Type Safety and Money](http://verraes.net/2016/02/type-safety-and-money/)
  - [Go for the Money! JSR 354 Adds First Class Money and Currency Support to Java](http://www.infoq.com/articles/JSR-354-Java-Money-Currency-API)
  - [Картинка: monetary_amount_java](https://raw.githubusercontent.com/NBakaev/awesome/master/_images/monetary_amount_java.png)
@@ -221,10 +231,10 @@ Do not use float/double to store money in java
   - [documentation](https://hazelcast.org/documentation/)
   - [Beginner’s Guide to Hazelcast Part 7](https://www.javacodegeeks.com/2015/04/beginners-guide-to-hazelcast-part-7.html)
 
-###
+### Spark
 
  - [Apache Spark™ is a fast and general engine for large-scale data processing](https://spark.apache.org/)
- - [Lord of the Spark or an easy way for Java Developers to tame Big Data (Evgeny Borisov, Israel)](https://www.youtube.com/watch?v=doUNm3Myqyw)
+ - [:video_camera: Lord of the Spark or an easy way for Java Developers to tame Big Data (Evgeny Borisov, Israel)](https://www.youtube.com/watch?v=doUNm3Myqyw)
 
 ## Spring
 Spring framework & spring boot & microservices
@@ -255,6 +265,9 @@ Spring framework & spring boot & microservices
  - [Spring Jira](https://jira.spring.io/secure/Dashboard.jspa)
  - [Spring Security Reference](http://docs.spring.io/autorepo/docs/spring-security/4.1.x/reference/htmlsingle/)
  - [Understanding Transactional annotation in Spring](https://www.javacodegeeks.com/2016/05/understanding-transactional-annotation-spring.html)
+ - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)
+ - [Что нового и интересного в IntelliJ IDEA 15](http://habrahabr.ru/company/JetBrains/blog/270471/http://habrahabr.ru/company/JetBrains/blog/270471/)
+ - [Real-time Applications with AngularJS and Java – Part 2](https://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
 
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)
@@ -272,6 +285,8 @@ Spring framework & spring boot & microservices
 
 ## Шаблоны документов
 Create reports in .pdf .doc .xlsx
+
+- [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
 
 ### Java jaspers
 - [jaspersoft.com](http://community.jaspersoft.com/)
@@ -302,30 +317,27 @@ Performance, APM
  - [XRebel - Profiler for microservices](http://zeroturnaround.com/software/xrebel/microservices/)
  - [JRebel - Reload code changes instantly](http://zeroturnaround.com/software/jrebel/)
 
-## Java - общее
- - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)
- - [Что нового и интересного в IntelliJ IDEA 15](http://habrahabr.ru/company/JetBrains/blog/270471/http://habrahabr.ru/company/JetBrains/blog/270471/)
- - [Real-time Applications with AngularJS and Java – Part 2](https://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
+## Build tools
 
-## Maven
+### Maven
  - [Please Containerize Your Excitement: Nexus 3 Milestone 5 Release](http://www.sonatype.org/nexus/2015/09/21/please-containerize-your-excitement-nexus-3-milestone-5-release/)
  - [How do I tell Maven to use the latest version of a dependency?](http://stackoverflow.com/questions/30571/how-do-i-tell-maven-to-use-the-latest-version-of-a-dependency)
  - [Why I Never Use the Maven Release Plugin](https://dzone.com/articles/why-i-never-use-maven-release)
 
-### Maven central deploy
+#### Maven central deploy
  - [Deploy to Maven Central Repository](https://dzone.com/articles/deploy-maven-central)
  - [How to Release to Maven Central, in One Click](http://www.yegor256.com/2014/08/19/how-to-release-to-maven-central.html)
  - [OSSRH Guide](http://central.sonatype.org/pages/ossrh-guide.html)
  - [Deploy to Maven Central Repository](http://www.sonatype.org/nexus/2015/01/08/deploy-to-maven-central-repository/)
  - deploy with settings.xml profile ossrh `mvn deploy -DaltDeploymentRepository="ossrh::default::https://oss.sonatype.org/service/local/staging/deploy/maven2" -DskipTests`
 
-#### Java & Spring authentication
+## Java & Spring authentication
 - http://blog.jdriven.com/2014/10/stateless-spring-security-part-2-stateless-authentication/
 - http://spring.io/blog/2015/02/03/sso-with-oauth2-angular-js-and-spring-security-part-v
 - [Spring LDAP Reference](http://docs.spring.io/spring-ldap/docs/2.0.4.RELEASE/reference/)
 - [Аутентификация с использованием Spring Security и JWT-токенов](https://habrahabr.ru/post/278411/)
 
-#### Двухфакторная аутентификация
+##### Двухфакторная аутентификация
  - https://code.google.com/p/vellum/wiki/GoogleAuthenticator
  - https://code.google.com/p/vellum/source/browse/#svn%2Ftrunk%2Fsrc%2Fvellumdemo%2Ftotp
 

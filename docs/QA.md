@@ -13,6 +13,7 @@
  - [Wireshark · Go Deep.](https://www.wireshark.org/)
  - [Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
  - [OmniPeek Network Analysis | Network Traffic Analyzer](https://www.savvius.com/products/overview/omnipeek_family/omnipeek_network_analysis)
+ - [fiddler](http://www.telerik.com/fiddler)
 
 ### JMeter
 - [JMeter Throughput Example](http://examples.javacodegeeks.com/enterprise-java/apache-jmeter/jmeter-throughput-example)

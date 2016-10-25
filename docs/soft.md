@@ -23,6 +23,7 @@
  - [KeePass Password Safe](http://keepass.info/)
  - [An 'alt+space' launcher for Windows, built with Electron](https://github.com/appetizermonster/hain)
  - [nylas OSS - The best email app for sales professionals](https://www.nylas.com/)
+ - [WebTorrent Desktop Streaming torrent app](https://webtorrent.io/desktop/)
 
 ### Mind maps
 - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)
@@ -38,6 +39,8 @@
 - [Unified Remote - remote control you computer/PP presentation... from Android, iPhone, and Windows Phone.](https://www.unifiedremote.com/)
 - [Reflector2 - receive and record video from iOS (AirPlay) and Android (Chromecast) on computer ](http://www.airsquirrels.com/reflector/)
 - [TeamViewer – решение для удалённого доступа и поддержки через Интернет](https://www.teamviewer.com/ru/)
+- [dexpot - VIRTUAL DESKTOP](http://dexpot.de/index.php?id=dexpot)
+- [ontopreplica](http://ontopreplica.codeplex.com/)
 
 ## Development
 Tools for developers

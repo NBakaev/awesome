@@ -124,3 +124,6 @@ sudo apt-get install cifs-utils
 mount -t cifs -o username=SECRET_USERNAME,password=SECRET_PASSWORD //192.168.1.82/backups/ /mnt/backups
 umount /mnt/192.168.1.82
 ```
+### Acronis Backup
+- [46745: Acronis Backup Advanced 11.7/11.5: Moving Acronis Management Server](https://kb.acronis.com/content/46745)
+`/usr/lib/Acronis/BackupAndRecovery/uninstall/uninstall`

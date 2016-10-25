@@ -15,6 +15,9 @@
 - [Application Performance Monitoring & Management | AppDynamics](https://www.appdynamics.com/)
 - [Monitoring Microservices in Docker Containers with NGINX Amplify](https://www.nginx.com/blog/monitoring-microservices-docker-containers-nginx-amplify/)
 - [Zipkin is a distributed tracing system](https://github.com/openzipkin/zipkin)
+- [:star: Prometheus - From metrics to insight](https://prometheus.io/)
+- [nagios](https://www.nagios.org/)
+- [statsd](statsd - Daemon for easy but powerful stats aggregation)
 
 ### Zabbix
 - [Обнаружение + Zabbix API под Java](https://habrahabr.ru/company/at_consulting/blog/277027/)

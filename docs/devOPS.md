@@ -3,6 +3,7 @@
 
 ![](http://cloudacademy.com/blog/wp-content/uploads/2015/07/continuous-integration.png)
 
+ - [:star: :star: Logging / APM](https://github.com/NBakaev/awesome/blob/master/docs/logging/README.md)   
  - [Consul, Spring Boot, Actuator, and Codahale Metrics](http://txt.fliglio.com/2014/10/spring-boot-actuator)
  - [Consul, REGISTERING SERVICES](http://www.consul.io/intro/getting-started/services.html)
  - [Scalable Architecture DR CoN: Docker, Registrator, Consul, Consul Template and Nginx](https://www.airpair.com/scalable-architecture-with-docker-consul-and-nginx)
@@ -68,6 +69,7 @@ Linux / Unix / Ubuntu administration
 - [Вышел релиз Ubuntu 16.04 LTS — Snap, OpenStack и другие нововведения. Возможны проблемы с видеокартами AMD](https://habrahabr.ru/post/282197/)
 - [Топ 20 бесплатных инструментов мониторинга дисков](https://habrahabr.ru/company/ua-hosting/blog/281961/)
 - [Более чем 80 средств мониторинга системы Linux](https://habrahabr.ru/company/ua-hosting/blog/281519/)
+- [Change default network name (ens33) to old “eth0” on Ubuntu 16.04](http://www.itzgeek.com/how-tos/mini-howtos/change-default-network-name-ens33-to-old-eth0-on-ubuntu-16-04.html)
 
 ### Systemd
 systemd is an init system by default in ubuntu 16.04 lts
@@ -89,6 +91,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [:star: Использование Consul для service discovery и других задач](http://eax.me/consul/)
 - [how to define HTTP health check in a consul container for a service on the same host?](http://stackoverflow.com/questions/27623590/how-to-define-http-health-check-in-a-consul-container-for-a-service-on-the-same)
 - [consul-backup - K/V backup/restore](https://github.com/kailunshi/consul-backup)
+- [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/)
 
 ## :star: Docker
  - [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)

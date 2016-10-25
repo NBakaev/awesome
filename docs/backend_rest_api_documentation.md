@@ -19,6 +19,7 @@
 
 ###
  - [insomnia.rest - A simple, beautiful, and free REST API client Mac, Windows, and Linux](https://insomnia.rest/)
+ - [httpie command](https://jonlabelle.com/snippets/view/shell/httpie-command)
 
 ## Perfomance test
 
