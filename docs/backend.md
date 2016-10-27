@@ -1,4 +1,5 @@
-# Backend - серверная разработка, Java
+# Backend
+Server-side, primary Java
 
 ## Architecture
  - [Multi-Tenant Data Architecture - msdn.microsoft.com](https://msdn.microsoft.com/en-us/library/aa479086.aspx)
@@ -14,6 +15,12 @@
  - [How Enterprises Benefit From Microservices Architectures](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/)
  - [:sta: System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
  - [Zuul 2 : The Netflix Journey to Asynchronous, Non-Blocking Systems](http://techblog.netflix.com/2016/09/zuul-2-netflix-journey-to-asynchronous.html)
+ - [feign](https://github.com/OpenFeign/feign)
+
+###
+ - [A Journey Through How Zapier Automates Billions Of Workflow Automation Tasks](http://highscalability.com/blog/2016/2/29/a-journey-through-how-zapier-automates-billions-of-workflow.html)
+ - [Stack Overflow: The Architecture - 2016 Edition](http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/)
+ - [Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories](http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html)
 
 ##
  - [Valgrind](http://valgrind.org/docs/manual/hg-manual.html)
@@ -68,6 +75,12 @@ Server-side HTML and view page rendering
 - [The Highcharts image convert script](https://github.com/highcharts/highcharts-export-server/tree/master/phantomjs)
 - [How do I export my HTML page as PDF using JavaScript?](https://www.quora.com/How-do-I-export-my-HTML-page-as-PDF-using-JavaScript)
 - [Используем highcharts.js для создания графиков на стороне сервера](https://habrahabr.ru/post/279515/)
+
+### crawl
+crawlers, parse html, dom
+
+- [Python - Scrapy](https://doc.scrapy.org/en/latest/intro/overview.html)
+- [JavaScript - CasperJS Navigation scripting & testing for PhantomJS and SlimerJS](http://casperjs.org/)
 
 ## Analytic & AI & Machine Learning
  - [DMP часть 1. Микросегментирование аудитории с помощью ключевых слов](https://habrahabr.ru/company/targetix/blog/264821/)
@@ -142,7 +155,12 @@ Server-side HTML and view page rendering
  - [OpenJDK / jdk8 / jdk8 / hotspot - vmSymbols.hpp](http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/87ee5ee27509/src/share/vm/classfile/vmSymbols.hpp)
  - [Retrofit - A type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)
  - [FastClasspathScanner](https://github.com/lukehutch/fast-classpath-scanner)
-
+ - [shipilev & jmh](http://shipilev.net/)
+ - [Java regular expressions made easy](https://github.com/VerbalExpressions/JavaVerbalExpressions)
+ - [Resources for writing modern Java](https://github.com/cxxr/better-java)
+ - [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)](https://habrahabr.ru/company/luxoft/blog/280782)
+ - [The Top 100 Java Libraries in 2016 – After Analyzing 47,251 Dependencies](https://www.javacodegeeks.com/2016/05/top-100-java-libraries-2016-analyzing-47251-dependencies.html)
+ 
 ## DI
   - Juice   
   - Spring
@@ -235,6 +253,8 @@ Do not use float/double to store money in java
 
  - [Apache Spark™ is a fast and general engine for large-scale data processing](https://spark.apache.org/)
  - [:video_camera: Lord of the Spark or an easy way for Java Developers to tame Big Data (Evgeny Borisov, Israel)](https://www.youtube.com/watch?v=doUNm3Myqyw)
+ - [Apache Spark как ядро проекта. Часть 1](https://habrahabr.ru/post/271375/)
+ - [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)
 
 ## Spring
 Spring framework & spring boot & microservices
@@ -268,6 +288,7 @@ Spring framework & spring boot & microservices
  - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)
  - [Что нового и интересного в IntelliJ IDEA 15](http://habrahabr.ru/company/JetBrains/blog/270471/http://habrahabr.ru/company/JetBrains/blog/270471/)
  - [Real-time Applications with AngularJS and Java – Part 2](https://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
+ - [Spring Async and Java’s 8 CompletableFuture](https://www.javacodegeeks.com/2016/04/spring-async-javas-8-completablefuture.html)
 
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)
@@ -336,6 +357,7 @@ Performance, APM
 - http://spring.io/blog/2015/02/03/sso-with-oauth2-angular-js-and-spring-security-part-v
 - [Spring LDAP Reference](http://docs.spring.io/spring-ldap/docs/2.0.4.RELEASE/reference/)
 - [Аутентификация с использованием Spring Security и JWT-токенов](https://habrahabr.ru/post/278411/)
+- [Customizing Spring Security with Multiple Authentications](http://www.ebaytechblog.com/2016/09/26/customizing-spring-security-with-multiple-authentications)
 
 ##### Двухфакторная аутентификация
  - https://code.google.com/p/vellum/wiki/GoogleAuthenticator

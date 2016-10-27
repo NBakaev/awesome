@@ -24,6 +24,7 @@
  - [An 'alt+space' launcher for Windows, built with Electron](https://github.com/appetizermonster/hain)
  - [nylas OSS - The best email app for sales professionals](https://www.nylas.com/)
  - [WebTorrent Desktop Streaming torrent app](https://webtorrent.io/desktop/)
+ - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md)
 
 ### Mind maps
 - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)

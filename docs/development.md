@@ -58,6 +58,7 @@ Stay in touch with the world
  - [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
  - [Git Cheat Sheet - git-flow](https://github.com/arslanbilal/git-cheat-sheet)
  - [How do I remove local (untracked) files from my current Git branch?](http://stackoverflow.com/questions/61212/how-do-i-remove-local-untracked-files-from-my-current-git-branch)
+ - [Git Tutorial – The Ultimate Guide](https://www.javacodegeeks.com/2016/07/git-tutorial.html)
  - `git config --global core.autocrlf false`
 
 ####
@@ -72,3 +73,4 @@ Stay in touch with the world
 ### Code review
  - [20 BEST CODE REVIEW TOOLS FOR DEVELOPERS](http://www.devstrend.com/20-best-code-review-tools-for-developers/)
  - [Code Reviews: why and how?](https://www.kenneth-truyers.net/2016/04/08/code-reviews-why-and-how/)
+ - [reviewable - GitHub code reviews done right](https://reviewable.io/)

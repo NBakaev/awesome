@@ -4,6 +4,8 @@
  - [aerospike - аналог и лучше Redis](https://github.com/aerospike/aerospike-server)
  - [How We Partitioned Airbnb’s Main Database in Two Weeks](http://nerds.airbnb.com/how-we-partitioned-airbnbs-main-db/)
  - [:star: percona.com](https://www.percona.com/)
+ - [SQL cheat sheetx](http://zeroturnaround.com/rebellabs/sql-cheat-sheet/)
+ - [Stolon: создаем кластер PostgreSQL с автофейловером](http://eax.me/stolon/)
 
 ### NoSQL
  - Aerospike

@@ -55,6 +55,7 @@
  - [:star: Анонимный опрос программистов (Ответы)](https://docs.google.com/spreadsheets/d/1hz-iNIoiUPPKbELxQTMonEwXisRjENzHsShkC557g1Q/htmlview?pli=1)
  - [Четверть разработчиков Сан-Франциско ищет работу за пределами Кремниевой долины — исследование Indeed](https://vc.ru/p/techies-out-sf)
  - [Собеседование в Booking.com (часть 2, заморская)](https://habrahabr.ru/post/298390/)
+ - [Сравнение языков программирования относительно работы на фриланс-бирже upwork.com + опрос](https://habrahabr.ru/post/280041/)
 
 ####
  - [Mail.Ru Group Limited Итоговая аудированная отчетность в соответствии с МСФО за 2015 год и предварительные данные по выручке за первый квартал 2016 года](https://corp.mail.ru/ru/press/releases/9592/)

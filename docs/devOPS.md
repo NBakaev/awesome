@@ -38,6 +38,7 @@
   - [AWS SDK for Java Developer Guide Release 1.0](http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/aws-sdk-java-dg.pdf)
   - [AWS Storage Update – Amazon S3 Transfer Acceleration + Larger Snowballs in More Regions](https://aws.amazon.com/ru/blogs/aws/aws-storage-update-amazon-s3-transfer-acceleration-larger-snowballs-in-more-regions/)
   - [:video_camera: :star: Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals)
+  - [ice - AWS Usage Tool](https://github.com/Netflix/ice)
 
 ### S3
 - [Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html)
@@ -71,6 +72,9 @@ Linux / Unix / Ubuntu administration
 - [Более чем 80 средств мониторинга системы Linux](https://habrahabr.ru/company/ua-hosting/blog/281519/)
 - [Change default network name (ens33) to old “eth0” on Ubuntu 16.04](http://www.itzgeek.com/how-tos/mini-howtos/change-default-network-name-ens33-to-old-eth0-on-ubuntu-16-04.html)
 
+### Tuning
+ - [Optimizing performance on gigabit networks for OpenVPN](https://community.openvpn.net/openvpn/wiki/Gigabit_Networks_Linux)
+
 ### Systemd
 systemd is an init system by default in ubuntu 16.04 lts
 
@@ -79,6 +83,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [Systemd Essentials: Working with Services, Units, and the Journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
 - [Supervisord и forever больше не нужны. Systemd](https://habrahabr.ru/post/268583/)
 - [:star: examples](https://github.com/NBakaev/awesome/tree/master/common/samples/systemd)
+- [systemd](https://wiki.archlinux.org/index.php/systemd)
 
 ## :star: Consul
 - [Consul by HashiCorp](https://www.consul.io/)
@@ -94,6 +99,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/)
 
 ## :star: Docker
+ - [What even is a container: namespaces and cgroups](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
  - [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
  - [MONGODB & DOCKER – PART 1](http://jam.sg/blog/mongodb-docker-part-1/)
@@ -119,11 +125,11 @@ systemd is an init system by default in ubuntu 16.04 lts
  - [Refactoring a Dockerfile for image size](https://blog.replicated.com/2016/02/05/refactoring-a-dockerfile-for-image-size/)
  - [Docker networking overview](https://filipv.net/2016/02/17/docker-networking-overview/)
  - [Docker Networking and DNS: The Good, The Bad, And The Ugly](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
+ - [Docker run reference](https://docs.docker.com/engine/reference/run/)
+ - [Упаковка jvm приложения в docker образ](https://habrahabr.ru/post/310530/)
+ - [Containers – Clean up your House](https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/)
 
-### Systemd
-- [systemd](https://wiki.archlinux.org/index.php/systemd)
-
-#### Docker & systemd
+### Docker & systemd
 file `/lib/systemd/system/docker.service`
 
 StartExec: `/usr/bin/docker daemon -H fd:// -D --tls=true --tlscacert=/mnt/hgfs/test/shared/ca.pem --tlscert=/mnt/hgfs/test/shared/server-cert.pem --tlsverify --tlskey=/mnt/hgfs/test/shared/server-key.pem -H tcp://192.168.127.131:2376 -H unix:///var/run/docker.sock`
@@ -131,8 +137,12 @@ StartExec: `/usr/bin/docker daemon -H fd:// -D --tls=true --tlscacert=/mnt/hgfs/
  - https://docs.docker.com/v1.10/engine/security/https/
  - https://docs.docker.com/engine/admin/systemd/
 
-## :star: Kubernetes
+### Container orchestration
 docker orchestration
+
+ - [Docker compose: nginx, tomcat, mysql](https://dzone.com/articles/docker-3-tier-java-app-nginx-tomcat-mysql-automati-2)
+
+## :star: Kubernetes
 
 - [kubernetes.io](http://kubernetes.io/docs/)
 - [Creating a Custom Cluster from Scratch](http://kubernetes.io/docs/getting-started-guides/scratch/)
@@ -192,9 +202,13 @@ Kubernetes locally for developers on localhost
 - [Routes outside Flannel Networks and NAT'ing](https://github.com/coreos/flannel/issues/77)
 - [why does the flannel based docker container can't access the outside world](https://github.com/coreos/flannel/issues/115)
 
-####
+#### etcd
  - [etcd: Allow removal of directory keys](https://github.com/coreos/etcd/issues/185)
  - [Getting started with etcd](https://coreos.com/etcd/docs/latest/getting-started-with-etcd.html)
+ - [cluster discovery](https://coreos.com/os/docs/latest/cluster-discovery.html)
+ - [Clustering Guide](https://coreos.com/etcd/docs/latest/clustering.html#dns-discovery)
+ - [Security Model](https://coreos.com/etcd/docs/latest/security.html#example-3-transport-security-&-client-certificates-in-a-cluster)
+ - [Authentication Guide](https://coreos.com/etcd/docs/latest/authentication.html)
 
 ### fabric8
  - [fabric8 - an open source developer platform](http://fabric8.io/)

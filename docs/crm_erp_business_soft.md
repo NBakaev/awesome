@@ -37,6 +37,7 @@
   - [Знакомый незнакомец. What is Битрикс24?](https://habrahabr.ru/company/bitrix/blog/274165/)
   - [Рейтинг CRM-систем (управление отношениями с клиентами) 2016](http://tagline.ru/crm-systems-rating/)
   - [Внедрение CRM: как не быть близким к провалу](https://habrahabr.ru/company/regionsoft/blog/303334/)
+  - [pipedrive](https://blog.pipedrive.com/2016/01/create-predictable-revenue-with-pipedrive-2016-sales-stack/)
 
 ### CRM системы
  - [Zoho CRM](https://www.zoho.com/crm/)
@@ -63,6 +64,7 @@
  - [Презентация новой bpm’online 7.8. Онлайн-трансляция.](https://www.youtube.com/watch?v=fAQnIYtnUSg)
  - [Релиз новой версии CRM-линейки bpm’online 7.8](https://www.terrasoft.ru/bpmonline-7-8?activity=facebook)
  - [Обзор системы bpm’online](https://habrahabr.ru/company/trinion/blog/281192/)
+ - [Terrasoft academy](https://academy.terrasoft.ru/)
 
 ### Битрикс
 bitrix / bitrix24

@@ -19,6 +19,9 @@
 - [BigML: Machine Learning made easy](http://cloudacademy.com/blog/bigml-machine-learning/)
 - [Ко-кластеризация: cегментирование данных вдоль и поперёк](https://habrahabr.ru/post/265489/)
 
+## TensorFlow
+- [Teach Yourself Deep Learning with TensorFlow and Udacity](https://developers.googleblog.com/2016/01/teach-yourself-deep-learning-with.html)
+
 ## :star: Hadoop & Big Data
  - [Big Data от А до Я. Часть 1: Принципы работы с большими данными, парадигма MapReduce](https://habrahabr.ru/company/dca/blog/267361/)
  - [Big Data от А до Я. Часть 2: Hadoop](https://habrahabr.ru/company/dca/blog/268277/)

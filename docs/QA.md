@@ -6,6 +6,7 @@
  - [Postman - REST/swagger API client](https://www.getpostman.com/)
  - [Diffy: Testing services without writing tests](https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests)
  - [The 7 Cross-Browser Testing Tools You Need in 2016](http://www.sitepoint.com/the-7-cross-browser-testing-tools-you-need-in-2016/)
+ - [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
 
 ## Network & Traffic capture and analyze
 

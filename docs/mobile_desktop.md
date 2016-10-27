@@ -1,6 +1,8 @@
 # Mobile and Cross-platform Development
 Create mobile applications on Android and iOS
 
+ - [:star: Инструменты, необходимые разработчику для маркетинга приложений](https://habrahabr.ru/company/ackuna/blog/295648/)
+
 ## Cordova & PhoneGap
 Cross-platform development with JavaScript
 
@@ -9,7 +11,7 @@ Cross-platform development with JavaScript
  - [WordPress Hybrid Client: WordPress Powered iOS/Android Apps](http://www.sitepoint.com/wordpress-hybrid-client-wordpress-powered-ios-android-apps/)
  - [Scanning a QR Code with Cordova](http://www.sitepoint.com/scanning-qr-code-cordova/)
  - [Push Notifications in Ionic Apps with Google Cloud Messaging](http://www.sitepoint.com/push-notifications-in-ionic-apps-with-google-cloud-messaging/)
- - [--](http://habrahabr.ru/company/arcadia/blog/257749/)
+ - [Инфраструктура разработки приложения на PhoneGap для iOS и Android](http://habrahabr.ru/company/arcadia/blog/257749/)
  - [Введение в Cordova: Создание первого приложения](http://habrahabr.ru/post/274763/)
  - [Create Your First Mobile App with AngularJS and Ionic](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
  - [Quick Tip – Installing and Getting Started with Cordova](http://www.sitepoint.com/quick-tip-installing-and-getting-started-with-cordova/)
@@ -40,12 +42,14 @@ Cross-platform development with JavaScript
 ###
 - [Android lint](http://developer.android.com/intl/ru/tools/help/lint.html)
 - `mount -o rw,remount rootfs /storage/sdcard/0`
+- [Сервисы дистрибуции мобильных приложений для iOS. Часть 4 (заключительная): Fabric (Crashlytics)](https://habrahabr.ru/company/arcadia/blog/260019/)
+- [Автоматизация публикации приложения в Google Play](https://habrahabr.ru/post/281557/)
+
+### Dagger
 - [Dagger 2 и структура приложения для Android](https://habrahabr.ru/company/ncloudtech/blog/274025/)
+- [Dagger 2. Часть первая. Основы, создание графа зависимостей, Scopes](https://habrahabr.ru/post/279125/)
 
 ### Genymotion
 - [Guide Genymotion](http://forum.xda-developers.com/showthread.php?t=2333452)
 - [GUIDE Genymotion | Installing ARM Translation and GApps](http://forum.xda-developers.com/showthread.php?t=2528952)
 - [GApps 6](http://opengapps.org/?api=6.0&variant=nano)
-##
- - [Сервисы дистрибуции мобильных приложений для iOS. Часть 4 (заключительная): Fabric (Crashlytics)](https://habrahabr.ru/company/arcadia/blog/260019/)
- - [Автоматизация публикации приложения в Google Play](https://habrahabr.ru/post/281557/)

@@ -5,6 +5,11 @@ NoSQL база данных
  - [:Star: MongoDB Administration | Pluralsight](https://www.pluralsight.com/courses/mongodb-administration)
  - [7 Simple Speed Solutions for MongoDB](https://www.sitepoint.com/7-simple-speed-solutions-mongodb/)
  - [slideshare: MongoDB Schema Design and Performance Implications](https://www.slideshare.net/slideshow/embed_code/63344065)
+ - [Шпаргалка по mongodb: e-commerce, миграция, часто применяемые операции и немного о транзакциях, habr](http://habrahabr.ru/post/259219/)
+ - [:star: Примеры использования MongoDB в e-commerce (часть 2), habr](http://habrahabr.ru/post/260291/)
+ - [MongoDB: Запросы, habr](http://habrahabr.ru/post/134590/)
+ - [Map-Reduce на примере MongoDB](http://habrahabr.ru/post/184130/)
+ - [How to create a pub/sub application with MongoDB](http://tugdualgrall.blogspot.ru/2015/01/how-to-create-pubsub-application-with.html?m=1)
 
 ### Using MongoDB with Hadoop & Spark
  - [Using MongoDB with Hadoop & Spark: Part 1 - Introduction & Setup](https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup)
@@ -24,12 +29,6 @@ NoSQL база данных
  - [mongochef - MongoDB gui](http://3t.io/blog/mongodb-aggregation-queries-easily-mongochef/)
  - [MongoDB on AWS Guidelines and Best Practices ](http://d0.awsstatic.com/whitepapers/AWS_NoSQL_MongoDB.pdf)
  - [On Selecting a Shard Key for MongoDB](https://www.mongodb.com/blog/post/on-selecting-a-shard-key-for-mongodb)
-
-###
- - [Шпаргалка по mongodb: e-commerce, миграция, часто применяемые операции и немного о транзакциях, habr](http://habrahabr.ru/post/259219/)
- - [:star: Примеры использования MongoDB в e-commerce (часть 2), habr](http://habrahabr.ru/post/260291/)
- - [MongoDB: Запросы, habr](http://habrahabr.ru/post/134590/)
- - [Map-Reduce на примере MongoDB](http://habrahabr.ru/post/184130/)
 
 ### MongoDB & Java
  - [Spring data mongodb reference](http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/)

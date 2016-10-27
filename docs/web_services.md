@@ -1,5 +1,11 @@
 # SaaS
 
+ - [AlternativeTo - Crowdsourced software recommendations](http://alternativeto.net/)
+ 
+### Content
+  - [extratorrent](http://extratorrent.cc/)
+  - [Watch Series Tv Shows Free | WatchSeriesGo.to](http://www.watchseriesgo.to/)
+
 ## Task manager
  - [Issue Tracking and Project Management Tool | YouTrack](https://www.jetbrains.com/youtrack/)
  - [Jira](https://ru.atlassian.com/software/jira)
@@ -75,9 +81,15 @@ Connect one system with another, usually without coding and using API
  - [flow.microsoft.com](https://flow.microsoft.com/en-us/)
 
 ## Popular
+
+### Mail for own domain
+
  - [Google Apps for Work – Gmail, Google Drive, Calendar... with admin control users](https://apps.google.com/)
  - [Яндекс - Почта для Доменов](http://pdd.yandex.ru)
  - [mail.ru - Почта для Доменов](https://biz.mail.ru/)
+ - [Yandex «Почта для домена» как почтовый шлюз для ваших серверов](https://habrahabr.ru/company/plesk/blog/304204/)
+
+###
  - [Google Тренды](http://www.google.ru/trends/explore#cmpt=q)
  - [Полезные инструменты для руководителей бизнеса](https://spark.ru/startup/business-marketing/blog/10712/poleznie-instrumenti-dlya-rukovoditelej-biznesa)
 
@@ -136,3 +148,6 @@ Work not alone. Work with team
 
 ## Статьи
 - [Доступные интернет ресурсы и инструменты для стартапов](https://megamozg.ru/post/18600/)
+
+## Self-hosted
+- [nextcloud / owncload](https://nextcloud.com/)
