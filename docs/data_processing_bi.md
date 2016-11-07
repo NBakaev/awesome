@@ -31,6 +31,10 @@
  - [12 Open-Source Tools for Hadoop Technology](http://codecondo.com/12-open-source-tools-hadoop-technology/)
  - [Mahato - Apache Machine learning](https://mahout.apache.org)
 
+### Hadoop and ML legacy
+  - [ambrose - A platform for visualization and real-time monitoring of data workflows](https://github.com/twitter/ambrose)
+  - [Apache PredictionIO](http://predictionio.incubator.apache.org/index.html)
+
 ## Business intelligence (BI)
  - [How to share data with a statistician](https://github.com/jtleek/datasharing)
  - [Data manipulation, munging, and processing in JavaScript](http://learnjsdata.com/index.html)

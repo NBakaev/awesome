@@ -99,6 +99,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/)
 
 ## :star: Docker
+ - [Механизмы контейнеризации: namespaces](https://habrahabr.ru/company/selectel/blog/279281/)
  - [What even is a container: namespaces and cgroups](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
  - [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
  - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
@@ -145,7 +146,6 @@ docker orchestration
 ## :star: Kubernetes
 
 - [kubernetes.io](http://kubernetes.io/docs/)
-- [Creating a Custom Cluster from Scratch](http://kubernetes.io/docs/getting-started-guides/scratch/)
 - [One year using Kubernetes in production: Lessons learned](http://techbeacon.com/one-year-using-kubernetes-production-lessons-learned)
 - [:star: :video_camera: Container clusters with Kubernetes -Tim Hockin](http://www.youtube.com/watch?v=BaHp8YXIsD0)
 - [:star: :video_camera: This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core](https://github.com/kubernetes/contrib)
@@ -168,6 +168,15 @@ docker orchestration
 - [Kubernetes Overview, Part One](https://deis.com/blog/2016/kubernetes-overview-pt-1/)
 - [Kubernetes Overview, Part Two](https://deis.com/blog/2016/kubernetes-overview-pt-2/)
 - [Five Months of Kubernetes](http://danielmartins.ninja/posts/five-months-of-kubernetes.html)
+- [Deploy Kubernetes Master Node(s)](https://coreos.com/kubernetes/docs/latest/deploy-master.html)
+- [CHAPTER 3. MIGRATING FROM AN EARLIER VERSION OF KUBERNETES](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-atomic-host/7/paged/getting-started-with-kubernetes/chapter-3-migrating-from-an-earlier-version-of-kubernetes)
+
+### Scratch
+Create own cluster without any scripts
+
+- [k8s SaltStack configuration](https://github.com/kubernetes/kubernetes/tree/master/cluster/saltbase/salt)
+- [:star: kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Creating a Custom Cluster from Scratch](http://kubernetes.io/docs/getting-started-guides/scratch/)
 
 ### Minikube
 Kubernetes locally for developers on localhost
@@ -274,5 +283,8 @@ openssl dhparam -out dhparam.pem -rand /dev/urandom 4096
  - [rancher](http://docs.rancher.com/rancher/latest/en/quick-start-guide/)
  - [Rancher Labs | Launch Your Private Container Service](http://rancher.com/)
 
-#### Other / not related
+#### Other
+Some tools
+
  - [Мал золотник, да дорог: в двух словах о VMware Host Client](https://habrahabr.ru/company/cloud4y/blog/301878/)
+ - [Using Hashicorp Vault as a PKI SSL/TLS CA](http://cuddletech.com/?p=959)

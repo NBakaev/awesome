@@ -127,3 +127,8 @@ umount /mnt/192.168.1.82
 ### Acronis Backup
 - [46745: Acronis Backup Advanced 11.7/11.5: Moving Acronis Management Server](https://kb.acronis.com/content/46745)
 `/usr/lib/Acronis/BackupAndRecovery/uninstall/uninstall`
+
+#### releases
+ - http://www.acronis.com/en-us/support/updates/
+ - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.exe
+ - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.x86_64

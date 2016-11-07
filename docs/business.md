@@ -1,5 +1,7 @@
 # Business
 
+ - [Why you should never use Upwork, ever.](http://shadandjulia.com/never-use-upwork-ever/)
+
 ## Интернет магазин
 - [Интернет-магазины приучают покупателей платить онлайн](https://megamozg.ru/post/16312/)
 - [Интернет магазин с нуля. Часть 1: Начало](https://megamozg.ru/post/25272/)
@@ -14,7 +16,10 @@
  - [Закон «О персональных данных» и практика его применения в российской действительности](https://habrahabr.ru/company/ruvds/blog/281230/)
 
 ##
- - [Hello, SaaS | Российский SaaS 2016](https://habrahabr.ru/post/272755/)
+  - [Hello, SaaS | Российский SaaS 2016](https://habrahabr.ru/post/272755/)
+  - [Product Scope: Goodbye Features. Hello, User Scenarios](http://uxmag.com/articles/product-scope)
+  - [Федор Овчинников, В мае 2016 года "Додо Пицца"](https://www.facebook.com/ovchinnikov.fedor/posts/10209781186267519)
+  - [16 метрик стартапа: Финансовое состояние, качество продукта, уровень вовлечения пользователей](https://vc.ru/p/16-startup-metrics)
 
 ## Оплата
 Приём платежей

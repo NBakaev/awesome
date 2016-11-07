@@ -45,13 +45,19 @@
 - [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
 
-## :video_camera: Education courses
+## :video_camera: Online courses
+Education
+
  - [Course dicsounts](http://udemycoupon.discountsglobal.com/?s=salesforce)
- - [:star: pluralsight](https://www.pluralsight.com/)
+
+### Technical
+ - [skillsmatter](https://skillsmatter.com/skillscasts)
  - [coursera](https://ru.coursera.org/)
  - [:star: udemy.com](https://www.udemy.com/)
+ - [:star: pluralsight](https://www.pluralsight.com/)
  - [lektorium.tv](https://www.lektorium.tv/)
  - [Видеозаписи - Технопарк@Mail.ru](https://park.mail.ru/materials/video/)
  - [Geekbrains | Вебинары 2014-2015 PCRec H.264 Часть 1](https://nnm-club.me/forum/viewtopic.php?t=929895)
+
+### Business
  - [Нетология](http://netology.ru/)
- - [БМ](http://molodost.bz/)

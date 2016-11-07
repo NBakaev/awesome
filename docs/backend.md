@@ -160,7 +160,7 @@ crawlers, parse html, dom
  - [Resources for writing modern Java](https://github.com/cxxr/better-java)
  - [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)](https://habrahabr.ru/company/luxoft/blog/280782)
  - [The Top 100 Java Libraries in 2016 – After Analyzing 47,251 Dependencies](https://www.javacodegeeks.com/2016/05/top-100-java-libraries-2016-analyzing-47251-dependencies.html)
- 
+
 ## DI
   - Juice   
   - Spring
@@ -353,6 +353,7 @@ Performance, APM
  - deploy with settings.xml profile ossrh `mvn deploy -DaltDeploymentRepository="ossrh::default::https://oss.sonatype.org/service/local/staging/deploy/maven2" -DskipTests`
 
 ## Java & Spring authentication
+- [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 - http://blog.jdriven.com/2014/10/stateless-spring-security-part-2-stateless-authentication/
 - http://spring.io/blog/2015/02/03/sso-with-oauth2-angular-js-and-spring-security-part-v
 - [Spring LDAP Reference](http://docs.spring.io/spring-ldap/docs/2.0.4.RELEASE/reference/)

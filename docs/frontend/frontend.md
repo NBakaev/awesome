@@ -17,7 +17,8 @@
  - [:star: Каково оно учить JavaScript в 2016](https://habrahabr.ru/post/312022/)
  - [Serge — решение для непрерывной локализации от Evernote](https://habrahabr.ru/post/269049/)
  - [Пишем правильный манифест для сайта](https://habrahabr.ru/post/275849/)
- 
+ - [Offline Storage for Progressive Web Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jl5xzvrdm)
+
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)
  - [lumapps](http://ui.lumapps.com/)

@@ -4,6 +4,8 @@
  - [Hypermedia — то без чего ваше API не совсем REST](https://habrahabr.ru/company/aligntechnology/blog/281206/)
  - [Hyphen, underscore, or camelCase as word delimiter in URIs?](https://stackoverflow.com/questions/10302179/hyphen-underscore-or-camelcase-as-word-delimiter-in-uris)
  - [Когда мы написали сотое API мы поняли…](https://habrahabr.ru/post/283092/comments/)
+ - [:star: Microsoft (REST) api guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+ - [10 Mistakes to Avoid When Building Your API](http://blog.hellosign.com/10-mistakes-to-avoid-when-building-your-api/)
 
 ### REST API examples
  - [Dropbox API Explorer](https://dropbox.github.io/dropbox-api-v2-explorer/)
