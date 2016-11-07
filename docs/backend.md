@@ -138,6 +138,7 @@ crawlers, parse html, dom
 ## Java
  - [:video_camera: JUG .ru](https://www.youtube.com/user/JUGRuVideo)
  - [:video_camera: JBreak 2016](https://www.youtube.com/playlist?list=PLVe-2wcL84b_iJvIflZu74vcyjezF6Fx9&app=desktop)
+
  - [Большой JVM-опрос: версии Java, альтернативные JVM-языки, версии Java EE](https://habrahabr.ru/post/281473/)
  - [Resources for writing modern Java, better-java, github](https://github.com/cxxr/better-java)
  - [Шпаргалки Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github. habr](http://habrahabr.ru/post/266821/)
@@ -152,14 +153,22 @@ crawlers, parse html, dom
  - [Well-Written Java 8, 8 Ways](https://dzone.com/articles/zlwell-written-java)
  - [Excelsior JET - Java Virtual Machine (JVM) and Native Code Compiler](https://www.excelsiorjet.com/)
  - [cxxr/better-java](https://github.com/cxxr/better-java)
- - [OpenJDK / jdk8 / jdk8 / hotspot - vmSymbols.hpp](http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/87ee5ee27509/src/share/vm/classfile/vmSymbols.hpp)
  - [Retrofit - A type-safe HTTP client for Android and Java](http://square.github.io/retrofit/)
  - [FastClasspathScanner](https://github.com/lukehutch/fast-classpath-scanner)
- - [shipilev & jmh](http://shipilev.net/)
  - [Java regular expressions made easy](https://github.com/VerbalExpressions/JavaVerbalExpressions)
  - [Resources for writing modern Java](https://github.com/cxxr/better-java)
  - [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)](https://habrahabr.ru/company/luxoft/blog/280782)
  - [The Top 100 Java Libraries in 2016 – After Analyzing 47,251 Dependencies](https://www.javacodegeeks.com/2016/05/top-100-java-libraries-2016-analyzing-47251-dependencies.html)
+
+### Java & JVM
+Hardcore
+
+- [OpenJDK / jdk8 / jdk8 / hotspot - vmSymbols.hpp](http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/87ee5ee27509/src/share/vm/classfile/vmSymbols.hpp)
+- [shipilev & jmh](http://shipilev.net/)
+- [Everything I Ever Learned About JVM Performance Tuning at Twitter (Attila Szegedi, Hungary)](https://www.youtube.com/watch?v=8wHx31mvSLY)
+- [Владимир Иванов — Динамическая (JIT) компиляция в JVM](https://www.youtube.com/watch?v=oYu3HuIYDhI)
+- [Dmytro Vyazelenko — Using Java Microbenchmark Harness (JMH) in a real world project](https://www.youtube.com/watch?v=W-8ztoH7Ku4)
+- [Douglas Hawkins — Understanding the Tricks Behind the JIT](https://www.youtube.com/watch?v=oH4_unx8eJQ)
 
 ## DI
   - Juice   
