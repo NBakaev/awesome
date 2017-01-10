@@ -44,6 +44,15 @@ Cross-platform development with JavaScript
 - `mount -o rw,remount rootfs /storage/sdcard/0`
 - [Сервисы дистрибуции мобильных приложений для iOS. Часть 4 (заключительная): Fabric (Crashlytics)](https://habrahabr.ru/company/arcadia/blog/260019/)
 - [Автоматизация публикации приложения в Google Play](https://habrahabr.ru/post/281557/)
+- https://realm.io/docs/java/latest/#threading
+- [Сравнительное тестирование девяти ORM для Android](https://habrahabr.ru/post/281226/)
+- [Как решить проблему ограничения в 64К методов в Unity3D](https://habrahabr.ru/post/314416/)
+- [Multi-pane development in Android with Fragments - Tutorial](http://www.vogella.com/tutorials/AndroidFragments/article.html)
+- [Material Design with the Android Design Support Library](https://www.sitepoint.com/material-design-android-design-support-library/)
+- [Java 8 jack](https://developer.android.com/guide/platform/j8-jack.html)
+- [Butter Knife - Field and method binding for Android views](http://jakewharton.github.io/butterknife/)
+- [Androidstarter - sample Android app using the MVP architecture](http://roroche.github.io/AndroidStarter/)
+- [android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/googlesamples/android-architecture)
 
 ### Dagger
 - [Dagger 2 и структура приложения для Android](https://habrahabr.ru/company/ncloudtech/blog/274025/)

@@ -44,6 +44,7 @@
 - [Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html)
 - [Amazon Simple Storage Service Developer Guide API Version 2006-03-01](http://awsdocs.s3.amazonaws.com/S3/latest/s3-dg.pdf)
 - [How to Restrict Amazon S3 Bucket Access to a Specific IAM Role](http://blogs.aws.amazon.com/security/post/TxK5WUJK3DG9G8/How-to-Restrict-Amazon-S3-Bucket-Access-to-a-Specific-IAM-Role?adbsc=social_20160711_63702766)
+- [AWS Storage Update – S3 & Glacier Price Reductions + Additional Retrieval Options for Glacier](https://aws.amazon.com/ru/blogs/aws/aws-storage-update-s3-glacier-price-reductions/)
 
 #### S3 compatible APIs
  - [Scality S3 Server](https://s3.scality.com/)
@@ -129,6 +130,8 @@ systemd is an init system by default in ubuntu 16.04 lts
  - [Docker run reference](https://docs.docker.com/engine/reference/run/)
  - [Упаковка jvm приложения в docker образ](https://habrahabr.ru/post/310530/)
  - [Containers – Clean up your House](https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/)
+ - [:video_camera: Видео докладов с Docker митапа](https://habrahabr.ru/company/badoo/blog/304702/)
+ - [Управление контейнерами с LXD](https://habrahabr.ru/company/selectel/blog/308208/)
 
 ### Docker & systemd
 file `/lib/systemd/system/docker.service`
@@ -247,10 +250,10 @@ alternative to chef/puppet
   - [How To Secure Nginx with Let's Encrypt on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04)
   - [Что веб-разработчикам следует знать о SSL](https://habrahabr.ru/company/1cloud/blog/275335/)
   - [Yet another инструкция по получению ssl-сертификата Let's Encrypt](https://habrahabr.ru/post/279695/)
-  - [wosign.com - Free SSL Certificate](https://buy.wosign.com/free/)
   - [Using Free SSL/TLS Certificates from Let’s Encrypt with NGINX](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
   - [Howto: Make Your Own Cert With OpenSSL](https://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/)
   - [Nginx и https. Получаем класс А+](https://habrahabr.ru/post/252821/)
+  - `sudo letsencrypt certonly -a webroot --webroot-path=/home/nginx/www -d nbakaev.com -d -d nbakaev.ru`
 
 #### Examples
 

@@ -100,3 +100,4 @@
  - [SEOquake -  seo toolbar, plugin, seo extension for Mozilla Firefox, Google Chrome, Opera ](http://www.seoquake.com/)
  - Webeffector.ru
  - Seohammer.ru
+ - [8 сервисов для проведения пользовательских исследований](https://vc.ru/p/user-research-services)

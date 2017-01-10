@@ -25,6 +25,7 @@
  - [nylas OSS - The best email app for sales professionals](https://www.nylas.com/)
  - [WebTorrent Desktop Streaming torrent app](https://webtorrent.io/desktop/)
  - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md)
+ - [Hyper - JS/HTML/CSS Terminal](https://hyper.is/JS/HTML/CSS Termina - JS/HTML/CSS Terminal)
 
 ### Mind maps
 - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)

@@ -18,6 +18,8 @@
 - [:star: Prometheus - From metrics to insight](https://prometheus.io/)
 - [nagios](https://www.nagios.org/)
 - [statsd](statsd - Daemon for easy but powerful stats aggregation)
+- [netdata - Real-time performance monitoring, done right!](http://my-netdata.io/)
+- [How-to monitor Docker ?](https://opsnotice.xyz/how-to-monitor-docker-hosts/)
 
 ### Zabbix
 - [Обнаружение + Zabbix API под Java](https://habrahabr.ru/company/at_consulting/blog/277027/)

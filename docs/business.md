@@ -1,6 +1,8 @@
 # Business
 
  - [Why you should never use Upwork, ever.](http://shadandjulia.com/never-use-upwork-ever/)
+ - [Стартапы — дух времени](https://habrahabr.ru/post/300664/)
+ - [62 Tips From Y Combinator’s Startup Instruction Manual](https://techcrunch.com/gallery/y-combinator-startup-playbook/)
 
 ## Интернет магазин
 - [Интернет-магазины приучают покупателей платить онлайн](https://megamozg.ru/post/16312/)

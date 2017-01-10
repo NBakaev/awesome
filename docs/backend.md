@@ -21,6 +21,8 @@ Server-side, primary Java
  - [A Journey Through How Zapier Automates Billions Of Workflow Automation Tasks](http://highscalability.com/blog/2016/2/29/a-journey-through-how-zapier-automates-billions-of-workflow.html)
  - [Stack Overflow: The Architecture - 2016 Edition](http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/)
  - [Lessons Learned From Scaling Uber To 2000 Engineers, 1000 Services, And 8000 Git Repositories](http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html)
+ - [Как работает Netflix: Полный обзор стека технологий облачного сервиса](https://habrahabr.ru/company/1cloud/blog/271159/)
+ - [Scaling Zapier to Automate Billions of Tasks](https://stackshare.io/zapier/scaling-zapier-to-automate-billions-of-tasks)
 
 ##
  - [Valgrind](http://valgrind.org/docs/manual/hg-manual.html)
@@ -34,6 +36,8 @@ Server-side, primary Java
 - [Микросервисы без серверов (облачный вариант)](http://habrahabr.ru/company/piter/blog/266703/)
 - [An Introduction to Microservices, Part 2: The API Gateway](https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/)
 - [Microservice Architectures With Spring Cloud and Docker](https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do)
+- [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](http://www.dropwizard.io/)
+- spring boot
 
 ## Template engine
 Server-side HTML and view page rendering
@@ -108,8 +112,6 @@ crawlers, parse html, dom
 
 ## Tests
 
-###
-
 - Spoke        
 - Mockito
 
@@ -159,6 +161,7 @@ crawlers, parse html, dom
  - [Resources for writing modern Java](https://github.com/cxxr/better-java)
  - [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)](https://habrahabr.ru/company/luxoft/blog/280782)
  - [The Top 100 Java Libraries in 2016 – After Analyzing 47,251 Dependencies](https://www.javacodegeeks.com/2016/05/top-100-java-libraries-2016-analyzing-47251-dependencies.html)
+ - [kryo - Java serialization and cloning: fast, efficient, automatic](https://github.com/EsotericSoftware/kryo)
 
 ### Java & JVM
 Hardcore
@@ -169,15 +172,15 @@ Hardcore
 - [Владимир Иванов — Динамическая (JIT) компиляция в JVM](https://www.youtube.com/watch?v=oYu3HuIYDhI)
 - [Dmytro Vyazelenko — Using Java Microbenchmark Harness (JMH) in a real world project](https://www.youtube.com/watch?v=W-8ztoH7Ku4)
 - [Douglas Hawkins — Understanding the Tricks Behind the JIT](https://www.youtube.com/watch?v=oH4_unx8eJQ)
+- [https://shipilev.net/talks/joker-Oct2016-jmm-close-encounters.pdf](https://shipilev.net/talks/joker-Oct2016-jmm-close-encounters.pdf)
+- [What the JIT!? Anatomy of the OpenJDK HotSpot VM](https://www.infoq.com/articles/OpenJDK-HotSpot-What-the-JIT)
+- [JVMInternals](http://blog.jamesdbloom.com/JVMInternals.html)
+- https://github.com/yole/jitwatch-intellij
 
 ## DI
   - Juice   
   - Spring
   - Dagger (Android)
-
-### Flame Graphs
- - [Java Flame Graphs](http://www.brendangregg.com/blog/2014-06-12/java-flame-graphs.html)
- - [FlameGraph](https://github.com/brendangregg/FlameGraph)
 
 ### bytecode manipulation
 Dynamic classes, proxy
@@ -198,9 +201,6 @@ Dynamic classes, proxy
  - [maven](http://projectlombok.org/mavenrepo/)
  - [Lombok Plugin for IntelliJ IDEA](https://github.com/mplushnikov/lombok-intellij-plugin)
 
-###
- - [Curator - ZooKeeper - distributed locks](http://curator.apache.org/)
-
 ### Nashorn
 New javascript engine in java 8
 
@@ -219,7 +219,7 @@ New javascript engine in java 8
   - [Developing Spring Boot applications with Kotlin](http://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin)
 
 ### i18n
-Localisation & Internationalization
+Localization & Internationalization
 
  - [Как писать софт для всего мира](https://habrahabr.ru/company/alconost/blog/264841/)
  - [:star: Spring Boot Internationalization](http://codedevstuff.blogspot.ru/2015/05/spring-boot-internationalization-with.html)
@@ -248,10 +248,9 @@ Do not use float/double to store money in java
    - spring data
    - spring jdbcTemplate
 
-## Microservices
-
- - [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](http://www.dropwizard.io/)
- - spring boot
+## distributed system
+Cache & data grids
+  - [Curator - ZooKeeper - distributed locks](http://curator.apache.org/)
 
 ### Hazelcast
 
@@ -268,7 +267,12 @@ Do not use float/double to store money in java
 ## Spring
 Spring framework & spring boot & microservices
 
+####
+links
  - [ :star: SPRING INITIALIZR](http://start.spring.io/)
+ - [Spring Jira](https://jira.spring.io/secure/Dashboard.jspa)
+
+####
  - [ :star: This is a sample application created with JHipster](https://github.com/jhipster/jhipster-sample-app)
  - [ :star: Small test RESTful app with token based security](https://github.com/virgo47/restful-spring-security)
  - [Spring Boot Memory Performance](http://spring.io/blog/2015/12/10/spring-boot-memory-performance)
@@ -291,7 +295,6 @@ Spring framework & spring boot & microservices
  - [:video_camera: :star: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
  - [Download file with RestTemplate](http://www.leveluplunch.com/java/tutorials/038-retrieve-file-spring-resttemplate/)
  - [JSON Web Tokens With Spring Cloud Microservices](https://www.javacodegeeks.com/2016/06/json-web-tokens-spring-cloud-microservices-2.html)
- - [Spring Jira](https://jira.spring.io/secure/Dashboard.jspa)
  - [Spring Security Reference](http://docs.spring.io/autorepo/docs/spring-security/4.1.x/reference/htmlsingle/)
  - [Understanding Transactional annotation in Spring](https://www.javacodegeeks.com/2016/05/understanding-transactional-annotation-spring.html)
  - [Google Cloud Endpoints на Java: Руководство. ч. 1](http://habrahabr.ru/post/268863/)
@@ -303,39 +306,6 @@ Spring framework & spring boot & microservices
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)
  - [spring-data-examples](https://github.com/ttrelle/spring-data-examples)
 
-### Spring Data Processing
- - [Spring XD](http://projects.spring.io/spring-xd/)
- - [Spring XD Guide](http://docs.spring.io/spring-xd/docs/current-SNAPSHOT/reference/html/)
- - [Message Processing with Spring Integration](https://www.javacodegeeks.com/2014/12/message-processing-with-spring-integration.html?utm_source=feedburner)
- - [Sample starter applications and code for use with the Spring XD project](https://github.com/spring-projects/spring-xd-samples)
-
-#### Spring Cloud Data Flow
-- [Spring Cloud Data Flow](http://cloud.spring.io/spring-cloud-dataflow/)
-- [Spring Cloud Data Flow Implementation for Kubernetes](https://github.com/spring-cloud/spring-cloud-dataflow-server-kubernetes)
-
-## Шаблоны документов
-Create reports in .pdf .doc .xlsx
-
-- [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
-
-### Java jaspers
-- [jaspersoft.com](http://community.jaspersoft.com/)
-- [IDE: TIBCO Jaspersoft Studio The Eclipse-based Report Development Tool for JasperReports and JasperReports Server](http://community.jaspersoft.com/project/jaspersoft-studio/releases)
-- [JasperReports® Library Open Source Java Reporting Library](http://community.jaspersoft.com/project/jasperreports-library/resources)
-- [JasperReports & iReport](http://www.quizful.net/post/jasperreports-and-ireports)
-- [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
-
-### DynamicReports
-Very Complex report engine for java
-
- - [DynamicReports - free and open source Java reporting tool](http://www.dynamicreports.org/examples/examples-overview)
- - [DynamicReports and JasperReports with JSF, Servlet and CDI](https://www.javacodegeeks.com/2016/02/dynamicreports-jasperreports-jsf-servlet-cdi.html)
-
-### iText
- - [iText HTML to PDF Example](http://examples.javacodegeeks.com/core-java/itext-html-pdf-example)
- - [iText Watermark Example](http://examples.javacodegeeks.com/core-java/itext-watermark-example)
- - [iText Barcode Example](http://examples.javacodegeeks.com/core-java/itext-barcode-example)
-
 ## Java profiling
 Performance, APM
 
@@ -346,6 +316,12 @@ Performance, APM
  - [:star: JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)   
  - [XRebel - Profiler for microservices](http://zeroturnaround.com/software/xrebel/microservices/)
  - [JRebel - Reload code changes instantly](http://zeroturnaround.com/software/jrebel/)
+
+### Flame Graphs
+ Unify and visualize performance for all languages
+
+  - [Java Flame Graphs](http://www.brendangregg.com/blog/2014-06-12/java-flame-graphs.html)
+  - [FlameGraph](https://github.com/brendangregg/FlameGraph)
 
 ## Build tools
 
@@ -372,8 +348,55 @@ Performance, APM
 ##### Двухфакторная аутентификация
  - https://code.google.com/p/vellum/wiki/GoogleAuthenticator
  - https://code.google.com/p/vellum/source/browse/#svn%2Ftrunk%2Fsrc%2Fvellumdemo%2Ftotp
+ - [Apereo CAS - Enterprise Single Sign On for all](https://github.com/apereo/cas)
 
 ## DSL
  - [Domain-Specific Languages](http://docs.groovy-lang.org/docs/latest/html/documentation/core-domain-specific-languages.html)
  - [Groovy как скриптовый язык и DSL для Java](http://habrahabr.ru/post/145138/)
  - [Java DSL for Spring Integration 1.1 GA is Available](https://spring.io/blog/2015/09/22/java-dsl-for-spring-integration-1-1-ga-is-available)
+
+---------------------------------------
+# Legacy
+
+### Spring Data Processing
+[Use Spark]
+
+ - [Spring XD](http://projects.spring.io/spring-xd/)
+ - [Spring XD Guide](http://docs.spring.io/spring-xd/docs/current-SNAPSHOT/reference/html/)
+ - [Message Processing with Spring Integration](https://www.javacodegeeks.com/2014/12/message-processing-with-spring-integration.html?utm_source=feedburner)
+ - [Sample starter applications and code for use with the Spring XD project](https://github.com/spring-projects/spring-xd-samples)
+
+#### Spring Cloud Data Flow
+[Use Spark]
+
+- [Spring Cloud Data Flow](http://cloud.spring.io/spring-cloud-dataflow/)
+- [Spring Cloud Data Flow Implementation for Kubernetes](https://github.com/spring-cloud/spring-cloud-dataflow-server-kubernetes)
+
+## Шаблоны документов
+Create reports in .pdf .doc .xlsx
+
+- [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
+
+### Java jaspers
+[Use simple template, such as mustache]
+
+- [jaspersoft.com](http://community.jaspersoft.com/)
+- [IDE: TIBCO Jaspersoft Studio The Eclipse-based Report Development Tool for JasperReports and JasperReports Server](http://community.jaspersoft.com/project/jaspersoft-studio/releases)
+- [JasperReports® Library Open Source Java Reporting Library](http://community.jaspersoft.com/project/jasperreports-library/resources)
+- [JasperReports & iReport](http://www.quizful.net/post/jasperreports-and-ireports)
+- [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
+
+### DynamicReports
+[Use simple template, such as mustache]
+
+Very Complex report engine for java
+
+ - [DynamicReports - free and open source Java reporting tool](http://www.dynamicreports.org/examples/examples-overview)
+ - [DynamicReports and JasperReports with JSF, Servlet and CDI](https://www.javacodegeeks.com/2016/02/dynamicreports-jasperreports-jsf-servlet-cdi.html)
+
+### iText
+[use javascript libs]
+
+ - [iText HTML to PDF Example](http://examples.javacodegeeks.com/core-java/itext-html-pdf-example)
+ - [iText Watermark Example](http://examples.javacodegeeks.com/core-java/itext-watermark-example)
+ - [iText Barcode Example](http://examples.javacodegeeks.com/core-java/itext-barcode-example)

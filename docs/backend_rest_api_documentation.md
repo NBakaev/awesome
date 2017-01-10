@@ -6,6 +6,7 @@
  - [Когда мы написали сотое API мы поняли…](https://habrahabr.ru/post/283092/comments/)
  - [:star: Microsoft (REST) api guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
  - [10 Mistakes to Avoid When Building Your API](http://blog.hellosign.com/10-mistakes-to-avoid-when-building-your-api/)
+ - [Ask HN: What is your go-to example for a good REST API?](https://news.ycombinator.com/item?id=11971491)
 
 ### REST API examples
  - [Dropbox API Explorer](https://dropbox.github.io/dropbox-api-v2-explorer/)

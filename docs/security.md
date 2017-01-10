@@ -3,6 +3,7 @@
  - [Лучшие практики защиты e-commerce сайтов](https://habrahabr.ru/company/pentestit/blog/276921/)
  - [Как взломать Telegram и WhatsApp: спецслужбы не нужны](https://habrahabr.ru/company/pt/blog/283052/)
  - [Разработка → (Не)безопасный frontend](https://habrahabr.ru/company/dsec/blog/259389/)
+ - [How we broke PHP, hacked Pornhub and earned $20,000](https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/)
 
  - [What every Browser knows about you](http://webkay.robinlinus.com/)
  - [:star: security-checklist.md](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)

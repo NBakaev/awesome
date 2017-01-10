@@ -18,6 +18,8 @@
  - [Serge — решение для непрерывной локализации от Evernote](https://habrahabr.ru/post/269049/)
  - [Пишем правильный манифест для сайта](https://habrahabr.ru/post/275849/)
  - [Offline Storage for Progressive Web Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jl5xzvrdm)
+ - [20+ Docs and Guides for Front-end Developers (No. 8)](https://www.sitepoint.com/20-docs-guides-front-end-developers-8/)
+ - [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)
@@ -141,6 +143,7 @@ MD suitable color
  - [Top JavaScript Frameworks, Libraries and Tools and When to Use Them](http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/)
  - [A touch slideout navigation menu for your mobile web apps](https://github.com/Mango/slideout)
  - [An Overview of JavaScript Templating Engines](http://www.sitepoint.com/overview-javascript-templating-engines/)
+ - [How to Implement Internationalization (i18n) in JavaScript](https://www.sitepoint.com/how-to-implement-internationalization-i18n-in-javascript/)
 
 #### Audio player
 Воспроизведение аудио в браузере

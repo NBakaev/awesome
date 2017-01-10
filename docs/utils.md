@@ -130,5 +130,11 @@ umount /mnt/192.168.1.82
 
 #### releases
  - http://www.acronis.com/en-us/support/updates/
+ - http://www.acronis.com/en-us/enterprise/download/acronis-storage/
  - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.exe
  - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.x86_64
+
+## Add own CA cert to java JDK
+In folder with jdk/jre, such as example`C:\Program Files\Java\jre-9\lib\security`
+Default password is `changeit`
+`keytool -keystore cacerts -importcert -alias my_custom_cert_name -file "C:\path_to_ca_cert\ca.crt"`

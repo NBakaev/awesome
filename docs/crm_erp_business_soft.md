@@ -25,6 +25,7 @@
 
  - [:star: ИТ-стартап ищет больших клиентов: особенности работы с крупными корпорациями](https://megamozg.ru/post/24240/)
  - [Как Микрософт внедрял у себя Yammer (часть I)](https://habrahabr.ru/company/supereon/blog/301632/)
+ - [Этого не будет в BI (Купив BI tool, вы этого не получите)](https://habrahabr.ru/post/281703/)
 
 ### KPI
  - [Система KPI в компании: как не пойти на три буквы](https://habrahabr.ru/company/regionsoft/blog/308800/)

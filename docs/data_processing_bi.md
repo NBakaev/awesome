@@ -18,6 +18,7 @@
 - [Кластеризация графов и поиск сообществ. Часть 1: введение, обзор инструментов и Волосяные Шары](https://habrahabr.ru/company/dca/blog/265077/)
 - [BigML: Machine Learning made easy](http://cloudacademy.com/blog/bigml-machine-learning/)
 - [Ко-кластеризация: cегментирование данных вдоль и поперёк](https://habrahabr.ru/post/265489/)
+- [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook)
 
 ## TensorFlow
 - [Teach Yourself Deep Learning with TensorFlow and Udacity](https://developers.googleblog.com/2016/01/teach-yourself-deep-learning-with.html)

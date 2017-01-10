@@ -20,6 +20,7 @@
  - [youtube - Data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
  - [Становимся контрибьютером в PostgreSQL](https://habrahabr.ru/company/postgrespro/blog/308442/)
  - [9 ¾ действительно полезных советов по работе над крупными проектами](https://habrahabr.ru/post/305280/)
+ - [Становимся контрибьютером в PostgreSQL](https://habrahabr.ru/company/postgrespro/blog/308442/)
 
 ## Awesome
    Коллекции современных и полезных утилит/программ/библиотек/фреймворков
@@ -34,6 +35,7 @@
  - [A curated list of awesome Java frameworks, libraries and software.](https://github.com/akullpp/awesome-java)
  - [Более 350 бесплатных инструментов для разработчиков](https://habrahabr.ru/company/it-grad/blog/270589/)
  - [:star: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
+ - [TECHNOLOGY RADAR NOV ‘16](https://assets.thoughtworks.com/assets/technology-radar-nov-2016-en.pdf)
 
 ### To read accounts/blogs
 Stay in touch with the world

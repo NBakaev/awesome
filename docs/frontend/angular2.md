@@ -1,6 +1,7 @@
 # Angular2
 Написан на TypeScript. Поэтому писать приложения лучше на нем, а не просто JavaScript
- - [Angular2 близко](http://habrahabr.ru/post/269207/)
+- [Angular 2 is terrible](https://meebleforp.com/blog/36/angular-2-is-terrible)
+- [Angular2 близко](http://habrahabr.ru/post/269207/)
  - [Angular 1 and Angular 2 integration: the path to seamless upgrade](http://googledevelopers.blogspot.ru/2015/08/angular-1-and-angular-2-integration.html)
  - [Порог вхождения в Angular 2 — теория и практика](https://habrahabr.ru/post/278523/)
  - [Rendering in Angular2](http://www.yearofmoo.com/2016/02/rendering-in-angular2.html)
