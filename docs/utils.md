@@ -134,6 +134,10 @@ umount /mnt/192.168.1.82
  - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.exe
  - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.x86_64
 
+## rsync
+
+`rsync -chavzP --include='PATTERN*' root@HOST:/FOLDER/ /X/`
+
 ## Add own CA cert to java JDK
 In folder with jdk/jre, such as example`C:\Program Files\Java\jre-9\lib\security`
 Default password is `changeit`

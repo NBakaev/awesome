@@ -105,6 +105,7 @@ crawlers, parse html, dom
  - [Введение в RxJava: Жизненный цикл подписки](http://habrahabr.ru/post/270975/)
  - [Parallel execution of blocking tasks with RxJava and Completable](https://www.javacodegeeks.com/2016/03/parallel-execution-blocking-tasks-rxjava-completable.html)
  - [rxmarbles - Interactive diagrams of Rx Observables](http://rxmarbles.com/)
+ - [Articles | RxJS - Javascript library for functional reactive programming](http://xgrommx.github.io/rx-book/content/resources/articles/index.html#rx)
 
 ###
  - [Vert.x is a tool-kit for building reactive applications on the JVM.](http://vertx.io/Vert.x is a tool-kit for building reactive applications on the JVM.)
@@ -355,48 +356,9 @@ Performance, APM
  - [Groovy как скриптовый язык и DSL для Java](http://habrahabr.ru/post/145138/)
  - [Java DSL for Spring Integration 1.1 GA is Available](https://spring.io/blog/2015/09/22/java-dsl-for-spring-integration-1-1-ga-is-available)
 
----------------------------------------
-# Legacy
+### Algorithms
 
-### Spring Data Processing
-[Use Spark]
-
- - [Spring XD](http://projects.spring.io/spring-xd/)
- - [Spring XD Guide](http://docs.spring.io/spring-xd/docs/current-SNAPSHOT/reference/html/)
- - [Message Processing with Spring Integration](https://www.javacodegeeks.com/2014/12/message-processing-with-spring-integration.html?utm_source=feedburner)
- - [Sample starter applications and code for use with the Spring XD project](https://github.com/spring-projects/spring-xd-samples)
-
-#### Spring Cloud Data Flow
-[Use Spark]
-
-- [Spring Cloud Data Flow](http://cloud.spring.io/spring-cloud-dataflow/)
-- [Spring Cloud Data Flow Implementation for Kubernetes](https://github.com/spring-cloud/spring-cloud-dataflow-server-kubernetes)
-
-## Шаблоны документов
-Create reports in .pdf .doc .xlsx
-
-- [Yet Another Report Generator?](http://www.javacodegeeks.com/2015/09/yet-another-report-generator.html)
-
-### Java jaspers
-[Use simple template, such as mustache]
-
-- [jaspersoft.com](http://community.jaspersoft.com/)
-- [IDE: TIBCO Jaspersoft Studio The Eclipse-based Report Development Tool for JasperReports and JasperReports Server](http://community.jaspersoft.com/project/jaspersoft-studio/releases)
-- [JasperReports® Library Open Source Java Reporting Library](http://community.jaspersoft.com/project/jasperreports-library/resources)
-- [JasperReports & iReport](http://www.quizful.net/post/jasperreports-and-ireports)
-- [JasperReports & iReport. Часть 2](http://www.quizful.net/post/jasperreports-and-ireports-part2)
-
-### DynamicReports
-[Use simple template, such as mustache]
-
-Very Complex report engine for java
-
- - [DynamicReports - free and open source Java reporting tool](http://www.dynamicreports.org/examples/examples-overview)
- - [DynamicReports and JasperReports with JSF, Servlet and CDI](https://www.javacodegeeks.com/2016/02/dynamicreports-jasperreports-jsf-servlet-cdi.html)
-
-### iText
-[use javascript libs]
-
- - [iText HTML to PDF Example](http://examples.javacodegeeks.com/core-java/itext-html-pdf-example)
- - [iText Watermark Example](http://examples.javacodegeeks.com/core-java/itext-watermark-example)
- - [iText Barcode Example](http://examples.javacodegeeks.com/core-java/itext-barcode-example)
+#### maps
+ - https://web.archive.org/web/20150622030208/http://ravis.me/2015/05/29/server-side-geo-clustering-with-mongodb
+ - [Серверная кластеризация маркеров на карте. От теории к практике](https://habrahabr.ru/post/268621/)
+ - https://developers.google.com/maps/documentation/javascript/tutorial#Troubleshooting

@@ -2,6 +2,10 @@
 
 ### Общее
  - [:star: Angular 2](https://github.com/NBakaev/awesome/blob/master/docs/frontend/angular2.md)   
+
+  - [:star: Важные аспекты работы браузера для разработчиков. Часть 1](https://habrahabr.ru/company/dataart/blog/304138/)
+  - [:star: Важные аспекты работы браузера для разработчиков. Часть 2](https://habrahabr.ru/company/dataart/blog/304934/)
+
  - [29 сервисов для поиска фото, графики, иконок и кое-что на десерт](http://www.cossa.ru/articles/152/69131/)
  - [:star: Изображения в верстке. Хватит это терпеть, habr](http://habrahabr.ru/post/231295/)
  - [QUICK TIPS Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)

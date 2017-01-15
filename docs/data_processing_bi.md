@@ -66,3 +66,4 @@
  - [ECharts](http://ecomfe.github.io/echarts/doc/example-en.html)
  - [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
  - [Chart.js - Simple yet flexible JavaScript charting for designers and developers](http://www.chartjs.org/)
+ - [Dashing - The exceptionally handsome dashboard framework](http://dashing.io/)

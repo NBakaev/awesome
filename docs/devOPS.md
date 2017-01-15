@@ -21,6 +21,12 @@
  - [Qcow2 — это формат дискового образа программы QEMU. Copy-On-Write](https://www.google.ru/search?q=Qcow2+disk)
  - [50 инструментов для автоматизации облачной инфраструктуры](https://habrahabr.ru/company/it-grad/blog/281801/)
  - [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами](https://habrahabr.ru/post/266139/)
+ - [libcloud - Python library for interacting with many of the popular cloud service providers using a unified API.](https://libcloud.apache.org/)
+
+###
+ - [servo - Netflix Application Monitoring Library](https://github.com/Netflix/servo)
+ - [seyren - An alerting dashboard for Graphite](https://github.com/scobal/seyren)
+ - [fabio - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/eBay/fabio)
 
 ## AWS
   ![](https://media.amazonwebservices.com/blog/2015/on_shore_personal_data_storage_arch_3.jpg)

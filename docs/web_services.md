@@ -15,6 +15,8 @@
 ###
  - [Поиск идеального тайм-трекера или как я боролась с прокрастинацией](https://megamozg.ru/post/23344/)
  - [Почему менеджеры задач не делают нас продуктивными](https://megamozg.ru/post/23336/)
+ - [Learning Management System | Online LMS | eLearning Training Software](http://www.litmos.com/)
+ - [backups: Veeam Availability Suite](https://www.veeam.com/ru/data-center-availability-suite.html)
 
 ### Asana
 Task manager

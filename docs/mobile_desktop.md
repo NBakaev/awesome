@@ -53,6 +53,7 @@ Cross-platform development with JavaScript
 - [Butter Knife - Field and method binding for Android views](http://jakewharton.github.io/butterknife/)
 - [Androidstarter - sample Android app using the MVP architecture](http://roroche.github.io/AndroidStarter/)
 - [android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/googlesamples/android-architecture)
+- [Sliding up image with Official Support Library 23.x.+ bottomSheet like google maps](http://stackoverflow.com/questions/37335366/sliding-up-image-with-official-support-library-23-x-bottomsheet-like-google-ma)
 
 ### Dagger
 - [Dagger 2 и структура приложения для Android](https://habrahabr.ru/company/ncloudtech/blog/274025/)

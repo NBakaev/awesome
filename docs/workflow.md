@@ -11,6 +11,7 @@
  - [Как я сходила на 80 собеседований и провалилась](http://www.the-village.ru/village/business/opyt/234807-fail)
  - [My Interviews with Amazon](https://thesocietea.org/2016/07/my-interviews-with-amazon/)
  - [:star: Разработка Инди РПГ: разбор двух лет разработки](https://habrahabr.ru/post/314210/)
+ - [Я провел 3 месяца, пытаясь устроиться на работу после лагеря программирования, и вот чему я научился](https://habrahabr.ru/company/edison/blog/316776/)
 
 ## :star: :star:
  - [Автоматизация workflow небольшой команды разработки (Часть 1)](http://habrahabr.ru/post/270299/)

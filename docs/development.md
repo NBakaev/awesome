@@ -62,6 +62,7 @@ Stay in touch with the world
  - [How do I remove local (untracked) files from my current Git branch?](http://stackoverflow.com/questions/61212/how-do-i-remove-local-untracked-files-from-my-current-git-branch)
  - [Git Tutorial – The Ultimate Guide](https://www.javacodegeeks.com/2016/07/git-tutorial.html)
  - `git config --global core.autocrlf false`
+ - [Rebase Flow. Способ приготовления и его поддержка в GitHub, GitLab, BitBucket](https://habrahabr.ru/company/at_consulting/blog/283326)
 
 ####
  - [commit and push large file to repo and want to delete from history][https://rtyley.github.io/bfg-repo-cleaner/]
