@@ -10,6 +10,7 @@
  - [Дайджест новостей из мира разработки на Unity](https://habrahabr.ru/company/plarium/blog/276783/)
  - [DevGAMM Moscow 2016](https://channel9.msdn.com/Events/DevGAMM/DevGAMM-Moscow-2016)
  - [ddnet - Experiences of Running an Online Game for 3 Years](https://hookrace.net/blog/ddnet-evolution-architecture-technology/)
+ - [List of game engines](https://en.m.wikipedia.org/wiki/List_of_game_engines)
 
 ### Graphic
 

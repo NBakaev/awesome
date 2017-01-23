@@ -27,6 +27,8 @@
  - [servo - Netflix Application Monitoring Library](https://github.com/Netflix/servo)
  - [seyren - An alerting dashboard for Graphite](https://github.com/scobal/seyren)
  - [fabio - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/eBay/fabio)
+ - [Live Dashboard Examples](https://www.klipfolio.com/live-dashboards)
+ - [Gravitational Teleport - Modern SSH server for teams managing distributed infrastructure](http://gravitational.com/teleport/)
 
 ## AWS
   ![](https://media.amazonwebservices.com/blog/2015/on_shore_personal_data_storage_arch_3.jpg)
@@ -104,6 +106,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [how to define HTTP health check in a consul container for a service on the same host?](http://stackoverflow.com/questions/27623590/how-to-define-http-health-check-in-a-consul-container-for-a-service-on-the-same)
 - [consul-backup - K/V backup/restore](https://github.com/kailunshi/consul-backup)
 - [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/)
+- [Spotlight: Consul KV CLI](https://www.hashicorp.com/blog/consul-kv-cli.html)
 
 ## :star: Docker
  - [Механизмы контейнеризации: namespaces](https://habrahabr.ru/company/selectel/blog/279281/)

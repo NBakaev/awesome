@@ -10,6 +10,7 @@ NoSQL база данных
  - [MongoDB: Запросы, habr](http://habrahabr.ru/post/134590/)
  - [Map-Reduce на примере MongoDB](http://habrahabr.ru/post/184130/)
  - [How to create a pub/sub application with MongoDB](http://tugdualgrall.blogspot.ru/2015/01/how-to-create-pubsub-application-with.html?m=1)
+ - [How to Write Resilient MongoDB Applications](https://dzone.com/articles/how-to-write-resilient-mongodb-applications)
 
 ### Using MongoDB with Hadoop & Spark
  - [Using MongoDB with Hadoop & Spark: Part 1 - Introduction & Setup](https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup)

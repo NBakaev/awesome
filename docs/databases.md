@@ -6,6 +6,11 @@
  - [:star: percona.com](https://www.percona.com/)
  - [SQL cheat sheetx](http://zeroturnaround.com/rebellabs/sql-cheat-sheet/)
  - [Stolon: создаем кластер PostgreSQL с автофейловером](http://eax.me/stolon/)
+ - [Документация разработчика Hibernate – Глава I. Доступ к базе данных](https://habrahabr.ru/post/301384/)
+
+## Transactions
+ - [SQL Transactions - What they are good for and how they work](http://www.slideshare.net/MarkusWinand/sql-transactions-what-they-are-good-for-and-how-they-work)
+ - [Короткая шпаргалка по блокировкам при чтении и изменении данных в зависимости от уровня изоляции транзакции в MSSQL](https://habrahabr.ru/post/305600/)
 
 ### NoSQL
  - Aerospike

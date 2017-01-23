@@ -13,6 +13,11 @@
  - [:star: Разработка Инди РПГ: разбор двух лет разработки](https://habrahabr.ru/post/314210/)
  - [Я провел 3 месяца, пытаясь устроиться на работу после лагеря программирования, и вот чему я научился](https://habrahabr.ru/company/edison/blog/316776/)
 
+### :star: post-mortem
+ - [RethinkDB: why we failed](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)
+ - [Как мотивация заставила меня двигаться вперед и в итоге просадить 170 тыс. рублей](https://spark.ru/startup/ebia/blog/19630/kak-motivatsiya-zastavila-menya-dvigatsya-vpered-i-v-itoge-prosadit-170-tis-rublej?from=vc)
+ - [vc.ru - «В конце концов я потерял три миллиона рублей»](https://vc.ru/p/fironov-franchise)
+
 ## :star: :star:
  - [Автоматизация workflow небольшой команды разработки (Часть 1)](http://habrahabr.ru/post/270299/)
  - [Автоматизация workflow небольшой команды разработки (Часть 2)](http://habrahabr.ru/post/270321/)

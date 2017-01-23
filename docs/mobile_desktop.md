@@ -36,6 +36,7 @@ Cross-platform development with JavaScript
 - [Developing Universal Windows Apps with HTML and JavaScript Jump Start](https://www.microsoftvirtualacademy.com/en-US/training-courses/developing-universal-windows-apps-with-html-and-javascript-jump-start-8344)     
 - [HockeyApp - The Platform for Your Apps](http://hockeyapp.net/features/)
 - [Build truly native cross-platform iOS and Android apps with JavaScript http://www.nativescript.org](https://github.com/NativeScript/NativeScript)
+- [TestFlight Beta Testing](https://developer.apple.com/testflight/)
 
 ## Android
 
@@ -54,6 +55,7 @@ Cross-platform development with JavaScript
 - [Androidstarter - sample Android app using the MVP architecture](http://roroche.github.io/AndroidStarter/)
 - [android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/googlesamples/android-architecture)
 - [Sliding up image with Official Support Library 23.x.+ bottomSheet like google maps](http://stackoverflow.com/questions/37335366/sliding-up-image-with-official-support-library-23-x-bottomsheet-like-google-ma)
+- [Storing your secure information in the NDK](https://androidsecurity.info/2016/12/15/storing-your-secure-information-in-the-ndk/)
 
 ### Dagger
 - [Dagger 2 и структура приложения для Android](https://habrahabr.ru/company/ncloudtech/blog/274025/)

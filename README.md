@@ -1,44 +1,44 @@
 # List of knowledge
 
-## Категории
+## Categories
 
 ### Development
-Списки технчиеских статей и заметок, связанных с разработкой ПО
+Tech articles connected with soft development
 
 - [:star: Development basics & advance: git, code review etc...](https://github.com/NBakaev/awesome/blob/master/docs/development.md)   
-- [QA - тестирование ПО](https://github.com/NBakaev/awesome/blob/master/docs/QA.md)
-- [Backend - серверная разработка ПО](https://github.com/NBakaev/awesome/blob/master/docs/backend.md)
+- [QA](https://github.com/NBakaev/awesome/blob/master/docs/QA.md)
+- [Backend](https://github.com/NBakaev/awesome/blob/master/docs/backend.md)
 - [DevOPS - Docker, APM, logging, Clustering...](https://github.com/NBakaev/awesome/blob/master/docs/devOPS.md)
-- [Frontend разработка / UI / UX](https://github.com/NBakaev/awesome/blob/master/docs/frontend/frontend.md)    
+- [Frontend / UI / UX](https://github.com/NBakaev/awesome/blob/master/docs/frontend/frontend.md)    
 - [NodeJS](https://github.com/NBakaev/awesome/blob/master/docs/nodejs.md)      
 - [Infrastructure & CI](https://github.com/NBakaev/awesome/blob/master/docs/infrastructure.md)     
 - [MongoDB - NoSQL database](https://github.com/NBakaev/awesome/blob/master/docs/mongoDB.md)     
-- [Веб -сервера: Nginx; Load-balancing](https://github.com/NBakaev/awesome/blob/master/docs/web_server.md)   
-- [Мобильная разработка](https://github.com/NBakaev/awesome/blob/master/docs/mobile_desktop.md)   
-- [Базы данных](https://github.com/NBakaev/awesome/blob/master/docs/databases.md)   
-- [Утилиты и сниппеты командной строки](https://github.com/NBakaev/awesome/blob/master/docs/utils.md)   
+- [Web-servers: Nginx; Load-balancing](https://github.com/NBakaev/awesome/blob/master/docs/web_server.md)   
+- [Mobile development](https://github.com/NBakaev/awesome/blob/master/docs/mobile_desktop.md)   
+- [Databases](https://github.com/NBakaev/awesome/blob/master/docs/databases.md)   
+- [Utils and terminal/cli](https://github.com/NBakaev/awesome/blob/master/docs/utils.md)   
 - [REST / API / Documentation](https://github.com/NBakaev/awesome/blob/master/docs/backend_rest_api_documentation.md)
-- [Разработка игр - GameDev](https://github.com/NBakaev/awesome/blob/master/docs/gamedev.md)   
-- [Security](https://github.com/NBakaev/awesome/blob/master/docs/security.md)   
-- [Мессенджеры, звонки, связь](https://github.com/NBakaev/awesome/blob/master/docs/messengers_call.md)   
+- [GameDev](https://github.com/NBakaev/awesome/blob/master/docs/gamedev.md)   
+- [Information Security](https://github.com/NBakaev/awesome/blob/master/docs/security.md)   
+- [Messengers, bots, calls](https://github.com/NBakaev/awesome/blob/master/docs/messengers_call.md)   
 
 ### Business
-Списки статей, связанных с аналитикой, интернет-маркетингом, разработки продуктов, работе в командах и смежными темами
+Articles connected with analytic, (internet) marketing, product development, team workflow, etc
 
-- [Аналитика / Веб-аналитика](https://github.com/NBakaev/awesome/blob/master/docs/analytic.md)
+- [Analytic / Web analytic](https://github.com/NBakaev/awesome/blob/master/docs/analytic.md)
 - [Business Intelligence / Data Science](https://github.com/NBakaev/awesome/blob/master/docs/data_processing_bi.md)
 - [CRM / ERP / Task management / Business soft](https://github.com/NBakaev/awesome/blob/master/docs/crm_erp_business_soft.md)
-- [Email маркетинг](https://github.com/NBakaev/awesome/blob/master/docs/email.md)     
+- [Email marketing](https://github.com/NBakaev/awesome/blob/master/docs/email.md)     
 - [Marketing](https://github.com/NBakaev/awesome/blob/master/docs/marketing.md)   
 - [Business](https://github.com/NBakaev/awesome/blob/master/docs/business.md)   
 - [Workflow](https://github.com/NBakaev/awesome/blob/master/docs/workflow.md)   
 
-### Other
-Категория общей направленности для всех
+### Common
+For all
 
 - [:star: :headphones: Подкасты](https://github.com/NBakaev/awesome/blob/master/docs/podcasts.md)     
-- [Софт](https://github.com/NBakaev/awesome/blob/master/docs/soft.md)   
-- [:star: Сервисы, SaaS](https://github.com/NBakaev/awesome/blob/master/docs/web_services.md)   
+- [Soft](https://github.com/NBakaev/awesome/blob/master/docs/soft.md)   
+- [:star: services, SaaS](https://github.com/NBakaev/awesome/blob/master/docs/web_services.md)   
 
 ## Awesome
 - [:star: Body of knowledge: BABOK, PMBOK, SWEBOK...](https://en.wikipedia.org/wiki/Body_of_knowledge)
@@ -58,6 +58,8 @@ Education
  - [lektorium.tv](https://www.lektorium.tv/)
  - [Видеозаписи - Технопарк@Mail.ru](https://park.mail.ru/materials/video/)
  - [Geekbrains | Вебинары 2014-2015 PCRec H.264 Часть 1](https://nnm-club.me/forum/viewtopic.php?t=929895)
+ - [udacity -> Free Courses](https://www.udacity.com/courses/all)
+ - [TED: Ideas worth spreading](https://www.ted.com/)
 
 ### Business
  - [Нетология](http://netology.ru/)

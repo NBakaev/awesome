@@ -2,6 +2,7 @@
 
  - [AlternativeTo - Crowdsourced software recommendations](http://alternativeto.net/)
  - [ПОПУЛЯРНЫЕ КНИГИ](http://avidreaders.ru/books/)
+ - [:star: Федеральная служба государственной статистики: Предоставление данных бухгалтерской отчетности по запросам пользователей](http://www.gks.ru/accounting_report)
 
 ### Content
   - [extratorrent](http://extratorrent.cc/)

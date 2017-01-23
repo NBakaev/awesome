@@ -1,4 +1,5 @@
 # Backend
+Note: This list is not intended to include hype/legacy technologies which have not future
 Server-side, primary Java
 
 ## Architecture
@@ -16,6 +17,8 @@ Server-side, primary Java
  - [:sta: System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
  - [Zuul 2 : The Netflix Journey to Asynchronous, Non-Blocking Systems](http://techblog.netflix.com/2016/09/zuul-2-netflix-journey-to-asynchronous.html)
  - [feign](https://github.com/OpenFeign/feign)
+ - [:video_camera: HighLoad++ 2016](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt)
+ - [Инфраструктура онлайн игры](https://habrahabr.ru/post/319582/)
 
 ###
  - [A Journey Through How Zapier Automates Billions Of Workflow Automation Tasks](http://highscalability.com/blog/2016/2/29/a-journey-through-how-zapier-automates-billions-of-workflow.html)
@@ -81,7 +84,7 @@ Server-side HTML and view page rendering
 - [Используем highcharts.js для создания графиков на стороне сервера](https://habrahabr.ru/post/279515/)
 
 ### crawl
-crawlers, parse html, dom
+crawlers, parse htm /dom, extract html content
 
 - [Python - Scrapy](https://doc.scrapy.org/en/latest/intro/overview.html)
 - [JavaScript - CasperJS Navigation scripting & testing for PhantomJS and SlimerJS](http://casperjs.org/)
@@ -108,7 +111,6 @@ crawlers, parse html, dom
  - [Articles | RxJS - Javascript library for functional reactive programming](http://xgrommx.github.io/rx-book/content/resources/articles/index.html#rx)
 
 ###
- - [Vert.x is a tool-kit for building reactive applications on the JVM.](http://vertx.io/Vert.x is a tool-kit for building reactive applications on the JVM.)
  - [javaslang, github](https://github.com/javaslang/javaslang)
 
 ## Tests
@@ -268,8 +270,7 @@ Cache & data grids
 ## Spring
 Spring framework & spring boot & microservices
 
-####
-links
+#### links
  - [ :star: SPRING INITIALIZR](http://start.spring.io/)
  - [Spring Jira](https://jira.spring.io/secure/Dashboard.jspa)
 
