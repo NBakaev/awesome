@@ -7,6 +7,7 @@
  - [SQL cheat sheetx](http://zeroturnaround.com/rebellabs/sql-cheat-sheet/)
  - [Stolon: создаем кластер PostgreSQL с автофейловером](http://eax.me/stolon/)
  - [Документация разработчика Hibernate – Глава I. Доступ к базе данных](https://habrahabr.ru/post/301384/)
+ - [Уровни изоляции транзакций с примерами на PostgreSQL](https://habrahabr.ru/post/317884/)
 
 ## Transactions
  - [SQL Transactions - What they are good for and how they work](http://www.slideshare.net/MarkusWinand/sql-transactions-what-they-are-good-for-and-how-they-work)

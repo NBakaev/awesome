@@ -17,3 +17,7 @@
 - [DeviantArt - The largest online art gallery and community](http://www.deviantart.com/)
 - [ArtStation](https://www.artstation.com/)
 - [dribbble - program UI](https://dribbble.com/)
+
+### Unreal Engine
+
+ - [Massive EU4 (post v4.7) Tutorial Playlist](https://www.youtube.com/playlist?list=PLV32aR_4dpyPZaiYzJNKHMA-eCeAuyR6J)

@@ -12,6 +12,10 @@
  - [My Interviews with Amazon](https://thesocietea.org/2016/07/my-interviews-with-amazon/)
  - [:star: Разработка Инди РПГ: разбор двух лет разработки](https://habrahabr.ru/post/314210/)
  - [Я провел 3 месяца, пытаясь устроиться на работу после лагеря программирования, и вот чему я научился](https://habrahabr.ru/company/edison/blog/316776/)
+ - [Средние зарплаты в геймдеве СНГ: исследование Сергея Галёнкина](https://dtf.ru/3573-srednie-zarplaty-v-geymdeve-sng-issledovanie-sergeya-galenkina)
+ - [«Если собираетесь податься за границу, сначала поймите, зачем вам это нужно»](https://vc.ru/p/moved-to-berlin)
+ - [Я техлид. Что делать?](https://habrahabr.ru/company/e-Legion/blog/314170/)
+ - [3 unexpected tips to prepare for any interview](http://www.iwillteachyoutoberich.com/blog/how-to-prepare-for-an-interview/)
 
 ### :star: post-mortem
  - [RethinkDB: why we failed](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)

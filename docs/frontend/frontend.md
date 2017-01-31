@@ -24,6 +24,7 @@
  - [Offline Storage for Progressive Web Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jl5xzvrdm)
  - [20+ Docs and Guides for Front-end Developers (No. 8)](https://www.sitepoint.com/20-docs-guides-front-end-developers-8/)
  - [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
+ - [Chrome 56 Will Aggressively Throttle Background Tabs](Chrome 56 Will Aggressively Throttle Background Tabs)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)
@@ -118,6 +119,10 @@ MD suitable color
  - [ng-annotate - Add, remove and rebuild AngularJS dependency injection annotations](https://github.com/olov/ng-annotate)
  - [ng-idle - детектор бездействия](https://github.com/hackedbychinese/ng-idle)
  - [Фильтруй правильно, или вредные советы по фильтрации в Angular.Js](https://habrahabr.ru/company/infopulse/blog/281617/)
+
+#### Angular 1.5
+  - [A Guide to Building Quality Angular 1.5 Components](https://www.sitepoint.com/building-angular-1-5-components/)
+  - [Upgrade Your App to Angular 1.5 Components and Beyond!](https://www.sitepoint.com/upgrade-to-angular-components/)
 
 ## CSS
  - [What’s New in Foundation 6?](http://www.sitepoint.com/whats-new-in-foundation-6/)

@@ -165,6 +165,12 @@ crawlers, parse htm /dom, extract html content
  - [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)](https://habrahabr.ru/company/luxoft/blog/280782)
  - [The Top 100 Java Libraries in 2016 – After Analyzing 47,251 Dependencies](https://www.javacodegeeks.com/2016/05/top-100-java-libraries-2016-analyzing-47251-dependencies.html)
  - [kryo - Java serialization and cloning: fast, efficient, automatic](https://github.com/EsotericSoftware/kryo)
+ - [Компиляция Java программ и разрешение зависимостей в runtime](https://habrahabr.ru/post/318544/)
+
+### Java 9
+  - [Inside Java 9 – Version Schema, Multi-Release JARs, and More](https://www.sitepoint.com/inside-java-9-part-i/)
+  - [The Ultimate Guide to Java 9](https://www.sitepoint.com/ultimate-guide-to-java-9/)
+  - [Java 9 Features with Examples](http://www.journaldev.com/13121/java-9-features-with-examples)
 
 ### Java & JVM
 Hardcore
@@ -179,6 +185,10 @@ Hardcore
 - [What the JIT!? Anatomy of the OpenJDK HotSpot VM](https://www.infoq.com/articles/OpenJDK-HotSpot-What-the-JIT)
 - [JVMInternals](http://blog.jamesdbloom.com/JVMInternals.html)
 - https://github.com/yole/jitwatch-intellij
+- [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2#.2qc6hdxbi)
+- [Finally understanding how references work in Android and Java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.83e29qd9a)
+- [Java Heap Space vs Stack – Memory Allocation in Java](http://www.journaldev.com/4098/java-heap-space-vs-stack-memory)
+- [Code Tools: jcstress](http://openjdk.java.net/projects/code-tools/jcstress/)
 
 ## DI
   - Juice   
@@ -240,6 +250,7 @@ Do not use float/double to store money in java
  - [Java и время: часть вторая](https://habrahabr.ru/post/274905/)
  - [joda-time](http://www.joda.org/joda-time/)
  - [Правильная работа с датой и временем](https://habrahabr.ru/post/278527/)
+ - [Java 8 Date and Time API Tutorial](https://examples.javacodegeeks.com/core-java/time/java-8-date-time-api-tutorial)
 
 ### SQL and db data access
    - [jooq 3.8 pdf](http://www.jooq.org/doc/3.8/manual-pdf/jOOQ-manual-3.8.pdf)
@@ -357,9 +368,13 @@ Performance, APM
  - [Groovy как скриптовый язык и DSL для Java](http://habrahabr.ru/post/145138/)
  - [Java DSL for Spring Integration 1.1 GA is Available](https://spring.io/blog/2015/09/22/java-dsl-for-spring-integration-1-1-ga-is-available)
 
-### Algorithms
+## Patterns
+- [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
-#### maps
+## Algorithms
+- [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+
+### maps
  - https://web.archive.org/web/20150622030208/http://ravis.me/2015/05/29/server-side-geo-clustering-with-mongodb
  - [Серверная кластеризация маркеров на карте. От теории к практике](https://habrahabr.ru/post/268621/)
  - https://developers.google.com/maps/documentation/javascript/tutorial#Troubleshooting

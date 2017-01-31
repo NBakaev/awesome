@@ -38,6 +38,10 @@ Cross-platform development with JavaScript
 - [Build truly native cross-platform iOS and Android apps with JavaScript http://www.nativescript.org](https://github.com/NativeScript/NativeScript)
 - [TestFlight Beta Testing](https://developer.apple.com/testflight/)
 
+## Android & iOS
+- [Crash Reporting With Crashlytics](https://code.tutsplus.com/tutorials/crash-reporting-with-crashlytics--cms-27917)
+- [Passwordless Authentication With Account Kit](https://code.tutsplus.com/tutorials/quick-tip-passwordless-authentication-with-account-kit--cms-28033)
+
 ## Android
 
 ###
@@ -56,6 +60,11 @@ Cross-platform development with JavaScript
 - [android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/googlesamples/android-architecture)
 - [Sliding up image with Official Support Library 23.x.+ bottomSheet like google maps](http://stackoverflow.com/questions/37335366/sliding-up-image-with-official-support-library-23-x-bottomsheet-like-google-ma)
 - [Storing your secure information in the NDK](https://androidsecurity.info/2016/12/15/storing-your-secure-information-in-the-ndk/)
+- [How to master Android: What developers can learn from 21 apps](https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps)
+
+ - http://opengapps.org/
+ - https://forum.xda-developers.com/nexus-4/orig-development/wip-aosp-7-0-nougat-t344844
+ - [Android boot-up messages for debugging](http://android.stackexchange.com/a/26126)
 
 ### Dagger
 - [Dagger 2 и структура приложения для Android](https://habrahabr.ru/company/ncloudtech/blog/274025/)
@@ -65,3 +74,6 @@ Cross-platform development with JavaScript
 - [Guide Genymotion](http://forum.xda-developers.com/showthread.php?t=2333452)
 - [GUIDE Genymotion | Installing ARM Translation and GApps](http://forum.xda-developers.com/showthread.php?t=2528952)
 - [GApps 6](http://opengapps.org/?api=6.0&variant=nano)
+
+### IoT
+- [A beginner’s guide to Raspberry Pi 3 B and Android Things](http://www.andtuts.com/a-beginners-guide-to-raspberry-pi-3-b-and-android-things/)

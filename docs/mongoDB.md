@@ -22,9 +22,9 @@ NoSQL база данных
  - [Retail Reference Architecture Part 3: Query Optimization and Scaling](https://www.mongodb.com/blog/post/retail-reference-architecture-part-3-query-optimization-and-scaling)
 
 ### mongodb time series data
- - [1](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb)
- - [2](https://www.mongodb.com/presentations/mongodb-time-series-data-part-2-analyzing-time-series-data-using-aggregation-framework)
- - [3](https://www.mongodb.com/presentations/mongodb-time-series-data-part-3-sharding)
+ - [schema-design-for-time-series-data-in-mongodb)](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb)
+ - [analyzing-time-series-data-using-aggregation-framework](https://www.mongodb.com/presentations/mongodb-time-series-data-part-2-analyzing-time-series-data-using-aggregation-framework)
+ - [sharding](https://www.mongodb.com/presentations/mongodb-time-series-data-part-3-sharding)
 
 ###
  - [mongochef - MongoDB gui](http://3t.io/blog/mongodb-aggregation-queries-easily-mongochef/)

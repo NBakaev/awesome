@@ -16,11 +16,12 @@
  - [Shields.io: Quality metadata badges for open source projects ](http://shields.io/)
  - [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com)
  - [Рабочее место .NET разработчика или трудности выбора идеальной конфигурации](https://habrahabr.ru/company/retailrocket/blog/301750/)
- - [:video_camera: star: Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+ - [:video_camera: :star: Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
  - [youtube - Data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
  - [Становимся контрибьютером в PostgreSQL](https://habrahabr.ru/company/postgrespro/blog/308442/)
  - [9 ¾ действительно полезных советов по работе над крупными проектами](https://habrahabr.ru/post/305280/)
- - [Становимся контрибьютером в PostgreSQL](https://habrahabr.ru/company/postgrespro/blog/308442/)
+ - [What to look for in a Code Review](https://blog.jetbrains.com/upsource/2015/07/23/what-to-look-for-in-a-code-review/)
+ - [What to look for in a Code Review: Data Structures](https://blog.jetbrains.com/upsource/2015/08/20/what-to-look-for-in-a-code-review-data-structures/)
 
 ## Awesome
    Коллекции современных и полезных утилит/программ/библиотек/фреймворков
