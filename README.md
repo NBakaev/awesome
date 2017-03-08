@@ -44,6 +44,7 @@ For all
 - [:star: Body of knowledge: BABOK, PMBOK, SWEBOK...](https://en.wikipedia.org/wiki/Body_of_knowledge)
 - [Подборка: 115 полезных почтовых рассылок о технологиях, на которые стоит подписаться](https://habrahabr.ru/company/pechkin/blog/274667/)
 - [300 потрясающих бесплатных сервисов](http://habrahabr.ru/post/250621/)
+- [Awesome collective twitters](https://github.com/iamstarkov/awesome-collective-twitters)
 
 ## :video_camera: Online courses
 Education

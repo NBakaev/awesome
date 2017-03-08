@@ -19,6 +19,8 @@ Server-side, primary Java
  - [feign](https://github.com/OpenFeign/feign)
  - [:video_camera: HighLoad++ 2016](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt)
  - [Инфраструктура онлайн игры](https://habrahabr.ru/post/319582/)
+ - [Beating JSON performance with Protobuf](https://auth0.com/blog/beating-json-performance-with-protobuf)
+ - [wiki - Алгоритмы кэширования, LRU](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B_%D0%BA%D1%8D%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
 ###
  - [A Journey Through How Zapier Automates Billions Of Workflow Automation Tasks](http://highscalability.com/blog/2016/2/29/a-journey-through-how-zapier-automates-billions-of-workflow.html)
@@ -29,6 +31,7 @@ Server-side, primary Java
 
 ##
  - [Valgrind](http://valgrind.org/docs/manual/hg-manual.html)
+ - [Мифы о CAP теореме](https://habrahabr.ru/post/322276/)
 
 ### microservice
 - [A comparison of Microservices Frameworks](https://cdelmas.github.io/2015/11/01/A-comparison-of-Microservices-Frameworks.html)
@@ -64,6 +67,7 @@ Server-side HTML and view page rendering
  - [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/)
  - [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
  - [spring-websocket-portfolio](https://github.com/rstoyanchev/spring-websocket-portfolio/issues/14)
+ - [java-websocket-api-handbook](https://abhirockzz.gitbooks.io/java-websocket-api-handbook/content/)
 
 ### HTTP/2
  - [Tools for debugging, testing and using HTTP/2](https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/)
@@ -83,8 +87,8 @@ Server-side HTML and view page rendering
 - [How do I export my HTML page as PDF using JavaScript?](https://www.quora.com/How-do-I-export-my-HTML-page-as-PDF-using-JavaScript)
 - [Используем highcharts.js для создания графиков на стороне сервера](https://habrahabr.ru/post/279515/)
 
-### crawl
-crawlers, parse htm /dom, extract html content
+### crawlers
+parse HTML / DOM, extract html content
 
 - [Python - Scrapy](https://doc.scrapy.org/en/latest/intro/overview.html)
 - [JavaScript - CasperJS Navigation scripting & testing for PhantomJS and SlimerJS](http://casperjs.org/)
@@ -166,11 +170,23 @@ crawlers, parse htm /dom, extract html content
  - [The Top 100 Java Libraries in 2016 – After Analyzing 47,251 Dependencies](https://www.javacodegeeks.com/2016/05/top-100-java-libraries-2016-analyzing-47251-dependencies.html)
  - [kryo - Java serialization and cloning: fast, efficient, automatic](https://github.com/EsotericSoftware/kryo)
  - [Компиляция Java программ и разрешение зависимостей в runtime](https://habrahabr.ru/post/318544/)
+ - [Catch common Java mistakes as compile-time errors http://errorprone.info](https://github.com/google/error-prone)
+ - [Справочник по синхронизаторам java.util.concurrent.*](https://habrahabr.ru/post/277669/)
+ - [Обзор java.util.concurrent.*](https://habrahabr.ru/company/luxoft/blog/157273/)
 
 ### Java 9
   - [Inside Java 9 – Version Schema, Multi-Release JARs, and More](https://www.sitepoint.com/inside-java-9-part-i/)
   - [The Ultimate Guide to Java 9](https://www.sitepoint.com/ultimate-guide-to-java-9/)
   - [Java 9 Features with Examples](http://www.journaldev.com/13121/java-9-features-with-examples)
+
+```
+The VM flag has now been changed to
+--add-modules=<comma separated list of modules>
+There is also
+--add-exports=<module>/<package>=<other-module>(,<other-module>)*
+(this flag can be used more than once)
+OpenJDK changeset http://hg.openjdk.java.net/jdk9/dev/hotspot/rev/3cfddcb268e3
+```
 
 ### Java & JVM
 Hardcore
@@ -189,6 +205,7 @@ Hardcore
 - [Finally understanding how references work in Android and Java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.83e29qd9a)
 - [Java Heap Space vs Stack – Memory Allocation in Java](http://www.journaldev.com/4098/java-heap-space-vs-stack-memory)
 - [Code Tools: jcstress](http://openjdk.java.net/projects/code-tools/jcstress/)
+- [Java Code To Byte Code - Part One](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
 
 ## DI
   - Juice   

@@ -61,10 +61,21 @@ Cross-platform development with JavaScript
 - [Sliding up image with Official Support Library 23.x.+ bottomSheet like google maps](http://stackoverflow.com/questions/37335366/sliding-up-image-with-official-support-library-23-x-bottomsheet-like-google-ma)
 - [Storing your secure information in the NDK](https://androidsecurity.info/2016/12/15/storing-your-secure-information-in-the-ndk/)
 - [How to master Android: What developers can learn from 21 apps](https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps)
+- [Kickstarter for Android app](https://github.com/kickstarter/android-oss)
+- [An Android Alerting Library](https://github.com/Tapadoo/Alerter)
 
  - http://opengapps.org/
  - https://forum.xda-developers.com/nexus-4/orig-development/wip-aosp-7-0-nougat-t344844
  - [Android boot-up messages for debugging](http://android.stackexchange.com/a/26126)
+
+```bash
+ jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore my_application.apk alias_name
+
+ -alias androiddebugkey
+ -keystore /the/path/debug.keystore
+ -storepass android
+ -keypass android
+```
 
 ### Dagger
 - [Dagger 2 и структура приложения для Android](https://habrahabr.ru/company/ncloudtech/blog/274025/)

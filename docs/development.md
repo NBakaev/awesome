@@ -22,6 +22,7 @@
  - [9 ¾ действительно полезных советов по работе над крупными проектами](https://habrahabr.ru/post/305280/)
  - [What to look for in a Code Review](https://blog.jetbrains.com/upsource/2015/07/23/what-to-look-for-in-a-code-review/)
  - [What to look for in a Code Review: Data Structures](https://blog.jetbrains.com/upsource/2015/08/20/what-to-look-for-in-a-code-review-data-structures/)
+ - [freeCodeCamp - Learn to code and help nonprofits](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ## Awesome
    Коллекции современных и полезных утилит/программ/библиотек/фреймворков

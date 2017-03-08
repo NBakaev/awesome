@@ -7,6 +7,8 @@
 - [Running a MEAN web application in Docker containers on AWS](http://blog.codeship.com/running-mean-web-application-docker-containers-aws/)
 - [Making a Game API Server Using Node.js: Revisited](http://blog.couchbase.com/making-a-game-api-server-using-nodejs-revisited)
 - [Introduction to the MEAN Stack](http://www.sitepoint.com/introduction-to-mean-stack/)
+- [The Modern Application Stack – Part 3: Building a REST API Using Express.js](https://dzone.com/articles/the-modern-application-stack-part-3-building-a-res)
+- [Build an Etsy Clone with Angular and Stamplay (Part 3)](https://scotch.io/tutorials/build-an-etsy-clone-with-angular-and-stamplay-part-3)
 
 ## Parse
 (PaaS)

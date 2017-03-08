@@ -11,6 +11,7 @@
  - [DevGAMM Moscow 2016](https://channel9.msdn.com/Events/DevGAMM/DevGAMM-Moscow-2016)
  - [ddnet - Experiences of Running an Online Game for 3 Years](https://hookrace.net/blog/ddnet-evolution-architecture-technology/)
  - [List of game engines](https://en.m.wikipedia.org/wiki/List_of_game_engines)
+ - [Download GDC videos](https://gist.github.com/archagon/4071535)
 
 ### Graphic
 
@@ -21,3 +22,4 @@
 ### Unreal Engine
 
  - [Massive EU4 (post v4.7) Tutorial Playlist](https://www.youtube.com/playlist?list=PLV32aR_4dpyPZaiYzJNKHMA-eCeAuyR6J)
+ - [I have been working in the engine since 4.0.0; here are some things I learned](https://www.reddit.com/r/unrealengine/comments/5umubz/i_have_been_working_in_the_engine_since_400_here/)

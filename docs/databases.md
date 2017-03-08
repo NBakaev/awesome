@@ -8,6 +8,8 @@
  - [Stolon: создаем кластер PostgreSQL с автофейловером](http://eax.me/stolon/)
  - [Документация разработчика Hibernate – Глава I. Доступ к базе данных](https://habrahabr.ru/post/301384/)
  - [Уровни изоляции транзакций с примерами на PostgreSQL](https://habrahabr.ru/post/317884/)
+ - [How Twitch uses PostgreSQL](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
+ - [Linearizability versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/)
 
 ## Transactions
  - [SQL Transactions - What they are good for and how they work](http://www.slideshare.net/MarkusWinand/sql-transactions-what-they-are-good-for-and-how-they-work)

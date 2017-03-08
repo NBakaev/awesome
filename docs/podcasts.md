@@ -4,6 +4,7 @@ Audio and discussions to listen
  - [:star: Pocket Casts](http://www.shiftyjelly.com/pocketcasts/)
  - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
  - [Что послушать программисту? Подборка подкастов на русском и английском языках](https://habrahabr.ru/post/308532/)
+ - [Список русскоязычных подкастов на тему информационных технологий](https://github.com/AveVlad/russia-it-podcast)
 
 ## GameDev
  - [:star: :ru: #RadioFlazm](http://flazm.ru/)

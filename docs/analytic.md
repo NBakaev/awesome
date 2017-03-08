@@ -1,6 +1,8 @@
 ## Веб-аналитика
 Google Analytics, Metrics, KPIs, Conversions etc...
 
+- [Browser Fingerprint – анонимная идентификация браузеров](https://habrahabr.ru/company/oleg-bunin/blog/321294/)
+
 ### Google Analytics
 GA is more than compare browsers and sessions and `ga('send', 'event', 'button', 'click', 'nav buttons', 4);`
 

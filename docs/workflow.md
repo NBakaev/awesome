@@ -21,6 +21,7 @@
  - [RethinkDB: why we failed](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)
  - [Как мотивация заставила меня двигаться вперед и в итоге просадить 170 тыс. рублей](https://spark.ru/startup/ebia/blog/19630/kak-motivatsiya-zastavila-menya-dvigatsya-vpered-i-v-itoge-prosadit-170-tis-rublej?from=vc)
  - [vc.ru - «В конце концов я потерял три миллиона рублей»](https://vc.ru/p/fironov-franchise)
+ - [gitlab](https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/)
 
 ## :star: :star:
  - [Автоматизация workflow небольшой команды разработки (Часть 1)](http://habrahabr.ru/post/270299/)

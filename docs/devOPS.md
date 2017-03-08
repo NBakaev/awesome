@@ -22,6 +22,7 @@
  - [50 инструментов для автоматизации облачной инфраструктуры](https://habrahabr.ru/company/it-grad/blog/281801/)
  - [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами](https://habrahabr.ru/post/266139/)
  - [libcloud - Python library for interacting with many of the popular cloud service providers using a unified API.](https://libcloud.apache.org/)
+ - [EVOLVING DISTRIBUTED TRACING AT UBER ENGINEERING](https://eng.uber.com/distributed-tracing/)
 
 ###
  - [servo - Netflix Application Monitoring Library](https://github.com/Netflix/servo)
@@ -134,13 +135,18 @@ systemd is an init system by default in ubuntu 16.04 lts
  - [How to share Docker volumes across hosts](https://jaxenter.com/how-to-share-docker-volumes-across-hosts-119602.html)
  - [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
  - [Refactoring a Dockerfile for image size](https://blog.replicated.com/2016/02/05/refactoring-a-dockerfile-for-image-size/)
- - [Docker networking overview](https://filipv.net/2016/02/17/docker-networking-overview/)
- - [Docker Networking and DNS: The Good, The Bad, And The Ugly](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
  - [Docker run reference](https://docs.docker.com/engine/reference/run/)
  - [Упаковка jvm приложения в docker образ](https://habrahabr.ru/post/310530/)
  - [Containers – Clean up your House](https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/)
  - [:video_camera: Видео докладов с Docker митапа](https://habrahabr.ru/company/badoo/blog/304702/)
  - [Управление контейнерами с LXD](https://habrahabr.ru/company/selectel/blog/308208/)
+
+### Docker & networking
+- [Docker 1.12 Networking Model Overview](http://collabnix.com/archives/1391)
+- [Docker networking overview](https://filipv.net/2016/02/17/docker-networking-overview/)
+- [Docker Networking and DNS: The Good, The Bad, And The Ugly](https://technologyconversations.com/2016/04/25/docker-networking-and-dns-the-good-the-bad-and-the-ugly/)
+- [A container networking overview](https://jvns.ca/blog/2016/12/22/container-networking/)
+- [Docker networking 101 – User defined networks](http://www.dasblinkenlichten.com/docker-networking-101-user-defined-networks/)
 
 ### Docker & systemd
 file `/lib/systemd/system/docker.service`
