@@ -10,6 +10,12 @@
 - [The Modern Application Stack – Part 3: Building a REST API Using Express.js](https://dzone.com/articles/the-modern-application-stack-part-3-building-a-res)
 - [Build an Etsy Clone with Angular and Stamplay (Part 3)](https://scotch.io/tutorials/build-an-etsy-clone-with-angular-and-stamplay-part-3)
 
+## Notes
+
+Nodejs run in 1 thread (no concurrency such as in java), so:
+ - You have not out of the box global static variable per thread (in Java - ThreadLocal<>) where you can store current rest request context(e.g. authenticated user, roles), but see e.g. [zone.js](https://github.com/angular/zone.js) and usage [Flow control and error handling for Node.js](https://github.com/strongloop/zone)
+ - You should create multiple processes of nodejs (e.g. Docker) or with [core nodejs module cluster](https://www.bennadel.com/blog/3234-hello-world-concurrency-in-node-js-using-the-cluster-module.htm)
+
 ## Parse
 (PaaS)
  - [Parse Server Changelog](https://github.com/ParsePlatform/parse-server/blob/master/CHANGELOG.md)
