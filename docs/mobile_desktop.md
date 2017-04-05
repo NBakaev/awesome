@@ -67,6 +67,8 @@ Cross-platform development with JavaScript
  - http://opengapps.org/
  - https://forum.xda-developers.com/nexus-4/orig-development/wip-aosp-7-0-nougat-t344844
  - [Android boot-up messages for debugging](http://android.stackexchange.com/a/26126)
+ - [Setting up GitLab CI for Android projects](https://about.gitlab.com/2016/11/30/setting-up-gitlab-ci-for-android-projects/)
+ - [Deflating the LayoutInflater](https://blog.uncommon.is/deflating-the-layoutinflater-a16aa0c96415)
 
 ```bash
  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore my_application.apk alias_name

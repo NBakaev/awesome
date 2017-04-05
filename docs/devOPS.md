@@ -108,6 +108,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [consul-backup - K/V backup/restore](https://github.com/kailunshi/consul-backup)
 - [Consul at Datadog](https://engineering.datadoghq.com/consul-at-datadog/)
 - [Spotlight: Consul KV CLI](https://www.hashicorp.com/blog/consul-kv-cli.html)
+- [Consul Auto-Join with Cloud Metadata](https://www.hashicorp.com/blog/consul-auto-join-with-cloud-metadata/)
 
 ## :star: Docker
  - [Механизмы контейнеризации: namespaces](https://habrahabr.ru/company/selectel/blog/279281/)
@@ -188,6 +189,7 @@ docker orchestration
 - [Five Months of Kubernetes](http://danielmartins.ninja/posts/five-months-of-kubernetes.html)
 - [Deploy Kubernetes Master Node(s)](https://coreos.com/kubernetes/docs/latest/deploy-master.html)
 - [CHAPTER 3. MIGRATING FROM AN EARLIER VERSION OF KUBERNETES](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-atomic-host/7/paged/getting-started-with-kubernetes/chapter-3-migrating-from-an-earlier-version-of-kubernetes)
+- [Kubernetes 1.6: Multi-user, Multi-workloads at Scale](http://blog.kubernetes.io/2017/03/kubernetes-1.6-multi-user-multi-workloads-at-scale.html)
 
 ### Scratch
 Create own cluster without any scripts

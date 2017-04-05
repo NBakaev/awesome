@@ -32,9 +32,11 @@
  - [12 Open-Source Tools for Hadoop Technology](http://codecondo.com/12-open-source-tools-hadoop-technology/)
  - [Mahato - Apache Machine learning](https://mahout.apache.org)
 
-### Hadoop and ML legacy
-  - [ambrose - A platform for visualization and real-time monitoring of data workflows](https://github.com/twitter/ambrose)
-  - [Apache PredictionIO](http://predictionio.incubator.apache.org/index.html)
+## OLAP
+ - [snoflake](https://www.snowflake.net/)
+ - reshift
+ - [vertica](https://www.vertica.com/)
+ - [clickhouse](https://clickhouse.yandex/)
 
 ## Business intelligence (BI)
  - [How to share data with a statistician](https://github.com/jtleek/datasharing)
@@ -49,13 +51,17 @@
  - [Expanding the Cloud: Introducing Amazon QuickSight](http://www.allthingsdistributed.com/2015/10/amazon-quicksight.html)
  - [segment.com - Track your customer data to Amazon Redshift](https://segment.com/redshift)
 
-### PowerBI - microsoft Business Intelligence
+### PowerBI
+microsoft Business Intelligence
+
 - [powerbi.microsoft.com/ru-ru/](https://powerbi.microsoft.com/ru-ru/)
 - [Office как Платформа, выпуск №2: Power BI – новый подход к созданию бизнес-аналитики](http://habrahabr.ru/company/microsoft/blog/264051/)
 - [Простой план-фактный анализ в Power BI Desktop. Часть первая – консолидация и очистка данных](http://habrahabr.ru/post/262655/)
 - [Простой план-фактный анализ в Power BI Desktop. Часть вторая – визуализация](http://habrahabr.ru/post/264223/)
 
 ### Data Visualisation (Technical)
+Draw charts, diagrams etc, primary on javascript
+
  - [The 15 Best JavaScript Charting Libraries](http://www.sitepoint.com/15-best-javascript-charting-libraries/)
  - [HTML5 javascript diagram lib jointjs](http://jointjs.com/)
  - [visjs.org](http://visjs.org/)
@@ -67,3 +73,7 @@
  - [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
  - [Chart.js - Simple yet flexible JavaScript charting for designers and developers](http://www.chartjs.org/)
  - [Dashing - The exceptionally handsome dashboard framework](http://dashing.io/)
+
+### legacy
+   - [ambrose - A platform for visualization and real-time monitoring of data workflows](https://github.com/twitter/ambrose)
+   - [Apache PredictionIO](http://predictionio.incubator.apache.org/index.html)

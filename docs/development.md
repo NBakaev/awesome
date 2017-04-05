@@ -38,6 +38,7 @@
  - [Более 350 бесплатных инструментов для разработчиков](https://habrahabr.ru/company/it-grad/blog/270589/)
  - [:star: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
  - [TECHNOLOGY RADAR NOV ‘16](https://assets.thoughtworks.com/assets/technology-radar-nov-2016-en.pdf)
+ - [hiring-without-whiteboards - Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
 
 ### To read accounts/blogs
 Stay in touch with the world
