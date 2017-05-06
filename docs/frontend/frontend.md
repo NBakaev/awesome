@@ -103,7 +103,16 @@ MD suitable color
  - [Comparing Performance of Blaze, React, Angular-Meteor and Angular 2 with Meteor](http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor)
  - [Improving Angular web app performance example](http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html)
 
-### Angular
+## Debug
+ - https://www.browserstack.com/accounts/subscriptions
+ - https://github.com/google/ios-webkit-debug-proxy - debug ios safari from windows
+
+### vorlonjs
+- http://www.vorlonjs.io/
+- <script src="http://192.168.1.151:1337/vorlon.js"></script>
+- [Remotely Debug and Test JavaScript with New Vorlon.js Plug-ins](http://www.sitepoint.com/remotely-debug-and-test-javascript-with-new-vorlon-js-plug-ins/)
+
+## Angular
  - [Angular Docs - Developer Guide](https://docs.angularjs.org/guide/di)
  - [Использование angular-translate для локализации приложений AngularJS](http://habrahabr.ru/company/eastbanctech/blog/242455/)
  - [i18n and l10n](https://docs.angularjs.org/guide/i18n)
@@ -120,7 +129,7 @@ MD suitable color
  - [ng-idle - детектор бездействия](https://github.com/hackedbychinese/ng-idle)
  - [Фильтруй правильно, или вредные советы по фильтрации в Angular.Js](https://habrahabr.ru/company/infopulse/blog/281617/)
 
-#### Angular 1.5
+### Angular 1.5
   - [A Guide to Building Quality Angular 1.5 Components](https://www.sitepoint.com/building-angular-1-5-components/)
   - [Upgrade Your App to Angular 1.5 Components and Beyond!](https://www.sitepoint.com/upgrade-to-angular-components/)
 
@@ -144,7 +153,6 @@ MD suitable color
  - [Тонкости ES6: Коллекции (часть 2) ](http://habrahabr.ru/post/261417/)
  - [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html?m=1)
  - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
- - [Remotely Debug and Test JavaScript with New Vorlon.js Plug-ins](http://www.sitepoint.com/remotely-debug-and-test-javascript-with-new-vorlon-js-plug-ins/)
  - [Как написать JS-библиотеку на ScalaJS](http://habrahabr.ru/company/qiwi/blog/272625/)
  - [Parallel JavaScript with ParallelJS](http://www.sitepoint.com/parallel-javascript-with-paralleljs/)
  - [JavaScript goes to Asynchronous city](https://blogs.msdn.microsoft.com/eternalcoding/2015/09/30/javascript-goes-to-asynchronous-city/)

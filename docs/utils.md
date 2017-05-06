@@ -35,6 +35,15 @@ This may fix the thing ;)
  - http://wintoflash.com/forum/viewtopic.php?f=7&t=42296&p=48250
  - https://nnmclub.to/forum/viewtopic.php?t=926567&start=45
  - http://habrahabr.ru/company/pt/blog/264763/
+ - [Disable Microsoft Compatibility Telemetry in Windows 10](from https://ugetfix.com/ask/how-to-disable-microsoft-compatibility-telemetry-compattelrunner-exe/)
+
+ in cmd:
+ ```
+ sc delete DiagTrack
+ sc delete dmwappushservice
+ echo “” > C:\ProgramData\Microsoft\Diagnosis\ETLLogs\AutoLogger\AutoLogger-Diagtrack-Listener.etl
+ reg add “HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection” /v AllowTelemetry /t REG_DWORD /d 0 /f
+ ```
 
 ### Save positions in video VLC
  - http://vlcsrposplugin.sourceforge.net/

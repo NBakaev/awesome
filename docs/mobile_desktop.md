@@ -69,6 +69,7 @@ Cross-platform development with JavaScript
  - [Android boot-up messages for debugging](http://android.stackexchange.com/a/26126)
  - [Setting up GitLab CI for Android projects](https://about.gitlab.com/2016/11/30/setting-up-gitlab-ci-for-android-projects/)
  - [Deflating the LayoutInflater](https://blog.uncommon.is/deflating-the-layoutinflater-a16aa0c96415)
+ - [A simple event bus with RxJava](https://medium.com/@seventyone/a-simple-event-bus-with-rxjava-46cc1858df23)
 
 ```bash
  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore my_application.apk alias_name
