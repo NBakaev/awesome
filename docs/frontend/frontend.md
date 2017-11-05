@@ -25,6 +25,7 @@
  - [20+ Docs and Guides for Front-end Developers (No. 8)](https://www.sitepoint.com/20-docs-guides-front-end-developers-8/)
  - [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
  - [Chrome 56 Will Aggressively Throttle Background Tabs](Chrome 56 Will Aggressively Throttle Background Tabs)
+ - [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)

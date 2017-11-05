@@ -13,6 +13,7 @@
  - [Creating Components in Angular 2 with Typescript and ES5](http://www.sitepoint.com/creating-components-angular-2-typescript-es5/)
  - [Creating Your First Angular 2 Components](https://scotch.io/tutorials/creating-your-first-angular-2-components)
  - [:star: angular-cli](https://github.com/angular/angular-cli)
+ - [Creating A Custom ErrorHandler In Angular 2 RC 6](https://www.bennadel.com/blog/3138-creating-a-custom-errorhandler-in-angular-2-rc-6.htm)
 
  - twitter.com/AngularConnect — там выкладывают ссылки на презентации, выступления и т.п.
  - gitter.im/angular/angular

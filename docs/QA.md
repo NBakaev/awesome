@@ -7,6 +7,8 @@
  - [Diffy: Testing services without writing tests](https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests)
  - [The 7 Cross-Browser Testing Tools You Need in 2016](http://www.sitepoint.com/the-7-cross-browser-testing-tools-you-need-in-2016/)
  - [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
+ - [:star: Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
+ - https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai
 
 ## Network & Traffic capture and analyze
 
