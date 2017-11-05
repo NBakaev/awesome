@@ -83,7 +83,7 @@ MD suitable color
  - [Наш опыт переезда на адаптивный UI-кит, mail.ru, habr](http://habrahabr.ru/company/mailru/blog/256869/)
 
 #### styleguide / codestyle
- - [angular-styleguide](https://github.com/johnpapa/angular-styleguide)
+ - [Angular 2+](https://angular.io/guide/styleguide)
  - [airbnb/javascript]( https://github.com/airbnb/javascript/blob/master/README.md)
 
 ##### Linters

@@ -9,6 +9,11 @@
 - [Introduction to the MEAN Stack](http://www.sitepoint.com/introduction-to-mean-stack/)
 - [The Modern Application Stack – Part 3: Building a REST API Using Express.js](https://dzone.com/articles/the-modern-application-stack-part-3-building-a-res)
 - [Build an Etsy Clone with Angular and Stamplay (Part 3)](https://scotch.io/tutorials/build-an-etsy-clone-with-angular-and-stamplay-part-3)
+- [nodejs example]( https://github.com/KunalKapadia/express-mongoose-es6-rest-api)
+- [ES6, class: building-a-scalable-node-js-express-app](https://medium.com/@zurfyx/building-a-scalable-node-js-express-app-1be1a7134cfd)
+-  https://blog.risingstack.com/node-js-logging-tutorial/
+- [Обзор базовых возможностей ES6](https://m.habrahabr.ru/post/313526/)
+- [Делаем проект на Node.js с использованием Mongoose, Express, Cluster. Часть 1](https://m.habrahabr.ru/post/314394/)
 
 ## Notes
 

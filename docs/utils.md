@@ -142,6 +142,7 @@ umount /mnt/192.168.1.82
  - http://www.acronis.com/en-us/enterprise/download/acronis-storage/
  - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.exe
  - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.x86_64
+ - http://dl2.acronis.com/u/AcronisBackup12.5/Release/AcronisBackup_12.5_64-bit.exe
 
 ## rsync
 
