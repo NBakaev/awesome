@@ -19,6 +19,7 @@
 - [BigML: Machine Learning made easy](http://cloudacademy.com/blog/bigml-machine-learning/)
 - [Ко-кластеризация: cегментирование данных вдоль и поперёк](https://habrahabr.ru/post/265489/)
 - [MIT Deep Learning Book in PDF format](https://github.com/HFTrader/DeepLearningBook)
+- [Youtube - Яндекс - Компьютерные науки - ML тренировки](https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA)
 
 ## TensorFlow
 - [Teach Yourself Deep Learning with TensorFlow and Udacity](https://developers.googleblog.com/2016/01/teach-yourself-deep-learning-with.html)

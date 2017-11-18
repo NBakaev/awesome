@@ -14,6 +14,7 @@
 -  https://blog.risingstack.com/node-js-logging-tutorial/
 - [Обзор базовых возможностей ES6](https://m.habrahabr.ru/post/313526/)
 - [Делаем проект на Node.js с использованием Mongoose, Express, Cluster. Часть 1](https://m.habrahabr.ru/post/314394/)
+- [async & await](https://davidwalsh.name/async-await)
 
 ## Notes
 
