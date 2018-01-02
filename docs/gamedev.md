@@ -28,3 +28,7 @@ Game Development
  - [Linking Static Libraries Using The Build System](https://wiki.unrealengine.com/Linking_Static_Libraries_Using_The_Build_System)
  - [Dedicated Server Guide (Windows & Linux)](https://wiki.unrealengine.com/Dedicated_Server_Guide_(Windows_%26_Linux))
  - [Dedicated server code split from client code](https://forums.unrealengine.com/showthread.php?17941-Dedicated-server-code-split-from-client-code&p=95759&viewfull=1#post95759)
+
+### Cloud gaming
+ - [RU - playkey - only games from catalogue](http://playkey.net)
+ - [US/EU - liquidsky - remote desktop - play all games](https://liquidsky.com)
