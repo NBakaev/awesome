@@ -26,6 +26,7 @@
  - [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
  - [Chrome 56 Will Aggressively Throttle Background Tabs](Chrome 56 Will Aggressively Throttle Background Tabs)
  - [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
+ - [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
 
 ### Google Material Design
  - [:star: Google Guide Google Material Design](https://www.google.com/design/spec/components/bottom-sheets.html)

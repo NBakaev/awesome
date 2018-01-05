@@ -4,6 +4,7 @@
  - [Стартапы — дух времени](https://habrahabr.ru/post/300664/)
  - [62 Tips From Y Combinator’s Startup Instruction Manual](https://techcrunch.com/gallery/y-combinator-startup-playbook/)
  - [Как общаться с заказчиками и договариваться о проектной работе](https://habrahabr.ru/post/302340/)
+ - [Суррогаты](https://habrahabr.ru/post/344844/)
 
 ## Интернет магазин
 - [Интернет-магазины приучают покупателей платить онлайн](https://megamozg.ru/post/16312/)

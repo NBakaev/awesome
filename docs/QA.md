@@ -10,6 +10,7 @@
  - [:star: Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
  - [puppeteer - Headless Chrome Node API https://try-puppeteer.appspot.com/](https://github.com/GoogleChrome/puppeteer)
  - https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai
+ - [Chrome automation made simple. Runs locally or headless on AWS Lambda - chromeless.netlify.com](https://github.com/graphcool/chromeless)
 
 ## Network & Traffic capture and analyze
 

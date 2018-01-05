@@ -13,3 +13,5 @@
  - [Вся правда об XSS или Почему межсайтовое выполнение сценариев не является уязвимостью?](http://habrahabr.ru/post/149152/)
  - [ГЕОТАРГЕТИНГ ДЛЯ ПРОГРАММИСТА.xaker](https://xakep.ru/2015/06/25/geotargeting-api-197/)
  - [Геолокация без GPS (часть 2)](https://habrahabr.ru/post/259605/)
+
+ - [Understanding the SSH Encryption and Connection Process](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
