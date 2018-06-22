@@ -133,6 +133,20 @@ sudo apt-get install cifs-utils
 mount -t cifs -o username=SECRET_USERNAME,password=SECRET_PASSWORD //192.168.1.82/backups/ /mnt/backups
 umount /mnt/192.168.1.82
 ```
+
+### Set hostname ubuntu
+Edit /etc/cloud/cloud.cfg and set the parameter "preserve_hostname" from "false" to "true" 
+
+```bash
+hostnamectl set-hostname 'new-hostname'
+```
+
+### run simple webserver
+
+```bash
+python -m http.server 5005
+```
+
 ### Acronis Backup
 - [46745: Acronis Backup Advanced 11.7/11.5: Moving Acronis Management Server](https://kb.acronis.com/content/46745)
 `/usr/lib/Acronis/BackupAndRecovery/uninstall/uninstall`
@@ -140,7 +154,6 @@ umount /mnt/192.168.1.82
 #### releases
  - http://www.acronis.com/en-us/support/updates/
  - http://www.acronis.com/en-us/enterprise/download/acronis-storage/
- - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.exe
  - http://dl2.acronis.com/u/AcronisBackup12/Release/AcronisBackup_12_64-bit.x86_64
  - http://dl2.acronis.com/u/AcronisBackup12.5/Release/AcronisBackup_12.5_64-bit.exe
 
@@ -152,3 +165,22 @@ umount /mnt/192.168.1.82
 In folder with jdk/jre, such as example`C:\Program Files\Java\jre-9\lib\security`
 Default password is `changeit`
 `keytool -keystore cacerts -importcert -alias my_custom_cert_name -file "C:\path_to_ca_cert\ca.crt"`
+
+## Windows
+
+SAN Policy=OnlineAll
+https://blogs.technet.microsoft.com/askcore/2011/06/02/my-disk-is-read-only-help/
+
+https://www.qualitestgroup.com/resources/knowledge-center/how-to-guide/offlineonline-disk-using-diskpart/
+
+```bash
+diskpart
+list disk
+select disk 1
+online disk
+attributes disk clear readonly
+```
+
+```bash
+netsh winhttp reset proxy
+```
