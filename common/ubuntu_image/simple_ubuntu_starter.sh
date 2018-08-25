@@ -5,14 +5,13 @@ set -e
 
 # add docker repository
 sudo apt update
-sudo apt install apt-transport-https ca-certificates curl software-properties-common
+sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
 sudo apt update
-sudo apt install docker-ce
 
 # install docker & dnsmasq
-apt-get install bridge-utils dnsmasq curl openssh-server unzip httpie socat -y
+apt install docker-ce bridge-utils dnsmasq curl openssh-server unzip httpie socat -y
 
 # enable swap with 4gb
 sudo fallocate -l 4G /swapfile
