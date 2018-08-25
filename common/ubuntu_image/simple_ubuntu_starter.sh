@@ -4,12 +4,15 @@
 set -e
 
 # add docker repository
-apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
-echo deb https://apt.dockerproject.org/repo ubuntu-xenial main >> /etc/apt/sources.list.d/docker.list
-apt-get update
+sudo apt update
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+sudo apt update
+sudo apt install docker-ce
 
 # install docker & dnsmasq
-apt-get install docker-engine bridge-utils dnsmasq curl openssh-server unzip httpie socat -y
+apt-get install bridge-utils dnsmasq curl openssh-server unzip httpie socat -y
 
 # enable swap with 4gb
 sudo fallocate -l 4G /swapfile
