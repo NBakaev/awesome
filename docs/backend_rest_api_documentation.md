@@ -7,6 +7,7 @@
  - [:star: Microsoft (REST) api guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
  - [10 Mistakes to Avoid When Building Your API](http://blog.hellosign.com/10-mistakes-to-avoid-when-building-your-api/)
  - [Ask HN: What is your go-to example for a good REST API?](https://news.ycombinator.com/item?id=11971491)
+ - [ReDoc - OpenAPI/Swagger-generated API Reference Documentation ](https://github.com/Rebilly/ReDoc)
 
 ### REST API examples
  - [Dropbox API Explorer](https://dropbox.github.io/dropbox-api-v2-explorer/)

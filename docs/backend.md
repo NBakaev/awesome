@@ -332,6 +332,11 @@ Spring framework & spring boot & microservices
  - [Real-time Applications with AngularJS and Java – Part 2](https://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
  - [Spring Async and Java’s 8 CompletableFuture](https://www.javacodegeeks.com/2016/04/spring-async-javas-8-completablefuture.html)
 
+### Reactive / Flux
+
+ - [Реактивное программирование со Spring Boot 2. Часть 1](https://habr.com/post/342498/)
+ - [Реактивное программирование со Spring Boot 2. Часть 2](https://habr.com/post/342506/)
+
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)
  - [spring-data-examples](https://github.com/ttrelle/spring-data-examples)
@@ -339,6 +344,7 @@ Spring framework & spring boot & microservices
 ## Java profiling
 Performance, APM
 
+ - [:star: async-profiler - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events](https://github.com/jvm-profiling-tools/async-profiler)
  - [Monitoring and Management](http://www.javacodegeeks.com/2015/09/monitoring-and-management.html)
  - [yourkit - java profiler](https://www.yourkit.com/java/profiler/features/)
  - [Flight recorder Oracle profiler](http://www.oracle.com/technetwork/java/embedded/resources/tech/java-flight-rec-on-java-se-emb-8-2158734.html)

@@ -112,6 +112,19 @@ git clone https://github.com/rasa/vmware-tools-patches.git & cd vmware-tools-pat
 ./download-tools.sh latest & ./untar-and-patch.sh & ./compile.sh
 ```
 
+Force vmware allocate in memory (do not user .vmem files)
+https://communities.vmware.com/thread/564465
+
+add to .vmx file of VM
+
+```bash
+prefvmx.minVmMemPct = "100"
+MemTrimRate = "0"
+mainMem.useNamedFile = "FALSE"
+sched.mem.pshare.enable = "FALSE"
+prefvmx.useRecommendedLockedMemSize = "TRUE"
+```
+
 ### Docker
 Docker, Docker, Docker
 
@@ -168,9 +181,9 @@ Default password is `changeit`
 
 ## Windows
 
+### Make read only disk writable
 SAN Policy=OnlineAll
 https://blogs.technet.microsoft.com/askcore/2011/06/02/my-disk-is-read-only-help/
-
 https://www.qualitestgroup.com/resources/knowledge-center/how-to-guide/offlineonline-disk-using-diskpart/
 
 ```bash
@@ -183,4 +196,9 @@ attributes disk clear readonly
 
 ```bash
 netsh winhttp reset proxy
+```
+
+### Windows 10 delete preinstalled app photo
+```powershell
+Get-AppxPackage *photos* | Remove-AppxPackage
 ```
