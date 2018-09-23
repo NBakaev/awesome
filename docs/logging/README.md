@@ -54,3 +54,5 @@ APM
  - [Automating Docker Logging: ElasticSearch, Logstash, Kibana, and Logspout](http://nathanleclaire.com/blog/2015/04/27/automating-docker-logging-elasticsearch-logstash-kibana-and-logspout/)
  - [http://sixrevisions.com/tools/free-server-monitoring-tools/](http://sixrevisions.com/tools/free-server-monitoring-tools/)
  - [Logging with Docker — Part 1.1](https://medium.com/@yoanis_gil/logging-with-docker-part-1-1-965cb5e17165#.rs6ivrqlk)
+ - [logtrail - Kibana plugin to view, search & live tail log events](https://github.com/sivasamyk/logtrail)
+ - [Tweaking an EFK stack on Kubernetes](https://blog.ptrk.io/tweaking-an-efk-stack-on-kubernetes/)

@@ -173,7 +173,8 @@ parse HTML / DOM, extract html content
  - [Catch common Java mistakes as compile-time errors http://errorprone.info](https://github.com/google/error-prone)
  - [Справочник по синхронизаторам java.util.concurrent.*](https://habrahabr.ru/post/277669/)
  - [Обзор java.util.concurrent.*](https://habrahabr.ru/company/luxoft/blog/157273/)
-
+ - [Redisson - distributed Java objects and services](https://redisson.org)
+ 
 ### Java 9
   - [Inside Java 9 – Version Schema, Multi-Release JARs, and More](https://www.sitepoint.com/inside-java-9-part-i/)
   - [The Ultimate Guide to Java 9](https://www.sitepoint.com/ultimate-guide-to-java-9/)
