@@ -20,3 +20,12 @@ sudo mkswap /swapfile
 sudo swapon /swapfile
 free -m
 echo "/swapfile   none    swap    sw    0   0" >> /etc/fstab
+
+# micro - text editor https://github.com/zyedidia/micro
+EXPORT MICRO_VERSION=1.4.1
+wget https://github.com/zyedidia/micro/releases/download/v${MICRO_VERSION}/micro-${MICRO_VERSION}-linux64.tar.gz
+tar -xvf micro-${MICRO_VERSION}-linux64.tar.gz
+cp micro-${MICRO_VERSION}/micro /bin
+rm -rm ./micro-${MICRO_VERSION}
+
+echo "### DONE "###"
