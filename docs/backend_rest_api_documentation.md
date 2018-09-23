@@ -39,16 +39,6 @@ locust -f locu.py --host=http://192.168.1.98:10001 --master
 locust -f locu.py --slave --master-host=127.0.0.1
 ```
 
-## GraphQL
-bad hipster technology
-
- - [Using GraphQL with MongoDB](https://www.compose.com/articles/using-graphql-with-mongodb/)
- - [GraphQL and GraphiQL Spring Framework Boot Starters](https://github.com/oembedler/graphql-spring-boot)
- - [Example GraphQL server with Mongoose (MongoDB) and Node.js](https://github.com/RisingStack/graphql-server)
- - [Spring Framework GraphQL Library](https://github.com/oembedler/spring-graphql-common)
- - [Introducing the Apollo GraphQL data stack](https://medium.com/apollo-stack/introducing-the-apollo-graphql-data-stack-5d005312cbd0#.fge26theb)
- - [How to build GraphQL servers](https://medium.com/apollo-stack/how-to-build-graphql-servers-87587591ded5#.oueqzsxou)
-
 ## RPC / DTO
  - [Trift (facebook)](https://thrift.apache.org/)
  - [brotobuff (google)](https://developers.google.com/protocol-buffers/)

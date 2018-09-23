@@ -43,6 +43,7 @@
 - [TeamViewer – решение для удалённого доступа и поддержки через Интернет](https://www.teamviewer.com/ru/)
 - [dexpot - VIRTUAL DESKTOP](http://dexpot.de/index.php?id=dexpot)
 - [ontopreplica](http://ontopreplica.codeplex.com/)
+- [mountain duck - Cyberduck for mounting volumes in the file explorer](https://mountainduck.io/)
 
 ## Development
 Tools for developers

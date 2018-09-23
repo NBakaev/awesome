@@ -24,10 +24,6 @@ APM
 - [How-to monitor Docker ?](https://opsnotice.xyz/how-to-monitor-docker-hosts/)
 - [51 инструмент для APM и мониторинга серверов](https://habrahabr.ru/company/pc-administrator/blog/304356/)
 
-### Zabbix
-- [Обнаружение + Zabbix API под Java](https://habrahabr.ru/company/at_consulting/blog/277027/)
-- [Вышел Zabbix 3.0](https://habrahabr.ru/company/zabbix/blog/277265/)
-
 ## Категории
 - [:star: newrelic - APM](https://github.com/NBakaev/awesome/blob/master/docs/logging/newrelic/newrelic.md)   
 - [logentries](https://github.com/NBakaev/awesome/blob/master/docs/logging/logentries/README.md)   

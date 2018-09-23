@@ -51,7 +51,6 @@ Server-side HTML and view page rendering
  - [:star: handlebars.java](https://github.com/jknack/handlebars.java)
  - [Handlebars. Руководство к действию, habr](http://habrahabr.ru/post/273581/)
  - [mustache.java](https://github.com/spullara/mustache.java)
-
  - [:star: thymeleaf](http://www.thymeleaf.org/)
  - freemarker
 
