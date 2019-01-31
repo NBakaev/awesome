@@ -17,7 +17,6 @@
  - [Свой облачный хостинг за 5 минут. Часть 2: Service Discovery, habr](http://habrahabr.ru/post/262397/)
  - [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
  - [what and why service discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
- - [running-own-docker-swarm-cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)
  - [Qcow2 — это формат дискового образа программы QEMU. Copy-On-Write](https://www.google.ru/search?q=Qcow2+disk)
  - [50 инструментов для автоматизации облачной инфраструктуры](https://habrahabr.ru/company/it-grad/blog/281801/)
  - [Consul: Service Discovery это просто, или прощаемся с конфиг-файлами](https://habrahabr.ru/post/266139/)
@@ -58,14 +57,11 @@
 #### S3 compatible APIs
  - [Scality S3 Server](https://s3.scality.com/)
  - [Эластичное избыточное S3-совместимое хранилище за 15 минут](http://habrahabr.ru/post/180415/)
- - [minio](https://github.com/minio/minio)
+ - [:star: minio](https://github.com/minio/minio)
 
 ### IaaS
- - [IaaS-дайджест: 30 материалов по теме виртуализации](https://habrahabr.ru/company/it-grad/blog/280868/)
- - [Google Cloud vs AWS: a comparison](http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/#comment-215)
- - AWS
- - Google Cloud
- - Digitalocean
+
+see [another page](https://github.com/NBakaev/awesome/blob/master/docs/web_services.md#iaas)
 
 ## Backup
   - https://thomassileo.name/blog/2013/03/21/backing-up-mongodb-to-amazon-glacier-slash-s3-with-python-using-sh-and-bakthat/
@@ -119,12 +115,10 @@ systemd is an init system by default in ubuntu 16.04 lts
  - [How to create a pub/sub application with MongoDB ? Introduction](http://tugdualgrall.blogspot.fr/2015/01/how-to-create-pubsub-application-with.html?m=1)
  - [Multi-Tier Architecture Tutorial using Docker](http://www.javacodegeeks.com/2015/02/multi-tier-architecture-tutorial-using-docker.html)
  - [Continuous Integration, Delivery or Deployment with Jenkins, Docker and Ansible](http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html)
- - [ORCHESTRATING DOCKER WITH MACHINE, SWARM AND COMPOSE](https://blog.docker.com/2015/02/orchestrating-docker-with-machine-swarm-and-compose/)
  - [Docker и костыли в продакшене](http://habrahabr.ru/post/253999/)
  - [Distribute your applications with Docker Images](http://www.javacodegeeks.com/2015/05/distribute-your-applications-with-docker-images.html)
  - [docker-maven-plugin](https://github.com/rhuss/docker-maven-plugin/blob/master/doc/manual.md)
  - [docker registry](https://github.com/docker/distribution)
- - [:star: SCALING TO INFINITY WITH DOCKER SWARM, DOCKER COMPOSE AND CONSUL (PART 3/4) – BLUE-GREEN DEPLOYMENT, AUTOMATION AND SELF-HEALING PROCEDURE](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-34-blue-green-deployment-automation-and-self-healing-procedure/)
  - [MongoDB Sharded Cluster Docker github](https://github.com/sebastianvoss/docker)
  - [:video_camera: Александр Тарасов — Docker в банке](http://www.youtube.com/watch?v=Jb62_R8WnII)
  - [Developing Inside Docker Containers with OS X](http://hharnisc.github.io/2015/09/16/developing-inside-docker-containers-with-osx.html)
@@ -149,18 +143,18 @@ systemd is an init system by default in ubuntu 16.04 lts
 - [A container networking overview](https://jvns.ca/blog/2016/12/22/container-networking/)
 - [Docker networking 101 – User defined networks](http://www.dasblinkenlichten.com/docker-networking-101-user-defined-networks/)
 
-### Docker & systemd
-file `/lib/systemd/system/docker.service`
+#### Service Mesh
 
-StartExec: `/usr/bin/docker daemon -H fd:// -D --tls=true --tlscacert=/mnt/hgfs/test/shared/ca.pem --tlscert=/mnt/hgfs/test/shared/server-cert.pem --tlsverify --tlskey=/mnt/hgfs/test/shared/server-key.pem -H tcp://192.168.127.131:2376 -H unix:///var/run/docker.sock`
+ - [What is Istio?](https://opensource.com/article/18/9/what-istio)
+
+### Docker & systemd
 
  - https://docs.docker.com/v1.10/engine/security/https/
  - https://docs.docker.com/engine/admin/systemd/
 
 ### Container orchestration
-docker orchestration
 
- - [Docker compose: nginx, tomcat, mysql](https://dzone.com/articles/docker-3-tier-java-app-nginx-tomcat-mysql-automati-2)
+Docker orchestration
 
 ## :star: Kubernetes
 
@@ -173,7 +167,6 @@ docker orchestration
 - [kuberdash - Analytics dashboard for Kubernetes](https://github.com/kubernetes/kubedash)
 - [cadvisor](https://github.com/google/cadvisor)
 - [CONTAINER ENGINE](https://cloud.google.com/container-engine/)
-- [Fabric8 Maven Plugin](http://fabric8.io/guide/mavenPlugin.html)
 - [Manage Kubernetes cluster from UI, stackoverflow](http://stackoverflow.com/questions/31767161/manage-kubernetes-cluster-from-ui)
 - [Getting Started with a Multi-node Kubernetes Cluster on Ubuntu](https://devops.profitbricks.com/tutorials/getting-started-with-a-multi-node-kubernetes-cluster-on-ubuntu/)
 - [kubernetes-java-sample](https://github.com/arun-gupta/kubernetes-java-sample)
@@ -239,11 +232,6 @@ Kubernetes locally for developers on localhost
  - [Security Model](https://coreos.com/etcd/docs/latest/security.html#example-3-transport-security-&-client-certificates-in-a-cluster)
  - [Authentication Guide](https://coreos.com/etcd/docs/latest/authentication.html)
 
-### fabric8
- - [fabric8 - an open source developer platform](http://fabric8.io/)
- - [Kubernetes Client API](https://github.com/fabric8io/fabric8/tree/master/components/kubernetes-api)
- - [Java client for Kubernetes & OpenShift 3 http://fabric8.io](https://github.com/fabric8io/kubernetes-client)
-
 ### Ansible
 alternative to chef/puppet
 
@@ -289,22 +277,46 @@ openssl rsa -in nbakaev.ru.key -outform der -pubout | openssl dgst -sha256 -bina
 openssl dhparam -out dhparam.pem -rand /dev/urandom 4096
 ```
 
-#### Alternatives to kubernetes - Docker orchestration
- - [marathon](https://github.com/mesosphere/marathon)
- - [CONTINUOUS DEPLOYMENT WITH MESOS, MARATHON AND DOCKER](https://mesosphere.com/blog/2015/04/02/continuous-deployment-with-mesos-marathon-docker/)
- - [Mesos Sandbox Using Docker Compose](https://spof.io/blog/2015/06/23/mesos-sandbox-using-docker-compose/)
- - [mesosphere](http://mesosphere.github.io/marathon/docs/application-basics.html)
- - [mesos](http://mesos.apache.org/documentation/latest/)
- - [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
- - [Mesosphere open sources its data center OS](https://techcrunch.com/2016/04/19/mesosphere-open-sources-its-data-center-os)
+##### Rancher 2
 
-##### rancher
- - [Announcing Rancher 1.0 GA](http://rancher.com/announcing-rancher-1-0-ga/)
- - [rancher](http://docs.rancher.com/rancher/latest/en/quick-start-guide/)
- - [Rancher Labs | Launch Your Private Container Service](http://rancher.com/)
+:star: Cool Kubernetes UI, Cluster Provisioner etc
+
+ - [Rancher](http://rancher.com/)
 
 #### Other
 Some tools
 
  - [Мал золотник, да дорог: в двух словах о VMware Host Client](https://habrahabr.ru/company/cloud4y/blog/301878/)
  - [Using Hashicorp Vault as a PKI SSL/TLS CA](http://cuddletech.com/?p=959)
+
+### Grafana
+
+ - [wmi_exporter - Windows node stats](https://github.com/martinlindhe/wmi_exporter)
+ - [NodeExporter - Linux node stats](https://github.com/prometheus/node_exporter)
+ - [Introducing ebpf_exporter](https://blog.cloudflare.com/introducing-ebpf_exporter/)
+
+## Legacy
+
+It's time to stop using it
+
+#### Alternatives to kubernetes - Docker orchestration
+
+ - [marathon](https://github.com/mesosphere/marathon)
+ - [CONTINUOUS DEPLOYMENT WITH MESOS, MARATHON AND DOCKER](https://mesosphere.com/blog/2015/04/02/continuous-deployment-with-mesos-marathon-docker/)
+ - [Mesos Sandbox Using Docker Compose](https://spof.io/blog/2015/06/23/mesos-sandbox-using-docker-compose/)
+ - [mesosphere](http://mesosphere.github.io/marathon/docs/application-basics.html)
+ - [mesos](http://mesos.apache.org/documentation/latest/)
+ - [Mesosphere open sources its data center OS](https://techcrunch.com/2016/04/19/mesosphere-open-sources-its-data-center-os)
+
+### fabric8
+
+ - [fabric8 - an open source developer platform](http://fabric8.io/)
+ - [Kubernetes Client API](https://github.com/fabric8io/fabric8/tree/master/components/kubernetes-api)
+ - [Java client for Kubernetes & OpenShift 3 http://fabric8.io](https://github.com/fabric8io/kubernetes-client)
+ - [Fabric8 Maven Plugin](http://fabric8.io/guide/mavenPlugin.html)
+
+### Docker Swarm
+
+ - [ORCHESTRATING DOCKER WITH MACHINE, SWARM AND COMPOSE](https://blog.docker.com/2015/02/orchestrating-docker-with-machine-swarm-and-compose/)
+ - [:star: SCALING TO INFINITY WITH DOCKER SWARM, DOCKER COMPOSE AND CONSUL (PART 3/4) – BLUE-GREEN DEPLOYMENT, AUTOMATION AND SELF-HEALING PROCEDURE](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-34-blue-green-deployment-automation-and-self-healing-procedure/)
+ - [running-own-docker-swarm-cluster](http://blog.scottlowe.org/2015/03/06/running-own-docker-swarm-cluster/)

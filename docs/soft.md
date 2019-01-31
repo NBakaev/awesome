@@ -102,6 +102,7 @@ Git Gui
  - https://gist.github.com/tsabat/1498393
  - [CONEMU - WINDOWS CONSOLE EMULATOR WITH TABS](http://blog.codeleak.pl/2014/10/conemu-windows-console-emulator-with.html)
  - [babun + zsh + comemu](https://github.com/NBakaev/awesome/tree/master/common/windows)
+ - [bat - A cat(1) clone with wings](https://github.com/sharkdp/bat)
 
 ## Screenshots and screencast
 - [ShareX - Take a screenshot or a screencast](https://getsharex.com/)

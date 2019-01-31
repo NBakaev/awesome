@@ -295,6 +295,11 @@ Cache & data grids
  - [Apache Spark как ядро проекта. Часть 1](https://habrahabr.ru/post/271375/)
  - [Apache Spark @Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)
 
+## Kafka, MQ
+
+ - [Apache Kafka и RabbitMQ: семантика и гарантия доставки сообщений](https://habr.com/ru/company/itsumma/blog/437446/)
+ - [RabbitMQ Spring tutorial , habr](http://habrahabr.ru/post/262069/)
+
 ## Spring
 Spring framework & spring boot & microservices
 
@@ -312,7 +317,6 @@ Spring framework & spring boot & microservices
  - [Migrating a Spring Web MVC application from JSP to AngularJS](https://spring.io/blog/2015/08/19/migrating-a-spring-web-mvc-application-from-jsp-to-angularjs)
  - [Spring boot static web resource handling for Single Page Applications](http://www.javacodegeeks.com/2015/08/spring-boot-static-web-resource-handling-for-single-page-applications.html)
  - [Деплой Java Spring приложения в PaaS-платформу Heroku за 14 минут](http://habrahabr.ru/post/265591/)
- - [RabbitMQ Spring tutorial , habr](http://habrahabr.ru/post/262069/)
  - [Admin UI for administration of spring boot applications](https://github.com/codecentric/spring-boot-admin)
  - [Spring REST Docs](http://projects.spring.io/spring-restdocs/)
  - [Spring Cloud](http://projects.spring.io/spring-cloud/spring-cloud.html#_features)
@@ -321,8 +325,7 @@ Spring framework & spring boot & microservices
  - [How SpringBoot AutoConfiguration magic works?](http://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)
  - [Пишем свой spring-boot-starter](https://habrahabr.ru/post/275337/)
  - [Spring Boot start as Unix/Linux services](http://docs.spring.io/spring-boot/docs/1.3.0.BUILD-SNAPSHOT/reference/htmlsingle/#deployment-service)
- - [:video_camera: :star: Евгений Борисов — Spring-потрошитель, часть 1](https://www.youtube.com/watch?v=BmBr5diz8WA)
- - [:video_camera: :star: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
+
  - [Download file with RestTemplate](http://www.leveluplunch.com/java/tutorials/038-retrieve-file-spring-resttemplate/)
  - [JSON Web Tokens With Spring Cloud Microservices](https://www.javacodegeeks.com/2016/06/json-web-tokens-spring-cloud-microservices-2.html)
  - [Spring Security Reference](http://docs.spring.io/autorepo/docs/spring-security/4.1.x/reference/htmlsingle/)
@@ -331,6 +334,8 @@ Spring framework & spring boot & microservices
  - [Что нового и интересного в IntelliJ IDEA 15](http://habrahabr.ru/company/JetBrains/blog/270471/http://habrahabr.ru/company/JetBrains/blog/270471/)
  - [Real-time Applications with AngularJS and Java – Part 2](https://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
  - [Spring Async and Java’s 8 CompletableFuture](https://www.javacodegeeks.com/2016/04/spring-async-javas-8-completablefuture.html)
+ - [:video_camera: :star: Евгений Борисов — Spring-потрошитель, часть 1](https://www.youtube.com/watch?v=BmBr5diz8WA)
+ - [:video_camera: :star: Евгений Борисов — Spring-потрошитель, часть 2](https://www.youtube.com/watch?v=cou_qomYLNU)
 
 ### Reactive / Flux
 

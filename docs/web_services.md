@@ -45,6 +45,11 @@ Task manager
  - [servers.com](https://www.servers.com/)
  - [AWS](https://aws.amazon.com/ru/)
  - [digitalocean](https://www.digitalocean.com/)
+ - Google Cloud
+
+###
+ - [IaaS-дайджест: 30 материалов по теме виртуализации](https://habrahabr.ru/company/it-grad/blog/280868/)
+ - [Google Cloud vs AWS: a comparison](http://cloudacademy.com/blog/google-cloud-vs-aws-a-comparison/#comment-215)
 
 ### Российские
 
