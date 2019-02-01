@@ -146,6 +146,7 @@ systemd is an init system by default in ubuntu 16.04 lts
 #### Service Mesh
 
  - [What is Istio?](https://opensource.com/article/18/9/what-istio)
+ - [Envoy as an API Gateway in Kubernetes with Ambassador](https://www.envoyproxy.io/docs/envoy/latest/start/distro/ambassador)
 
 ### Docker & systemd
 
@@ -259,6 +260,7 @@ alternative to chef/puppet
   - [Howto: Make Your Own Cert With OpenSSL](https://blog.didierstevens.com/2008/12/30/howto-make-your-own-cert-with-openssl/)
   - [Nginx и https. Получаем класс А+](https://habrahabr.ru/post/252821/)
   - `sudo letsencrypt certonly -a webroot --webroot-path=/home/nginx/www -d nbakaev.com -d -d nbakaev.ru`
+  - [mkcert - A simple zero-config tool to make locally trusted development certificates with any names you'd like](https://github.com/FiloSottile/mkcert)
 
 #### Examples
 

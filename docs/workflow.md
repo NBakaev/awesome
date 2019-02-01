@@ -18,6 +18,7 @@
  - [3 unexpected tips to prepare for any interview](http://www.iwillteachyoutoberich.com/blog/how-to-prepare-for-an-interview/)
  - [:star: Glassdoor is a website where employees and former employees anonymously review companies and their management](https://www.glassdoor.com)
  - [#tceh: Григорий Бакунов («Яндекс») — Тренды цифрового мира 2018](https://www.youtube.com/watch?v=n0U2vfH242k)
+ - [О работе в Германии](https://habr.com/ru/post/418487/)
 
 ### :star: post-mortem
  - [RethinkDB: why we failed](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)
