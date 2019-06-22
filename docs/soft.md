@@ -25,8 +25,7 @@
  - [nylas OSS - The best email app for sales professionals](https://www.nylas.com/)
  - [WebTorrent Desktop Streaming torrent app](https://webtorrent.io/desktop/)
  - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md)
- - [Hyper - JS/HTML/CSS Terminal](https://hyper.is/JS/HTML/CSS Termina - JS/HTML/CSS Terminal)
-
+ 
 ### Mind maps
 - [XMind 6 - The most popular mind mapping software](http://www.xmind.net/)
 - [Mindjet MindManager 15 - Productivity & Creativity Meet in Mind Maps](https://www.mindjet.com/mindmanager/)
@@ -67,7 +66,6 @@ Find diff in text files, for example for git merge
 ### Database
 - [Navicat Premium - RDBMS database gui](http://www.navicat.com/products/navicat-premium)
 - [MongoChef - mongodb gui](http://3t.io/mongochef/)
-- [Robomongo — native MongoDB management tool (Admin UI)](https://robomongo.org/)
 - [JetBrains DataGrip: Your Swiss Army Knife for Databases and SQL](https://www.jetbrains.com/datagrip/)
 
 ### IDE / Code editors
@@ -94,6 +92,8 @@ Git Gui
  - [zeplin - Build pixel perfect apps in peace](https://zeplin.io/)
 
 ## Command line tools
+ - [Hyper - JS/HTML/CSS Terminal](https://hyper.is/JS/HTML/CSS Termina - JS/HTML/CSS Terminal)
+ - [:star: cmder - Portable console emulator for Windows](https://cmder.net/)
  - [Ubuntu: How can I install and use powerline plugin?](http://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin)
  - [babun - windows cygwin](http://babun.github.io/)
  - [Take control of your console in Windows with Babun, Oh My Zsh, and Powerline fonts](https://www.sorendam.com/take-control-of-your-console-in-windows-with-babun-oh-my-zsh-and-powerline-fonts/)
