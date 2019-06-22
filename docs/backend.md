@@ -341,6 +341,7 @@ Spring framework & spring boot & microservices
 
  - [Реактивное программирование со Spring Boot 2. Часть 1](https://habr.com/post/342498/)
  - [Реактивное программирование со Spring Boot 2. Часть 2](https://habr.com/post/342506/)
+ - Reactor context https://youtu.be/5tlZddM5Jo0
 
 ### Spring Data
  - [Spring Data MongoDB - Reference Documentation](http://docs.spring.io/spring-data/data-document/docs/current/reference/html/)
