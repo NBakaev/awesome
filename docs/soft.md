@@ -121,6 +121,7 @@ Web clients are better because SMTP is ugly, but...
 - [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
 - [TunnelBear - Free VPN](https://www.tunnelbear.com/)
 - [For developers: OpenVPN for Docker](https://github.com/jpetazzo/dockvpn)
+- [SoftEther VPN Project](https://www.softether.org)
 
 ## Virtualization
  - [VMware Workstation](http://www.vmware.com/ru/products/workstation)
