@@ -27,7 +27,7 @@ MICRO_VERSION=1.4.1
 wget https://github.com/zyedidia/micro/releases/download/v${MICRO_VERSION}/micro-${MICRO_VERSION}-linux64.tar.gz
 tar -xvf micro-${MICRO_VERSION}-linux64.tar.gz
 cp micro-${MICRO_VERSION}/micro /bin
-rm -rm ./micro-${MICRO_VERSION}
+rm -rf ./micro-${MICRO_VERSION}
 
 # docker-compose
 echo "Installing docker-compose..."
