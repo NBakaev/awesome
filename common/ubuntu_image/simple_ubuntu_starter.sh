@@ -38,4 +38,13 @@ echo "Creating zsh aliases..."
 echo "\nalias d='docker'" >> $HOME/.zshrc
 echo "\nalias k='kubectl'" >> $HOME/.zshrc
 
+echo "Disable ubuntu telemetry and ssh login news..."
+
+sudo sed -i "s/ENABLED=1/ENABLED=0/g" /etc/default/motd-news
+sudo apt purge -y ubuntu-report popularity-contest apport whoopsie
+rm -rf /etc/update-motd.d
+mkdir /etc/update-motd.d
+sudo systemctl stop motd-news
+sudo systemctl disable motd-news
+
 echo "### DONE "###"
