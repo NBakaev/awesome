@@ -62,6 +62,7 @@ Education
  - [Geekbrains | Вебинары 2014-2015 PCRec H.264 Часть 1](https://nnm-club.me/forum/viewtopic.php?t=929895)
  - [udacity -> Free Courses](https://www.udacity.com/courses/all)
  - [TED: Ideas worth spreading](https://www.ted.com/)
+ - [it ebooks](it-ebooks.info)
 
 ### Business
  - [Нетология](http://netology.ru/)
