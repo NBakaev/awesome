@@ -5,6 +5,7 @@
  - [62 Tips From Y Combinator’s Startup Instruction Manual](https://techcrunch.com/gallery/y-combinator-startup-playbook/)
  - [Как общаться с заказчиками и договариваться о проектной работе](https://habrahabr.ru/post/302340/)
  - [Суррогаты](https://habrahabr.ru/post/344844/)
+ - [Зарплаты айтишников в первой половине 2020: +8% за счет Москвы](https://habr.com/ru/article/511700/)
 
 ## Интернет магазин
 - [Интернет-магазины приучают покупателей платить онлайн](https://megamozg.ru/post/16312/)

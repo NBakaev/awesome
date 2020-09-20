@@ -131,10 +131,6 @@ MD suitable color
  - [ng-idle - детектор бездействия](https://github.com/hackedbychinese/ng-idle)
  - [Фильтруй правильно, или вредные советы по фильтрации в Angular.Js](https://habrahabr.ru/company/infopulse/blog/281617/)
 
-### Angular 1.5
-  - [A Guide to Building Quality Angular 1.5 Components](https://www.sitepoint.com/building-angular-1-5-components/)
-  - [Upgrade Your App to Angular 1.5 Components and Beyond!](https://www.sitepoint.com/upgrade-to-angular-components/)
-
 ## CSS
  - [What’s New in Foundation 6?](http://www.sitepoint.com/whats-new-in-foundation-6/)
   -[Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
@@ -196,21 +192,6 @@ HTML 5 functionality
 ### Webpack
 - [Тестирование JS. Кармический Webpack](https://habrahabr.ru/company/rambler-co/blog/278503/)
 - [WebPack: как внутри устроено Hot Reloading](https://habrahabr.ru/company/Voximplant/blog/270593/)
-
-### :star: Gulp
-Build tool
-
- - [gulp-and-angularjs-](http://netengine.com.au/blog/gulp-and-angularjs-a-love-story-or-the-old-wheel-was-terrible-check-out-my-new-wheel)
- - [Быстрая разработка на 1С-Битрикс или как я познакомился с gulp, habr](http://habrahabr.ru/post/261467/)
- - [Ещё один пост о сборке front-end проекта ](http://habrahabr.ru/post/251807/)  
- - [Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://blog.rangle.io/angular-gulp-bestpractices/)
- - [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
- - [Ещё один пост о сборке front-end проекта](https://habrahabr.ru/post/251807/)
-
-### Gulp 4
- - [Migrating to gulp 4 by example](https://blog.wearewizards.io/migrating-to-gulp-4-by-example)
- - [How to install Gulp 4 before it's officially released](https://demisx.github.io/gulp4/2015/01/15/install-gulp4.html)
- - [Gulp 4 gulpfile.js](https://gist.github.com/demisx/beef93591edc1521330a)
 
 ### OFFLINE mode
  - store data in localstorage

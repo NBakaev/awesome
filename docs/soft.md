@@ -21,7 +21,6 @@
  - [pocket read it later](https://getpocket.com/)
  - [Plex: Your media on all your devices](https://plex.tv/)
  - [KeePass Password Safe](http://keepass.info/)
- - [An 'alt+space' launcher for Windows, built with Electron](https://github.com/appetizermonster/hain)
  - [nylas OSS - The best email app for sales professionals](https://www.nylas.com/)
  - [WebTorrent Desktop Streaming torrent app](https://webtorrent.io/desktop/)
  - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md)
@@ -42,11 +41,11 @@
 - [TeamViewer – решение для удалённого доступа и поддержки через Интернет](https://www.teamviewer.com/ru/)
 - [dexpot - VIRTUAL DESKTOP](http://dexpot.de/index.php?id=dexpot)
 - [ontopreplica](http://ontopreplica.codeplex.com/)
-- [mountain duck - Cyberduck for mounting volumes in the file explorer](https://mountainduck.io/)
 
 ## Development
 Tools for developers
 
+- [mountain duck - Cyberduck for mounting volumes in the file explorer](https://mountainduck.io/)
 - [Cyberduck - ftp/sftp/s3/webdav ... client](https://cyberduck.io/)
 - [WinSCP - ftp/sftp client](https://winscp.net/eng/docs/lang:ru)
 - [Chrome Canary (latest Night builds for developers) ](https://www.google.ru/chrome/browser/canary.html)
@@ -64,12 +63,15 @@ Find diff in text files, for example for git merge
  - [Araxis Merge - 2 and 3-way file comparison (diff)](http://www.araxis.com/merge/index.en)
 
 ### Database
+
+- [:star: dbeaver](https://dbeaver.io/)
 - [Navicat Premium - RDBMS database gui](http://www.navicat.com/products/navicat-premium)
 - [MongoChef - mongodb gui](http://3t.io/mongochef/)
 - [JetBrains DataGrip: Your Swiss Army Knife for Databases and SQL](https://www.jetbrains.com/datagrip/)
 
 ### IDE / Code editors
-- [Atom](https://atom.io/)
+
+- [Visual Studio Code](https://code.visualstudio.com)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Intellij idea](https://www.jetbrains.com/idea/)
 - [Sublime (and Atom) Snippets | Web Shows - Google Developers](https://developers.google.com/web/shows/ttt/series-2/sublime-snippet)
@@ -126,7 +128,6 @@ Web clients are better because SMTP is ugly, but...
 ## Virtualization
  - [VMware Workstation](http://www.vmware.com/ru/products/workstation)
  - [VirtualBox](https://www.virtualbox.org/)
- - [Vagrant](https://www.vagrantup.com/)
 
 ## Business Intelligence and Data Analysis and Visualization
  - [TIBCO Spotfire](http://spotfire.tibco.com/)
