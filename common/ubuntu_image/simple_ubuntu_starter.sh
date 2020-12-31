@@ -51,4 +51,4 @@ mkdir /etc/update-motd.d
 sudo systemctl stop motd-news
 sudo systemctl disable motd-news
 
-echo "### DONE "###"
+echo "### DONE ###"
