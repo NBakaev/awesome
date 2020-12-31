@@ -5,7 +5,7 @@ set -e
 
 # add docker repository
 sudo apt update
-sudo apt install apt-transport-https ca-certificates curl software-properties-common cifs-utils yum -y
+sudo apt install apt-transport-https ca-certificates curl software-properties-common cifs-utils -y
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
