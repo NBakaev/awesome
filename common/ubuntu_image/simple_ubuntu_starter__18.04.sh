@@ -3,12 +3,7 @@
 # fail execution on error
 set -e
 
-echo "#############"
-echo "### START ###"
-echo "#############"
-
-echo "1. add docker repository"
-
+# add docker repository
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common cifs-utils -y
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
@@ -16,18 +11,12 @@ sudo add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
    $(lsb_release -cs) \
    stable"
-sudo apt-add-repository universe
 sudo apt update
 
-echo "2. install docker"
-apt install docker-ce bridge-utils openssh-server unzip httpie socat python-pip-whl ncdu htop  -y
+# install docker
+apt install docker-ce bridge-utils curl openssh-server unzip httpie socat -y
 
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-ln /bin/python3 /bin/python
-python get-pip.py
-
-echo "3. enable swap with 4gb"
-
+# enable swap with 4gb
 sudo fallocate -l 4G /swapfile
 sudo chmod 600 /swapfile
 sudo mkswap /swapfile
@@ -36,7 +25,7 @@ free -m
 echo "/swapfile   none    swap    sw    0   0" >> /etc/fstab
 
 # micro - text editor https://github.com/zyedidia/micro
-echo "4. Installing micro - text editor..."
+echo "Installing micro - text editor..."
 MICRO_VERSION=2.0.8
 wget https://github.com/zyedidia/micro/releases/download/v${MICRO_VERSION}/micro-${MICRO_VERSION}-linux64.tar.gz
 tar -xvf micro-${MICRO_VERSION}-linux64.tar.gz
@@ -45,15 +34,15 @@ rm -rf ./micro-${MICRO_VERSION}
 
 # docker-compose
 DOCKER_COMPOSE_VERSION=1.27.4
-echo "5. Installing docker-compose..."
+echo "Installing docker-compose..."
 sudo curl -L "https://github.com/docker/compose/releases/download/$DOCKER_COMPOSE_VERSION/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 
-echo "6. Creating zsh aliases..."
+echo "Creating zsh aliases..."
 echo "\nalias d='docker'" >> $HOME/.zshrc
 echo "\nalias k='kubectl'" >> $HOME/.zshrc
 
-echo "7. Disable ubuntu telemetry and ssh login news..."
+echo "Disable ubuntu telemetry and ssh login news..."
 
 sudo sed -i "s/ENABLED=1/ENABLED=0/g" /etc/default/motd-news
 sudo apt purge -y ubuntu-report popularity-contest apport whoopsie
@@ -62,6 +51,4 @@ mkdir /etc/update-motd.d
 sudo systemctl stop motd-news
 sudo systemctl disable motd-news
 
-echo "############"
 echo "### DONE ###"
-echo "############"

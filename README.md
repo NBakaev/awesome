@@ -22,6 +22,7 @@ Tech articles connected with soft development
 - [Information Security](https://github.com/NBakaev/awesome/blob/master/docs/security.md)   
 - [Messengers, bots, calls](https://github.com/NBakaev/awesome/blob/master/docs/messengers_call.md)   
 - [C++](https://github.com/NBakaev/awesome/blob/master/docs/cpp.md)   
+- [OPS snippets](https://github.com/NBakaev/awesome/blob/master/docs/ops.md)   
 
 ### Business
 Articles connected with analytic, (internet) marketing, product development, team workflow, etc
